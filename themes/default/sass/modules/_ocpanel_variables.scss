@@ -1,0 +1,89 @@
+//
+// Variables
+// --------------------------------------------------
+
+
+//== Colors
+//
+//## Gray and brand colors for use across Bootstrap.
+
+$gray-base:             #000;
+$white:                 #ffffff;
+$custom-gray:           #2f353f;
+$custom-green:          #333A4C;
+$custom-green-dark:     #57893E;
+$custom-green-darker:   #30572A;
+$brand-primary:         #41bb19;
+$brand-secondary:       #1570a6;
+
+$material-blue:         #3F51B5;
+$material-green:        #009688;
+$material-red:          #f44336;
+$material-yellow:       #FF9800;
+
+$sidebar-bg:            #282C37;
+$sidebar-light:         lighten($sidebar-bg, 46.7%);
+$sidebar-lighter:       lighten($sidebar-bg, 93.5%);
+
+$sidebar-second-bg:     #1F222D;
+
+$white-darker:          lighten($sidebar-bg, 56.7%);
+$white-dark:            lighten($sidebar-bg, 93.5%);
+
+$panel-default-border:  rgba(0, 0, 0, 0.07);
+
+$font-family-sans-serif:  "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$font-family-serif:       Georgia, "Times New Roman", Times, serif !default;
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+$font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$font-family-base:        $font-family-sans-serif !default;
+
+//** Placeholder text color
+$font-size-base:          14px;
+//** Unit-less `line-height` for use in components like buttons.
+$line-height-base:        1.428571429; // 20/14
+//** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
+$line-height-computed:    floor(($font-size-base * $line-height-base)); // ~20px
+$padding-base-vertical:   6px;
+$input-color-placeholder: rgba(98, 98, 98, 0.55);
+//$input-height-base:       ($line-height-computed + ($padding-base-vertical * 2) + 13);
+
+$font-size-h5:            16px;
+
+$color-white: #fff;
+$color-black: #000;
+
+
+//== Scaffolding
+//
+//## Settings for some of the most global styles.
+
+//** Background color for `<body>`.
+$body-bg:               #FAFAFA;
+//** Global text color on `<body>`.
+$text-color:            #333333;
+//** Global lighter text color.
+$text-color-lighter:    #f2f6f9;
+
+
+//== Buttons
+//
+//## For each of Bootstrap's buttons, define text, background and border color.
+
+$btn-secondary-color:            #fff;
+$btn-secondary-bg:               $brand-secondary;
+$btn-secondary-border:           $brand-secondary;
+
+
+//== Forms
+//
+//##
+
+//** `<input>` border color
+$input-border:                   rgba(0, 0, 0, 0.07);
+
+$input-border-radius:            0;
+//** Large `.form-control` border radius
+$input-border-radius-large:      0;
+//** Small `.form-control` border radius
+$input-border-radius-small:      0;

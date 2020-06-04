@@ -1,0 +1,244 @@
+.description, .embedcode, .settingscode {
+	padding: 20px;
+}
+.embedcode textarea, .settingscode textarea {
+	width: 250px;
+	height: 100px;
+}
+#smallmenu {
+	float: right;
+	padding: 10px;
+	margin-top: 3px;
+}
+#smallmenu a {
+	background: #497CA7;
+	color: #FFF;
+	padding: 6px 8px;
+	border: 1px solid #26445F;
+	text-decoration: none;
+}
+footer {
+	text-align: center;
+	font-size: 0.8em;
+	padding: 10px;
+	color: #444;
+	background: url(bg.jpg);
+	border-top: 2px solid #DDD;
+}
+.totalp {
+	width: 100%;
+}
+#leftmenu {
+	padding: 20px;
+	list-style: none;
+	width: 250px;
+	position: fixed;
+	display: block;
+	left: 0px;
+	top: 30px;
+}
+#leftmenu li a {
+	padding: 10px 5px;
+	margin-bottom: 3px;
+	background-color: #FFF;
+	color: #444;
+	display: block;
+	text-decoration: none;
+}
+.setting-boxes {
+	padding: 10px;
+}
+/*#visualization,*/
+#js-settings-box-inner, #advanced-table {
+	padding: 10px;
+	background: #FFF;
+	border: 1px solid #DFDFDF;
+	border-top: none;
+	margin-bottom: 10px;
+}
+#default-settings td {
+	padding: 3px;
+	text-align: right;
+}
+.docontent {
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.map {
+	width: 620px;
+	float: left;
+	margin-bottom: 30px;
+	margin-right: 10px;
+	z-index: -1;
+}
+#map-settings td, #custom-action td {
+	padding: 5px;
+}
+#simple-table, #advanced-table {
+	margin-top: 11px;
+}
+#js-settings-box-inner {
+	margin-top: 10px;
+}
+.iwmsmall {
+	font-size: x-small;
+	color: #666666;
+	padding: 5px 5px 15px 0px;
+}
+#custom-action {
+	margin: 0px 0px 30px 0px;
+	display: none;
+	padding: 20px;
+	background-color: #fff;
+	padding: 10px;
+	border: 1px solid #DFDFDF;
+}
+#latlondiv {
+	margin: 0px 0px 30px 0px;
+	display: none;
+	padding: 20px;
+	background-color: #fff;
+	padding: 10px;
+	border: 1px solid #DFDFDF;
+}
+#js-settings-box {
+	padding-top: 20px;
+}
+.activeb {
+	border: 1px solid #DFDFDF;
+	border-bottom: none;
+	margin-bottom: -2px;
+	background-color: #FFF;
+	padding: 10px;
+	color: #000000;
+	cursor: pointer;
+	margin-left: 10px;
+	text-decoration: none;
+}
+.inactiveb {
+	background-color: #f5f5f5;
+	padding: 10px 10px 8px 10px;
+	color: #222222;
+	cursor: pointer;
+	margin-left: 10px;
+	border-bottom: #CCC;
+	text-decoration: none;
+}
+#custom-settings {
+}
+#load-settings {
+	display: none;
+}
+#help {
+	text-align: right;
+	float: right;
+	font-weight: bold;
+}
+#visualization {
+	background-color: #FFF;
+	padding: 10px;
+	border: 1px solid #DFDFDF;
+	margin-top: 10px;
+}
+textarea, input[type="text"], input[type="password"], input[type="file"], input[type="button"], input[type="submit"], input[type="reset"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="url"], select {
+	background-color: #FFFFFF;
+	border: 1px solid #DFDFDF;
+	color: #333333;
+	padding: 3px;
+}
+#clear, .clear {
+	clear: both;
+}
+#default-settings-table-add {
+	background-color: #f5f5f5;
+	padding: 10px;
+	margin-top: 20px;
+	border: 1px solid #DFDFDF;
+}
+#default-settings-table-add th {
+	text-align: left;
+}
+#advanced-table {
+	display: none;
+}
+#add-table-advanced {
+	padding: 10px;
+}
+#add-table-advanced textarea {
+	width: 90%;
+	height: 200px;
+}
+#default-settings-table input[type=text], #add-table input[type=text] {
+	width: 100px;
+}
+#default-settings-table th, #add-table th {
+	font-weight: bolder;
+	text-align: left;
+}
+.iwm-small-help {
+	color: #666;
+	font-style: italic;
+	font-size: 11px;
+}
+#add-table, #add-table-simple {
+	width: 100%;
+}
+#add-table textarea {
+	width: 100%;
+}
+.data-content-table {
+	width: 100%;
+	background-color: #FFF;
+	margin-top: 10px;
+}
+.data-content-table tr:nth-child(even) {
+	background-color: #EEE;
+}
+.data-content-table tr:nth-child(odd) {
+	background-color: #FFF;
+}
+.data-content-table td {
+	padding: 2px 10px;
+}
+.data-content-table th {
+	text-align: left;
+	padding: 10px;
+	background-color: #E5E3DC;
+}
+.deleteplace {
+	cursor: pointer;
+}
+.editing-map-entry tr {
+	border: 1px solid #F30;
+	background-color: #0099CC;
+	padding: 20px;
+}
+#iso-code-msg {
+	padding: 10px;
+	margin-bottom: 30px;
+	color: #333333;
+	font-style: italic;
+	display: block;
+	font-size: 0.9em;
+}
+.colorsample {
+	width: 20px;
+	height: 20px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	float: right;
+}
+#iwm-message-intro {
+	margin-top: 15px;
+	padding: 15px;
+	background-color: #f5f5f5;
+	border: 1px solid #DFDFDF;
+}
+#iwm-message-intro #shc {
+	font-weight: bold;
+	background-color: #FFFFFF;
+	padding: 5px;
+}
+circle {
+	cursor: pointer;
+}

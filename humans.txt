@@ -1,0 +1,28 @@
+/* TEAM */
+Founder: Chema Garrido.
+Site: http://garridodiaz.com/.
+Twitter: deambulando.
+Location: Barcelona, Spain.
+
+CEO: Marco Sanchez
+Location: Barcelona, Spain
+
+Developer: Oliver .
+Location: Mexico DF, Mexico.
+
+Developer: Xavi Arnau.
+Twitter: @Xav1Arnau.
+Location: Barcelona, Spain.
+
+Support: Constantinos Pantazis.
+Location: Nicosia, Cyprus.
+
+
+/* THANKS */
+Name: To everyone who ever helped us and to all the GPL community!
+
+/* SITE */
+Last update: 2015/04/22.
+Standards: HTML5, CSS3.
+Components: Twitter Bootstrap, jQuery.
+Software: Kohana, PHP, MySQL, Ubuntu, SublimeText.

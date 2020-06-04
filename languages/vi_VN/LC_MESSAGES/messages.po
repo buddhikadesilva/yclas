@@ -1,0 +1,2412 @@
+#: String 0
+msgid "Installation"
+msgstr "Cài Đặt"
+
+#: String 1
+msgid "Requirements"
+msgstr "Các Yêu Cầu"
+
+#: String 2
+msgid "Congratulations"
+msgstr "Chúc Mừng"
+
+#: String 3
+msgid "Installation done"
+msgstr "Cài Đặt Hoàn Tất"
+
+#: String 4
+msgid "Please now erase the folder"
+msgstr "Vui lòng xóa thư mục"
+
+#: String 5
+msgid "Go to Your Website"
+msgstr "Đi đến Website của bạn"
+
+#: String 6
+msgid "Make a donation"
+msgstr "Ủng hộ"
+
+#: String 7
+msgid "We really appreciate it"
+msgstr "Chân thành cám ơn"
+
+#: String 8
+msgid "Welcome to"
+msgstr "Chào mừng"
+
+#: String 9
+msgid "installation"
+msgstr "Cài đặt"
+
+#: String 10
+msgid "Welcome to the super easy and fast installation"
+msgstr "Chào mừng đến với quá trình cài đặt thật nhanh và dễ dàng"
+
+#: String 11
+msgid "If you need any help please check our professional services"
+msgstr "Nếu cần giúp đỡ vui lòng liên hệ với dịch vụ chuyên nghiệp của chúng tôi"
+
+#: String 12
+msgid "Site Configuration"
+msgstr "Cấu Hình Website"
+
+#: String 13
+msgid "Site Language"
+msgstr "Ngôn Ngữ"
+
+#: String 14
+msgid "Site URL"
+msgstr "Liên Kết Website"
+
+#: String 15
+msgid "Site Name"
+msgstr "Tên Website"
+
+#: String 16
+msgid "Time Zone"
+msgstr "Vùng Thời Gian"
+
+#: String 17
+msgid "New Install"
+msgstr "Cài Đặt Mới"
+
+#: String 18
+msgid "Upgrade System"
+msgstr "Nâng Cấp Hệ Thống"
+
+#: String 19
+msgid "Administrator email"
+msgstr "E-mail Quản Trị"
+
+#: String 20
+msgid "Admin Password"
+msgstr "Mật Khẩu Quản Trị"
+
+#: String 21
+msgid "Sample data"
+msgstr "Dữ liệu mẫu"
+
+#: String 22
+msgid "Creates few sample categories to start with"
+msgstr "Tạo một vài danh mục mẫu để bắt đầu sử dụng"
+
+#: String 23
+msgid "Hash Key"
+msgstr "Mã Khóa"
+
+#: String 24
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "Bạn cần Mã Khóa để cài đặt lại. Bạn có thể tìm lại giá trị này nếu bị mất."
+
+#: String 25
+msgid "Database Configuration"
+msgstr "Cấu Hình Cơ Sở Dữ Liệu"
+
+#: String 26
+msgid "Host name"
+msgstr "Tên Host"
+
+#: String 27
+msgid "User name"
+msgstr "Tên Đăng Nhập"
+
+#: String 28
+msgid "Password"
+msgstr "Mật Khẩu"
+
+#: String 29
+msgid "Database name"
+msgstr "Tên Cơ Sở Dữ Liệu"
+
+#: String 30
+msgid "Database charset"
+msgstr "Ký Tự Cơ Sở Dữ Liệu"
+
+#: String 31
+msgid "Table prefix"
+msgstr "Tiếp Đầu Ngữ của Bảng"
+
+#: String 32
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "Cho phép cài đặt nhiều phiên bản trên một cơ sở dữ liệu nếu bạn đặt mỗi phiên bản một tiếp đầu ngữ khác nhau"
+
+#: String 33
+msgid "Only numbers, letters, and underscores"
+msgstr "Chỉ chấp nhận số, ký tự, và dấu gạch dưới"
+
+#: String 34
+msgid "Install"
+msgstr "Cài Đặt"
+
+#: String 35
+msgid "Ocacu classifieds community registration"
+msgstr "Đăng ký cộng đồng rao vặt Ocacu"
+
+#: String 36
+msgid "Terms"
+msgstr "Điều Khoản"
+
+#: String 37
+msgid "Cannot connect to server"
+msgstr "Không thể kết nối đến máy chủ"
+
+#: String 38
+msgid "No database name was given"
+msgstr "Tên cơ sở dữ liệu chưa được đặt"
+
+#: String 39
+msgid "Available databases"
+msgstr "Các cơ sở dữ liệu chưa sẵn sàng"
+
+#: String 40
+msgid "Invalid query"
+msgstr "Truy vấn không hợp lệ"
+
+#: String 41
+msgid "Info"
+msgstr "Thông tin"
+
+#: String 42
+msgid "Warning"
+msgstr "Cảnh Báo"
+
+#: String 43
+msgid "Error"
+msgstr "Lỗi"
+
+#: String 44
+msgid "Success"
+msgstr "Thành Công"
+
+#: String 45
+msgid "Panel"
+msgstr "Bảng Điều Khiển"
+
+#: String 46
+msgid "New"
+msgstr "Mới"
+
+#: String 47
+msgid "Item created"
+msgstr "Mục đã được tạo"
+
+#: String 48
+msgid "Check form for errors"
+msgstr "Kiểm tra các lỗi trong mẫu"
+
+#: String 49
+msgid "Update"
+msgstr "Cập Nhật"
+
+#: String 50
+msgid "Item updated"
+msgstr "Mẫu đã được cập nhật"
+
+#: String 51
+msgid "Access not allowed"
+msgstr "Truy cập không được chấp nhận"
+
+#: String 52
+msgid "Home"
+msgstr "Trang Chủ"
+
+#: String 53
+msgid "all"
+msgstr "tất cả"
+
+#: String 54
+msgid "Page "
+msgstr "Trang"
+
+#: String 55
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Quảng cáo của bạn đã được kích hoạt thành công. Cám ơn!"
+
+#: String 56
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Quảng cáo của bạn đã được nhận, nhưng trước tiên cần được thông qua bởi người quản trị. Cám ơn"
+
+#: String 57
+msgid "Advanced Search"
+msgstr "Tìm Kiếm Nâng Cao"
+
+#: String 58
+msgid "We did not find any advertisements for your search."
+msgstr "Không tìm thấy quảng cáo nào cho tìm kiếm của bạn."
+
+#: String 59
+msgid "Contact Us"
+msgstr "Liên Lạc"
+
+#: String 60
+msgid "Your message has been sent"
+msgstr "Tin nhắn của bạn đã được gửi"
+
+#: String 61
+msgid "Message not sent"
+msgstr "Tin nhắn đã được gửi"
+
+#: String 62
+msgid "Check the form for errors"
+msgstr "Kiểm tra các lỗi trong mẫu"
+
+#: String 63
+msgid "You made some mistake"
+msgstr "Có vài lỗi"
+
+#: String 64
+msgid "Latest published"
+msgstr "Quảng cáo mới nhất"
+
+#: String 65
+msgid "Map"
+msgstr "Bản Đồ"
+
+#: String 66
+msgid "Publish new advertisement"
+msgstr "Tạo quảng cáo mới"
+
+#: String 67
+msgid "New profile has been created. Welcome "
+msgstr "Hồ sơ cá nhân mới đã được tạo. Chào mừng"
+
+#: String 68
+msgid "Some errors in the form"
+msgstr "Có vài lỗi trong mẫu"
+
+#: String 69
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Có lỗi khi tải hình ảnh lên. Kiểm tra định dạng hình"
+
+#: String 70
+msgid "Something went wrong with uploading pictures"
+msgstr "Có lỗi khi tải hình ảnh lên."
+
+#: String 71
+msgid "Advertisement is published. Congratulations!"
+msgstr "Quảng cáo đã được phát hành. Chúc mừng!"
+
+#: String 72
+msgid "Advertisement is created but needs to be validated first before it is published."
+msgstr "Quảng cáo đã được tạo nhưng cần được kiểm tra trước khi phát hành."
+
+#: String 73
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Quảng cáo đã được gửi nhưng trước tiên bạn cần kích hoạt. Vui lòng kiểm tra email!"
+
+#: String 74
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Quảng cáo đã được gửi. Chúc mừng!"
+
+#: String 75
+msgid "Captcha is not correct"
+msgstr "Chuỗi ký tự kiểm tra không đúng"
+
+#: String 76
+msgid "Advertisements"
+msgstr "Những mẫu quảng cáo"
+
+#: String 77
+msgid "Moderation"
+msgstr "Điều độ"
+
+#: String 78
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Bạn không có tin quảng cáo nào để quảng bá"
+
+#: String 79
+msgid "Warning, something went wrong while deleting"
+msgstr "Cảnh báo, có lỗi khi xóa"
+
+#: String 80
+msgid "Advertisement is deleted"
+msgstr "Tin quảng cáo đã được xóa"
+
+#: String 81
+msgid "You dont have permission to access this link"
+msgstr "Bạn không được phép truy cập liên kết này"
+
+#: String 82
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Cảnh báo, Quảng cáo đã được đánh dấu không phù hợp"
+
+#: String 83
+msgid "Advertisement is marked as spam"
+msgstr "Quảng cáo đã được đánh dấu không phù hợp"
+
+#: String 84
+msgid "Advertisement is deactivated"
+msgstr "Quảng cáo đã bị vô hiệu hóa"
+
+#: String 85
+msgid "Advertisement is active and published"
+msgstr "Quảng cáo đã kích hoạt và quảng bá"
+
+#: String 86
+msgid "Advertisement is featured"
+msgstr "Quảng cáo đặc trưng"
+
+#: String 87
+msgid "Wrong email or password"
+msgstr "Sai email hoặc mật khẩu"
+
+#: String 88
+msgid "Login"
+msgstr "Đăng Nhập"
+
+#: String 89
+msgid "Remember password"
+msgstr "Nhớ mật khẩu"
+
+#: String 90
+msgid "Email to recover password sent"
+msgstr "Email để lấy lại mật khẩu"
+
+#: String 91
+msgid "User not in database"
+msgstr "Người dùng không tồn tại trong cơ sở dữ liệu"
+
+#: String 92
+msgid "Email required"
+msgstr "Email bắt buộc"
+
+#: String 93
+msgid "User already exists"
+msgstr "Người dùng đã tồn tại"
+
+#: String 94
+msgid "Welcome!"
+msgstr "Chào Mừng!"
+
+#: String 95
+msgid "Passwords do not match"
+msgstr "Mật Khẩu không khớp"
+
+#: String 96
+msgid "Register new user"
+msgstr "Đăng ký người dùng mới"
+
+#: String 97
+msgid "Categories"
+msgstr "Những Danh Mục"
+
+#: String 98
+msgid "Saved"
+msgstr "Đã Lưu"
+
+#: String 99
+msgid "Category deleted"
+msgstr "Danh Mục đã xóa"
+
+#: String 100
+msgid "Category not deleted"
+msgstr "Danh Mục không được xóa"
+
+#: String 101
+msgid "Welcome"
+msgstr "Chào Mừng"
+
+#: String 102
+msgid "Locations"
+msgstr "Địa Điểm"
+
+#: String 103
+msgid "Location deleted"
+msgstr "Địa điểm đã được xóa"
+
+#: String 104
+msgid "Location not deleted"
+msgstr "Địa điểm không được xóa"
+
+#: String 105
+msgid "Market"
+msgstr "Chợ"
+
+#: String 106
+msgid "Newsletter"
+msgstr "Thư Tin Tức"
+
+#: String 107
+msgid "Error on mail delivery, not sent"
+msgstr "Lỗi khi gửi mail, không gửi"
+
+#: String 108
+msgid "Email sent to all the users"
+msgstr "Email đã được gửi đến tất cả người dùng"
+
+#: String 109
+msgid "Mail not sent"
+msgstr "Mail không được gửi"
+
+#: String 110
+msgid "Change password"
+msgstr "Đổi mật khẩu"
+
+#: String 111
+msgid "Password is changed"
+msgstr "Mật khẩu đã được thay đổi"
+
+#: String 112
+msgid "Nothing is provided"
+msgstr "Không cung cấp"
+
+#: String 113
+msgid "Edit profile"
+msgstr "Chỉnh sửa thông tin người dùng"
+
+#: String 114
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "New password is invalid, or they do not match! Please try again."
+
+#: String 115
+msgid "You have successfuly changed your data"
+msgstr "Bạn đã đổi dữ liệu thành công"
+
+#: String 116
+msgid "My Advertisement page "
+msgstr "Trang Quảng Cáo của tôi"
+
+#: String 117
+msgid "This is not your advertisement."
+msgstr "Đây không phải là quảng cáo của bạn"
+
+#: String 118
+msgid "Edit advertisement"
+msgstr "Chỉnh sửa tin quảng cáo"
+
+#: String 119
+msgid "Advertisement is updated!"
+msgstr "Quảng cáo đã được cập nhật!"
+
+#: String 120
+msgid "Advertisement is updated"
+msgstr "Quảng cáo đã được cập nhật"
+
+#: String 121
+msgid "Stats"
+msgstr "Thống Kê"
+
+#: String 122
+msgid "No Subscriptions"
+msgstr "Không Đăng Ký"
+
+#: String 123
+msgid "You are unsubscribed"
+msgstr "Bạn đã bỏ đăng ký"
+
+#: String 124
+msgid "Settings"
+msgstr "Cài Đặt"
+
+#: String 125
+msgid "Advertisement"
+msgstr "Tin Quảng Cáo"
+
+#: String 126
+msgid "Email"
+msgstr "E-mail"
+
+#: String 127
+msgid "Email Configuration updated"
+msgstr "Cấu Hình email đã cập nhật"
+
+#: String 128
+msgid "General"
+msgstr "Tổng Quát"
+
+#: String 129
+msgid "General Configuration updated"
+msgstr "Cấu Hình Tổng Quát đã cập nhật"
+
+#: String 130
+msgid "Payments"
+msgstr "Thanh Toán"
+
+#: String 131
+msgid "Themes"
+msgstr "Các Mẫu"
+
+#: String 132
+msgid "Theme Options"
+msgstr "Các Tùy Chọn Mẫu"
+
+#: String 133
+msgid "Theme configuration updated"
+msgstr "Cấu hình mẫu đã được cập nhật"
+
+#: String 134
+msgid "Appearance configuration updated"
+msgstr "Cấu hình hiển thị đã được cập nhật"
+
+#: String 135
+msgid "Mobile Theme updated"
+msgstr "Mẫu cho di động đã được cập nhật"
+
+#: String 136
+msgid "Tools"
+msgstr "Công Cụ"
+
+#: String 137
+msgid "Optimize DB"
+msgstr "Tối ưu hóa cơ sở dữ liệu"
+
+#: String 138
+msgid "Database Optimized"
+msgstr "Cơ sở dữ liệu đã được tối ưu hóa"
+
+#: String 139
+msgid "Cache"
+msgstr "Lưu"
+
+#: String 140
+msgid "All cache deleted"
+msgstr "Tất cả lưu đã xóa"
+
+#: String 141
+msgid "Deleted expired cache"
+msgstr "Đã xóa lưu hết hạn"
+
+#: String 142
+msgid "PHP Info"
+msgstr "Thông tin PHP"
+
+#: String 143
+msgid "System logs"
+msgstr "Hệ thống bảng ghi"
+
+#: String 144
+msgid "Sitemap"
+msgstr "Bản đồ website"
+
+#: String 145
+msgid "Sitemap Configuration updated"
+msgstr "Cấu hình bản đồ website đã được cập nhật"
+
+#: String 146
+msgid "Open Classifieds migration"
+msgstr "Di dời Open Classifieds"
+
+#: String 147
+msgid "Migration"
+msgstr "Di Dời"
+
+#: String 148
+msgid "Database cleaned"
+msgstr "Database cleaned"
+
+#: String 149
+msgid "Review database connection parameters"
+msgstr "Xem xét lại các thông số kết nối cơ sở dữ liệu"
+
+#: String 150
+msgid "seconds"
+msgstr "giây"
+
+#: String 151
+msgid "Translations"
+msgstr "Dịch"
+
+#: String 152
+msgid "List"
+msgstr "Liệt kê"
+
+#: String 153
+msgid "Edit Translation"
+msgstr "Chỉnh sửa bản dịch"
+
+#: String 154
+msgid "Language saved"
+msgstr "Ngôn ngữ đã được lưu"
+
+#: String 155
+msgid "Updates"
+msgstr "Cập Nhật"
+
+#: String 156
+msgid "You are not using latest version of OC, please update."
+msgstr "Bạn không sử dụng phiên bản mới nhất của OC, vui lòng cập nhật"
+
+#: String 157
+msgid "Updated"
+msgstr "Đã cập nhật"
+
+#: String 158
+msgid "Nothing to Update"
+msgstr "Không cập nhật gì"
+
+#: String 159
+msgid "Widgets"
+msgstr "Widgets"
+
+#: String 160
+msgid "Widget parameter missing"
+msgstr "Thiếu thông số Widgets"
+
+#: String 161
+msgid "Advertisement to top"
+msgstr "Đặt Quảng cáo lên đầu"
+
+#: String 162
+msgid "Advertisement to featured"
+msgstr "Đặt quảng cáo đặc trưng"
+
+#: String 163
+msgid " category"
+msgstr "danh mục"
+
+#: String 164
+msgid "Order could not be loaded"
+msgstr "Đặt hàng không tải được"
+
+#: String 165
+msgid "Thank you for subscribing"
+msgstr "Cám ơn đã đăng ký"
+
+#: String 166
+msgid "User Profile"
+msgstr "Thông Tin Người Dùng"
+
+#: String 167
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Bạn đang ở chế độ bảo trì, chỉ có bạn mới xem được website"
+
+#: String 168
+msgid "User"
+msgstr "Người Dùng"
+
+#: String 169
+msgid "Category"
+msgstr "Danh Mục"
+
+#: String 170
+msgid "Location"
+msgstr "Địa điểm"
+
+#: String 171
+msgid "Type"
+msgstr "Loại"
+
+#: String 172
+msgid "Title"
+msgstr "Tựa Đề"
+
+#: String 173
+msgid "SEO title"
+msgstr "Tựa đề SEO"
+
+#: String 174
+msgid "Description"
+msgstr "Mô Tả"
+
+#: String 175
+msgid "Address"
+msgstr "Địa Chỉ"
+
+#: String 176
+msgid "Price"
+msgstr "Giá"
+
+#: String 177
+msgid "Phone"
+msgstr "Điện Thoại"
+
+#: String 178
+msgid "Ip address"
+msgstr "Địa chỉ IP"
+
+#: String 179
+msgid "Created"
+msgstr "Đã Tạo"
+
+#: String 180
+msgid "Published"
+msgstr "Đã Quảng Bá"
+
+#: String 181
+msgid "Status"
+msgstr "Trạng Thái"
+
+#: String 182
+msgid "Has images"
+msgstr "Có vài hình"
+
+#: String 183
+msgid "Id"
+msgstr "Id"
+
+#: String 184
+msgid "Name"
+msgstr "Tên"
+
+#: String 185
+msgid "Order"
+msgstr "Đặt Hàng"
+
+#: String 186
+msgid "Parent"
+msgstr "Nguồn Gốc"
+
+#: String 187
+msgid "Parent deep"
+msgstr "Nguồn Gốc Chính"
+
+#: String 188
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 189
+msgid "Role"
+msgstr "Vai Trò"
+
+#: String 190
+msgid "Last modified"
+msgstr "Lần cuối chỉnh sửa"
+
+#: String 191
+msgid "Last login"
+msgstr "Lần cuối đăng nhập"
+
+#: String 192
+msgid "No sitemap generated"
+msgstr "Không có bản đồ website được sinh ra"
+
+#: String 193
+msgid "# items to display"
+msgstr "Số lượng hiển thị"
+
+#: String 194
+msgid "publish new"
+msgstr "Quảng bá mới"
+
+#: String 195
+msgid "search"
+msgstr "Tìm Kiếm"
+
+#: String 196
+msgid "contact"
+msgstr "liên lạc"
+
+#: String 197
+msgid "map"
+msgstr "bản đồ"
+
+#: String 198
+msgid "maintenance"
+msgstr "bảo trì"
+
+#: String 199
+msgid "Hello, world"
+msgstr "Chào, thế giới"
+
+#: String 200
+msgid "Benchmark"
+msgstr "Điểm Chuẩn"
+
+#: String 201
+msgid "Application Execution"
+msgstr "Ứng Dụng Thực Thi"
+
+#: String 202
+msgid "Submit"
+msgstr "Gửi"
+
+#: String 203
+msgid "Other"
+msgstr "Khác"
+
+#: String 204
+msgid "First"
+msgstr "Đầu Tiên"
+
+#: String 205
+msgid "Previous"
+msgstr "Lùi"
+
+#: String 206
+msgid "Next"
+msgstr "Tới"
+
+#: String 207
+msgid "Last"
+msgstr "Cuối Cùng"
+
+#: String 208
+msgid "Ads"
+msgstr "Những quảng cáo"
+
+#: String 209
+msgid "Ads reader"
+msgstr "Người xem quảng cáo"
+
+#: String 210
+msgid "Type ads to display"
+msgstr "Loại quảng cáo hiển thị"
+
+#: String 211
+msgid "Latest Ads"
+msgstr "Những quảng cáo mới nhất"
+
+#: String 212
+msgid "Popular Ads last month"
+msgstr "Những quảng cáo phổ biến tháng trước"
+
+#: String 213
+msgid "Featured Ads"
+msgstr "Những Quảng Cáo Đặc Trưng"
+
+#: String 214
+msgid "Number of ads to display"
+msgstr "Số lượng quảng cáo hiển thị"
+
+#: String 215
+msgid "Ads title displayed"
+msgstr "Những tựa quảng cáo hiển thị"
+
+#: String 216
+msgid "Display categories"
+msgstr "Hiển thị các danh mục"
+
+#: String 217
+msgid "Categories title displayed"
+msgstr "Các tựa danh mục hiển thị"
+
+#: String 218
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 219
+msgid "Add latest comments"
+msgstr "Thêm những nhận xét mới nhất"
+
+#: String 220
+msgid "Comments"
+msgstr "Những Nhận Xét"
+
+#: String 221
+msgid "Title displayed"
+msgstr "Hiển thị tựa đề"
+
+#: String 222
+msgid "Number of comments to display"
+msgstr "Số lượng nhận xét hiển thị"
+
+#: String 223
+msgid "Display Locations"
+msgstr "Hiện Địa Điểm"
+
+#: String 224
+msgid "Locations title displayed"
+msgstr "Đia điểm đã hiển thị"
+
+#: String 225
+msgid "Google Maps with ads"
+msgstr "Bản đồ Google với quảng cáo"
+
+#: String 226
+msgid "Map title displayed"
+msgstr "Bản đồ đã hiển thị"
+
+#: String 227
+msgid "Map height in pixels"
+msgstr "Chiều cao bản đồ"
+
+#: String 228
+msgid "Zoom in the map"
+msgstr "Phóng to bản đồ"
+
+#: String 229
+msgid "Pages"
+msgstr "Các Trang"
+
+#: String 230
+msgid "Display CMS pages"
+msgstr "Hiện các trang CMS"
+
+#: String 231
+msgid "Page title displayed"
+msgstr "Các trang đã hiển thị"
+
+#: String 232
+msgid "RSS"
+msgstr "RSS"
+
+#: String 233
+msgid "RSS reader with cache"
+msgstr "Đọc RSS với lưu"
+
+#: String 234
+msgid "Number items to display"
+msgstr "Số lượng hiển thị"
+
+#: String 235
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Bao lâu sẽ tải lại RSS, giây"
+
+#: String 236
+msgid "RSS url address"
+msgstr "Những địa chỉ của RSS"
+
+#: String 237
+msgid "RSS title displayed"
+msgstr "RSS đã hiển thị"
+
+#: String 238
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: String 239
+msgid "Share on social networks."
+msgstr "Chia sẻ trên mạng xã hội"
+
+#: String 240
+msgid "Display site stats"
+msgstr "Hiện thống kê website"
+
+#: String 241
+msgid "Subscribe"
+msgstr "Đăng ký"
+
+#: String 242
+msgid "Subscribe for categories"
+msgstr "Đăng ký theo các danh mục"
+
+#: String 243
+msgid "FALSE"
+msgstr "SAI"
+
+#: String 244
+msgid "TRUE"
+msgstr "ĐÚNG"
+
+#: String 245
+msgid "Subscribe title displayed"
+msgstr "Đăng ký đã hiển thị"
+
+#: String 246
+msgid "Minimum Price"
+msgstr "Giá Thấp Nhất"
+
+#: String 247
+msgid "0"
+msgstr "0"
+
+#: String 248
+msgid "Maximum Price"
+msgstr "Giá Cao Nhất"
+
+#: String 249
+msgid "1000"
+msgstr "1000"
+
+#: String 250
+msgid "Increment Step"
+msgstr "Bước Tăng"
+
+#: String 251
+msgid "100"
+msgstr "100"
+
+#: String 252
+msgid "Text"
+msgstr "Chữ"
+
+#: String 253
+msgid "HTML textarea"
+msgstr "HTML vùng chữ"
+
+#: String 254
+msgid "Text title displayed"
+msgstr "Chữ đã được hiển thị"
+
+#: String 255
+msgid "HTML/text content here"
+msgstr "HTML/chữ nội dung ở đây"
+
+#: String 256
+msgid "views"
+msgstr "lượt xem"
+
+#: String 257
+msgid "ads"
+msgstr "những quảng cáo"
+
+#: String 258
+msgid "users"
+msgstr "người dùng"
+
+#: String 259
+msgid "Unsubscribe"
+msgstr "Hủy đăng ký"
+
+#: String 260
+msgid "Environment"
+msgstr "Môi trường"
+
+#: String 261
+msgid "Included files"
+msgstr "Các tập tin bao gồm"
+
+#: String 262
+msgid "Loaded extensions"
+msgstr "Những phần mở rộng được tải"
+
+#: String 263
+msgid "Change the admin color theme"
+msgstr "Đổi màu mẫu quản trị"
+
+#: String 264
+msgid "Header tool bar gets fixed in the top"
+msgstr "Gắn thanh công cụ đầu lên trên"
+
+#: String 265
+msgid "Yes"
+msgstr "Vâng"
+
+#: String 266
+msgid "No"
+msgstr "Không"
+
+#: String 267
+msgid "Display breadcrumb"
+msgstr "Hiện chuỗi vị trí"
+
+#: String 268
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL logo của bạn. Kích thước đề xuất 250px x 40px. Bỏ trống nếu không cần"
+
+#: String 269
+msgid "Short description that appears after the site name."
+msgstr "Mô tả ngắn xuất hiện sau tên website"
+
+#: String 270
+msgid "Numbers of ads to display in home slider"
+msgstr "Số lượng quảng cáo hiển thị ở thanh trượt trang chủ"
+
+#: String 271
+msgid "Where you want the sidebar to appear"
+msgstr "Bạn muốn thanh bên xuất hiện ở đâu"
+
+#: String 272
+msgid "Right side"
+msgstr "Bên phải"
+
+#: String 273
+msgid "Left side"
+msgstr "Bên trái"
+
+#: String 274
+msgid "Display slider in listing"
+msgstr "Hiện thanh trượt trong danh sách liệt kê"
+
+#: String 275
+msgid "Header banner, allows HTML"
+msgstr "Biểu ngữ trên, cho phép HTML"
+
+#: String 276
+msgid "Footer banner, allows HTML"
+msgstr "Biểu ngữ dưới, cho phép HTML"
+
+#: String 277
+msgid "Listing random position banner, allows HTML"
+msgstr "Liệt kê ngẫu nhiên vị tri biểu ngữ, cho phép HTML"
+
+#: String 278
+msgid "Mobile Version"
+msgstr "Phiên Bản Di Động"
+
+#: String 279
+msgid "Listing"
+msgstr "Liệt Kê"
+
+#: String 280
+msgid "Search"
+msgstr "Tìm Kiếm"
+
+#: String 281
+msgid "Publish new "
+msgstr "Quảng bá mới"
+
+#: String 282
+msgid "Forgot password"
+msgstr "Quên mật khẩu"
+
+#: String 283
+msgid "Register"
+msgstr "Đăng Ký"
+
+#: String 284
+msgid "New Advertisement"
+msgstr "Tin Quảng Cáo Mới"
+
+#: String 285
+msgid "Featured"
+msgstr "Đặc Trưng"
+
+#: String 286
+msgid "Publish Date"
+msgstr "Ngày Công Bố"
+
+#: String 287
+msgid "Read more"
+msgstr "Xem thêm"
+
+#: String 288
+msgid "Edit"
+msgstr "Chỉnh Sửa"
+
+#: String 289
+msgid "Deactivate?"
+msgstr "Vô hiệu hóa?"
+
+#: String 290
+msgid "Deactivate"
+msgstr "Vô hiệu hóa"
+
+#: String 291
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 292
+msgid "Spam"
+msgstr "Rác"
+
+#: String 293
+msgid "Delete?"
+msgstr "Xóa?"
+
+#: String 294
+msgid "Delete"
+msgstr "Xóa"
+
+#: String 295
+msgid "We do not have any advertisements in this category"
+msgstr "Chúng ta không có bất kỳ tin quảng cáo nào trong danh mục này"
+
+#: String 296
+msgid "Change the color scheme and style of the theme"
+msgstr "Đổi màu và loại của mẫu"
+
+#: String 297
+msgid "Publish new"
+msgstr "Công bố mới"
+
+#: String 298
+msgid "Contact"
+msgstr "Liên Lạc"
+
+#: String 299
+msgid "Hits"
+msgstr "Nhấn"
+
+#: String 300
+msgid "Buy Now"
+msgstr "Mua Ngay"
+
+#: String 301
+msgid "Send Message"
+msgstr "Gửi Tin Nhắn"
+
+#: String 302
+msgid "Subject"
+msgstr "Tựa"
+
+#: String 303
+msgid "Message"
+msgstr "Tin Nhắn"
+
+#: String 304
+msgid "File"
+msgstr "Tập Tin"
+
+#: String 305
+msgid "Captcha"
+msgstr "Chuỗi kiểm tra"
+
+#: String 306
+msgid "Actions"
+msgstr "Hành Động"
+
+#: String 307
+msgid "Are you sure you want to delete?"
+msgstr "Bạn chắc chắn muốn xóa"
+
+#: String 308
+msgid "Page"
+msgstr "Trang"
+
+#: String 309
+msgid "Thanks for using our website."
+msgstr "Cám ơn vì đã sử dụng webite của chúng tôi."
+
+#: String 310
+msgid "Thanks for using Open Classifieds."
+msgstr "Cám ơn vì đã sử dụng Open Classifieds."
+
+#: String 311
+msgid "Your installation version is"
+msgstr "Phiên bản cài đặt của bạn là"
+
+#: String 312
+msgid "Check for updates"
+msgstr "Kiểm tra để nâng cấp"
+
+#: String 313
+msgid "Latest News"
+msgstr "Tin Tức Mới Nhất"
+
+#: String 314
+msgid "Unavailable"
+msgstr "Không Tồn Tại"
+
+#: String 315
+msgid "Unconfirmed"
+msgstr "Chưa Xác Nhận"
+
+#: String 316
+msgid "Spam Sort"
+msgstr "Loại Thư Rác"
+
+#: String 317
+msgid "Unavailable Sort"
+msgstr "Loại Không Tồn Tại"
+
+#: String 318
+msgid " Unavailable"
+msgstr "Không tồn tại"
+
+#: String 319
+msgid "Unconfirmed Sort"
+msgstr "Loại Chưa Xác Nhận"
+
+#: String 320
+msgid " Unconfirmed"
+msgstr "Chưa Xác Nhận"
+
+#: String 321
+msgid "Date"
+msgstr "Ngày"
+
+#: String 322
+msgid "Activate?"
+msgstr "Kích Hoạt?"
+
+#: String 323
+msgid "Activate"
+msgstr "Kích Hoạt"
+
+#: String 324
+msgid "Are you sure you want to make it featured?"
+msgstr "Bạn có chắc chắn muốn cài quảng cáo đặc trưng?"
+
+#: String 325
+msgid "Not published"
+msgstr "Không quảng bá"
+
+#: String 326
+msgid "Make featured?"
+msgstr "Cài đặc trưng?"
+
+#: String 327
+msgid "Deactivate featured?"
+msgstr "Vô hiệu đặc trưng?"
+
+#: String 328
+msgid "Deactivate Featured"
+msgstr "Vô hiệu đặc trưng"
+
+#: String 329
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Bạn có chắc chắn muốn vô hiệu đặc trưng của tin quảng cáo?"
+
+#: String 330
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Thay đổi vị trí sắp xếp của các danh mục. Nên nhớ rằng hơn 2 cấp lồng nhau sẽ không hiển thị (không được đề nghị)"
+
+#: String 331
+msgid "New category"
+msgstr "Danh mục mới"
+
+#: String 332
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Bạn có chắc chắn muốn xóa? Các danh mục cùng cấp và quảng cáo sẽ được di chuyển đến danh mục cha của danh mục này"
+
+#: String 333
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Đổi thứ tự vị trí của bạ. Nên nhớ rằng hơn 2 cấp lồng nhau sẽ không được hiển thị (không được đề xuất)."
+
+#: String 334
+msgid "New location"
+msgstr "Vị trí mới"
+
+#: String 335
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Bạn có chắc chắn muốn xóa? Những vị trí cùng cấp và tin quảng cáo sẽ được di chuyển đến vị trí cha của vị trí này."
+
+#: String 336
+msgid "Selection of nice extras for your installation."
+msgstr "Lựa chọn những tính năng bổ sung cho cài đặt của bạn."
+
+#: String 337
+msgid "More info"
+msgstr "Thêm thông tin"
+
+#: String 338
+msgid "Limited Offer!"
+msgstr "Cung Cấp Hạn Chế!"
+
+#: String 339
+msgid "Valid Until"
+msgstr "Có Giá Trị Đến"
+
+#: String 340
+msgid "Preview"
+msgstr "Xem Lại"
+
+#: String 341
+msgid "Email Settings"
+msgstr "Cài Đặt Email"
+
+#: String 342
+msgid "You can send a mass email to all active users."
+msgstr "Bạn có thể gửi một lượng lớn email đến tất cả những người dùng hiện tại."
+
+#: String 343
+msgid "From"
+msgstr "Từ"
+
+#: String 344
+msgid "From Email"
+msgstr "Từ Email"
+
+#: String 345
+msgid "Cancel"
+msgstr "Hủy"
+
+#: String 346
+msgid "Send"
+msgstr "Gửi"
+
+#: String 347
+msgid "Advertisement Configuration"
+msgstr "Cấu Hình Tin Quảng Cáo"
+
+#: String 348
+msgid "Number of images"
+msgstr "Số Lượng Hình Ảnh"
+
+#: String 349
+msgid "Number of images displayed"
+msgstr "Số lượng hình ảnh hiển thị"
+
+#: String 350
+msgid "Ad expiration date"
+msgstr "Ngày hết hạn quảng cáo"
+
+#: String 351
+msgid "Expire days"
+msgstr "Ngày hết hạn"
+
+#: String 352
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Sau bao nhiêu ngày Quảng Cáo sẽ hết hạn. 0 để không hết hạn"
+
+#: String 353
+msgid "Days"
+msgstr "Ngày"
+
+#: String 354
+msgid "Advertisements in home"
+msgstr "Những Quảng Cáo ở trang chủ"
+
+#: String 355
+msgid "You can choose what ads you want to display in home."
+msgstr "Bạn có thể chọn quảng cáo hiển thị ở trang chủ"
+
+#: String 356
+msgid "Address field"
+msgstr "Địa chỉ"
+
+#: String 357
+msgid "Displays the field Address in the Ad form."
+msgstr "Hiển thị Địa Chỉ ở mẫu Quảng Cáo"
+
+#: String 358
+msgid "Google Maps in Ad"
+msgstr "Bản Đồ Google trong Quảng Cáo"
+
+#: String 359
+msgid "Displays the google maps in the Ad."
+msgstr "Hiển thị bản đồ google trong Quảng Cáo."
+
+#: String 360
+msgid "Phone field"
+msgstr "Điện thoại"
+
+#: String 361
+msgid "Displays the field Phone in the Ad form."
+msgstr "Hiển thị Điện Thoại trong mẫu Quảng Cáo"
+
+#: String 362
+msgid "Website"
+msgstr "Website"
+
+#: String 363
+msgid "Website field"
+msgstr "Lĩnh vực website"
+
+#: String 364
+msgid "Displays the field Website in the Ad form."
+msgstr "Hiển thị vùng Website trong mẫu Quảng Cáo."
+
+#: String 365
+msgid "Displays location select"
+msgstr "Hiển thị vùng được chọn"
+
+#: String 366
+msgid "Displays the Select Location in the Ad form."
+msgstr "Hiển thị Vùng Chọn trong mẫu Quảng Cáo."
+
+#: String 367
+msgid "Price field"
+msgstr "Lĩnh vực giá"
+
+#: String 368
+msgid "Displays the field Price in the Ad form."
+msgstr "Hiển thị ô Giá trong mẫu Quảng Cáo."
+
+#: String 369
+msgid "Upload file"
+msgstr "Tải tập tin lên"
+
+#: String 370
+msgid "Enables Captcha"
+msgstr "Cho phép Chuỗi Xác Nhận"
+
+#: String 371
+msgid "Captcha appears in the form."
+msgstr "Chuỗi Xác Nhận xuất hiện trong mẫu."
+
+#: String 372
+msgid "Contact form"
+msgstr "Mẫu liên lạc"
+
+#: String 373
+msgid "Enables Contact Form"
+msgstr "Cho Phép Mẫu Liên Lạc"
+
+#: String 374
+msgid "Contact form appears int he ad."
+msgstr "Mẫu liên lạc xuất hiện trong quảng cáo."
+
+#: String 375
+msgid "Deactivated"
+msgstr "Vô Hiệu Hóa"
+
+#: String 376
+msgid "Terms of Service"
+msgstr "Điều khoản Dịch Vụ"
+
+#: String 377
+msgid "Disqus Comments"
+msgstr "Nhận Xét"
+
+#: String 378
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Bạn cần viết ID để cho phép dịch vụ."
+
+#: String 379
+msgid "Email Configuration"
+msgstr "Cấu Hình Email"
+
+#: String 380
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Liệt kê giá trị cấu hình chung. Thay thế giá trị nhập vào bằng giá trị mong muốn"
+
+#: String 381
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Nếu bạn cần gửi nhiều email với mức độ gửi cao"
+
+#: String 382
+msgid "Notify email"
+msgstr "Email nhắc nhở"
+
+#: String 383
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "Email từ nơi chúng tôi gửi thư điện tử, cũng được sử dụng cho phần mềm truyền thông."
+
+#: String 384
+msgid "Email From"
+msgstr "Email đến"
+
+#: String 385
+msgid "Smtp active"
+msgstr "Hoạt động Smtp "
+
+#: String 386
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 387
+msgid "Smtp host"
+msgstr "Máy chủ Smtp"
+
+#: String 388
+msgid "Smtp port"
+msgstr "Cổng Smtp"
+
+#: String 389
+msgid "Smtp auth"
+msgstr "Thẩm định Smtp"
+
+#: String 390
+msgid "Smtp user"
+msgstr "Người dùng Smtp"
+
+#: String 391
+msgid "Smtp password"
+msgstr "Mật khẩu Smtp"
+
+#: String 392
+msgid "General Configuration"
+msgstr "Cấu hình chung"
+
+#: String 393
+msgid "General site settings."
+msgstr "Thiết lập trang web nói chung."
+
+#: String 394
+msgid "All configurations"
+msgstr "Tất cả các cấu hình"
+
+#: String 395
+msgid "Maintenance Mode"
+msgstr "Chế độ bảo trì"
+
+#: String 396
+msgid "Enables the site to maintenance"
+msgstr "Cho phép bảo trì các trang web"
+
+#: String 397
+msgid "Site name"
+msgstr "Tên trang web"
+
+#: String 398
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Ở đây bạn có thể khai báo tên hiển thị của bạn được xem bởi tất cả mọi người!"
+
+#: String 399
+msgid "Site description"
+msgstr "mô tả trang web"
+
+#: String 400
+msgid "Base URL"
+msgstr "Cơ sở URL"
+
+#: String 401
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "Có phải là đường dẫn cơ sở của site của bạn (ví dụ http://open-clasìieds.com/). Mọi thứ sẽ được xây dựng dựa trên thông tin trên vùng này."
+
+#: String 402
+msgid "Base URL path"
+msgstr "Đường dẫn cơ sở URL"
+
+#: String 403
+msgid "Moderation controls"
+msgstr "Những điều khiển điều độ"
+
+#: String 404
+msgid "Global currency"
+msgstr "Tiền tệ quốc tế"
+
+#: String 405
+msgid "Global currency is country specific. There are no restrictions, this is only to declare currency for advertisements. Note: This is different from payment currencies. "
+msgstr "Tiền tệ quố tế là quốc gia đặc thù. Không có giới hạn, đây chỉ là khai báo loại tiền tệ cho những tin quảng cáo. Chú ý: Cái này khác với tiền tệ thanh toán."
+
+#: String 406
+msgid "Country specific currency"
+msgstr "Đơn vị tiền tệ quốc gia"
+
+#: String 407
+msgid "Advertisements per page"
+msgstr "Quảng cáo trên  1 trang"
+
+#: String 408
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Cái này dùng để điều khiển số lượng bao nhiêu tin quảng cáo được hiển thị mỗi trang. Nhập vào số giới hạn là số nguyên"
+
+#: String 409
+msgid "Number of ads per page"
+msgstr "Số lượng quảng cáo trên 1 trang"
+
+#: String 410
+msgid "Advertisements in RSS"
+msgstr "Quảng cáo trên RSS"
+
+#: String 411
+msgid "Number of Ads"
+msgstr "Số lượng quảng cáo"
+
+#: String 412
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Có bao nhiêu quảng cáo đang xuất hiện trên RSS tại trang web của bạn  "
+
+#: String 413
+msgid "Advertisements in Map"
+msgstr "Quang cáo trang bản đồ"
+
+#: String 414
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Có bao nhiêu quảng cáo xuất hiện trông bản đồ tại trang Ưeb của bại"
+
+#: String 415
+msgid "Number format"
+msgstr "Định dạng số"
+
+#: String 416
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Định dạng số là bạn muốn hiển thị số như thế nào liên quan đến những tin quảng cáo. Đặc thù cho giá của quảng cáo. Mỗi quốc gia có một cách riêng để hiển thị số lẻ."
+
+#: String 417
+msgid "Decimal representation"
+msgstr "Hiển thị số lẻ"
+
+#: String 418
+msgid "Date format"
+msgstr "Định dạng ngày"
+
+#: String 419
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Mỗi mẫu quảng cáo có một ngày công bố. Bằng cách chọn định dạng này, bạn có thể thay đổi nó sẽ hiển thị trên website như thế nào."
+
+#: String 420
+msgid "Analytics"
+msgstr "Phân tích"
+
+#: String 421
+msgid "Allowed image formats"
+msgstr "Những định dạng hình ảnh được cho phép"
+
+#: String 422
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Cài đặt phần này để giới hạn định dạng hình ảnh tải lên máy chủ của bạn."
+
+#: String 423
+msgid "Max image size"
+msgstr "Kích thước hình ảnh tối đa"
+
+#: String 424
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Kiểm soát kích thước hình ảnh được tải lên. Nhập vào một số nguyên để thiết đặt kích thước hình ảnh tối đa bằng megabytes (Mb)."
+
+#: String 425
+msgid "Image size in mega bites(Mb)"
+msgstr "Kích thước hình ảnh megabytes (Mb)"
+
+#: String 426
+msgid "Image height"
+msgstr "Chiều cao hình"
+
+#: String 427
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Mỗi hình ảnh được đo kích thước khi tải lên. Đây là chiều cao của hinh ảnh lớn. Chú ý: bạn có thể bỏ trống ô này để cài đặt kích thước chiều cao Tự Động."
+
+#: String 428
+msgid "Image height in pixels(px)"
+msgstr "Chiều cao hình đo bằng đơn vị điểm ảnh (px)"
+
+#: String 429
+msgid "Image width"
+msgstr "Chiều ngang hình"
+
+#: String 430
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Mỗi hình ảnh được đo kích thước khi tải lên. Đây là chiều ngang của hinh ảnh lớn."
+
+#: String 431
+msgid "Image width in pixels(px)"
+msgstr "Chiều ngang hình đo bằng đơn vị điểm ảnh (px)"
+
+#: String 432
+msgid "Thumb height"
+msgstr "Chiều cao hình minh họa"
+
+#: String 433
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "Hình minh họa là hình có kích thước nhỏ phù hợp với khung hình. Đây là chiều cao của hình minh họa."
+
+#: String 434
+msgid "Thumb height in pixels(px)"
+msgstr "Chiều cao hình minh họa đo bằng đơn vị điểm ảnh (px)"
+
+#: String 435
+msgid "Thumb width"
+msgstr "Chiều ngang hình minh họa"
+
+#: String 436
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Hình minh họa là hình có kích thước nhỏ phù hợp với khung hình. Đây là chiều ngang của hình minh họa."
+
+#: String 437
+msgid "Thumb width in pixels(px)"
+msgstr "Chiều ngang hình minh họa đo bằng đơn vị điểm ảnh (px)"
+
+#: String 438
+msgid "Image quality"
+msgstr "Chất lượng hình ảnh"
+
+#: String 439
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Chọn chất lượng của những hình ảnh đã lưu (1-100% của hình gốc)."
+
+#: String 440
+msgid "Image Quality"
+msgstr "Chất Lượng Hình Ảnh"
+
+#: String 441
+msgid "Watermark"
+msgstr "Hình Nền Mờ"
+
+#: String 442
+msgid "Appends watermark to images"
+msgstr "Gắn hình nền mờ vào hình ảnh"
+
+#: String 443
+msgid "Watermark path"
+msgstr "Đường dẫn hình nền mờ"
+
+#: String 444
+msgid "Watermark position"
+msgstr "Vị trí hình nền mờ"
+
+#: String 445
+msgid "Watermark possition"
+msgstr "Vị trí hình nền mờ"
+
+#: String 446
+msgid "Payments Configuration"
+msgstr "Cấu Hình Thanh Toán"
+
+#: String 447
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Liệt kê các giá trị cấu hình thanh toán. Thay thế giá trị trong ô bằng giá trị mong muốn."
+
+#: String 448
+msgid "Paypal account"
+msgstr "Tài khoản Paypal"
+
+#: String 449
+msgid "Paypal mail address"
+msgstr "Địa chỉ mail Paypal"
+
+#: String 450
+msgid "The paypal email address where the payments will be sent"
+msgstr "Địa chỉ email của Paypal để thanh toán được chuyển đến"
+
+#: String 451
+msgid "Sandbox"
+msgstr "Thử Nghiệm"
+
+#: String 452
+msgid "Paypal currency"
+msgstr "Đơn vị tiền tệ của Paypal"
+
+#: String 453
+msgid "Currency"
+msgstr "Tiền Tệ"
+
+#: String 454
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Vui lòng chắc chắn rằng bạn sử dụng đợn vị tiền tệ được paypal hỗ trợ"
+
+#: String 455
+msgid "Featured ads"
+msgstr "Những quảng cáo đặc trưng"
+
+#: String 456
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Những quảng cáo đặc trưng sẽ được đánh dấu trong số ngày được định trước"
+
+#: String 457
+msgid "Price for featuring the Ad"
+msgstr "Giá cho Quảng Cáo đặc trưng"
+
+#: String 458
+msgid "Pricing"
+msgstr "Giá Cả"
+
+#: String 459
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Người dùng cần trả bao nhiêu cho một Quảng Cáo đặc trưng"
+
+#: String 460
+msgid "Days Featured"
+msgstr "Số Ngày Đặc Trưng"
+
+#: String 461
+msgid "Featured length"
+msgstr "Độ dài đặc trưng"
+
+#: String 462
+msgid "How many days an ad will be featured after paying."
+msgstr "Bao nhiêu ngày một quảng cáo sẽ là đặc trưng sau khi thanh toán."
+
+#: String 463
+msgid "Bring to top Ad"
+msgstr "Đem lên làm Quảng cáo đầu tiên"
+
+#: String 464
+msgid "Brings your Ad to the top of the listing."
+msgstr "Đem Quảng Cáo của bạn lên đầu danh sách."
+
+#: String 465
+msgid "To top price"
+msgstr "Giá để đem lên đầu"
+
+#: String 466
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Người dùng cần trả bao nhiêu để đem Quảng Cáo lên đầu"
+
+#: String 467
+msgid "User paypal link"
+msgstr "Liên kết paypal của người dùng"
+
+#: String 468
+msgid "Site Usage Statistics"
+msgstr "Thống Kê Lượng Sử Dụng Site"
+
+#: String 469
+msgid "Today"
+msgstr "Hôm nay"
+
+#: String 470
+msgid "Yesterday"
+msgstr "Hôm qua"
+
+#: String 471
+msgid "Last 30 days"
+msgstr "30 ngày trước"
+
+#: String 472
+msgid "Total"
+msgstr "Tổng cộng"
+
+#: String 473
+msgid "Visits"
+msgstr "Số Lần Viếng Thăm"
+
+#: String 474
+msgid "Sales"
+msgstr "Bán"
+
+#: String 475
+msgid "Charts"
+msgstr "Đồ Thị"
+
+#: String 476
+msgid "To"
+msgstr "Tới"
+
+#: String 477
+msgid "Filter"
+msgstr "Bộ Lọc"
+
+#: String 478
+msgid "Views and Ads statistics"
+msgstr "Xem và thống kê Quảng Cáo"
+
+#: String 479
+msgid "Sales statistics"
+msgstr "Thống kê bán hàng"
+
+#: String 480
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Đây là danh sách những giá trị thiết đặt cho mẫu. Thay đổi những ô này với giá trị mong muốn cho mẫu trang web."
+
+#: String 481
+msgid "Using mobile theme"
+msgstr "Sử dụng mẫu cho thiết bị di động"
+
+#: String 482
+msgid "Disable"
+msgstr "Vô hiệu hóa"
+
+#: String 483
+msgid "Options"
+msgstr "Những tùy chọn"
+
+#: String 484
+msgid "You can change the look and feel of your website here."
+msgstr "Bạn có thể thay đổi giao diện trang web của bạn tại đây."
+
+#: String 485
+msgid "Current Theme"
+msgstr "Mẫu Trang Web Hiện Tại"
+
+#: String 486
+msgid "Available Themes"
+msgstr "Mẫu Trang Web Có Sẵn"
+
+#: String 487
+msgid "Available Mobile Themes"
+msgstr "Mẫu Trang Web Dành Cho Thiết Bị Di Động Có Sẵn"
+
+#: String 488
+msgid "Themes Market"
+msgstr "Chợ Mẫu Trang Web"
+
+#: String 489
+msgid "Here you can find a selection of our premium themes."
+msgstr "Tại đây bạn có thể tìm và chọn những mẫu trang web cao cấp của chúng tôi."
+
+#: String 490
+msgid "All themes include support, updates and 1 site license."
+msgstr "Tất cả các chủ đề bao gồm hỗ trợ, cập nhật và 1 giấy phép trang web."
+
+#: String 491
+msgid "Cache configuration information"
+msgstr "Thông tin cấu hình bộ nhớ cache"
+
+#: String 492
+msgid "Delete all"
+msgstr "Xóa tất cả"
+
+#: String 493
+msgid "Delete expired"
+msgstr "Xóa hết hạn"
+
+#: String 494
+msgid "Config file"
+msgstr "tập tin cấu hình"
+
+#: String 495
+msgid "System Logs"
+msgstr "Hệ thống đăng nhập"
+
+#: String 496
+msgid "Reading log file"
+msgstr "Đọc tập tin đăng nhập"
+
+#: String 497
+msgid "Log"
+msgstr "Đăng nhập"
+
+#: String 498
+msgid "Your PHP time limit is"
+msgstr "Giới hạn thời gian PHP của bạn là "
+
+#: String 499
+msgid "Migrate"
+msgstr "Di chuyển"
+
+#: String 500
+msgid "Optimize Database"
+msgstr "Tối ưu hóa cơ sở dữ liêu"
+
+#: String 501
+msgid "Optimize"
+msgstr "Tối ưu hóa"
+
+#: String 502
+msgid "Database space"
+msgstr "Không gian cơ sở dữ liệu"
+
+#: String 503
+msgid "Space to optimize"
+msgstr "Không gian để tối ưu hóa"
+
+#: String 504
+msgid "Table"
+msgstr "Bảng"
+
+#: String 505
+msgid "Rows"
+msgstr "Hàng"
+
+#: String 506
+msgid "Size"
+msgstr "Kích cỡ"
+
+#: String 507
+msgid "Save size"
+msgstr "Lưu kích cỡ"
+
+#: String 508
+msgid "Last time generated"
+msgstr "Thời gian cuối đã tạo"
+
+#: String 509
+msgid "Generate"
+msgstr "Tạo ra"
+
+#: String 510
+msgid "Expire time"
+msgstr "Thời gian hết hạn"
+
+#: String 511
+msgid "Update on publish"
+msgstr "Cập nhật vào xuất bản"
+
+#: String 512
+msgid "Save"
+msgstr "Lưu"
+
+#: String 513
+msgid "Versions"
+msgstr "Những phiên bản"
+
+#: String 514
+msgid "Open Classifieds release history information."
+msgstr "Open Classifieds informacije iz istorije"
+
+#: String 515
+msgid "Your Hash Key for this installation is"
+msgstr "Hash key của bạn cho cài đặt này là"
+
+#: String 516
+msgid "Version"
+msgstr "Phiên bản"
+
+#: String 517
+msgid "Information"
+msgstr "Thông tin"
+
+#: String 518
+msgid "Latest"
+msgstr "Lần cuối cùng"
+
+#: String 519
+msgid "Current"
+msgstr "Hiện tại"
+
+#: String 520
+msgid "Here you can modify any text you find in your web."
+msgstr "Ở đây bạn có thể thay đổi bất kỳ văn bản mà bạn tìm thấy trong web của bạn."
+
+#: String 521
+msgid "Original Translation"
+msgstr "Bản Dịch Gốc"
+
+#: String 522
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Kopirajte sve? Budite oprezni , ovo ce zameniti sve vase textove."
+
+#: String 523
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Dịch tất cả?, Nhận biết điều này sẽ thay thế tất cả các văn bản của bạn."
+
+#: String 524
+msgid "Translation"
+msgstr "Dịch"
+
+#: String 525
+msgid "Translations files available in the system."
+msgstr "Dich nhựng tập tin có trong hệ thống"
+
+#: String 526
+msgid "Scan"
+msgstr "Quét"
+
+#: String 527
+msgid "New translation"
+msgstr "Dich mới"
+
+#: String 528
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: String 529
+msgid "Active"
+msgstr "Hoạt động"
+
+#: String 530
+msgid "Create"
+msgstr "Tạo"
+
+#: String 531
+msgid "Where do you want the widget displayed?"
+msgstr "Nơi nào bạn muốn hiển thị các widget?"
+
+#: String 532
+msgid "Close"
+msgstr "Đóng"
+
+#: String 533
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Chắc chắn rằng bạn muốn xóa các widget? Bạn có thể di chuyển nó đến nơi giữ các widget  không hoạt động"
+
+#: String 534
+msgid "Save changes"
+msgstr "Lưu thay đổi"
+
+#: String 535
+msgid "Available widgets"
+msgstr "Widgets có sẳn"
+
+#: String 536
+msgid "My Advertisements"
+msgstr "Quảng cáo của tôi"
+
+#: String 537
+msgid " New"
+msgstr "Mới "
+
+#: String 538
+msgid "Refresh listing, go to top?"
+msgstr "Tải lại danh sách, lên đầu?"
+
+#: String 539
+msgid "Go to top"
+msgstr "Đi tới trên"
+
+#: String 540
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Bạn có chắc là muốn tải lại danh sách và đi tới đầu trang?"
+
+#: String 541
+msgid "Deactivate featured"
+msgstr "Tắt đặc trưng"
+
+#: String 542
+msgid "Edit Profile"
+msgstr "Chỉnh sửa trang cá nhân"
+
+#: String 543
+msgid "New password"
+msgstr "Mật khẩu mới"
+
+#: String 544
+msgid "Repeat password"
+msgstr "Lập lại mật khẩu"
+
+#: String 545
+msgid "Type your password twice to change"
+msgstr "Nhập mật khẩu hai lần để thay đổi"
+
+#: String 546
+msgid "Edit Advertisement"
+msgstr "Chỉnh sửa quảng cáo"
+
+#: String 547
+msgid "Your Advertisement can go on top again! For only "
+msgstr "Quảng cáo của bạn chỉ có thể đi đến TOP thêm một lần nữa"
+
+#: String 548
+msgid "Go Top!"
+msgstr "Trở Thành Đầu Danh Sách"
+
+#: String 549
+msgid "Your Advertisement can go to featured! For only "
+msgstr "Quảng Cáo của bạn có thể trở thành đặc trưng! Chỉ cho"
+
+#: String 550
+msgid "Go Featured!"
+msgstr "Trở Thành Đặc Trưng!"
+
+#: String 551
+msgid "Id_User"
+msgstr "ID người dùng"
+
+#: String 552
+msgid "Profile"
+msgstr "Thông Tin"
+
+#: String 553
+msgid "Delete image"
+msgstr "Xóa hình ảnh"
+
+#: String 554
+msgid "Images"
+msgstr "Những hình ảnh"
+
+#: String 555
+msgid "Incorect price, not more than 3 decimals"
+msgstr "Giá không đúng, không thể nhiều hơn 3 số lẻ"
+
+#: String 556
+msgid "Statistics"
+msgstr "Thống kê"
+
+#: String 557
+msgid "Contacts"
+msgstr "Liên hệ"
+
+#: String 558
+msgid "Views and Contacts statistic"
+msgstr "Thống kê Lượt Xem và Liên Lac"
+
+#: String 559
+msgid "Min Price"
+msgstr "Giá thấp nhất"
+
+#: String 560
+msgid "Max Price"
+msgstr "Giá cao nhất"
+
+#: String 561
+msgid "Unsubscribe to all?"
+msgstr "Hủy đăng ký cho tất cả?"
+
+#: String 562
+msgid "Unsubscribe to all"
+msgstr "Hủy đăng ký cho tất cả"
+
+#: String 563
+msgid "Unsubscribe?"
+msgstr "Hủy đăng ký?"
+
+#: String 564
+msgid "Orders"
+msgstr "Những đơn đặt hàng"
+
+#: String 565
+msgid "Content"
+msgstr "Nội dung"
+
+#: String 566
+msgid "Newsletters"
+msgstr "Thư tin tức"
+
+#: String 567
+msgid "Payment"
+msgstr "Thanh Toán"
+
+#: String 568
+msgid "Users"
+msgstr "Những Người Dùng"
+
+#: String 569
+msgid "User Roles"
+msgstr "Những Vai Trò Người Dùng"
+
+#: String 570
+msgid "Roles access"
+msgstr "Vai trò truy cập"
+
+#: String 571
+msgid "Logs"
+msgstr "Logs"
+
+#: String 572
+msgid "Subscriptions"
+msgstr "Những đăng ký"
+
+#: String 573
+msgid "Public profile"
+msgstr "Thông tin người dùng công khai"
+
+#: String 574
+msgid "Logout"
+msgstr "Đăng Xuất"
+
+#: String 575
+msgid "Visit Site"
+msgstr "Thăm Website"
+
+#: String 576
+msgid "Advertisement Title"
+msgstr "Tựa Đề Quảng Cáo"
+
+#: String 577
+msgid "Terms of service"
+msgstr "Điều khoản dịch vụ"
+
+#: String 578
+msgid "User account will be created"
+msgstr "Tài khoản người dùng sẽ được tạo"
+
+#: String 579
+msgid "Slideshow"
+msgstr "Trình diễn"
+
+#: String 580
+msgid "Download"
+msgstr "Tải Về"
+
+#: String 581
+msgid "Forgot password?"
+msgstr "Quên mật khẩu?"
+
+#: String 582
+msgid "Remember me"
+msgstr "Nhớ tôi"
+
+#: String 583
+msgid "Type your password twice"
+msgstr "Nhập mật khẩu của bạn lần hai"
+
+#: String 584
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Website đang được cập nhật, vui lòng quay lại sau. Cám ơn"
+
+#: String 585
+msgid "Last Login"
+msgstr "Lần Cuối Đăng Nhập"
+
+#: String 586
+msgid " advertisements"
+msgstr "những tin quảng cáo"
+
+#: String 587
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Vui lòng chờ trong khi chúng tôi chuyển bạn đến Paypal"
+
+#: String 588
+msgid "Click here if you are not redirected"
+msgstr "Nhấn vào đây nếu bạn không được chuyển đi"
+
+#: String 589
+msgid "Change the main color scheme and style of the theme"
+msgstr "Đổi màu chính và loại của mẫu"
+
+#: String 590
+msgid "Change the header color scheme and style of the theme"
+msgstr "Đổi màu phần đầu và loại của mẫu"
+
+#: String 591
+msgid "Change the theme of List Elements"
+msgstr "Đổi mẫu của Danh Sách Liệt Kê"
+
+#: String 592
+msgid "Change the theme of Featured Elements"
+msgstr "Đổi mẫu của Danh Sách Đặc Trưng"
+
+#: String 593
+msgid "Menu"
+msgstr "Thực Đơn"
+
+#: String 594
+msgid "Contact us"
+msgstr "Liên lạc chúng tôi"
+
+#: String 595
+msgid "Advanced search"
+msgstr "Tìm kiếm nâng cao"
+
+#: String 596
+msgid "Desktop Version"
+msgstr "Phiên Bản Máy Tính"
+
+#: String 597
+msgid "Public Profile"
+msgstr "Thông Tin Công Bố"
+
+#: String 598
+msgid "Publisher"
+msgstr "Người Quảng Bá"
+
+#: String 599
+msgid "Phone Number"
+msgstr "Số Điện Thoại"
+
+#: String 600
+msgid "advertisements"
+msgstr "Những tin quảng cáo"
+
+#: String 601
+msgid "Not yet published"
+msgstr "Chưa công bố"
+
+#: String 602
+msgid " of "
+msgstr "của"
+

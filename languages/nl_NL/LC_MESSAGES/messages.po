@@ -1,0 +1,4929 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.5.0\n"
+"POT-Creation-Date: 2015-02-04 11:39:22\n"
+"PO-Revision-Date: 2015-02-04 11:39:22\n"
+"Last-Translator: admin <info@vindeenklusje.nl>\n"
+"Language-Team: en\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Open Classifieds 2.5.0\n"
+
+#: String 0
+msgid "100"
+msgstr ""
+
+#: String 1
+msgid "1000"
+msgstr ""
+
+#: String 2
+msgid "about a day"
+msgstr ""
+
+#: String 3
+msgid "about a decade"
+msgstr ""
+
+#: String 4
+msgid "about a month"
+msgstr ""
+
+#: String 5
+msgid "about a week"
+msgstr ""
+
+#: String 6
+msgid "about a year"
+msgstr ""
+
+#: String 7
+msgid "A button with the page title appears next to other pay button, onclick model opens with description."
+msgstr ""
+
+#: String 8
+msgid "Accept Terms Alert"
+msgstr ""
+
+#: String 9
+msgid "Access not allowed"
+msgstr "Toegang niet toegestaan"
+
+#: String 10
+msgid "Account wordt aangemaakt"
+msgstr ""
+
+#: String 11
+msgid "a couple of days"
+msgstr ""
+
+#: String 12
+msgid "a couple of decades"
+msgstr ""
+
+#: String 13
+msgid "a couple of hours"
+msgstr ""
+
+#: String 14
+msgid "a couple of months"
+msgstr ""
+
+#: String 15
+msgid "a couple of years"
+msgstr ""
+
+#: String 16
+msgid "Action"
+msgstr ""
+
+#: String 17
+msgid "Actions"
+msgstr "Acties"
+
+#: String 18
+msgid "Action Value:"
+msgstr ""
+
+#: String 19
+msgid "Activate"
+msgstr "Activeren"
+
+#: String 20
+msgid "Activate?"
+msgstr "Activeren?"
+
+#: String 21
+msgid "Activates Blog posting"
+msgstr ""
+
+#: String 22
+msgid "Activates FAQ"
+msgstr ""
+
+#: String 23
+msgid "Activates Forums"
+msgstr ""
+
+#: String 24
+msgid "Active"
+msgstr "Actief"
+
+#: String 25
+msgid "Active Region Action"
+msgstr ""
+
+#: String 26
+msgid "Ad"
+msgstr ""
+
+#: String 27
+msgid "Add"
+msgstr ""
+
+#: String 28
+msgid "Add a chat room"
+msgstr ""
+
+#: String 29
+msgid "Add latest comments"
+msgstr "Laatste reacties toevoegen"
+
+#: String 30
+msgid "Add names for multiple categories, for each one push enter."
+msgstr ""
+
+#: String 31
+msgid "Add names for multiple locations, for each one push enter."
+msgstr ""
+
+#: String 32
+msgid "Add New Review"
+msgstr ""
+
+#: String 33
+msgid "Address"
+msgstr "Adres"
+
+#: String 34
+msgid "Address field"
+msgstr "Adresveld"
+
+#: String 35
+msgid "Add to Favorites"
+msgstr "Toevoegen aan mijn Favorieten"
+
+#: String 36
+msgid "Ad expiration date"
+msgstr "Advertentie vervaldatum"
+
+#: String 37
+msgid "Admin Privileged"
+msgstr ""
+
+#: String 38
+msgid "Admin Tools to editing ads"
+msgstr ""
+
+#: String 39
+msgid "Ad Not Found"
+msgstr "Advertentie niet gevonden"
+
+#: String 40
+msgid "ads"
+msgstr "advertenties"
+
+#: String 41
+msgid "Ads"
+msgstr "Advertenties"
+
+#: String 42
+msgid "Ads deleted"
+msgstr "Advertenties verwijderd"
+
+#: String 43
+msgid "Ads reader"
+msgstr "Advertenties reader"
+
+#: String 44
+msgid "Ads title displayed"
+msgstr "Titel van advertenties weergegeven"
+
+#: String 45
+msgid "Ad Tools"
+msgstr ""
+
+#: String 46
+msgid "Advanced option"
+msgstr ""
+
+#: String 47
+msgid "Advanced Search"
+msgstr "Geavanceerd zoeken"
+
+#: String 48
+msgid "Advertisement"
+msgstr "Advertentie"
+
+#: String 49
+msgid "Advertisement Configuration"
+msgstr "Advertentie Configuratie"
+
+#: String 50
+msgid "Advertisement Custom Fields"
+msgstr ""
+
+#: String 51
+msgid "Advertisement Display Options"
+msgstr ""
+
+#: String 52
+msgid "Advertisement Fields"
+msgstr ""
+
+#: String 53
+msgid "Advertisement has been permanently deleted"
+msgstr ""
+
+#: String 54
+msgid "Advertisement is active and published"
+msgstr "Advertentie is actief en gepubliceerd"
+
+#: String 55
+msgid "Advertisement is deactivated"
+msgstr "Advertentie gedeactiveerd"
+
+#: String 56
+msgid "Advertisement is featured"
+msgstr "Advertentie wordt gekenmerkt"
+
+#: String 57
+msgid "Advertisement is marked as spam"
+msgstr "Adevrtentie is gemarkeerd als spam"
+
+#: String 58
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Advertentie wordt geplaatst, maar eerst moet u de advertentie activeren. Check aub uw e-mail!"
+
+#: String 59
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Advertentie wordt geplaatst. Gefeliciteerd!"
+
+#: String 60
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Advertentie wordt ontvangen, maar eerst moet de beheerder de advertentievalideren. Dank u voor uw geduld!"
+
+#: String 61
+msgid "Advertisement is to top"
+msgstr ""
+
+#: String 62
+msgid "Advertisement is updated"
+msgstr "Advertentie wordt bijgewerkt!"
+
+#: String 63
+msgid "Advertisement is updated, but first administrator needs to validate. Thank you for being patient!"
+msgstr ""
+
+#: String 64
+msgid " advertisements"
+msgstr "advertenties"
+
+#: String 65
+msgid "Advertisements"
+msgstr "Advertenties"
+
+#: String 66
+msgid "Advertisements in home"
+msgstr ""
+
+#: String 67
+msgid "Advertisements in Map"
+msgstr "Advertenties in Map"
+
+#: String 68
+msgid "Advertisements in RSS"
+msgstr "Advertenties in RSS"
+
+#: String 69
+msgid "Advertisements per page"
+msgstr "Advertenties per pagina"
+
+#: String 70
+msgid "Advertisement Title"
+msgstr "Titel Advertentie"
+
+#: String 71
+msgid "a few minutes"
+msgstr ""
+
+#: String 72
+msgid "a few years"
+msgstr ""
+
+#: String 73
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Na hoeveel dagen vervalt een Advertentie. Nooit"
+
+#: String 74
+msgid " ago"
+msgstr ""
+
+#: String 75
+msgid "Akismet Key"
+msgstr ""
+
+#: String 76
+msgid "all"
+msgstr ""
+
+#: String 77
+msgid "All"
+msgstr ""
+
+#: String 78
+msgid "All active users."
+msgstr ""
+
+#: String 79
+msgid "All ads"
+msgstr ""
+
+#: String 80
+msgid "All cache deleted"
+msgstr "Alle cache verwijderd"
+
+#: String 81
+msgid "All configurations"
+msgstr "Alle configuraties"
+
+#: String 82
+msgid "All data contained in this field will be deleted."
+msgstr ""
+
+#: String 83
+msgid "Allowed image formats"
+msgstr "Toegestane ​​beeldformaten"
+
+#: String 84
+msgid "All themes include support, updates and 1 site license."
+msgstr "Alle thema's zijn inclusief support, updates en 1 site licentie."
+
+#: String 85
+msgid "a long time"
+msgstr ""
+
+#: String 86
+msgid "Also white labeled and free of ads"
+msgstr ""
+
+#: String 87
+msgid "Alternative Payment"
+msgstr ""
+
+#: String 88
+msgid "Amazon S3 active"
+msgstr ""
+
+#: String 89
+msgid "Amazon S3 Bucket Name"
+msgstr ""
+
+#: String 90
+msgid "Amazon S3 Configuration"
+msgstr ""
+
+#: String 91
+msgid "Amount"
+msgstr ""
+
+#: String 92
+msgid "Analytics Tracking ID"
+msgstr ""
+
+#: String 93
+msgid "API Password"
+msgstr ""
+
+#: String 94
+msgid "API Username"
+msgstr ""
+
+#: String 95
+msgid "Appearance"
+msgstr ""
+
+#: String 96
+msgid "Appearance configuration updated"
+msgstr "Configuratie verschijning  bijgewerkt"
+
+#: String 97
+msgid "Appends watermark to images"
+msgstr ""
+
+#: String 98
+msgid "Application Execution"
+msgstr "Uitvoering Toepassing "
+
+#: String 99
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Weet u zeker dat u de advertentie highlight wilt deactiveren?"
+
+#: String 100
+msgid "Are you sure you want to delete?"
+msgstr "Weet u zeker dat u wilt verwijderen?"
+
+#: String 101
+msgid "Are you sure you want to delete? All data contained in this field will be deleted."
+msgstr ""
+
+#: String 102
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Weet u zeker dat u wilt verwijderen? We zullen de Weet u zeker dat u wilt verwijderen? We zullen de broers en zussen categorieën en advertenties verplaatsen naar de parent van deze locatie."
+
+#: String 103
+msgid "Are you sure you want to make it featured?"
+msgstr "Weet u zeker dat u de advertentie wilt highlighten?"
+
+#: String 104
+msgid "Are you sure you want to make it to top?"
+msgstr ""
+
+#: String 105
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Weet u zeker dat u de lijst wilt vernieuwen en naar de top gaan?"
+
+#: String 106
+msgid "Are you sure you want to update?"
+msgstr ""
+
+#: String 107
+msgid "arguments"
+msgstr ""
+
+#: String 108
+msgid "At least one image format should be allowed."
+msgstr ""
+
+#: String 109
+msgid "A user with the email you specified already exists"
+msgstr ""
+
+#: String 110
+msgid "Authorize API Login"
+msgstr ""
+
+#: String 111
+msgid "Authorize transaction Key"
+msgstr ""
+
+#: String 112
+msgid "Available Mobile Themes"
+msgstr "Beschikbare Mobile Themes"
+
+#: String 113
+msgid "Available Themes"
+msgstr "Beschikbare Thema's"
+
+#: String 114
+msgid "Available widgets"
+msgstr "Beschikbare widgets"
+
+#: String 115
+msgid "AWS Access Key"
+msgstr ""
+
+#: String 116
+msgid "AWS Secret Key"
+msgstr ""
+
+#: String 117
+msgid "Background Color"
+msgstr ""
+
+#: String 118
+msgid "Backup all your files and database"
+msgstr ""
+
+#: String 119
+msgid "Banned word replacement replaces selected array with the string you provided."
+msgstr ""
+
+#: String 120
+msgid "Banned words"
+msgstr ""
+
+#: String 121
+msgid "Banned words are separated with coma (,)"
+msgstr ""
+
+#: String 122
+msgid "Banned words replacement"
+msgstr ""
+
+#: String 123
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 124
+msgid "Bitpay api key"
+msgstr ""
+
+#: String 125
+msgid "Black list"
+msgstr ""
+
+#: String 126
+msgid "Black List"
+msgstr ""
+
+#: String 127
+msgid "Blog"
+msgstr ""
+
+#: String 128
+msgid "Blog post"
+msgstr ""
+
+#: String 129
+msgid "Blog post created"
+msgstr ""
+
+#: String 130
+msgid "Blog post updated"
+msgstr ""
+
+#: String 131
+msgid "blog section."
+msgstr ""
+
+#: String 132
+msgid "Bring to top Ad"
+msgstr "Bring to top advertentie"
+
+#: String 133
+msgid "Browse Themes"
+msgstr ""
+
+#: String 134
+msgid "Buy a Theme"
+msgstr ""
+
+#: String 135
+msgid "Buy Now"
+msgstr "Nu kopen"
+
+#: String 136
+msgid "Buy product"
+msgstr ""
+
+#: String 137
+msgid "buy your SSL certificate here"
+msgstr ""
+
+#: String 138
+msgid "Cache"
+msgstr "Cache"
+
+#: String 139
+msgid "Cache configuration information"
+msgstr "Cache configuratie-informatie"
+
+#: String 140
+msgid "Can be seen and edited only by admin."
+msgstr ""
+
+#: String 141
+msgid "Can be seen in the list of ads while browsing."
+msgstr ""
+
+#: String 142
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: String 143
+msgid "Cannot delete widget %s"
+msgstr ""
+
+#: String 144
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 145
+msgid "Captcha appears in the form."
+msgstr "Captcha verschijnt in het formulier."
+
+#: String 146
+msgid "Captcha is not correct"
+msgstr "Captcha is niet correct"
+
+#: String 147
+msgid "Card Number"
+msgstr ""
+
+#: String 148
+msgid "Cars"
+msgstr ""
+
+#: String 149
+msgid "Categorie"
+msgstr ""
+
+#: String 150
+msgid "Categories"
+msgstr "Categorieën"
+
+#: String 151
+msgid "Categories title displayed"
+msgstr "Titel van categorieën weergegeven"
+
+#: String 152
+msgid "category"
+msgstr ""
+
+#: String 153
+msgid "Category"
+msgstr "Categorie"
+
+#: String 154
+msgid "Category created"
+msgstr ""
+
+#: String 155
+msgid "Category deleted"
+msgstr "Categorie verwijderd"
+
+#: String 156
+msgid "Category icon"
+msgstr ""
+
+#: String 157
+msgid "Category not deleted"
+msgstr "Categorie niet verwijderd"
+
+#: String 158
+msgid "Changelog"
+msgstr ""
+
+#: String 159
+msgid "Change password"
+msgstr "Wijzig wachtwoord"
+
+#: String 160
+msgid "Change the admin color theme"
+msgstr "Verander het admin kleuren thema"
+
+#: String 161
+msgid "Change the color scheme and style of the theme"
+msgstr "Het kleurenschema en de stijl van het thema veranderen"
+
+#: String 162
+msgid "Change the color theme"
+msgstr ""
+
+#: String 163
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Verander de volgorde van de categorieën. Houd in gedachten dat meer dan 2 niveaus waarschijnlijk niet worden weergegeven in het thema (het is niet aanbevolen)."
+
+#: String 164
+msgid "Change the order of your forums. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr ""
+
+#: String 165
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Verander de volgorde van de categorieën. Houd in gedachten dat meer dan 2 niveaus waarschijnlijk niet worden weergegeven in het thema (het is niet aanbevolen)."
+
+#: String 166
+msgid "Charts"
+msgstr "Grafieken"
+
+#: String 167
+msgid "Chat"
+msgstr ""
+
+#: String 168
+msgid "Chat height in PX"
+msgstr ""
+
+#: String 169
+msgid "Chat room"
+msgstr ""
+
+#: String 170
+msgid "Check"
+msgstr ""
+
+#: String 171
+msgid "Checkbox"
+msgstr ""
+
+#: String 172
+msgid "Checked for new versions."
+msgstr ""
+
+#: String 173
+msgid "Check form for errors"
+msgstr "Controleer formulier voor errors"
+
+#: String 174
+msgid "Check for updates"
+msgstr "Controleren voor updates"
+
+#: String 175
+msgid "Checkout"
+msgstr ""
+
+#: String 176
+msgid "Check the form for errors"
+msgstr "Controleer het formulier op errors"
+
+#: String 177
+msgid "Choose 1 or several categories"
+msgstr ""
+
+#: String 178
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Kies de kwaliteit van de opgeslagen beelden (1-100% van het origineel)."
+
+#: String 179
+msgid "Classifieds"
+msgstr ""
+
+#: String 180
+msgid "Click here if you are not redirected"
+msgstr "Klik hier als u niet wordt doorverwezen"
+
+#: String 181
+msgid "Close"
+msgstr "Sluiten"
+
+#: String 182
+msgid "Collapse menu"
+msgstr "Menu invouwen"
+
+#: String 183
+msgid "Color:"
+msgstr ""
+
+#: String 184
+msgid "Comma separated for select"
+msgstr ""
+
+#: String 185
+msgid "Comments"
+msgstr "Opmerkingen"
+
+#: String 186
+msgid "Comments Configuration"
+msgstr ""
+
+#: String 187
+msgid "community forums."
+msgstr ""
+
+#: String 188
+msgid "Config file"
+msgstr "Config bestand"
+
+#: String 189
+msgid "contact"
+msgstr "contact"
+
+#: String 190
+msgid "Contact"
+msgstr "Contact"
+
+#: String 191
+msgid "Contact form"
+msgstr ""
+
+#: String 192
+msgid "Contact form appears in the ad."
+msgstr ""
+
+#: String 193
+msgid "Contacts"
+msgstr "Contacten"
+
+#: String 194
+msgid "Contact Us"
+msgstr "Neem contact met ons op"
+
+#: String 195
+msgid "Content"
+msgstr "Inhoud"
+
+#: String 196
+msgid "Content shift right to left"
+msgstr ""
+
+#: String 197
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Controle van de grootte van de afbeeldingen die worden geüpload. Voer een geheel getal in om maximale beeldgrootte in te stellen in mega bites (Mb)."
+
+#: String 198
+msgid "Convert"
+msgstr ""
+
+#: String 199
+msgid "Convert Address into Lat/Lon:"
+msgstr ""
+
+#: String 200
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Alles kopiëren? Denk eraan dat dit al uw teksten zal vervangen."
+
+#: String 201
+msgid "Could not create bitpay invoice"
+msgstr ""
+
+#: String 202
+msgid "Count visits"
+msgstr ""
+
+#: String 203
+msgid "Count visits ads"
+msgstr ""
+
+#: String 204
+msgid "Create"
+msgstr "Creëren"
+
+#: String 205
+msgid "Create all new %s from original"
+msgstr ""
+
+#: String 206
+msgid "Create a new profile at"
+msgstr ""
+
+#: String 207
+msgid "Create Blog Post"
+msgstr ""
+
+#: String 208
+msgid "Create custom fields among predefined templates."
+msgstr ""
+
+#: String 209
+msgid "Created"
+msgstr "Gecreëerd"
+
+#: String 210
+msgid "Create Menu Item"
+msgstr ""
+
+#: String 211
+msgid "Create new forum"
+msgstr ""
+
+#: String 212
+msgid "Crontab"
+msgstr ""
+
+#: String 213
+msgid "CSS"
+msgstr ""
+
+#: String 214
+msgid "CSS file not saved"
+msgstr ""
+
+#: String 215
+msgid "CSS file saved"
+msgstr ""
+
+#: String 216
+msgid "Currency"
+msgstr "Munteenheid"
+
+#: String 217
+msgid "Current"
+msgstr "Huidige"
+
+#: String 218
+msgid "Current CSS file"
+msgstr ""
+
+#: String 219
+msgid "Current Theme"
+msgstr "Huidig ​​thema"
+
+#: String 220
+msgid "Custom"
+msgstr ""
+
+#: String 221
+msgid "Custom CSS"
+msgstr ""
+
+#: String 222
+msgid "Custom Fields"
+msgstr ""
+
+#: String 223
+msgid "Custom fields are only available with premium themes!"
+msgstr ""
+
+#: String 224
+msgid "Custom Fields for Advertisements"
+msgstr ""
+
+#: String 225
+msgid "Custom fields in search"
+msgstr ""
+
+#: String 226
+msgid "Custom Fields Templates"
+msgstr ""
+
+#: String 227
+msgid "Customize your profile, upload a photo, description and change your password."
+msgstr ""
+
+#: String 228
+msgid "Customize your website look and feel by choosing one of the many available themes and changing theme options."
+msgstr ""
+
+#: String 229
+msgid "Custom menu"
+msgstr ""
+
+#: String 230
+msgid "Database charset"
+msgstr "Database karakterset"
+
+#: String 231
+msgid "Database cleaned"
+msgstr "Database schoongemaakt"
+
+#: String 232
+msgid "Database name"
+msgstr "Database naam"
+
+#: String 233
+msgid "Database Optimized"
+msgstr "Database Geoptimaliseerd"
+
+#: String 234
+msgid "Database space"
+msgstr "Database ruimte"
+
+#: String 235
+msgid "Date"
+msgstr "Datum"
+
+#: String 236
+msgid "Date format"
+msgstr "Datumnotatie"
+
+#: String 237
+msgid "Date Paid"
+msgstr ""
+
+#: String 238
+msgid "Days"
+msgstr "Dagen"
+
+#: String 239
+msgid "Days Featured"
+msgstr "Highlight Dagen"
+
+#: String 240
+msgid "Deactivate"
+msgstr "Deactiveren"
+
+#: String 241
+msgid "Deactivate?"
+msgstr "Deactiveren?"
+
+#: String 242
+msgid "Deactivated"
+msgstr "Gedeactiveerd"
+
+#: String 243
+msgid "Deactivate featured"
+msgstr "Highlight deactiveren"
+
+#: String 244
+msgid "Deactivate featured?"
+msgstr "Highlight deactiveren?"
+
+#: String 245
+msgid "Deactivate Featured"
+msgstr "Highlight Deactiveren"
+
+#: String 246
+msgid "Debug Mode"
+msgstr ""
+
+#: String 247
+msgid "Decimal representation"
+msgstr "Decimale weergave"
+
+#: String 248
+msgid "Default"
+msgstr ""
+
+#: String 249
+msgid "Default links"
+msgstr ""
+
+#: String 250
+msgid "Default state for list/grid in listing"
+msgstr ""
+
+#: String 251
+msgid "Default value:"
+msgstr ""
+
+#: String 252
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: String 253
+msgid "Delete?"
+msgstr "Verwijderen?"
+
+#: String 254
+msgid "Delete all"
+msgstr "Verwijder alles"
+
+#: String 255
+msgid "Delete All"
+msgstr ""
+
+#: String 256
+msgid "Delete All?"
+msgstr ""
+
+#: String 257
+msgid "Deleted"
+msgstr ""
+
+#: String 258
+msgid "Deleted expired cache"
+msgstr "Verlopen cache verwijderd"
+
+#: String 259
+msgid "Delete expired"
+msgstr "Delete verlopen"
+
+#: String 260
+msgid "Delete icon"
+msgstr ""
+
+#: String 261
+msgid "Delete icon?"
+msgstr ""
+
+#: String 262
+msgid "Delete image"
+msgstr "Verwijder afbeelding"
+
+#: String 263
+msgid "Delete photo"
+msgstr ""
+
+#: String 264
+msgid "Delete photo?"
+msgstr ""
+
+#: String 265
+msgid "Description"
+msgstr "Beschrijving"
+
+#: String 266
+msgid "Description of your site in no more than 160 characters."
+msgstr ""
+
+#: String 267
+msgid "Disable"
+msgstr "Onbruikbaar maken"
+
+#: String 268
+msgid "Disable category counter badge"
+msgstr ""
+
+#: String 269
+msgid "Disables generated map on homepage"
+msgstr ""
+
+#: String 270
+msgid "Disallow nude pictures"
+msgstr ""
+
+#: String 271
+msgid "disallow_nudes"
+msgstr ""
+
+#: String 272
+msgid "Disallows (blocks) Bots and Crawlers"
+msgstr ""
+
+#: String 273
+msgid "Disallows (blocks) Bots and Crawlers on this website"
+msgstr ""
+
+#: String 274
+msgid "Disallows Bots and Crawlers on the website"
+msgstr ""
+
+#: String 275
+msgid "Display breadcrumb"
+msgstr "Weer breadcrumb"
+
+#: String 276
+msgid "Display categories"
+msgstr "Categorieën weergeven"
+
+#: String 277
+msgid "Display CMS pages"
+msgstr "CMS pagina's tonen"
+
+#: String 278
+msgid "Display Featured Ads"
+msgstr ""
+
+#: String 279
+msgid "Display Interactive Map"
+msgstr ""
+
+#: String 280
+msgid "Display Locations"
+msgstr "Locaties Weergeven"
+
+#: String 281
+msgid "Display Mode"
+msgstr ""
+
+#: String 282
+msgid "Display site stats"
+msgstr "Site statistieken tonen"
+
+#: String 283
+msgid "Display slider in listing"
+msgstr ""
+
+#: String 284
+msgid "Displays location select"
+msgstr "Geeft selectie van locaties weer"
+
+#: String 285
+msgid "Displays the field Address in the Ad form."
+msgstr "Geeft het Adresveld aan in het Advertentie formulier."
+
+#: String 286
+msgid "Displays the field Phone in the Ad form."
+msgstr "Geeft het Telefoonveld weer in het Advertentie formulier."
+
+#: String 287
+msgid "Displays the field Price in the Ad form."
+msgstr "Geeft het veld Prijs weer in het Advertentie formulier."
+
+#: String 288
+msgid "Displays the field Website in the Ad form."
+msgstr "Geeft het Website veld weer in het Advertentie formulier."
+
+#: String 289
+msgid "Displays the google maps in the Ad."
+msgstr "Geeft google maps weer de Advertentie."
+
+#: String 290
+msgid "Displays the google maps in the Publish new form."
+msgstr ""
+
+#: String 291
+msgid "Displays the Select Location in the Ad form."
+msgstr "Geeft de Selectie van locaties weer in het Advertentie formulier."
+
+#: String 292
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 293
+msgid "Disqus Comments"
+msgstr "Disqus Reacties"
+
+#: String 294
+msgid "Disqus for blog"
+msgstr ""
+
+#: String 295
+msgid "Disqus for Blog Comments"
+msgstr ""
+
+#: String 296
+msgid "Disqus for FAQ"
+msgstr ""
+
+#: String 297
+msgid "Disqus for FAQ Comments"
+msgstr ""
+
+#: String 298
+msgid "Download"
+msgstr "Download"
+
+#: String 299
+msgid "Each advertisement has a publish date. By selecting format, you can change how it is shown on your website."
+msgstr ""
+
+#: String 300
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Elk beeld wordt verkleind wanneer geupload. Dit is de grootte van de grote afbeelding. Opmerking: u kunt dit veld leeg laten om AUTO hoogte resize in te stellen."
+
+#: String 301
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Elk beeld wordt qua grootte aangepast wanneer geupload. Dit is de breedte van de grote afbeelding."
+
+#: String 302
+msgid "Edit"
+msgstr "Bewerken"
+
+#: String 303
+msgid "Edit advertisement"
+msgstr "Advertentie bewerken"
+
+#: String 304
+msgid "Edit Advertisement"
+msgstr "Advertentie bewerken"
+
+#: String 305
+msgid "Edit Blog Post"
+msgstr ""
+
+#: String 306
+msgid "Edit category"
+msgstr ""
+
+#: String 307
+msgid "Edit Custom Field"
+msgstr ""
+
+#: String 308
+msgid "Edit Custom Field for Advertisement"
+msgstr ""
+
+#: String 309
+msgid "Edit forum"
+msgstr ""
+
+#: String 310
+msgid "Edit Forum"
+msgstr ""
+
+#: String 311
+msgid "Edit location"
+msgstr ""
+
+#: String 312
+msgid "Edit Menu"
+msgstr ""
+
+#: String 313
+msgid "Edit profile"
+msgstr "Profiel bewerken"
+
+#: String 314
+msgid "Edit Profile"
+msgstr "Profiel bewerken"
+
+#: String 315
+msgid "Edit Topic"
+msgstr ""
+
+#: String 316
+msgid "Edit Translation"
+msgstr "Vertaling bewerken"
+
+#: String 317
+msgid "ElasticEmail active"
+msgstr ""
+
+#: String 318
+msgid "ElasticEmail Configuration"
+msgstr ""
+
+#: String 319
+msgid "email"
+msgstr ""
+
+#: String 320
+msgid "Email"
+msgstr "E-mail"
+
+#: String 321
+msgid "Email Configuration"
+msgstr "Email Configuratie"
+
+#: String 322
+msgid "Email Configuration updated"
+msgstr "E-mail configuratie bijgewerkt"
+
+#: String 323
+msgid "Email confirmation on"
+msgstr ""
+
+#: String 324
+msgid "Email confirmation with Moderation"
+msgstr ""
+
+#: String 325
+msgid "Email From"
+msgstr "E-mail Van"
+
+#: String 326
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "E-mail van waar we de e-mails sturen, ook gebruikt voor software communicatie."
+
+#: String 327
+msgid "Email sent"
+msgstr ""
+
+#: String 328
+msgid "Email Settings"
+msgstr "E-mail instellingen"
+
+#: String 329
+msgid "Email Setup and emails configuration values. Replace input fields with new desired values"
+msgstr ""
+
+#: String 330
+msgid "Email to recover password sent"
+msgstr "E-mail gestuurd om wachtwoord te herstellen"
+
+#: String 331
+msgid "Enable"
+msgstr ""
+
+#: String 332
+msgid "Enable Additional Features"
+msgstr ""
+
+#: String 333
+msgid "Enable reCAPTCHA as captcha provider"
+msgstr ""
+
+#: String 334
+msgid "Enable reviews"
+msgstr ""
+
+#: String 335
+msgid "Enables Captcha"
+msgstr "Maakt Captcha"
+
+#: String 336
+msgid "Enables Contact Form"
+msgstr ""
+
+#: String 337
+msgid "Enables reviews for ads and the users."
+msgstr ""
+
+#: String 338
+msgid "Enables the site to maintenance"
+msgstr "Via de site naar onderhoud"
+
+#: String 339
+msgid "Environment"
+msgstr "Milieu"
+
+#: String 340
+msgid "Error"
+msgstr "Fout"
+
+#: String 341
+msgid "Error on mail delivery, not sent"
+msgstr "Fout bij email delivery, niet verzonden"
+
+#: String 342
+msgid "Error: please try again!"
+msgstr ""
+
+#: String 343
+msgid "Expiration Date"
+msgstr ""
+
+#: String 344
+msgid "Expire days"
+msgstr "Verlopen dagen"
+
+#: String 345
+msgid "Ex. Url for Open Url Action."
+msgstr ""
+
+#: String 346
+msgid "Facebook comments"
+msgstr ""
+
+#: String 347
+msgid "Facebook Comments"
+msgstr ""
+
+#: String 348
+msgid "Failed to load content"
+msgstr ""
+
+#: String 349
+msgid "FALSE"
+msgstr ""
+
+#: String 350
+msgid "FAQ"
+msgstr ""
+
+#: String 351
+msgid "Favorited"
+msgstr ""
+
+#: String 352
+msgid "Feature ad"
+msgstr ""
+
+#: String 353
+msgid "Featured"
+msgstr "Uitgelicht"
+
+#: String 354
+msgid "Featured ads"
+msgstr "Aanbevolen advertenties"
+
+#: String 355
+msgid "Featured Ads"
+msgstr "Gesponsorde advertenties"
+
+#: String 356
+msgid "Featured Ads Random"
+msgstr ""
+
+#: String 357
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Aanbevolen advertenties wordt gemarkeerd voor een bepaald aantal dagen."
+
+#: String 358
+msgid "Featured length"
+msgstr "Highlight lengte"
+
+#: String 359
+msgid "Featured Random"
+msgstr ""
+
+#: String 360
+msgid "Featured title displayed"
+msgstr ""
+
+#: String 361
+msgid "Field %s already exists"
+msgstr ""
+
+#: String 362
+msgid "Field %s cannot be edited"
+msgstr ""
+
+#: String 363
+msgid "Field %s created"
+msgstr ""
+
+#: String 364
+msgid "Field %s deleted"
+msgstr ""
+
+#: String 365
+msgid "Field %s does not exists"
+msgstr ""
+
+#: String 366
+msgid "Field %s edited"
+msgstr ""
+
+#: String 367
+msgid "File"
+msgstr ""
+
+#: String 368
+msgid "File %s contains invalid parsing format!"
+msgstr ""
+
+#: String 369
+msgid "Filter"
+msgstr "Filteren"
+
+#: String 370
+msgid "First"
+msgstr "Eerste"
+
+#: String 371
+msgid "Follow the suggestions above."
+msgstr ""
+
+#: String 372
+msgid "Footer banner, allows HTML"
+msgstr ""
+
+#: String 373
+msgid "For banned word push enter."
+msgstr ""
+
+#: String 374
+msgid "Forgot password"
+msgstr "Wachtwoord vergeten"
+
+#: String 375
+msgid "Forgot password?"
+msgstr "Wachtwoord vergeten?"
+
+#: String 376
+msgid "formats only"
+msgstr ""
+
+#: String 377
+msgid "Forum"
+msgstr ""
+
+#: String 378
+msgid "Forum deleted"
+msgstr ""
+
+#: String 379
+msgid "Forum is created."
+msgstr ""
+
+#: String 380
+msgid "Forum is updated."
+msgstr ""
+
+#: String 381
+msgid "Forum Limit, if none display all"
+msgstr ""
+
+#: String 382
+msgid "Forum not deleted"
+msgstr ""
+
+#: String 383
+msgid "Forum parent"
+msgstr ""
+
+#: String 384
+msgid "forums"
+msgstr ""
+
+#: String 385
+msgid "Forums"
+msgstr ""
+
+#: String 386
+msgid "Forum Search"
+msgstr ""
+
+#: String 387
+msgid "forum title displayed"
+msgstr ""
+
+#: String 388
+msgid "Forum topic"
+msgstr ""
+
+#: String 389
+msgid "Forum topic reader"
+msgstr ""
+
+#: String 390
+msgid "Forum Topics"
+msgstr ""
+
+#: String 391
+msgid "frequently asked questions."
+msgstr "Veel gestelde vragen"
+
+#: String 392
+msgid "Frequently Asked Questions"
+msgstr "Veel Gestelde Vragen"
+
+#: String 393
+msgid " Frequently Asked Questions - FAQ"
+msgstr "Veel Gestelde Vragen - FAQ"
+
+#: String 394
+msgid "Friendship and Dating"
+msgstr ""
+
+#: String 395
+msgid "From"
+msgstr "Van"
+
+#: String 396
+msgid "from_email"
+msgstr ""
+
+#: String 397
+msgid "From email"
+msgstr ""
+
+#: String 398
+msgid "From Email"
+msgstr "Van E-mail"
+
+#: String 399
+msgid "General"
+msgstr "Algemeen"
+
+#: String 400
+msgid "General Configuration"
+msgstr "Algemene configuratie"
+
+#: String 401
+msgid "General Configuration updated"
+msgstr "Algemene configuratie bijgewerkt"
+
+#: String 402
+msgid "General site settings."
+msgstr "Algemene website instellingen."
+
+#: String 403
+msgid "Generate"
+msgstr "Genereer"
+
+#: String 404
+msgid "Generate an interactive map for your classifieds website"
+msgstr ""
+
+#: String 405
+msgid "Get started by creating and editing categories and locations for your site here."
+msgstr ""
+
+#: String 406
+msgid "Go Featured!"
+msgstr ""
+
+#: String 407
+msgid "Google map default latitude coordinates"
+msgstr ""
+
+#: String 408
+msgid "Google map default longitude coordinates"
+msgstr ""
+
+#: String 409
+msgid "Google map default zoom level "
+msgstr ""
+
+#: String 410
+msgid "Google Maps"
+msgstr ""
+
+#: String 411
+msgid "Google Maps in Ad"
+msgstr "Google Maps in Advertentie"
+
+#: String 412
+msgid "Google Maps in Publish New"
+msgstr ""
+
+#: String 413
+msgid "Google Maps Settings"
+msgstr ""
+
+#: String 414
+msgid "Google Maps with ads"
+msgstr "Google Maps met advertenties"
+
+#: String 415
+msgid "Google map zoom level"
+msgstr ""
+
+#: String 416
+msgid "Go Top!"
+msgstr ""
+
+#: String 417
+msgid "Go to top"
+msgstr "Ga naar top"
+
+#: String 418
+msgid "Go to Website"
+msgstr ""
+
+#: String 419
+msgid "Go to Your Website"
+msgstr "Ga naar uw website"
+
+#: String 420
+msgid "Grid"
+msgstr "Rooster"
+
+#: String 421
+msgid "has been disable for posting, due to recent spam content!"
+msgstr ""
+
+#: String 422
+msgid "Has image"
+msgstr ""
+
+#: String 423
+msgid "Has images"
+msgstr "Heeft beelden"
+
+#: String 424
+msgid "Have you forgotten your password?"
+msgstr ""
+
+#: String 425
+msgid "Header banner, allows HTML"
+msgstr "Header banner, laat HTML toe"
+
+#: String 426
+msgid "Header tool bar gets fixed in the top"
+msgstr "Header werkbalk wordt in de top vastgesteld "
+
+#: String 427
+msgid "Heads Up!"
+msgstr ""
+
+#: String 428
+msgid "Height (px)"
+msgstr ""
+
+#: String 429
+msgid "Hello, world"
+msgstr "Hallo, wereld"
+
+#: String 430
+msgid "Help us improve!"
+msgstr ""
+
+#: String 431
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Hier worden  specifieke thema configuratie gegevens vermeld. Vervang invoervelden met nieuwe gewenste gegevens voor het thema."
+
+#: String 432
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Hier kunt u uw dispaly naam invoeren. Dit wordt door iedereen gezien!"
+
+#: String 433
+msgid "Here you can find a selection of our premium themes."
+msgstr "Hier vindt u een selectie van onze premium thema's."
+
+#: String 434
+msgid "Here you can modify any text you find in your web."
+msgstr "Hier kunt u alle tekst in uw web wijzigen."
+
+#: String 435
+msgid "Here you can reset your password if you forgot it."
+msgstr ""
+
+#: String 436
+msgid "Hey!"
+msgstr ""
+
+#: String 437
+msgid "Hide translated texts"
+msgstr ""
+
+#: String 438
+msgid "Hit enter to confirm"
+msgstr ""
+
+#: String 439
+msgid "Hits"
+msgstr "Hits"
+
+#: String 440
+msgid "Home"
+msgstr "Vind een Klusje"
+
+#: String 441
+msgid "Homepage Only Header, allows HTML"
+msgstr ""
+
+#: String 442
+msgid "Host name"
+msgstr "Hostnaam"
+
+#: String 443
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Hoeveel advertenties zullen verschijnen in de map van uw site."
+
+#: String 444
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Hoeveel advertenties zullen verschijnen in de RSS van uw site."
+
+#: String 445
+msgid "How many days an ad will be featured after paying."
+msgstr "Hoeveel dagen een advertentie te zien zal zijn na het betaling."
+
+#: String 446
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Hoeveel de gebruiker moet betalen om een ​​advertentie te highlighten"
+
+#: String 447
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Hoeveel de gebruiker moet betalen om de advertentie naar de top te verplaatsen"
+
+#: String 448
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Hoe vaak we de RSS vernieuwen, in seconden"
+
+#: String 449
+msgid "How to configure %s"
+msgstr ""
+
+#: String 450
+msgid "HTML in footer"
+msgstr ""
+
+#: String 451
+msgid "HTML in HEAD element"
+msgstr ""
+
+#: String 452
+msgid "HTML text area"
+msgstr ""
+
+#: String 453
+msgid "HTML/text content here"
+msgstr "HTML / tekstinhoud hier"
+
+#: String 454
+msgid "I accept"
+msgstr ""
+
+#: String 455
+msgid "Icon"
+msgstr ""
+
+#: String 456
+msgid "Icon deleted."
+msgstr ""
+
+#: String 457
+msgid "Icon file could not been saved."
+msgstr ""
+
+#: String 458
+msgid "Icon is uploaded."
+msgstr ""
+
+#: String 459
+msgid "Id"
+msgstr "Id"
+
+#: String 460
+msgid "Id_User"
+msgstr "Id_User"
+
+#: String 461
+msgid "If advertisement is marked as spam, user is also marked. Can not publish new ads or register until removed from Black List! Also will not allow users from disposable email addresses to register."
+msgstr ""
+
+#: String 462
+msgid "If you have doubts check the release notes for this version"
+msgstr ""
+
+#: String 463
+msgid "If your locale is not listed, be sure your hosting has your locale installed."
+msgstr ""
+
+#: String 464
+msgid "If you wanted to go to the main page instead, click here."
+msgstr ""
+
+#: String 465
+msgid "Image"
+msgstr ""
+
+#: String 466
+msgid "Image Configuration"
+msgstr ""
+
+#: String 467
+msgid "Image Configuration updated"
+msgstr ""
+
+#: String 468
+msgid "Image configuration values. Replace input fields with new desired values"
+msgstr ""
+
+#: String 469
+msgid "Image folder is missing and cannot be created with mkdir. Please correct to be able to upload images."
+msgstr ""
+
+#: String 470
+msgid "Image height"
+msgstr "Hoogte van het beeld"
+
+#: String 471
+msgid "Image height in pixels(px)"
+msgstr "Hoogte van het beeld in pixels (px)"
+
+#: String 472
+msgid "Image is not valid. Please try again."
+msgstr ""
+
+#: String 473
+msgid "Image is uploaded."
+msgstr ""
+
+#: String 474
+msgid "Image quality"
+msgstr "Beeldkwaliteit"
+
+#: String 475
+msgid "Image Quality"
+msgstr "Beeldkwaliteit"
+
+#: String 476
+msgid "Images"
+msgstr "Afbeeldingen"
+
+#: String 477
+msgid "images allowed."
+msgstr ""
+
+#: String 478
+msgid "Image size in mega bites(Mb)"
+msgstr "De beeldgrootte in mega bites (Mb)"
+
+#: String 479
+msgid "Image width"
+msgstr "Beeldbreedte"
+
+#: String 480
+msgid "Image width in pixels(px)"
+msgstr "Breedte afbeelding in pixels (px)"
+
+#: String 481
+msgid "import Categories"
+msgstr ""
+
+#: String 482
+msgid "import Locations"
+msgstr ""
+
+#: String 483
+msgid "Import tool"
+msgstr ""
+
+#: String 484
+msgid "Import tool for locations and categories"
+msgstr ""
+
+#: String 485
+msgid "in"
+msgstr ""
+
+#: String 486
+msgid "in "
+msgstr ""
+
+#: String 487
+msgid "Inactive Region Color"
+msgstr ""
+
+#: String 488
+msgid "Included files"
+msgstr "Opgenomen bestanden"
+
+#: String 489
+msgid "Include search by description"
+msgstr ""
+
+#: String 490
+msgid "Increment Step"
+msgstr ""
+
+#: String 491
+msgid "Infinite scroll"
+msgstr ""
+
+#: String 492
+msgid "Info"
+msgstr "Info"
+
+#: String 493
+msgid "Install theme"
+msgstr ""
+
+#: String 494
+msgid "Install theme from license."
+msgstr ""
+
+#: String 495
+msgid "In Stock"
+msgstr ""
+
+#: String 496
+msgid "Interactive map"
+msgstr ""
+
+#: String 497
+msgid "Interactive Map"
+msgstr ""
+
+#: String 498
+msgid "Interactive map is only available with premium themes!"
+msgstr ""
+
+#: String 499
+msgid "Interactive Regions"
+msgstr ""
+
+#: String 500
+msgid "Interactivity"
+msgstr ""
+
+#: String 501
+msgid "Invalid Email"
+msgstr ""
+
+#: String 502
+msgid "Ip address"
+msgstr "Ip adres"
+
+#: String 503
+msgid "is created"
+msgstr ""
+
+#: String 504
+msgid "is edited"
+msgstr ""
+
+#: String 505
+msgid "is not found"
+msgstr ""
+
+#: String 506
+msgid "Is not of valid size. Size is limited to %s MB per image"
+msgstr ""
+
+#: String 507
+msgid "Is not valid format, please use ZIP format"
+msgstr ""
+
+#: String 508
+msgid "It changes landing page of website"
+msgstr ""
+
+#: String 509
+msgid "Item created"
+msgstr "Item gecreëerd"
+
+#: String 510
+msgid "# items to display"
+msgstr "# Items om te tonen"
+
+#: String 511
+msgid "Item updated"
+msgstr "Item updates"
+
+#: String 512
+msgid "It is either not existing, moved or deleted. Make sure the URL is correct."
+msgstr ""
+
+#: String 513
+msgid "It looks like you have been about to publish a new advertisement, if you leave before submitting your changes will be lost."
+msgstr ""
+
+#: String 514
+msgid "It will be the first line of the tooltip."
+msgstr ""
+
+#: String 515
+msgid "It will be the second line of the tooltip."
+msgstr ""
+
+#: String 516
+msgid "Jobs"
+msgstr ""
+
+#: String 517
+msgid "Keep Aspect Ratio"
+msgstr ""
+
+#: String 518
+msgid "Key"
+msgstr ""
+
+#: String 519
+msgid "Label"
+msgstr ""
+
+#: String 520
+msgid "Landing page"
+msgstr ""
+
+#: String 521
+msgid "Language"
+msgstr "Taal"
+
+#: String 522
+msgid "Language folder cannot be created with mkdir. Please correct to be able to create new translation."
+msgstr ""
+
+#: String 523
+msgid "Language saved"
+msgstr "Taal opgeslagen"
+
+#: String 524
+msgid "Last"
+msgstr "Laatste"
+
+#: String 525
+msgid "Last 30 days"
+msgstr "Laatste 30 dagen"
+
+#: String 526
+msgid "Last login"
+msgstr "Laatst ingelogd"
+
+#: String 527
+msgid "Last Login"
+msgstr "Laatst ingelogd"
+
+#: String 528
+msgid "Last Message"
+msgstr ""
+
+#: String 529
+msgid "Last modified"
+msgstr "Laatst gewijzigd"
+
+#: String 530
+msgid "Last time generated"
+msgstr "Laatste keer gegenereerd"
+
+#: String 531
+msgid "Latest"
+msgstr "Laatste"
+
+#: String 532
+msgid "Latest Ads"
+msgstr "Laatste Advertenties"
+
+#: String 533
+msgid "Latest News"
+msgstr "Laatste Nieuws"
+
+#: String 534
+msgid "Latest post published"
+msgstr ""
+
+#: String 535
+msgid "Latest published"
+msgstr "Laatst gepubliceerde"
+
+#: String 536
+msgid "Latest Published Ads"
+msgstr ""
+
+#: String 537
+msgid "Latitude coordinates"
+msgstr ""
+
+#: String 538
+msgid "Leave a review"
+msgstr ""
+
+#: String 539
+msgid "Left side"
+msgstr "Linkerzijde"
+
+#: String 540
+msgid "less than a day"
+msgstr ""
+
+#: String 541
+msgid "less than a month"
+msgstr ""
+
+#: String 542
+msgid "less than an hour"
+msgstr ""
+
+#: String 543
+msgid "less than a week"
+msgstr ""
+
+#: String 544
+msgid "less than a year"
+msgstr ""
+
+#: String 545
+msgid "license"
+msgstr ""
+
+#: String 546
+msgid "License"
+msgstr ""
+
+#: String 547
+msgid "License validation error, please insert again."
+msgstr ""
+
+#: String 548
+msgid "Limited Offer!"
+msgstr "Tijdelijke actie!"
+
+#: String 549
+msgid "Links"
+msgstr ""
+
+#: String 550
+msgid "Links title displayed"
+msgstr ""
+
+#: String 551
+msgid "List"
+msgstr "Lijst"
+
+#: String 552
+msgid "listing"
+msgstr "Lijst"
+
+#: String 553
+msgid "Listing"
+msgstr "Lijsten"
+
+#: String 554
+msgid "Listing Options"
+msgstr ""
+
+#: String 555
+msgid "Listing random position banner, allows HTML"
+msgstr ""
+
+#: String 556
+msgid "Listings"
+msgstr "Lijsten"
+
+#: String 557
+msgid "List of all postings in"
+msgstr ""
+
+#: String 558
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Lijst van betalings configuratie waarden. Vervang invoervelden met nieuwe gewenste waarden."
+
+#: String 559
+msgid "Loaded extensions"
+msgstr "Geladen extensies"
+
+#: String 560
+msgid "locale"
+msgstr ""
+
+#: String 561
+msgid "Locale"
+msgstr ""
+
+#: String 562
+msgid "location"
+msgstr ""
+
+#: String 563
+msgid "Location"
+msgstr "Plaats"
+
+#: String 564
+msgid "Location created"
+msgstr ""
+
+#: String 565
+msgid "Location deleted"
+msgstr "Locatie verwijderd"
+
+#: String 566
+msgid "Location icon"
+msgstr ""
+
+#: String 567
+msgid "Location not deleted"
+msgstr "Locatie niet verwijderd"
+
+#: String 568
+msgid "Locations"
+msgstr "Locaties"
+
+#: String 569
+msgid "Locations title displayed"
+msgstr "Titel van locaties weergegeven"
+
+#: String 570
+msgid "Log"
+msgstr "Logboek"
+
+#: String 571
+msgid "Login"
+msgstr "Inloggen"
+
+#: String 572
+msgid "Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in 24 hours."
+msgstr ""
+
+#: String 573
+msgid "Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in a minute."
+msgstr ""
+
+#: String 574
+msgid "Login to"
+msgstr ""
+
+#: String 575
+msgid "Login to reply"
+msgstr ""
+
+#: String 576
+msgid "Logout"
+msgstr "Afmelden"
+
+#: String 577
+msgid "Logs"
+msgstr "Logs"
+
+#: String 578
+msgid "Longitude coordinates"
+msgstr ""
+
+#: String 579
+msgid "Mail not sent"
+msgstr "Mail niet verzonden"
+
+#: String 580
+msgid "maintenance"
+msgstr "onderhoud"
+
+#: String 581
+msgid "Maintenance"
+msgstr ""
+
+#: String 582
+msgid "Maintenance Mode"
+msgstr "Maintenance Mode"
+
+#: String 583
+msgid "Make featured?"
+msgstr "Highlight?"
+
+#: String 584
+msgid "Manage ads you published and edit them through this tab, you can also ask to feature or place your ad to top here."
+msgstr ""
+
+#: String 585
+msgid "MANDATORY"
+msgstr ""
+
+#: String 586
+msgid "map"
+msgstr "kaart"
+
+#: String 587
+msgid "Map"
+msgstr "Kaart"
+
+#: String 588
+msgid "Map Border Color"
+msgstr ""
+
+#: String 589
+msgid "Map Border Width (px)"
+msgstr ""
+
+#: String 590
+msgid "Map height in pixels"
+msgstr "Kaart hoogte in pixels"
+
+#: String 591
+msgid "Map latitude coordinates"
+msgstr ""
+
+#: String 592
+msgid "Map longitude coordinates"
+msgstr ""
+
+#: String 593
+msgid "Map on homepage"
+msgstr ""
+
+#: String 594
+msgid "Map saved."
+msgstr ""
+
+#: String 595
+msgid "Map Settings"
+msgstr ""
+
+#: String 596
+msgid "Map title displayed"
+msgstr "Titel kaart weergegeven "
+
+#: String 597
+msgid "Markers (Coordinates)"
+msgstr ""
+
+#: String 598
+msgid "Markers (Text Location)"
+msgstr ""
+
+#: String 599
+msgid "Market"
+msgstr "Markt"
+
+#: String 600
+msgid "Max image size"
+msgstr "Max beeldgrootte"
+
+#: String 601
+msgid "Maximum file size of"
+msgstr ""
+
+#: String 602
+msgid "Maximum Price"
+msgstr ""
+
+#: String 603
+msgid "Max Price"
+msgstr ""
+
+#: String 604
+msgid "Menu"
+msgstr "Menu"
+
+#: String 605
+msgid "Menu created"
+msgstr ""
+
+#: String 606
+msgid "Menu deleted"
+msgstr ""
+
+#: String 607
+msgid "Menu not created"
+msgstr ""
+
+#: String 608
+msgid "Menu not updated"
+msgstr ""
+
+#: String 609
+msgid "Menu type"
+msgstr ""
+
+#: String 610
+msgid "Menu updated"
+msgstr ""
+
+#: String 611
+msgid "Message"
+msgstr "Bericht"
+
+#: String 612
+msgid "Message not sent"
+msgstr "Bericht niet verzonden"
+
+#: String 613
+msgid "Migrate"
+msgstr "Migreren"
+
+#: String 614
+msgid "Migration"
+msgstr "Migratie"
+
+#: String 615
+msgid "Minimum Price"
+msgstr ""
+
+#: String 616
+msgid "Min Price"
+msgstr ""
+
+#: String 617
+msgid "Mobile Theme updated"
+msgstr "Mobile Theme bijgewerkt"
+
+#: String 618
+msgid "Mobile Version"
+msgstr "Mobiele versie"
+
+#: String 619
+msgid "Moderation"
+msgstr "Matiging"
+
+#: String 620
+msgid "Moderation on"
+msgstr ""
+
+#: String 621
+msgid "moments"
+msgstr ""
+
+#: String 622
+msgid "Money format"
+msgstr ""
+
+#: String 623
+msgid "My Advertisement page "
+msgstr "Mijn advertentie pagina"
+
+#: String 624
+msgid "My Advertisements"
+msgstr "Mijn Advertenties"
+
+#: String 625
+msgid "My Favorites"
+msgstr "Mijn Favorieten"
+
+#: String 626
+msgid "My payments"
+msgstr "Mijn betalingen"
+
+#: String 627
+msgid "My Payments"
+msgstr "Mijn Betalingen"
+
+#: String 628
+msgid "Name"
+msgstr "Naam"
+
+#: String 629
+msgid "Name (A-Z)"
+msgstr "Naam (A-Z)"
+
+#: String 630
+msgid "Name is mandatory. But seoname is not, if not provided it is automatically generated"
+msgstr ""
+
+#: String 631
+msgid "Name of your chat room/channel"
+msgstr ""
+
+#: String 632
+msgid "Name (Z-A)"
+msgstr "Naam (Z-A)"
+
+#: String 633
+msgid "New"
+msgstr "Nieuw"
+
+#: String 634
+msgid " New"
+msgstr "Nieuw"
+
+#: String 635
+msgid "New Advertisement"
+msgstr "Nieuwe Advertentie"
+
+#: String 636
+msgid "New Category"
+msgstr ""
+
+#: String 637
+msgid "New Custom Field"
+msgstr ""
+
+#: String 638
+msgid "New Custom Field for Advertisement"
+msgstr ""
+
+#: String 639
+msgid "Newest"
+msgstr "Nieuwste"
+
+#: String 640
+msgid "New field"
+msgstr ""
+
+#: String 641
+msgid "New forum"
+msgstr ""
+
+#: String 642
+msgid "New Forum"
+msgstr ""
+
+#: String 643
+msgid "New Forum Topic"
+msgstr ""
+
+#: String 644
+msgid "New Location"
+msgstr ""
+
+#: String 645
+msgid "New password"
+msgstr "Nieuw wachtwoord"
+
+#: String 646
+msgid "Newsletter"
+msgstr "Nieuwsbrief"
+
+#: String 647
+msgid "Newsletters"
+msgstr "Nieuwsbrieven"
+
+#: String 648
+msgid "New tab or window"
+msgstr ""
+
+#: String 649
+msgid "new topic"
+msgstr ""
+
+#: String 650
+msgid "New Topic"
+msgstr ""
+
+#: String 651
+msgid "New Topic is not available as a feature."
+msgstr ""
+
+#: String 652
+msgid "New translation"
+msgstr "Nieuwe vertaling"
+
+#: String 653
+msgid "Next"
+msgstr "Volgende"
+
+#: String 654
+msgid "Nieuwe Advertentie plaatsen"
+msgstr ""
+
+#: String 655
+msgid "Nieuwste Advertenties"
+msgstr ""
+
+#: String 656
+msgid "No"
+msgstr "Geen"
+
+#: String 657
+msgid "None"
+msgstr ""
+
+#: String 658
+msgid "None (0) advertisement has been deleted"
+msgstr ""
+
+#: String 659
+msgid "NOPUBLISHED"
+msgstr ""
+
+#: String 660
+msgid "No results match"
+msgstr ""
+
+#: String 661
+msgid "No Subscriptions"
+msgstr ""
+
+#: String 662
+msgid "Nothing found, sorry!"
+msgstr ""
+
+#: String 663
+msgid "Nothing is provided"
+msgstr "Er is niets voorzien"
+
+#: String 664
+msgid "Notify email"
+msgstr "Notificatie-email"
+
+#: String 665
+msgid "Notify me on new ad"
+msgstr ""
+
+#: String 666
+msgid "Not paid"
+msgstr ""
+
+#: String 667
+msgid "Not possible to auto update"
+msgstr ""
+
+#: String 668
+msgid "Not published"
+msgstr "Niet gepubliceerd"
+
+#: String 669
+msgid "Not valid email."
+msgstr ""
+
+#: String 670
+msgid "Not valid user email."
+msgstr ""
+
+#: String 671
+msgid "No way!"
+msgstr ""
+
+#: String 672
+msgid "Number"
+msgstr ""
+
+#: String 673
+msgid "Number Decimal"
+msgstr ""
+
+#: String 674
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Nummer formaat is hoe u de nummers gerelateerd aan advertenties wilt weergeven. Meer specifieke advertentie prijs. Elk land heeft een specifieke manier van omgaan met decimale cijfers."
+
+#: String 675
+msgid "Number of Ads"
+msgstr "Aantal advertenties"
+
+#: String 676
+msgid "Number of ads per page"
+msgstr "Aantal advertenties per pagina"
+
+#: String 677
+msgid "Number of ads to display"
+msgstr "Aantal getoonde advertenties"
+
+#: String 678
+msgid "Number of comments to display"
+msgstr "Aantal getoonde opmerkingen"
+
+#: String 679
+msgid "Number of images"
+msgstr "Aantal afbeeldingen"
+
+#: String 680
+msgid "Number of images displayed"
+msgstr "Aantal beelden weergegeven"
+
+#: String 681
+msgid "Number of items to display"
+msgstr ""
+
+#: String 682
+msgid "Numbers of ads to display in home slider"
+msgstr "Aantal advertenties weergeven in de home slider"
+
+#: String 683
+msgid "official homepage, get your post listed now."
+msgstr ""
+
+#: String 684
+msgid "OK"
+msgstr ""
+
+#: String 685
+msgid "Oldest"
+msgstr "Oudste"
+
+#: String 686
+msgid "on"
+msgstr ""
+
+#: String 687
+msgid "Once logged in your Google Analytics, you can find the Tracking ID in the Accounts List or in the Property Settings"
+msgstr ""
+
+#: String 688
+msgid "Once set to TRUE, enables blog posts"
+msgstr ""
+
+#: String 689
+msgid "Once set to TRUE, enables FAQ"
+msgstr ""
+
+#: String 690
+msgid "Once set to TRUE, enables forums posts"
+msgstr ""
+
+#: String 691
+msgid "Once set to TRUE, enables search to look for key words in description"
+msgstr ""
+
+#: String 692
+msgid "Only Admin"
+msgstr ""
+
+#: String 693
+msgid "Only administrators can publish"
+msgstr ""
+
+#: String 694
+msgid "only available with premium themes!"
+msgstr ""
+
+#: String 695
+msgid "Only for paid transactions"
+msgstr ""
+
+#: String 696
+msgid "Only if you have a premium theme you will be able to filter by users!"
+msgstr ""
+
+#: String 697
+msgid "Open Classifieds is an amazing free Open Source Software. With a small donation you are helping us keep the project alive and updated. Thanks!"
+msgstr ""
+
+#: String 698
+msgid "Open Classifieds migration"
+msgstr "Open Classifieds migratie"
+
+#: String 699
+msgid "Open Classifieds release history information."
+msgstr "Informatie over Open Classifieds' vorige releases."
+
+#: String 700
+msgid "Open URL (new window)"
+msgstr ""
+
+#: String 701
+msgid "Open URL (same window)"
+msgstr ""
+
+#: String 702
+msgid "Optimize"
+msgstr "Optimaliseren"
+
+#: String 703
+msgid "Optimize Database"
+msgstr "Optimaliseer Database"
+
+#: String 704
+msgid "Optimize DB"
+msgstr " DB optimaliseren"
+
+#: String 705
+msgid "Optional Advertisement Fields"
+msgstr ""
+
+#: String 706
+msgid "Optional Fields"
+msgstr ""
+
+#: String 707
+msgid "Options"
+msgstr "Opties"
+
+#: String 708
+msgid "or"
+msgstr ""
+
+#: String 709
+msgid "Or"
+msgstr ""
+
+#: String 710
+msgid "Order"
+msgstr "Order"
+
+#: String 711
+msgid "Order could not be loaded"
+msgstr "Order kan niet worden geladen"
+
+#: String 712
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: String 713
+msgid "Original Translation"
+msgstr "Originele Vertaling"
+
+#: String 714
+msgid "Other"
+msgstr "Ander"
+
+#: String 715
+msgid "page"
+msgstr ""
+
+#: String 716
+msgid "Page"
+msgstr "Pagina"
+
+#: String 717
+msgid "Page "
+msgstr "Pagina"
+
+#: String 718
+msgid "Page not found"
+msgstr ""
+
+#: String 719
+msgid "Page Not Found"
+msgstr ""
+
+#: String 720
+msgid "Pages"
+msgstr "Pagina's"
+
+#: String 721
+msgid "Page title displayed"
+msgstr "Paginatitel weergegeven"
+
+#: String 722
+msgid "Paid"
+msgstr ""
+
+#: String 723
+msgid "Panel"
+msgstr "Paneel"
+
+#: String 724
+msgid "Paramater for the action."
+msgstr ""
+
+#: String 725
+msgid "Parent"
+msgstr "Parent"
+
+#: String 726
+msgid "Parent category"
+msgstr ""
+
+#: String 727
+msgid "parent_category field"
+msgstr ""
+
+#: String 728
+msgid "Parent deep"
+msgstr "Parent deep"
+
+#: String 729
+msgid "Parent frame"
+msgstr ""
+
+#: String 730
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: String 731
+msgid "Password is changed"
+msgstr "Wachtwoord is gewijzigd"
+
+#: String 732
+msgid "Passwords do not match"
+msgstr "Wachtwoorden komen niet overeen"
+
+#: String 733
+msgid "Pay"
+msgstr ""
+
+#: String 734
+msgid "Payment"
+msgstr "Betaling"
+
+#: String 735
+msgid "Payment on"
+msgstr ""
+
+#: String 736
+msgid "Payments"
+msgstr "Betalingen"
+
+#: String 737
+msgid "Payments Configuration"
+msgstr "Betalingen Configuratie"
+
+#: String 738
+msgid "Payments Configuration updated"
+msgstr ""
+
+#: String 739
+msgid "Payment with Moderation"
+msgstr ""
+
+#: String 740
+msgid "Paymill private key"
+msgstr ""
+
+#: String 741
+msgid "Paymill public key"
+msgstr ""
+
+#: String 742
+msgid "Paypal account"
+msgstr "Paypal account"
+
+#: String 743
+msgid "Paypal Email"
+msgstr ""
+
+#: String 744
+msgid "Paypal link stock control"
+msgstr ""
+
+#: String 745
+msgid "Paypal mail address"
+msgstr "Paypal emailadres"
+
+#: String 746
+msgid "Pay with Bitcoin"
+msgstr ""
+
+#: String 747
+msgid "Pay with Card"
+msgstr ""
+
+#: String 748
+msgid "Pay With Card"
+msgstr ""
+
+#: String 749
+msgid "Pay with Credit Card"
+msgstr ""
+
+#: String 750
+msgid "Pay with Paypal"
+msgstr ""
+
+#: String 751
+msgid "Phone"
+msgstr "Telefoon"
+
+#: String 752
+msgid "Phone field"
+msgstr "Telefoon veld"
+
+#: String 753
+msgid "Photo deleted."
+msgstr ""
+
+#: String 754
+msgid "PHP Info"
+msgstr "PHP Info"
+
+#: String 755
+msgid "PHP internal call"
+msgstr ""
+
+#: String 756
+msgid "Please be sure you are using a currency that your payment gateway supports."
+msgstr ""
+
+#: String 757
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: String 758
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: String 759
+msgid "Please enter a valid date."
+msgstr ""
+
+#: String 760
+msgid "Please enter a valid date (ISO)."
+msgstr ""
+
+#: String 761
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: String 762
+msgid "Please enter a valid format."
+msgstr ""
+
+#: String 763
+msgid "Please enter a valid number."
+msgstr ""
+
+#: String 764
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: String 765
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: String 766
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: String 767
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: String 768
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: String 769
+msgid "Please enter a value with a valid extension."
+msgstr ""
+
+#: String 770
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: String 771
+msgid "Please enter only digits."
+msgstr ""
+
+#: String 772
+msgid "Please enter the same value again."
+msgstr ""
+
+#: String 773
+msgid "Please fill your card details."
+msgstr ""
+
+#: String 774
+msgid "Please, first create some categories."
+msgstr ""
+
+#: String 775
+msgid "Please, first create some Forums."
+msgstr ""
+
+#: String 776
+msgid "Please fix this field."
+msgstr ""
+
+#: String 777
+msgid "Please insert here the license for your theme."
+msgstr ""
+
+#: String 778
+msgid "Please insert here your custom CSS."
+msgstr ""
+
+#: String 779
+msgid "Please, login before contacting"
+msgstr ""
+
+#: String 780
+msgid "Please login before posting"
+msgstr ""
+
+#: String 781
+msgid "Please, login before posting advertisement!"
+msgstr ""
+
+#: String 782
+msgid "Please to see the changes delete the cache"
+msgstr ""
+
+#: String 783
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Een moment geduld aub terwijl wij u overbrengen naar Paypal"
+
+#: String 784
+msgid "Popular Ads last month"
+msgstr "Populaire advertenties van afgelopen maand"
+
+#: String 785
+msgid "Post directly"
+msgstr ""
+
+#: String 786
+msgid "Posting advertisements is not yet available."
+msgstr ""
+
+#: String 787
+msgid "Post in paid category"
+msgstr ""
+
+#: String 788
+msgid "Post Review"
+msgstr ""
+
+#: String 789
+msgid "Preview"
+msgstr "Voorbeeld"
+
+#: String 790
+msgid "Previous"
+msgstr "Vorige"
+
+#: String 791
+msgid "Price"
+msgstr "Prijs"
+
+#: String 792
+msgid "Price field"
+msgstr "Prijsveld"
+
+#: String 793
+msgid "Price for featuring the Ad"
+msgstr "Prijs voor de advertentie te highlighten"
+
+#: String 794
+msgid "Price from"
+msgstr "Prijs vanaf"
+
+#: String 795
+msgid "Price (High)"
+msgstr "Prijs (Hoog)"
+
+#: String 796
+msgid "Price (Low)"
+msgstr "Prijs (Laag)"
+
+#: String 797
+msgid "Price to"
+msgstr "Prijs vanaf"
+
+#: String 798
+msgid "Pricing"
+msgstr "Prijzen"
+
+#: String 799
+msgid "Prijs"
+msgstr ""
+
+#: String 800
+msgid "Proceed with Update"
+msgstr ""
+
+#: String 801
+msgid "Processing..."
+msgstr "In behandeling"
+
+#: String 802
+msgid "Product"
+msgstr ""
+
+#: String 803
+msgid "Product could not be loaded"
+msgstr ""
+
+#: String 804
+msgid "Profile"
+msgstr "Profiel"
+
+#: String 805
+msgid "Profile image"
+msgstr "Profielfoto"
+
+#: String 806
+msgid "Profile Options"
+msgstr "Profiel opties"
+
+#: String 807
+msgid "Profile picture"
+msgstr "Profielfoto"
+
+#: String 808
+msgid "Profile Picture"
+msgstr "Profielfoto"
+
+#: String 809
+msgid "Providing akismet key will activate this feature. This feature deals with spam posts and emails."
+msgstr ""
+
+#: String 810
+msgid "Public profile"
+msgstr "Publiek profiel"
+
+#: String 811
+msgid "Publish Date"
+msgstr "Publicatie Datum"
+
+#: String 812
+msgid "Published"
+msgstr "Gepubliceerd"
+
+#: String 813
+msgid "PUBLISHED"
+msgstr "Gepubliceerd"
+
+#: String 814
+msgid "publish new"
+msgstr "publiceer nieuw"
+
+#: String 815
+msgid "Publish new"
+msgstr "Publiceer nieuw"
+
+#: String 816
+msgid "Publish new "
+msgstr "Publiceer nieuw"
+
+#: String 817
+msgid "Publish new advertisement"
+msgstr "Publiceer nieuwe advertentie"
+
+#: String 818
+msgid "Publish new topic"
+msgstr ""
+
+#: String 819
+msgid "Publish Options"
+msgstr ""
+
+#: String 820
+msgid "Purchase"
+msgstr ""
+
+#: String 821
+msgid "Put your website on maintenance mode until you want to launch it, manage other general settings and create custom fields through this tab."
+msgstr ""
+
+#: String 822
+msgid "Quick category creator."
+msgstr ""
+
+#: String 823
+msgid "Quick location creator."
+msgstr ""
+
+#: String 824
+msgid "Radio"
+msgstr ""
+
+#: String 825
+msgid "Rate"
+msgstr ""
+
+#: String 826
+msgid "Rating"
+msgstr ""
+
+#: String 827
+msgid "Read carefully"
+msgstr ""
+
+#: String 828
+msgid "Reading log file"
+msgstr "Lezen logbestand"
+
+#: String 829
+msgid "Read more"
+msgstr "Lees meer"
+
+#: String 830
+msgid "Real State"
+msgstr ""
+
+#: String 831
+msgid "reCAPTCHA Configuration"
+msgstr ""
+
+#: String 832
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: String 833
+msgid "reCAPTCHA Secret Key"
+msgstr ""
+
+#: String 834
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: String 835
+msgid "reCAPTCHA Site Key"
+msgstr ""
+
+#: String 836
+msgid "Refresh listing, go to top?"
+msgstr "Lijst vernieuwen, ga naar boven?"
+
+#: String 837
+msgid "Regional Settings"
+msgstr ""
+
+#: String 838
+msgid "Region Code:"
+msgstr ""
+
+#: String 839
+msgid "Regions"
+msgstr ""
+
+#: String 840
+msgid "Region to Display"
+msgstr ""
+
+#: String 841
+msgid "Register"
+msgstr "Registreren"
+
+#: String 842
+msgid "Register new user"
+msgstr "Registreer nieuwe gebruiker"
+
+#: String 843
+msgid "Related ads"
+msgstr "Ook interressant"
+
+#: String 844
+msgid "Relative path to the image to use as watermark"
+msgstr ""
+
+#: String 845
+msgid "Release Date"
+msgstr ""
+
+#: String 846
+msgid "Release Notes"
+msgstr ""
+
+#: String 847
+msgid "Remember me"
+msgstr "Onthoud mij"
+
+#: String 848
+msgid "Remember password"
+msgstr "Onthoud wachtwoord"
+
+#: String 849
+msgid "Remove"
+msgstr ""
+
+#: String 850
+msgid "Repeat password"
+msgstr "Herhaal wachtwoord"
+
+#: String 851
+msgid "Replacement of a banned word"
+msgstr ""
+
+#: String 852
+msgid "Replies"
+msgstr ""
+
+#: String 853
+msgid "Reply"
+msgstr ""
+
+#: String 854
+msgid "Reply added, thanks!"
+msgstr ""
+
+#: String 855
+msgid "Reply here"
+msgstr ""
+
+#: String 856
+msgid "required"
+msgstr ""
+
+#: String 857
+msgid "Required"
+msgstr ""
+
+#: String 858
+msgid "Required field to submit a new ad."
+msgstr ""
+
+#: String 859
+msgid "Require login to contact"
+msgstr ""
+
+#: String 860
+msgid "Require login to post"
+msgstr ""
+
+#: String 861
+msgid "Require only the logged in users to contact."
+msgstr ""
+
+#: String 862
+msgid "Require only the logged in users to post."
+msgstr ""
+
+#: String 863
+msgid "Requires address to pay for extra security"
+msgstr ""
+
+#: String 864
+msgid "Restricts likely nude pictures that are being uploaded to your server."
+msgstr ""
+
+#: String 865
+msgid "Review"
+msgstr ""
+
+#: String 866
+msgid "Review database connection parameters"
+msgstr "Bekijk database connectie parameters"
+
+#: String 867
+msgid "reviews"
+msgstr ""
+
+#: String 868
+msgid "Reviews"
+msgstr ""
+
+#: String 869
+msgid "Reviews are only available with premium themes!"
+msgstr ""
+
+#: String 870
+msgid "Reviews Configuration"
+msgstr ""
+
+#: String 871
+msgid "Reviews for paid transactions"
+msgstr ""
+
+#: String 872
+msgid "Right side"
+msgstr "Rechterzijde"
+
+#: String 873
+msgid "Role"
+msgstr "Rol"
+
+#: String 874
+msgid "Roles"
+msgstr ""
+
+#: String 875
+msgid "Rows"
+msgstr "Rijen"
+
+#: String 876
+msgid "rss"
+msgstr ""
+
+#: String 877
+msgid "RSS"
+msgstr "RSS"
+
+#: String 878
+msgid "RSS reader with cache"
+msgstr "RSS-lezer met cache"
+
+#: String 879
+msgid "RSS title displayed"
+msgstr "RSS titel weergegeven"
+
+#: String 880
+msgid "RSS url address"
+msgstr "RSS url adres"
+
+#: String 881
+msgid "S3 Domain Name"
+msgstr ""
+
+#: String 882
+msgid "Sales"
+msgstr "Sales"
+
+#: String 883
+msgid "Sales statistics"
+msgstr "Verkoopstatistieken"
+
+#: String 884
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 885
+msgid "Save"
+msgstr "Bewaren"
+
+#: String 886
+msgid "Save changes"
+msgstr "Wijzigingen opslaan"
+
+#: String 887
+msgid "Saved"
+msgstr "Opgeslagen"
+
+#: String 888
+msgid "Save size"
+msgstr "Grootte opslaan"
+
+#: String 889
+msgid "Scan"
+msgstr "Scannen"
+
+#: String 890
+msgid "%s copied from %s to %s"
+msgstr ""
+
+#: String 891
+msgid "search"
+msgstr "zoeken"
+
+#: String 892
+msgid "Search"
+msgstr "Zoeken"
+
+#: String 893
+msgid "searchable"
+msgstr ""
+
+#: String 894
+msgid "Searchable"
+msgstr ""
+
+#: String 895
+msgid "Search FAQs"
+msgstr ""
+
+#: String 896
+msgid "Search in"
+msgstr ""
+
+#: String 897
+msgid "Search in ads will include this field as well."
+msgstr ""
+
+#: String 898
+msgid "Search results"
+msgstr ""
+
+#: String 899
+msgid "Search users by name or email"
+msgstr ""
+
+#: String 900
+msgid "seconds"
+msgstr "seconden"
+
+#: String 901
+msgid "secret"
+msgstr ""
+
+#: String 902
+msgid "Seems a nude picture so you cannot upload it"
+msgstr ""
+
+#: String 903
+msgid "Select"
+msgstr ""
+
+#: String 904
+msgid "Select a forum"
+msgstr ""
+
+#: String 905
+msgid "Select an Option"
+msgstr ""
+
+#: String 906
+msgid "Select another category"
+msgstr ""
+
+#: String 907
+msgid "Select another location"
+msgstr ""
+
+#: String 908
+msgid "Select .csv file to upload categories or locations. Valid format must be:"
+msgstr ""
+
+#: String 909
+msgid "Selected Category"
+msgstr "Geselecteerde catagorie"
+
+#: String 910
+msgid "Selected Category does not exists, please select another one!"
+msgstr ""
+
+#: String 911
+msgid "Selected location"
+msgstr "Selecteer uw regio"
+
+#: String 912
+msgid "Selected Location"
+msgstr "Selecteer uw Regio"
+
+#: String 913
+msgid "Selected Location does not exists, please select another one!"
+msgstr ""
+
+#: String 914
+msgid "Select from files"
+msgstr ""
+
+#: String 915
+msgid "Selection of nice extras for your installation."
+msgstr "Selectie van leuke extra's voor uw installatie."
+
+#: String 916
+msgid "Select some categories first."
+msgstr ""
+
+#: String 917
+msgid "Select some locations first."
+msgstr ""
+
+#: String 918
+msgid "Select Some Options"
+msgstr ""
+
+#: String 919
+msgid "Send"
+msgstr "Versturen"
+
+#: String 920
+msgid "Send Message"
+msgstr "Bericht verzenden"
+
+#: String 921
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 922
+msgid "seotitle"
+msgstr ""
+
+#: String 923
+msgid "Seotitle"
+msgstr ""
+
+#: String 924
+msgid "Seo Title"
+msgstr ""
+
+#: String 925
+msgid "SEO title"
+msgstr "SEO titel"
+
+#: String 926
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Zet dit op om de beeldformaten die worden geüpload naar uw server te beperken."
+
+#: String 927
+msgid "Settings"
+msgstr "Instellingen"
+
+#: String 928
+msgid "Set up your cron at your hosting / cPanel, every minute"
+msgstr ""
+
+#: String 929
+msgid "several decades"
+msgstr ""
+
+#: String 930
+msgid "Share"
+msgstr "Deel"
+
+#: String 931
+msgid "Share on social networks."
+msgstr "Deel via sociale netwerken"
+
+#: String 932
+msgid "Short description that appears after the site name."
+msgstr "Korte beschrijving die na de naam van de site verschijnt."
+
+#: String 933
+msgid "Show listing"
+msgstr ""
+
+#: String 934
+msgid "Show Listing"
+msgstr ""
+
+#: String 935
+msgid "Show QR code"
+msgstr ""
+
+#: String 936
+msgid "Show Tooltip"
+msgstr ""
+
+#: String 937
+msgid "Show translated texts"
+msgstr ""
+
+#: String 938
+msgid "Site currency"
+msgstr ""
+
+#: String 939
+msgid "Site description"
+msgstr "Sitebeschrijving"
+
+#: String 940
+msgid "Site Description"
+msgstr ""
+
+#: String 941
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: String 942
+msgid "Sitemap Configuration updated"
+msgstr "Sitemap configuratie bijgewerkt"
+
+#: String 943
+msgid "Site name"
+msgstr "Sitenaam"
+
+#: String 944
+msgid "Site Name"
+msgstr "Site Naam"
+
+#: String 945
+msgid "Site Statistics"
+msgstr ""
+
+#: String 946
+msgid "Site Usage Statistics"
+msgstr "Site Rapport"
+
+#: String 947
+msgid "Size"
+msgstr "Grootte"
+
+#: String 948
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 949
+msgid "Smtp active"
+msgstr "Smtp actief"
+
+#: String 950
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 951
+msgid "SMTP Configuration"
+msgstr ""
+
+#: String 952
+msgid "Smtp host"
+msgstr "Smtp gastheer"
+
+#: String 953
+msgid "Smtp password"
+msgstr "Smtp wachtwoord"
+
+#: String 954
+msgid "Smtp port"
+msgstr "Smtp poort"
+
+#: String 955
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 956
+msgid "Smtp user"
+msgstr "Smtp gebruiker"
+
+#: String 957
+msgid "Social Auth"
+msgstr ""
+
+#: String 958
+msgid "Social Authentication for login"
+msgstr ""
+
+#: String 959
+msgid "Social authentication is only available with premium themes!"
+msgstr ""
+
+#: String 960
+msgid "Social Authentication Settings"
+msgstr ""
+
+#: String 961
+msgid "Social Auth updated"
+msgstr ""
+
+#: String 962
+msgid "Social Login"
+msgstr ""
+
+#: String 963
+msgid "Software DB Updated to latest version!"
+msgstr ""
+
+#: String 964
+msgid "Some errors in the form"
+msgstr "Sommige fouten in het formulier"
+
+#: String 965
+msgid "Some errors were encountered, please check the details you entered."
+msgstr ""
+
+#: String 966
+msgid "Something went wrong, please check format of the file! Remove single quotes or strange characters, in case you have any."
+msgstr ""
+
+#: String 967
+msgid "Something went wrong uploading your logo"
+msgstr ""
+
+#: String 968
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Er ging iets mis met het uploaden van foto's, controleer aub het formaat"
+
+#: String 969
+msgid "Sorry, deleting %s locale emails is not allowed"
+msgstr ""
+
+#: String 970
+msgid "Sort"
+msgstr "Sorteren"
+
+#: String 971
+msgid "Sort by in listing"
+msgstr "Sorteren in lijst"
+
+#: String 972
+msgid "Space to optimize"
+msgstr "Ruimte om te optimaliseren"
+
+#: String 973
+msgid "Spam"
+msgstr "Spam"
+
+#: String 974
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 975
+msgid "SPAM"
+msgstr ""
+
+#: String 976
+msgid "Spam Sort"
+msgstr "Spam Sort"
+
+#: String 977
+msgid "Statistics"
+msgstr "Statistieken"
+
+#: String 978
+msgid "Stats"
+msgstr "Stats"
+
+#: String 979
+msgid "Status"
+msgstr "Status"
+
+#: String 980
+msgid "Stripe private key"
+msgstr ""
+
+#: String 981
+msgid "Stripe public key"
+msgstr ""
+
+#: String 982
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: String 983
+msgid "Submit"
+msgstr "Submit"
+
+#: String 984
+msgid "Subscribe"
+msgstr ""
+
+#: String 985
+msgid "Subscribed to emails"
+msgstr ""
+
+#: String 986
+msgid "Subscribe for categories"
+msgstr ""
+
+#: String 987
+msgid "Subscribe title displayed"
+msgstr ""
+
+#: String 988
+msgid "Subscriptions"
+msgstr "Abonnementen"
+
+#: String 989
+msgid "Success"
+msgstr "Succes"
+
+#: String 990
+msgid "Support"
+msgstr ""
+
+#: String 991
+msgid "Sure you want to delete the widget?"
+msgstr ""
+
+#: String 992
+msgid "Switch off custom CSS"
+msgstr ""
+
+#: String 993
+msgid "System logs"
+msgstr "Systeemlogs"
+
+#: String 994
+msgid "System Logs"
+msgstr "System Logs"
+
+#: String 995
+msgid "Table"
+msgstr "Tafel"
+
+#: String 996
+msgid "Table prefix"
+msgstr "Voorvoegsel tafel"
+
+#: String 997
+msgid "Table %s not found"
+msgstr ""
+
+#: String 998
+msgid "Target"
+msgstr ""
+
+#: String 999
+msgid "Telefoon"
+msgstr ""
+
+#: String 1000
+msgid "Terms of service"
+msgstr "Gebruiksvoorwaarden"
+
+#: String 1001
+msgid "Terms of Service"
+msgstr "Gebruiksvoorwaarden"
+
+#: String 1002
+msgid "Text"
+msgstr "Tekst"
+
+#: String 1003
+msgid "Text 256 Chars"
+msgstr ""
+
+#: String 1004
+msgid "Text Long"
+msgstr ""
+
+#: String 1005
+msgid "Text title displayed"
+msgstr "Titel van tekst weergegeven"
+
+#: String 1006
+msgid "Thanks for using Open Classifieds."
+msgstr "Bedankt voor het gebruik van Open Classifieds."
+
+#: String 1007
+msgid "Thanks for using our website."
+msgstr "Bedankt voor het gebruikmaken van onze website."
+
+#: String 1008
+msgid "Thanks for your payment!"
+msgstr ""
+
+#: String 1009
+msgid "Thanks for your review!"
+msgstr ""
+
+#: String 1010
+msgid "Thank you for subscribing"
+msgstr ""
+
+#: String 1011
+msgid "Theme activated, thanks."
+msgstr ""
+
+#: String 1012
+msgid "Theme configuration updated"
+msgstr "Configuratie thema bijgewerkt"
+
+#: String 1013
+msgid "Theme could not be downloaded"
+msgstr ""
+
+#: String 1014
+msgid "Theme downloaded"
+msgstr ""
+
+#: String 1015
+msgid "Theme License"
+msgstr ""
+
+#: String 1016
+msgid "Theme Options"
+msgstr "Thema opties"
+
+#: String 1017
+msgid "Themes"
+msgstr "Thema's"
+
+#: String 1018
+msgid "Themes Market"
+msgstr "Thema's Markt"
+
+#: String 1019
+msgid "Themes Updated"
+msgstr ""
+
+#: String 1020
+msgid "The paypal email address where the payments will be sent"
+msgstr "Het paypal e-mailadres waarvan de betalingen worden verzonden"
+
+#: String 1021
+msgid "The requested page"
+msgstr ""
+
+#: String 1022
+msgid "There was an error activating your license."
+msgstr ""
+
+#: String 1023
+msgid "This advertisement doesn´t exist, or is not yet published!"
+msgstr ""
+
+#: String 1024
+msgid "This email has been considered as spam! We are sorry but we can not send this email."
+msgstr ""
+
+#: String 1025
+msgid "This field is required."
+msgstr ""
+
+#: String 1026
+msgid "This is a list of users marked as spammers. To understand how this feature works, please read this article"
+msgstr ""
+
+#: String 1027
+msgid "This is not your advertisement."
+msgstr "Dit is niet uw advertentie."
+
+#: String 1028
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Dit is om te bepalen hoeveel advertenties worden weergegeven per pagina. Plaats een integere waarde als limiet."
+
+#: String 1029
+msgid "This license is in use in the theme %s"
+msgstr ""
+
+#: String 1030
+msgid "This order was already paid."
+msgstr ""
+
+#: String 1031
+msgid "This post has been considered as spam! We are sorry but we cant publish this advertisement."
+msgstr ""
+
+#: String 1032
+msgid "This process can take few minutes DO NOT interrupt it"
+msgstr ""
+
+#: String 1033
+msgid "Thumb height"
+msgstr "Duim hoogte"
+
+#: String 1034
+msgid "Thumb height in pixels(px)"
+msgstr "Duim hoogte in pixels (px)"
+
+#: String 1035
+msgid "Thumb is a small image resized to fit certain elements. This is the height for this image."
+msgstr ""
+
+#: String 1036
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Duim is een kleine afbeelding die wordt aangepast om in bepaalde elementen te passen. Dit is de breedte van het beeld."
+
+#: String 1037
+msgid "Thumb width"
+msgstr "Duimbreedte"
+
+#: String 1038
+msgid "Thumb width in pixels(px)"
+msgstr "Duimbreedte in pixels (px)"
+
+#: String 1039
+msgid "Tickets"
+msgstr ""
+
+#: String 1040
+msgid "Time Zone"
+msgstr "Tijdzone"
+
+#: String 1041
+msgid "title"
+msgstr ""
+
+#: String 1042
+msgid "Title"
+msgstr "Titel"
+
+#: String 1043
+msgid "Title:"
+msgstr ""
+
+#: String 1044
+msgid "Title displayed"
+msgstr "Titel weergegeven"
+
+#: String 1045
+msgid "to"
+msgstr "tot"
+
+#: String 1046
+msgid "To"
+msgstr "Tot"
+
+#: String 1047
+msgid "To buy this product you first need to register"
+msgstr ""
+
+#: String 1048
+msgid "To continue your experience with %s you can get back to the main website by clicking here."
+msgstr ""
+
+#: String 1049
+msgid "Today"
+msgstr "Vandaag"
+
+#: String 1050
+msgid "To get paid via Credit card you need a %s account"
+msgstr ""
+
+#: String 1051
+msgid "Toggle navigation"
+msgstr ""
+
+#: String 1052
+msgid "To go back to the previous page, click the Back button."
+msgstr ""
+
+#: String 1053
+msgid "To include your custom HTML code (reference to JS or CSS files, etc.) in the footer of the rendered page."
+msgstr ""
+
+#: String 1054
+msgid "To include your custom HTML code (validation metadata, reference to JS/CSS files, etc.) in the HEAD element of the rendered page."
+msgstr ""
+
+#: String 1055
+msgid "To install new theme choose zip file."
+msgstr ""
+
+#: String 1056
+msgid "Tools"
+msgstr "Tools"
+
+#: String 1057
+msgid "Tools title displayed"
+msgstr ""
+
+#: String 1058
+msgid "Tooltip"
+msgstr ""
+
+#: String 1059
+msgid "Tooltip:"
+msgstr ""
+
+#: String 1060
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: String 1061
+msgid "Topic"
+msgstr ""
+
+#: String 1062
+msgid "Topic deleted"
+msgstr ""
+
+#: String 1063
+msgid "Topic is updated."
+msgstr ""
+
+#: String 1064
+msgid "Topic not deleted"
+msgstr ""
+
+#: String 1065
+msgid "Topics"
+msgstr ""
+
+#: String 1066
+msgid "Top up ad"
+msgstr ""
+
+#: String 1067
+msgid "Total"
+msgstr "Totaal"
+
+#: String 1068
+msgid "To top"
+msgstr ""
+
+#: String 1069
+msgid "To top price"
+msgstr "Naar top prijs"
+
+#: String 1070
+msgid "Transaction not successful!"
+msgstr ""
+
+#: String 1071
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Alles vertalen? Denk eraan dat dit al uw teksten zal vervangen."
+
+#: String 1072
+msgid "Translation"
+msgstr "Vertaling"
+
+#: String 1073
+msgid "Translations"
+msgstr "Vertalingen"
+
+#: String 1074
+msgid "Translations files available in the system."
+msgstr "Vertaalgegevens beschikbaar in het systeem."
+
+#: String 1075
+msgid "Translations regenarated"
+msgstr ""
+
+#: String 1076
+msgid "TRUE"
+msgstr ""
+
+#: String 1077
+msgid "TRUE or FALSE"
+msgstr ""
+
+#: String 1078
+msgid "Type"
+msgstr "Type"
+
+#: String 1079
+msgid "Type ads to display"
+msgstr "Soort advertenties weergeven"
+
+#: String 1080
+msgid "Type your password twice"
+msgstr "Typ tweemaal uw wachtwoord"
+
+#: String 1081
+msgid "Type your password twice to change"
+msgstr "Typ uw wachtwoord twee keer om te veranderen"
+
+#: String 1082
+msgid "%u advertisements have been permanently deleted"
+msgstr ""
+
+#: String 1083
+msgid "Unavailable"
+msgstr "Niet beschikbaar"
+
+#: String 1084
+msgid " Unavailable"
+msgstr "Niet beschikbaar"
+
+#: String 1085
+msgid "UNAVAILABLE"
+msgstr ""
+
+#: String 1086
+msgid "Unavailable Sort"
+msgstr "Onbeschikbaar Sort"
+
+#: String 1087
+msgid "Unconfirmed"
+msgstr ""
+
+#: String 1088
+msgid " Unconfirmed"
+msgstr ""
+
+#: String 1089
+msgid "UNCONFIRMED"
+msgstr ""
+
+#: String 1090
+msgid "Unconfirmed Sort"
+msgstr ""
+
+#: String 1091
+msgid "Unsubscribe"
+msgstr ""
+
+#: String 1092
+msgid "Unsubscribe?"
+msgstr ""
+
+#: String 1093
+msgid "Unsubscribe to all?"
+msgstr ""
+
+#: String 1094
+msgid "Update"
+msgstr "Update"
+
+#: String 1095
+msgid "Updated to "
+msgstr ""
+
+#: String 1096
+msgid "Update folder `%s` not found."
+msgstr ""
+
+#: String 1097
+msgid "Updates"
+msgstr "Updates"
+
+#: String 1098
+msgid "Update Topic"
+msgstr ""
+
+#: String 1099
+msgid "Updating, do not close this window."
+msgstr ""
+
+#: String 1100
+msgid "Upgrade your Yclas site to PRO to activate this feature."
+msgstr ""
+
+#: String 1101
+msgid "Upload"
+msgstr ""
+
+#: String 1102
+msgid "Upload category icon"
+msgstr ""
+
+#: String 1103
+msgid "Upload CSV file"
+msgstr ""
+
+#: String 1104
+msgid "Upload file"
+msgstr "Upload bestand"
+
+#: String 1105
+msgid "Upload location icon"
+msgstr ""
+
+#: String 1106
+msgid "Upload your favicon. Leave blank for none."
+msgstr ""
+
+#: String 1107
+msgid "Upload your logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr ""
+
+#: String 1108
+msgid "Up to"
+msgstr ""
+
+#: String 1109
+msgid "Url"
+msgstr ""
+
+#: String 1110
+msgid "Use parent categories"
+msgstr ""
+
+#: String 1111
+msgid "user"
+msgstr ""
+
+#: String 1112
+msgid "User"
+msgstr "Gebruiker"
+
+#: String 1113
+msgid "User account will be created"
+msgstr "User account wordt aangemaakt"
+
+#: String 1114
+msgid "User already exists"
+msgstr "Gebruiker bestaat al"
+
+#: String 1115
+msgid "User name"
+msgstr "Gebruikersnaam"
+
+#: String 1116
+msgid "User not in database"
+msgstr "Gebruiker niet in de database"
+
+#: String 1117
+msgid "User paypal link"
+msgstr ""
+
+#: String 1118
+msgid "User Profile"
+msgstr "Gebruikersprofiel"
+
+#: String 1119
+msgid "users"
+msgstr "gebruikers"
+
+#: String 1120
+msgid "Users"
+msgstr "Gebruikers"
+
+#: String 1121
+msgid "User %s has been removed from black list."
+msgstr ""
+
+#: String 1122
+msgid "Users marked a spam"
+msgstr ""
+
+#: String 1123
+msgid "Users not logged last 3 months"
+msgstr ""
+
+#: String 1124
+msgid "Users with featured ads."
+msgstr ""
+
+#: String 1125
+msgid "Users with featured ads expired."
+msgstr ""
+
+#: String 1126
+msgid "Users without published ads."
+msgstr ""
+
+#: String 1127
+msgid "Uses CDN for CSS/JS"
+msgstr ""
+
+#: String 1128
+msgid "Use the form below to help you get the coordinates values"
+msgstr ""
+
+#: String 1129
+msgid "%u %s have been created"
+msgstr ""
+
+#: String 1130
+msgid "Using mobile theme"
+msgstr "Het gebruik van het mobiele thema"
+
+#: String 1131
+msgid "Valid Until"
+msgstr "Geldig tot"
+
+#: String 1132
+msgid "Values"
+msgstr ""
+
+#: String 1133
+msgid "Version"
+msgstr "Versie"
+
+#: String 1134
+msgid "Versions"
+msgstr "Versies"
+
+#: String 1135
+msgid "Versturen"
+msgstr ""
+
+#: String 1136
+msgid "View"
+msgstr ""
+
+#: String 1137
+msgid "views"
+msgstr "bezichtingen"
+
+#: String 1138
+msgid "Views and Ads"
+msgstr ""
+
+#: String 1139
+msgid "Views and Ads statistics"
+msgstr "Views en advertenties statistieken"
+
+#: String 1140
+msgid "Views and Contacts statistic"
+msgstr "Views en Contacten statistieken"
+
+#: String 1141
+msgid "Visits"
+msgstr "Bezoeken"
+
+#: String 1142
+msgid "Visit Site"
+msgstr "Bezoek Site"
+
+#: String 1143
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: String 1144
+msgid "Warning, something went wrong while deleting"
+msgstr "Waarschuwing, er ging iets mis tijdens het verwijderen"
+
+#: String 1145
+msgid "Warning, something went wrong while deleting Ad with id %u"
+msgstr ""
+
+#: String 1146
+msgid "Watermark"
+msgstr ""
+
+#: String 1147
+msgid "Watermark path"
+msgstr ""
+
+#: String 1148
+msgid "Watermark position"
+msgstr ""
+
+#: String 1149
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "We werken aan onze site, gelieve later te bezoeken. Bedankt"
+
+#: String 1150
+msgid "Website"
+msgstr "Website"
+
+#: String 1151
+msgid "Website field"
+msgstr "Website veld"
+
+#: String 1152
+msgid "We can not copy the %s since the locale %s already has existing %s"
+msgstr ""
+
+#: String 1153
+msgid "We can not read file %s"
+msgstr ""
+
+#: String 1154
+msgid "We detected you are currently off-line, please connect to gain full experience."
+msgstr ""
+
+#: String 1155
+msgid "We do not have any advertisements in this category"
+msgstr "Er zijn geen advertenties in deze categorie"
+
+#: String 1156
+msgid "We do not have any blog posts"
+msgstr ""
+
+#: String 1157
+msgid "We do not have any FAQ-s"
+msgstr ""
+
+#: String 1158
+msgid "We do not have any reviews for this product"
+msgstr ""
+
+#: String 1159
+msgid "We had a problem downloading latest version, try later please."
+msgstr ""
+
+#: String 1160
+msgid "Welcome"
+msgstr "Welkom"
+
+#: String 1161
+msgid "Welcome!"
+msgstr "Welkom!"
+
+#: String 1162
+msgid "We need your email address to complete"
+msgstr ""
+
+#: String 1163
+msgid "We will move the siblings categories and ads to the parent of this category."
+msgstr ""
+
+#: String 1164
+msgid "We will move the siblings forums and ads to the parent of this forum."
+msgstr ""
+
+#: String 1165
+msgid "Where do you want the widget displayed?"
+msgstr "Waar wilt u dat de widget wordt getoond?"
+
+#: String 1166
+msgid "Where you want the sidebar to appear"
+msgstr "Waar u de sidebar wilt zien verschijnen"
+
+#: String 1167
+msgid "Widget created in %s"
+msgstr ""
+
+#: String 1168
+msgid "Widget parameter missing"
+msgstr "Parameter widget ontbreekt"
+
+#: String 1169
+msgid "Widgets"
+msgstr "Widgets"
+
+#: String 1170
+msgid "Widget %s deleted"
+msgstr ""
+
+#: String 1171
+msgid "Widget %s saved in %s"
+msgstr ""
+
+#: String 1172
+msgid "Width (px)"
+msgstr ""
+
+#: String 1173
+msgid "Woonplaats"
+msgstr ""
+
+#: String 1174
+msgid "Wrong Captcha"
+msgstr ""
+
+#: String 1175
+msgid "Wrong email or password"
+msgstr "Verkeerd email of wachtwoord"
+
+#: String 1176
+msgid "Yes"
+msgstr "Ja"
+
+#: String 1177
+msgid "Yes, definitely!"
+msgstr ""
+
+#: String 1178
+msgid "Yesterday"
+msgstr "Gisteren"
+
+#: String 1179
+msgid "You already added a review"
+msgstr ""
+
+#: String 1180
+msgid "You are assigning a parent category that does not exist"
+msgstr ""
+
+#: String 1181
+msgid "You are assigning a parent location that does not exist"
+msgstr ""
+
+#: String 1182
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "U bent in de onderhoud modus, alleen u kunt de website zien"
+
+#: String 1183
+msgid "You are not using latest version, please update."
+msgstr ""
+
+#: String 1184
+msgid "You are now viewing the back panel at %s here you can manage your ads, favorites, payments and more."
+msgstr ""
+
+#: String 1185
+msgid "You are now viewing your admin panel, where you can control almost everything in your classifieds site."
+msgstr ""
+
+#: String 1186
+msgid "You are responsible for any damages or down time at your site"
+msgstr ""
+
+#: String 1187
+msgid "You are unsubscribed"
+msgstr ""
+
+#: String 1188
+msgid "You can change the look and feel of your website here."
+msgstr "U kunt de look en feel van uw website hier veranderen."
+
+#: String 1189
+msgid "You can check payments you made and see your favorites list here"
+msgstr ""
+
+#: String 1190
+msgid "You can choose if you wish to display amount of visits at each advertisement."
+msgstr ""
+
+#: String 1191
+msgid "You can choose if you wish to display random related ads at each advertisement"
+msgstr ""
+
+#: String 1192
+msgid "You can choose what ads you want to display in home."
+msgstr ""
+
+#: String 1193
+msgid "You can leave it blank for no action."
+msgstr ""
+
+#: String 1194
+msgid "You can move it to the inactive placeholder"
+msgstr ""
+
+#: String 1195
+msgid "You can not review yourself."
+msgstr ""
+
+#: String 1196
+msgid "You can not set as parent the same category"
+msgstr ""
+
+#: String 1197
+msgid "You can not set as parent the same location"
+msgstr ""
+
+#: String 1198
+msgid "You can only add a review if you bought this product"
+msgstr ""
+
+#: String 1199
+msgid "You can try a new search or publish a new topic ;)"
+msgstr ""
+
+#: String 1200
+msgid "You do not have any advertisements waiting to be published"
+msgstr "U heeft geen advertenties in de wachtrij om te worden gepubliceerd"
+
+#: String 1201
+msgid "You do not have permissions to access %s"
+msgstr ""
+
+#: String 1202
+msgid "You dont have permission to access this link"
+msgstr "U heeft geen toestemming tot toegang van deze link"
+
+#: String 1203
+msgid "You have an old version and automatic update is not possible. Please read the release notes and the manual update instructions."
+msgstr ""
+
+#: String 1204
+msgid "You have succesfully installed the theme!"
+msgstr ""
+
+#: String 1205
+msgid "You have successfuly changed your data"
+msgstr "U heeft uw gegevens veranderd "
+
+#: String 1206
+msgid "You have successfuly unsubscribed"
+msgstr ""
+
+#: String 1207
+msgid "You need help or you have some questions"
+msgstr ""
+
+#: String 1208
+msgid "You need to enable paypal link to allow only reviews on purchases."
+msgstr ""
+
+#: String 1209
+msgid "You need to write reCAPTCHA Site Key to enable the service."
+msgstr ""
+
+#: String 1210
+msgid "You need to write your banned words to enable the service."
+msgstr ""
+
+#: String 1211
+msgid "You need to write your disqus ID to enable the service."
+msgstr "U moet uw Disqus ID weergeven om de service in te schakelen."
+
+#: String 1212
+msgid "You need to write your Facebook APP ID to enable the service."
+msgstr ""
+
+#: String 1213
+msgid "You need to write your reCAPTCHA Secret Key to enable the service."
+msgstr ""
+
+#: String 1214
+msgid "Your Advertisement can go on top again! For only "
+msgstr ""
+
+#: String 1215
+msgid "Your Advertisement can go to featured! For only "
+msgstr ""
+
+#: String 1216
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Uw advertentie is geactiveerd! Dank u!"
+
+#: String 1217
+msgid "Your Hash Key for this installation is"
+msgstr "Uw Hash Key voor deze installatie is"
+
+#: String 1218
+msgid "Your installation version is"
+msgstr "Uw installatie-versie is"
+
+#: String 1219
+msgid "Your message has been sent"
+msgstr "Uw bericht is verzonden"
+
+#: String 1220
+msgid "Your PHP time limit is"
+msgstr "Uw PHP tijdslimiet is"
+
+#: String 1221
+msgid "Your profile has been disable for posting, due to recent spam content! If you think this is a mistake please contact us."
+msgstr ""
+
+#: String 1222
+msgid "Your sitemap XML to submit to engines"
+msgstr ""
+
+#: String 1223
+msgid "You will need also a SSL certificate"
+msgstr ""
+
+#: String 1224
+msgid "Zip file failed to extract, please try again."
+msgstr ""
+
+#: String 1225
+msgid "Zoeken"
+msgstr ""
+
+#: String 1226
+msgid "Zoek per Provincie"
+msgstr ""
+
+#: String 1227
+msgid "Zoom in the map"
+msgstr "Zoom in op de kaart"
+
+#: String 1228
+msgid "Zoom level"
+msgstr ""
+

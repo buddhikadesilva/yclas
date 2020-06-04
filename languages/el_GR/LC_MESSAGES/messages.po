@@ -1,0 +1,5145 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2.5.0\n"
+"POT-Creation-Date: 2015-04-29 18:08:35\n"
+"PO-Revision-Date: 2015-04-29 18:08:35\n"
+"Last-Translator: admin <pantazis.constantinos@gmail.com>\n"
+"Language-Team: en\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Open Classifieds 2.5.0\n"
+
+#: String 0
+msgid " Frequently Asked Questions - FAQ"
+msgstr "Συχνές ερωτήσεις - FAQ"
+
+#: String 1
+msgid " New"
+msgstr "Νέο"
+
+#: String 2
+msgid " Unavailable"
+msgstr "Μη διαθέσιμο"
+
+#: String 3
+msgid " Unconfirmed"
+msgstr "Μη επιβεβαιωμένο"
+
+#: String 4
+msgid " advertisements"
+msgstr "αγγελίες"
+
+#: String 5
+msgid " ago"
+msgstr " πριν"
+
+#: String 6
+msgid "# items to display"
+msgstr "# αντικειμένων προς προβολή"
+
+#: String 7
+msgid "%d Ads imported, click process to start migration"
+msgstr ""
+
+#: String 8
+msgid "%s copied from %s to %s"
+msgstr "%s αντιγράφηκε από το %s στο %s"
+
+#: String 9
+msgid "%u advertisements have been permanently deleted"
+msgstr "%u αγγελίες διαγράφηκαν μόνιμα"
+
+#: String 10
+msgid "100"
+msgstr "100"
+
+#: String 11
+msgid "1000"
+msgstr "1000"
+
+#: String 12
+msgid "A button with the page title appears next to other pay button, onclick model opens with description."
+msgstr ""
+
+#: String 13
+msgid "A user with the email you specified already exists"
+msgstr "Υπάρχει ήδη καταχωρημένος χρήστης με το email που εισάγατε"
+
+#: String 14
+msgid "API Password"
+msgstr "Κωδικός API"
+
+#: String 15
+msgid "API Username"
+msgstr "Συνθηματικό API"
+
+#: String 16
+msgid "AWS Access Key"
+msgstr ""
+
+#: String 17
+msgid "AWS Secret Key"
+msgstr ""
+
+#: String 18
+msgid "Accept Terms Alert"
+msgstr "Ειδοποίηση αποδοχής όρων"
+
+#: String 19
+msgid "Access not allowed"
+msgstr "Απαγορεύεται η πρόσβαση"
+
+#: String 20
+msgid "Action"
+msgstr "Ενέργεια"
+
+#: String 21
+msgid "Action Value:"
+msgstr ""
+
+#: String 22
+msgid "Actions"
+msgstr "Ενέργειες"
+
+#: String 23
+msgid "Activate"
+msgstr "Ενεργοποίηση"
+
+#: String 24
+msgid "Activate?"
+msgstr "Ενεργοποίηση;"
+
+#: String 25
+msgid "Activates Blog posting"
+msgstr "Ενεργοποίηση δημοσίευσης στο blog"
+
+#: String 26
+msgid "Activates FAQ"
+msgstr "Ενεργοποιεί τις Συχνές Ερωτήσεις"
+
+#: String 27
+msgid "Activates Forums"
+msgstr "Ενεργοποιεί τα forums"
+
+#: String 28
+msgid "Active"
+msgstr "Ενεργό"
+
+#: String 29
+msgid "Active Region Action"
+msgstr "Ενέργεια ενεργούς τοποθεσίας"
+
+#: String 30
+msgid "Ad"
+msgstr "Αγγελία"
+
+#: String 31
+msgid "Ad Not Found"
+msgstr "Η Αγγελία δεν βρέθηκε "
+
+#: String 32
+msgid "Ad Tools"
+msgstr "Εργαλεία Αγγελιών"
+
+#: String 33
+msgid "Ad expiration date"
+msgstr "Ημ. λήξης αγγελίας"
+
+#: String 34
+msgid "Add"
+msgstr "Προσθήκη"
+
+#: String 35
+msgid "Add New Review"
+msgstr "Προσθήκη νέας κριτικής"
+
+#: String 36
+msgid "Add a chat room"
+msgstr "Προσθήκη δωματίου chat"
+
+#: String 37
+msgid "Add a plan"
+msgstr "Προσθήκη πλάνου"
+
+#: String 38
+msgid "Add latest comments"
+msgstr "Προσθήκη πρόσφατων σχολίων"
+
+#: String 39
+msgid "Add names for multiple categories, for each one push enter."
+msgstr "Προσθέστε ονόματα για πολλαπλές κατηγορίες, για το καθένα αλλάξτε γραμμή."
+
+#: String 40
+msgid "Add names for multiple locations, for each one push enter."
+msgstr "Προσθέστε ονόματα για πολλαπλές τοποθεσίες, για κάθε μία αλλάξτε γραμμή."
+
+#: String 41
+msgid "Add to Favorites"
+msgstr "Προσθήκη στα αγαπημένα"
+
+#: String 42
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: String 43
+msgid "Address field"
+msgstr "Πεδίο Διεύθυνσης"
+
+#: String 44
+msgid "Admin Privileged"
+msgstr "Με προνόμια διαχειριστή"
+
+#: String 45
+msgid "Admin Role can not be modified!"
+msgstr "Ο ρόλος του Διαχειριστή δεν μπορεί να τροποποιηθεί!"
+
+#: String 46
+msgid "Admin Tools to editing ads"
+msgstr "Εργαλεία διιαχειριστή για την επεξεργασία αγγελίας"
+
+#: String 47
+msgid "Ads"
+msgstr "Αγγελίες"
+
+#: String 48
+msgid "Ads deleted"
+msgstr "Οι αγγελίες διαγράφηκαν"
+
+#: String 49
+msgid "Ads reader"
+msgstr "Αναγνώστης αγγελιών"
+
+#: String 50
+msgid "Ads title displayed"
+msgstr "Εμφάνιση τίτλου αγγελιών"
+
+#: String 51
+msgid "Advanced Search"
+msgstr "Προχωρημένη αναζήτηση"
+
+#: String 52
+msgid "Advanced option"
+msgstr "Προχωρημένη επιλογή"
+
+#: String 53
+msgid "Advertisement"
+msgstr "Αγγελία"
+
+#: String 54
+msgid "Advertisement Configuration"
+msgstr "Ρυθμίσεις αγγελιών"
+
+#: String 55
+msgid "Advertisement Custom Fields"
+msgstr "Προσαρμοσμένα πεδία αγγελίας"
+
+#: String 56
+msgid "Advertisement Display Options"
+msgstr "Επιλογές Εμφάνισης Αγγελίας"
+
+#: String 57
+msgid "Advertisement Fields"
+msgstr "Πεδία Αγγελίας"
+
+#: String 58
+msgid "Advertisement Title"
+msgstr "Τίτλος αγγελίας"
+
+#: String 59
+msgid "Advertisement has been permanently deleted"
+msgstr "Η αγγελία διαγράφηκε δια παντός"
+
+#: String 60
+msgid "Advertisement is active and published"
+msgstr "Η αγγελία είναι ενεργή και δημοσιευμένη"
+
+#: String 61
+msgid "Advertisement is deactivated"
+msgstr "Η αγγελία απενεργοποιήθηκε"
+
+#: String 62
+msgid "Advertisement is featured"
+msgstr "Η αγγελία είναι προβεβλημένη"
+
+#: String 63
+msgid "Advertisement is marked as spam"
+msgstr "Η αγγελία έχει χαρακτηριστεί ως spam"
+
+#: String 64
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Η αγγελία εστάλη αλλά πρέπει πρώτα να ενεργοποιήσετε το λογαριασμό σας. Παρακαλούμε ελέγξτε το e-mail σας!"
+
+#: String 65
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Η αγγελία εστάλη. Συγχαρητήρια!"
+
+#: String 66
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Η αγγελία παραλήφθηκε αλλά πρέπει πρώτα να ελεγχθεί από το διαχειριστή. Ευχαριστούμε για την υπομονή σας!"
+
+#: String 67
+msgid "Advertisement is to top"
+msgstr "Η αγγελία τοποθετήθηκε στην κορυφή"
+
+#: String 68
+msgid "Advertisement is updated"
+msgstr "Η αγγελία ενημερώθηκε"
+
+#: String 69
+msgid "Advertisement is updated, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Η αγγελία ενημερώθηκε αλλά πρέπει πρώτα να ελεγχθεί από το διαχειριστή. Ευχαριστούμε για την υπομονή σας!"
+
+#: String 70
+msgid "Advertisements"
+msgstr "Αγγελίες"
+
+#: String 71
+msgid "Advertisements in Map"
+msgstr "Αγγελίες στο χάρτη"
+
+#: String 72
+msgid "Advertisements in RSS"
+msgstr "Αγγελίες σε RSS"
+
+#: String 73
+msgid "Advertisements in home"
+msgstr "Αγγελίες στην αρχική σελίδα"
+
+#: String 74
+msgid "Advertisements per page"
+msgstr "Αγγελίες ανα σελίδα"
+
+#: String 75
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Ο αρ. ημερών μετά τις οποίες η αγγελία θα ληξει. 0 για ποτέ"
+
+#: String 76
+msgid "Akismet Key"
+msgstr "Κλειδί Akismet"
+
+#: String 77
+msgid "All"
+msgstr "Όλα"
+
+#: String 78
+msgid "All active users."
+msgstr "Όλοι οι ενεργοί χρήστες"
+
+#: String 79
+msgid "All ads"
+msgstr "Όλες οι αγγελίες"
+
+#: String 80
+msgid "All ads are processed! Congrats!"
+msgstr "Όλες οι αγγελίες επεξεργάστηκαν! Συγχαρητήρια!"
+
+#: String 81
+msgid "All cache deleted"
+msgstr "Η προσωρινή μνήμη διαγράφηκε"
+
+#: String 82
+msgid "All categories were deleted."
+msgstr "Όλες οι κατηγορίες διαγράφηκαν."
+
+#: String 83
+msgid "All configurations"
+msgstr "Όλες οι ρυθμίσεις"
+
+#: String 84
+msgid "All data contained will be deleted."
+msgstr "Όλα τα αρχεία που περιέχονται θα διαφραφούν."
+
+#: String 85
+msgid "All locations were deleted."
+msgstr "Όλες οι τοποθεσίες διαγράφηκαν."
+
+#: String 86
+msgid "All themes include support, updates and 1 site license."
+msgstr "Όλα τα θέματα περιλμβάνουν υποστήριξη, ενημερώσεις και άδεια για 1 ιστοτόπο."
+
+#: String 87
+msgid "Allowed image formats"
+msgstr "Επιτρεπόμενα φορμάτ εικόνων"
+
+#: String 88
+msgid "Also white labeled and free of ads"
+msgstr "Also white labeled and free of ads"
+
+#: String 89
+msgid "Alternative Payment"
+msgstr "Εναλλακτικός τρόπος πληρωμής"
+
+#: String 90
+msgid "Amazon S3 Bucket Name"
+msgstr ""
+
+#: String 91
+msgid "Amazon S3 Configuration"
+msgstr ""
+
+#: String 92
+msgid "Amazon S3 active"
+msgstr ""
+
+#: String 93
+msgid "Amount"
+msgstr "Ποσό"
+
+#: String 94
+msgid "Analytics Tracking ID"
+msgstr "Analytics Tracking ID"
+
+#: String 95
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: String 96
+msgid "Appearance configuration updated"
+msgstr "Οι ρυθμίσεις εμφάνισης ενημερώθηκαν"
+
+#: String 97
+msgid "Appears when user registers."
+msgstr "Εμφανίζεται κατά την εγγραφή χρήστη."
+
+#: String 98
+msgid "Appends watermark to images"
+msgstr "Εφαρμόζει υδατογραφημα σε εικόνες"
+
+#: String 99
+msgid "Application Execution"
+msgstr "Εκτέλεση Εφαρμογής"
+
+#: String 100
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Οι προβεβλημένες αγγελίες θα απενεργοποιηθούν. Είστε σίγουρος/η;"
+
+#: String 101
+msgid "Are you sure you want to delete all the categories?"
+msgstr "Όλες οι κατηγορίες θα διαγραφούν. Είστε σίγουρος/η;"
+
+#: String 102
+msgid "Are you sure you want to delete all the locations?"
+msgstr "Όλες οι τοποθεσίες θα διαγραφούν. Είστε σίγουρος/η;"
+
+#: String 103
+msgid "Are you sure you want to delete?"
+msgstr "Είστε σίγουρος/η ότι θέλετε να διαγράψετε;"
+
+#: String 104
+msgid "Are you sure you want to delete? All data contained in this field will be deleted."
+msgstr "Είστε σίγουρος/η ότι θέλετε να διαγράψετε; Όλα τα δεδομένα του πεδίου θα χαθούν."
+
+#: String 105
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Είστε σίγουρος/η για διαγραφή; Οι τοποθεσίες και αγγελίες θα μετακινηθούν στη μητρική τοποθεσία."
+
+#: String 106
+msgid "Are you sure you want to make it featured?"
+msgstr "Θα μετατραπεί σε προβεβλημένη. Εϊστε σίγουρος/η;"
+
+#: String 107
+msgid "Are you sure you want to make it to top?"
+msgstr "Είστε σίγουρος ότι θέλετε να το μεταφέρετε στην κορυφή της σελίδας;"
+
+#: String 108
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Are you sure you want to refresh listing and go to top?"
+
+#: String 109
+msgid "Are you sure you want to update?"
+msgstr "Είστε σίγουρος/η ότι θέλετε να αναβαθμίσετε;"
+
+#: String 110
+msgid "Are you sure?"
+msgstr "Είστε σίγουρος/η;"
+
+#: String 111
+msgid "At least one image format should be allowed."
+msgstr "Τουλάχιστον μια μορφή εικόνας πρέπει να είναι επιτρεπόμενη."
+
+#: String 112
+msgid "Authorize API Login"
+msgstr ""
+
+#: String 113
+msgid "Authorize transaction Key"
+msgstr ""
+
+#: String 114
+msgid "Auto Locate Visitors"
+msgstr "Αυτόματος εντοπισμός επισκεπτών"
+
+#: String 115
+msgid "Available Mobile Themes"
+msgstr "Διαθέσιμα θέματα για κινητό"
+
+#: String 116
+msgid "Available Themes"
+msgstr "Διαθέσιμα Θέματα"
+
+#: String 117
+msgid "Available widgets"
+msgstr "Διαθέσιμα widgets"
+
+#: String 118
+msgid "Background Color"
+msgstr "Χρώμα φόντου"
+
+#: String 119
+msgid "Backup all your files and database"
+msgstr "Δημιουργία αντιγράφων ασφαλείας για όλα τα αρχεία και τη βάση δεδομένων"
+
+#: String 120
+msgid "Banned word replacement replaces selected array with the string you provided."
+msgstr "Banned word replacement replaces selected array with the string you provided."
+
+#: String 121
+msgid "Banned words"
+msgstr "Λογοκριμένες λέξεις"
+
+#: String 122
+msgid "Banned words are separated with coma (,)"
+msgstr "Οι λογοκριμένες λέξεις διαχωρίζονται με κόμμα (,)"
+
+#: String 123
+msgid "Banned words replacement"
+msgstr "Αντικατάσταση λογοκριμένων λέξεων"
+
+#: String 124
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 125
+msgid "Bitpay api key"
+msgstr ""
+
+#: String 126
+msgid "Black List"
+msgstr "Μαύρη Λίστα"
+
+#: String 127
+msgid "Black list"
+msgstr "Μαύρη λίστα"
+
+#: String 128
+msgid "Blog"
+msgstr "Blog"
+
+#: String 129
+msgid "Blog post"
+msgstr "Δημοσίευση blog"
+
+#: String 130
+msgid "Blog post created"
+msgstr "Δημιουργία Blog post"
+
+#: String 131
+msgid "Blog post updated"
+msgstr "Αναβάθμιση Blog post"
+
+#: String 132
+msgid "Bring to top Ad"
+msgstr "Πάρτε την αγγελία στην κορυφή"
+
+#: String 133
+msgid "Browse"
+msgstr "Περιήγηση"
+
+#: String 134
+msgid "Browse Themes"
+msgstr "Περιήγηση σε θέματα"
+
+#: String 135
+msgid "Browse childs"
+msgstr ""
+
+#: String 136
+msgid "Buy Now"
+msgstr "Αγορά"
+
+#: String 137
+msgid "Buy a Theme"
+msgstr "Αγοράστε ένα θέμα"
+
+#: String 138
+msgid "Buy product"
+msgstr "Αγορά προιόντος"
+
+#: String 139
+msgid "CSS"
+msgstr "CSS"
+
+#: String 140
+msgid "CSS file not saved"
+msgstr "Το αρχείο CSS δεν αποθηκεύτηκε"
+
+#: String 141
+msgid "CSS file saved"
+msgstr "Το αρχείο CSS αποθηκεύτηκε"
+
+#: String 142
+msgid "Cache"
+msgstr "Προσωρινή μνήμη"
+
+#: String 143
+msgid "Cache configuration information"
+msgstr "Πληροφορίες ρύθμισης της προσωρινής μνήμης"
+
+#: String 144
+msgid "Can be seen and edited only by admin."
+msgstr "Η επεξεργασία είναι δυνατή μόνο από διαχειριστή."
+
+#: String 145
+msgid "Can be seen in the list of ads while browsing."
+msgstr "Εμφανίζεται στη λίστα των αγγελιών κατά την περιήγηση."
+
+#: String 146
+msgid "Can be seen in the user profile."
+msgstr "Εμφανίζεται στο προφίλ του χρήστη."
+
+#: String 147
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: String 148
+msgid "Cannot delete widget %s"
+msgstr "Αδύνατη η διαγραφή του widget %s"
+
+#: String 149
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 150
+msgid "Captcha appears in the form."
+msgstr "Captcha appears in the form."
+
+#: String 151
+msgid "Captcha is not correct"
+msgstr "Το captcha δεν είναι έγκυρο"
+
+#: String 152
+msgid "Card Number"
+msgstr "Αριθμός κάρτας"
+
+#: String 153
+msgid "Cars"
+msgstr "Αυτοκίνητα"
+
+#: String 154
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: String 155
+msgid "Categories successfully imported."
+msgstr "Οι κατηγορίες εισάχθηκαν επιτυχώς."
+
+#: String 156
+msgid "Categories title displayed"
+msgstr "Εμφάνιση τίτλου κατηγοριών"
+
+#: String 157
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: String 158
+msgid "Category created"
+msgstr "Η κατηγορία δημιουργήθηκε"
+
+#: String 159
+msgid "Category deleted"
+msgstr "Η κατηγορία διαγράφηκε"
+
+#: String 160
+msgid "Category details"
+msgstr "Λεπτομέριες κατηγορίας"
+
+#: String 161
+msgid "Category icon"
+msgstr "Εικόνα κατηγορίας"
+
+#: String 162
+msgid "Category not deleted"
+msgstr "Η κατηγορία δε διαγράφηκε"
+
+#: String 163
+msgid "Change password"
+msgstr "Αλλαγή κωδικού"
+
+#: String 164
+msgid "Change the admin color theme"
+msgstr "Αλλαγή χρώματος στο θέμα του διαχειριστή"
+
+#: String 165
+msgid "Change the color theme"
+msgstr "Αλλαγή χρώματος του θέματος"
+
+#: String 166
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Αλλάξτε τη σειρά των κατηγοριών σας. Να έχετε υπόψη ότι περισσότερα από 2 επίπεδα εμφώλευσης πιθανόν να μην εμφανίζονται στην οθόνη (δε συνίσταται)."
+
+#: String 167
+msgid "Change the order of your forums. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Αλλάξτε τη σειρά των forums σας. Να έχετε υπόψη ότι περισσότερο από 2 εμφωλευμένα επίπεδα πιθανώς να μην εμφανιστούν (δε συνίσταται)."
+
+#: String 168
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Αλλάξτε τη σειρά των τοποθεσίων σας. Να έχετε υπόψη ότι περισσότερο από 2 εμφωλευμένα επίπεδα πιθανώς να μην εμφανιστούν στο θέμα (δε συνίσταται)."
+
+#: String 169
+msgid "Changelog"
+msgstr ""
+
+#: String 170
+msgid "Charts"
+msgstr "Διαγράμματα"
+
+#: String 171
+msgid "Chat"
+msgstr "Chat"
+
+#: String 172
+msgid "Chat height in PX"
+msgstr "Ύψος πεδίου chat σε πίξελ (px)"
+
+#: String 173
+msgid "Chat room"
+msgstr "Δωμάτιο chat"
+
+#: String 174
+msgid "Check"
+msgstr "Έλεγχος"
+
+#: String 175
+msgid "Check for updates"
+msgstr "Έλεγχος για ενημερώσεις"
+
+#: String 176
+msgid "Check form for errors"
+msgstr "Ελέγξτε τη φόρμα για σφάλματα"
+
+#: String 177
+msgid "Check the form for errors"
+msgstr "Ελέγξτε τη φόρμα γιια σφάλματα"
+
+#: String 178
+msgid "Checkbox"
+msgstr "Checkbox"
+
+#: String 179
+msgid "Checked for new versions."
+msgstr "Έλεγχος για νέες εκδόσεις."
+
+#: String 180
+msgid "Checkout"
+msgstr "Ολοκλήρωση Παραγγελίας"
+
+#: String 181
+msgid "Choose 1 or several categories"
+msgstr "Επιλέξτε μια ή περισσότερες κατηγορίες"
+
+#: String 182
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Επιλέξτε την ποιότητα της αρχικής εικόνας (1 - 100% της αρχικής)"
+
+#: String 183
+msgid "City"
+msgstr "Πόλη"
+
+#: String 184
+msgid "Classifieds"
+msgstr "Αγγελίες"
+
+#: String 185
+msgid "Click here if you are not redirected"
+msgstr "Πατήστε εδώ εάν δεν μεταφερθείτε αυτόματα"
+
+#: String 186
+msgid "Close"
+msgstr "Κλείσιμο"
+
+#: String 187
+msgid "Collapse menu"
+msgstr "Απόκρυψη μενού"
+
+#: String 188
+msgid "Color:"
+msgstr "Χρώμα:"
+
+#: String 189
+msgid "Comma separated for select"
+msgstr "Comma separated for select"
+
+#: String 190
+msgid "Comments"
+msgstr "Σχόλια"
+
+#: String 191
+msgid "Comments Configuration"
+msgstr "Ρυθμίσεις σχολίων"
+
+#: String 192
+msgid "Config file"
+msgstr "Αρχείο ρυθμίσεων"
+
+#: String 193
+msgid "Contact"
+msgstr "Επικοινωνία"
+
+#: String 194
+msgid "Contact Us"
+msgstr "Επικοινωνία"
+
+#: String 195
+msgid "Contact form"
+msgstr "Φόρμα επικοινωνίας"
+
+#: String 196
+msgid "Contact form appears in the ad."
+msgstr "Η φόρμα επικοινωνίας να εμφανίζεται στην αγγελία"
+
+#: String 197
+msgid "Contacts"
+msgstr "Επαφές"
+
+#: String 198
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: String 199
+msgid "Content that will be displayed to the user after he publishes an ad"
+msgstr "Περιεχόμενο που θα προβληθεί στον χρήστη μετά την δημοσιοποίηση μιας αγγελίας"
+
+#: String 200
+msgid "Continent"
+msgstr "Ήπειρος"
+
+#: String 201
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Έλεγχος του μεγέθους εικόνας που μεταφορτώνεται. Εισάγετε μια ακέραια τιμή για ανα θέσετε το μέγιστο μέγεθος της εικόνας σε megabytes (MB)."
+
+#: String 202
+msgid "Convert"
+msgstr "Μετατροπή"
+
+#: String 203
+msgid "Convert Address into Lat/Lon:"
+msgstr "Μετατροπή Διεύθυνσης σε Γεωγραφικό Μήκος/Πλάτος:"
+
+#: String 204
+msgid "Cookie consent"
+msgstr "Συγκατάθεση για Cookie"
+
+#: String 205
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Αντιγραφή όλων; Προσοχή, θα αντικατασταθούν όλα τα κείμενα."
+
+#: String 206
+msgid "Could not create bitpay invoice"
+msgstr "Δεν μπόρεσε να δημιουργηθεί τιμολόγιο bitpay"
+
+#: String 207
+msgid "Count visits"
+msgstr "Μέτρηση επισκεπτών"
+
+#: String 208
+msgid "Count visits ads"
+msgstr "Μέτρηση επισκεπτών των αγγελιών"
+
+#: String 209
+msgid "Country"
+msgstr "Χώρα"
+
+#: String 210
+msgid "County"
+msgstr "Νομός"
+
+#: String 211
+msgid "Create"
+msgstr "Δημιουργία"
+
+#: String 212
+msgid "Create Blog Post"
+msgstr "Δημιουργία Blog Post"
+
+#: String 213
+msgid "Create Menu Item"
+msgstr "Δημιουργία επιλογής μενού"
+
+#: String 214
+msgid "Create a new profile at"
+msgstr "Δημιουργία νέου προφίλ στο"
+
+#: String 215
+msgid "Create all new %s from original"
+msgstr "Δημιουργία όλων των %s από τα αυθεντικά"
+
+#: String 216
+msgid "Create custom fields among predefined templates."
+msgstr "Δημιουργήστε προσαρμοσμένα πεδία μεταξύ προκαθορισμένων προτύπων."
+
+#: String 217
+msgid "Create new forum"
+msgstr "Δημιουργία νέου forum"
+
+#: String 218
+msgid "Created"
+msgstr "Δημιουργήθηκε"
+
+#: String 219
+msgid "Crontab"
+msgstr ""
+
+#: String 220
+msgid "Currency"
+msgstr "Νόμισμα"
+
+#: String 221
+msgid "Current"
+msgstr "Τωρινό"
+
+#: String 222
+msgid "Current CSS file"
+msgstr ""
+
+#: String 223
+msgid "Current Theme"
+msgstr "Ενεργό θέμα"
+
+#: String 224
+msgid "Custom"
+msgstr "Προσαρμοσμένο"
+
+#: String 225
+msgid "Custom CSS"
+msgstr ""
+
+#: String 226
+msgid "Custom Fields"
+msgstr "Προσαρμοσμένα πεδία"
+
+#: String 227
+msgid "Custom Fields Templates"
+msgstr "Πρότυπα προσαρμοσμένων πεδίων"
+
+#: String 228
+msgid "Custom Fields for Advertisements"
+msgstr "Προσαρμοσμένα πεδία για αγγελίες"
+
+#: String 229
+msgid "Custom Fields for Users"
+msgstr "Προσαρμοσμένα πεδία για Χρήστες"
+
+#: String 230
+msgid "Custom Fields for users"
+msgstr "Προσαρμοσμένα πεδία για χρήστες"
+
+#: String 231
+msgid "Custom fields are only available with premium themes!"
+msgstr "Τα προσαρμοσμένα πεδία είναι διαθέσιμα μόνο με premium θέματα!"
+
+#: String 232
+msgid "Custom fields in search"
+msgstr "Προσαρμοσμένα πεδία στην αναζήτηση"
+
+#: String 233
+msgid "Custom menu"
+msgstr "Προαρμοσμένο μενού"
+
+#: String 234
+msgid "Customize your profile, upload a photo, description and change your password."
+msgstr "Προσαρμόστε το προφίλ σας, ανεβάστε μια φωτογραφία, περιγραφή και αλλάξτε τον κωδικό σας."
+
+#: String 235
+msgid "Customize your website look and feel by choosing one of the many available themes and changing theme options."
+msgstr "Προσαρμόστε την εμφάνιση και την αισθητική της ιστοσελίδας σας επιλέγοντας ένα από τα πολλά διαθέσιμα θέματα και αλλάζοντας τις επιλογές του θέματος."
+
+#: String 236
+msgid "Database Optimized"
+msgstr "Η βάση δεδομένων βελτιστοποιήθηκε"
+
+#: String 237
+msgid "Database charset"
+msgstr "Σύνολο χαρακτήρων (charset) της βάσης δεδομένων"
+
+#: String 238
+msgid "Database cleaned"
+msgstr "Η βάση δεδομένων καθαρίστηκε"
+
+#: String 239
+msgid "Database name"
+msgstr "Όνομα βάσης δεδομένων"
+
+#: String 240
+msgid "Database space"
+msgstr "Χώρος βάσης δεδομένων"
+
+#: String 241
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: String 242
+msgid "Date Paid"
+msgstr "Ημερομηνία Πληρωμής"
+
+#: String 243
+msgid "Date format"
+msgstr "Μορφή ημερομηνίας"
+
+#: String 244
+msgid "Days"
+msgstr "Ημέρες"
+
+#: String 245
+msgid "Deactivate"
+msgstr "Απενεργοποίηση"
+
+#: String 246
+msgid "Deactivate Featured"
+msgstr "Απενεργοποίηση προβεβλημένου"
+
+#: String 247
+msgid "Deactivate featured"
+msgstr "Απενεργοποίηση προβεβλημένων"
+
+#: String 248
+msgid "Deactivate featured?"
+msgstr "Απενεργοποίηση προβεβλημένων;"
+
+#: String 249
+msgid "Deactivate?"
+msgstr "Απενεργοποίηση;"
+
+#: String 250
+msgid "Deactivated"
+msgstr "Απενεργοποιήθηκε"
+
+#: String 251
+msgid "Debug Mode"
+msgstr "Λειτουργία αποσφαλμάτωσης"
+
+#: String 252
+msgid "Decimal representation"
+msgstr "Δεκαδική απεικόνιση"
+
+#: String 253
+msgid "Default"
+msgstr "Προκαθορισμένο"
+
+#: String 254
+msgid "Default links"
+msgstr "Προκαθορισμένοι σύνδεσμοι"
+
+#: String 255
+msgid "Default value:"
+msgstr "Προκαθορισμένη τιμή:"
+
+#: String 256
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: String 257
+msgid "Delete All"
+msgstr "Διαγραφή όλων"
+
+#: String 258
+msgid "Delete All?"
+msgstr "Διαγραφή όλων;"
+
+#: String 259
+msgid "Delete all"
+msgstr "Διαγραφή όλων"
+
+#: String 260
+msgid "Delete all categories"
+msgstr "Διαγραφή όλων των κατηγοριών"
+
+#: String 261
+msgid "Delete all locations"
+msgstr "Διαγραφή όλων των τοποθεσιών"
+
+#: String 262
+msgid "Delete expired"
+msgstr "Διαγραφή όσων έχουν λήξει"
+
+#: String 263
+msgid "Delete icon"
+msgstr "Διαγραφή εικόνας"
+
+#: String 264
+msgid "Delete icon?"
+msgstr "Διαγραφή εικόνας;"
+
+#: String 265
+msgid "Delete image"
+msgstr "Διαγραφή εικόνας"
+
+#: String 266
+msgid "Delete photo"
+msgstr "Διαγραφή φωτογραφίας"
+
+#: String 267
+msgid "Delete photo?"
+msgstr "Διαγραφή φωτογραφίας;"
+
+#: String 268
+msgid "Delete?"
+msgstr "Διαγραφή;"
+
+#: String 269
+msgid "Deleted"
+msgstr "Διεγραμμένο"
+
+#: String 270
+msgid "Deleted expired cache"
+msgstr "Η ληγμένη προσωρινή μνήμη διαγράφηκε"
+
+#: String 271
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: String 272
+msgid "Description of your site in no more than 160 characters."
+msgstr "Περιγραφή του ιστοτόπου σας (μέχρι 160 χαρακτήρες)"
+
+#: String 273
+msgid "Disable"
+msgstr "Απενεργοποίηση"
+
+#: String 274
+msgid "Disables generated map on homepage"
+msgstr ""
+
+#: String 275
+msgid "Disallow nude pictures"
+msgstr "Απόρριψη γυμνών φωτογραφιών"
+
+#: String 276
+msgid "Disallows (blocks) Bots and Crawlers"
+msgstr "Αποτροπή Bots και Crawlers"
+
+#: String 277
+msgid "Disallows (blocks) Bots and Crawlers on this website"
+msgstr "Αποτροπή Bots και Crawlers σε αυτή την ιστοσελίδα"
+
+#: String 278
+msgid "Disallows Bots and Crawlers on the website"
+msgstr "Αποτροπή Bots και Crawlers στην ιστοσελίδα"
+
+#: String 279
+msgid "Display CMS pages"
+msgstr "Εμφάνιση CMS σελίδων"
+
+#: String 280
+msgid "Display Featured Ads"
+msgstr "Εμφάνιση προβεβλημένων αγγελιών"
+
+#: String 281
+msgid "Display Interactive Map"
+msgstr "Εμφάνιση Διαδραστικού Χάρτη"
+
+#: String 282
+msgid "Display Locations"
+msgstr "Εμφάνιση τοποθεσιών"
+
+#: String 283
+msgid "Display Mode"
+msgstr "Λειτουργία προβολής"
+
+#: String 284
+msgid "Display categories"
+msgstr "Εμφάνιση κατηγοριών"
+
+#: String 285
+msgid "Display site stats"
+msgstr "Εμφάνιση στατιστικών ιστοτόπου"
+
+#: String 286
+msgid "Displays location select"
+msgstr "Εμφάνιση επιλογής τοποθεσίας"
+
+#: String 287
+msgid "Displays the Select Location in the Ad form."
+msgstr "Εμφάνιση της Επιλογής Τοποθεσίας στη φόρμα αγγελίας"
+
+#: String 288
+msgid "Displays the field Address in the Ad form."
+msgstr "Εμφανίζει το πεδίο Διεύθυνση στη φόρμα της αγγελίας"
+
+#: String 289
+msgid "Displays the field Phone in the Ad form."
+msgstr "Εμφάνιση του πεδίου Τηλέφωνο στη φόρμα αγγελίας"
+
+#: String 290
+msgid "Displays the field Price in the Ad form."
+msgstr "Εμφανίζει το πεδίο Τιμή στη φόρμα της Αγγελίας"
+
+#: String 291
+msgid "Displays the field Website in the Ad form."
+msgstr "Εμφανίζει το πεδίο Ιστοτόπος στη φόρμα της αγγελίας"
+
+#: String 292
+msgid "Displays the google maps in the Ad."
+msgstr "Εμφανίζει το χάρτη Google στην αγγελία"
+
+#: String 293
+msgid "Displays the google maps in the Publish new form."
+msgstr "Εμφανίζει χάρτες Google στην επιλογή δημοσίευσης νέας φόρμας"
+
+#: String 294
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 295
+msgid "Disqus Comments"
+msgstr "Σχόλια Disqus"
+
+#: String 296
+msgid "Disqus for Blog Comments"
+msgstr "Σχόλια Disqus στο Blog"
+
+#: String 297
+msgid "Disqus for FAQ"
+msgstr "Disqus στις Συχνές Ερωτήσεις"
+
+#: String 298
+msgid "Disqus for FAQ Comments"
+msgstr "Σχόλια Disqus στις Συχνές Ερωτήσεις"
+
+#: String 299
+msgid "Disqus for blog"
+msgstr "Disqus στο blog"
+
+#: String 300
+msgid "Distance"
+msgstr "Απόσταση"
+
+#: String 301
+msgid "Download"
+msgstr "Μεταφόρτωση"
+
+#: String 302
+msgid "Each advertisement has a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Κάθε αγγελία κατέχει ημ. δημοσίευσης. Επιλέγοντας μορφοποίηση, μπορείτε να αλλάξετε το πως θα φαίνεται στον ιστοτόπο σας."
+
+#: String 303
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Κάθε εικόνα αλλάζει μέγεθος όταν μεταφορτώνεται. Αυτό είναι το ύψος της μεγάλης εικόνας. Σημείωση: μπορείτε να αφήσετε κενό το πεδίο αυτό ώστε το ύψος να οριστεί αυτόματα."
+
+#: String 304
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Κάθε εικόνα αλλάζει μέγεθος όταν μεταφορτώνεται. Αυτό είναι το πλάτος της μεγάλης εικόνας."
+
+#: String 305
+msgid "Edit"
+msgstr "Επεξεργασία"
+
+#: String 306
+msgid "Edit Advertisement"
+msgstr "Επεξεργασία αγγελίας"
+
+#: String 307
+msgid "Edit Blog Post"
+msgstr "Επεξεργασία Blog Post"
+
+#: String 308
+msgid "Edit Custom Field"
+msgstr "Επεξεργασία προσαρμοσμένου πεδίου"
+
+#: String 309
+msgid "Edit Custom Field for Advertisement"
+msgstr "Επεξεργασία προσαρμοσμένου πεδίου για Αγγελία"
+
+#: String 310
+msgid "Edit Forum"
+msgstr "Επεξεργασία Forum"
+
+#: String 311
+msgid "Edit Menu"
+msgstr "Επεξεργασία Μενού"
+
+#: String 312
+msgid "Edit Profile"
+msgstr "Επεξεργασία προφίλ"
+
+#: String 313
+msgid "Edit Topic"
+msgstr "Επεξεργασία Θέματος"
+
+#: String 314
+msgid "Edit Translation"
+msgstr "Επεξεργασία μετάφρασης"
+
+#: String 315
+msgid "Edit advertisement"
+msgstr "Επεξεργασία αγγελίας"
+
+#: String 316
+msgid "Edit category"
+msgstr "Ενημέρωση κατηγορίας"
+
+#: String 317
+msgid "Edit forum"
+msgstr "Επεξεργασία forum"
+
+#: String 318
+msgid "Edit location"
+msgstr "Ενημέρωση τοποθεσίας"
+
+#: String 319
+msgid "Edit profile"
+msgstr "Επεξεργασία προφίλ"
+
+#: String 320
+msgid "ElasticEmail Configuration"
+msgstr ""
+
+#: String 321
+msgid "ElasticEmail active"
+msgstr ""
+
+#: String 322
+msgid "Email"
+msgstr "E-mail"
+
+#: String 323
+msgid "Email Configuration"
+msgstr "Ρυθμίσεις e-mail"
+
+#: String 324
+msgid "Email Configuration updated"
+msgstr "Email Configuration updated"
+
+#: String 325
+msgid "Email From"
+msgstr "Ε-mail από"
+
+#: String 326
+msgid "Email Settings"
+msgstr "Ρυθμίσεις e-mail"
+
+#: String 327
+msgid "Email Setup and emails configuration values. Replace input fields with new desired values"
+msgstr "Ρυθμίσεις ηλεκτρονικού ταχυδρομείου και παραμέτρων. Αντικαταστήστε τα πεδία εισαγωγής με τις νέες επιθυμητές τιμές"
+
+#: String 328
+msgid "Email confirmation on"
+msgstr "Ενεργοποίηση επιβεβαίωσης ηλεκτρονικού ταχυδρομείου"
+
+#: String 329
+msgid "Email confirmation with Moderation"
+msgstr "Επιβεβαίωση ηλεκτρονικού ταχυδρομείου με συντονισμός"
+
+#: String 330
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "Λογαριασμός e-mail που στέλνονται τα e-mails, χρησιμοποιείται επίσης για επικοινωνία λογισμικού."
+
+#: String 331
+msgid "Email sent"
+msgstr "Το e-mail εστάλη"
+
+#: String 332
+msgid "Email to recover password sent"
+msgstr "Email to recover password sent"
+
+#: String 333
+msgid "Enable"
+msgstr "Ενεργοποίηση"
+
+#: String 334
+msgid "Enable Additional Features"
+msgstr "Ενεργοποίηση Επιπρόσθετων Λειτουργιών"
+
+#: String 335
+msgid "Enable reCAPTCHA as captcha provider"
+msgstr "Ενεργοποίηση reCAPTCHA ως πάροχος captcha"
+
+#: String 336
+msgid "Enable reviews"
+msgstr "Ενεργοποίηση κριτικών"
+
+#: String 337
+msgid "Enables Captcha"
+msgstr "Ενεγοποίηση Captcha"
+
+#: String 338
+msgid "Enables Contact Form"
+msgstr "Ενεργοποίηση φόρμας επικοινωνίας"
+
+#: String 339
+msgid "Enables an alert to accept cookies"
+msgstr "Ενεργοποίηση ειδοποίησης για αποδοχή cookies"
+
+#: String 340
+msgid "Enables reviews for ads and the users."
+msgstr "Ενεργοποίηση κριτικών για αγγελίες και χρήστες."
+
+#: String 341
+msgid "Enables the site to maintenance"
+msgstr "Ενεργοποιεί στη συντήρηση του ιστοτόπου"
+
+#: String 342
+msgid "Environment"
+msgstr "Περιβάλλον"
+
+#: String 343
+msgid "Error"
+msgstr "Πρόβλημα"
+
+#: String 344
+msgid "Error on mail delivery, not sent"
+msgstr "Σφάλμα κατά την αποστολή e-mail, δεν εστάλη"
+
+#: String 345
+msgid "Error: please try again!"
+msgstr "Σφάλμα: παρακαλείσθε να προσπαθήσετε ξανά!"
+
+#: String 346
+msgid "Ex. Url for Open Url Action."
+msgstr ""
+
+#: String 347
+msgid "Expiration Date"
+msgstr "Ημερομηνία λήξης"
+
+#: String 348
+msgid "Expire days"
+msgstr "Ημέρες λήξης"
+
+#: String 349
+msgid "FALSE"
+msgstr "FALSE"
+
+#: String 350
+msgid "FAQ"
+msgstr "Συχνές Ερωτήσεις"
+
+#: String 351
+msgid "Facebook Comments"
+msgstr "Σχόλια Facebook"
+
+#: String 352
+msgid "Facebook comments"
+msgstr "σχόλια Facebook"
+
+#: String 353
+msgid "Failed to load content"
+msgstr "Αποτυχία φόρτωσης περιεχομένου"
+
+#: String 354
+msgid "Favorited"
+msgstr "Αγαπημένο"
+
+#: String 355
+msgid "Feature ad"
+msgstr "Προβεβλημένη αγγελία"
+
+#: String 356
+msgid "Featured"
+msgstr "Προβεβλημένα"
+
+#: String 357
+msgid "Featured Ads"
+msgstr "Προβεβλημένες αγγελίες"
+
+#: String 358
+msgid "Featured Ads Random"
+msgstr "Προβεβλημένες αγγελίες (τυχαία σειρά)"
+
+#: String 359
+msgid "Featured Plan"
+msgstr "Προβεβλημένο Πλάνο"
+
+#: String 360
+msgid "Featured Plans"
+msgstr "Προβεβλημένα Πλάνα"
+
+#: String 361
+msgid "Featured ads"
+msgstr "Προβεβλημένες αγγελίες"
+
+#: String 362
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Οι προβεβλημένες αγγελίες θα προβάλονται για ορισμένο αριθμό ημερών"
+
+#: String 363
+msgid "Featured plan updated"
+msgstr "Ανανέωση προβεβλημένου πλάνου "
+
+#: String 364
+msgid "Featured title displayed"
+msgstr "Εμφάνιση τίτλου προβεβλημένων"
+
+#: String 365
+msgid "Field %s already exists"
+msgstr "Το πεδίο %s υπάρχει ήδη"
+
+#: String 366
+msgid "Field %s cannot be edited"
+msgstr "Το πεδίο %s δεν μπορεί να τροποποιηθεί"
+
+#: String 367
+msgid "Field %s created"
+msgstr "Το πεδίο %s δημιουργήθηκε"
+
+#: String 368
+msgid "Field %s deleted"
+msgstr "Το πεδίο %s διαγράφηκε"
+
+#: String 369
+msgid "Field %s does not exists"
+msgstr "Το πεδίο %s δεν υπάρχει"
+
+#: String 370
+msgid "Field %s edited"
+msgstr "Το πεδίο %s τροποποιήθηκε"
+
+#: String 371
+msgid "File"
+msgstr "Αρχείο"
+
+#: String 372
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: String 373
+msgid "Find %s‘s latitude & longitude"
+msgstr "Βρες το γεωγραφικό μήκος και πλάτος του %s"
+
+#: String 374
+msgid "Find latitude & longitude"
+msgstr "Βρες το γεωγραφικό μήκος και πλάτος"
+
+#: String 375
+msgid "First"
+msgstr "Πρώτο"
+
+#: String 376
+msgid "Follow the suggestions above."
+msgstr "Ακολούθησε τις πιο κάτω εισηγήσεις."
+
+#: String 377
+msgid "For banned word push enter."
+msgstr "Για προσθήκη λογοκριμένης λέξης πατήστε ENTER."
+
+#: String 378
+msgid "Forgot password"
+msgstr "Ξεχασμένος κωδικός"
+
+#: String 379
+msgid "Forgot password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+#: String 380
+msgid "Forum"
+msgstr "Forum"
+
+#: String 381
+msgid "Forum Limit, if none display all"
+msgstr "Όριο φόρουμ, αν κενό τότε εμφανίζονται όλα"
+
+#: String 382
+msgid "Forum Search"
+msgstr "Αναζήτηση στο Forum"
+
+#: String 383
+msgid "Forum Topics"
+msgstr "Θέματα forum"
+
+#: String 384
+msgid "Forum deleted"
+msgstr "Το forum διαγράφηκε"
+
+#: String 385
+msgid "Forum is created."
+msgstr "Το forum δημιουργήθηκε"
+
+#: String 386
+msgid "Forum is updated."
+msgstr "Το forum ενημερώθηκε"
+
+#: String 387
+msgid "Forum not deleted"
+msgstr "Το forum δε διαγράφηκε"
+
+#: String 388
+msgid "Forum parent"
+msgstr "Μητρικό forum"
+
+#: String 389
+msgid "Forum topic"
+msgstr "Θέμα forum"
+
+#: String 390
+msgid "Forum topic reader"
+msgstr "Αναγνώστης θεμάτων φόρουμ"
+
+#: String 391
+msgid "Forums"
+msgstr "Forums"
+
+#: String 392
+msgid "Frequently Asked Questions"
+msgstr "Συχνές Ερωτήσεις"
+
+#: String 393
+msgid "Friendship and Dating"
+msgstr "Φιλίες και Σχέσεις"
+
+#: String 394
+msgid "From"
+msgstr "Από"
+
+#: String 395
+msgid "From Email"
+msgstr "E-mail από"
+
+#: String 396
+msgid "From email"
+msgstr "E-mail από"
+
+#: String 397
+msgid "General"
+msgstr "Γενικά"
+
+#: String 398
+msgid "General Configuration"
+msgstr "Γενικές ρυθμίσεις"
+
+#: String 399
+msgid "General Configuration updated"
+msgstr "Οι Γενικές Ρυθμίσεις ενημερώθηκαν"
+
+#: String 400
+msgid "General site settings."
+msgstr "Γενικές ρυθμίσεις ιστοτόπου"
+
+#: String 401
+msgid "Generate"
+msgstr "Δημιουργία"
+
+#: String 402
+msgid "Generate an interactive map for your classifieds website"
+msgstr "Παραγωγή διαδραστικού χάρτη για την ιστοσελίδα σας"
+
+#: String 403
+msgid "Get Latitude and Longitude"
+msgstr "Λήψη Γεωγραφικού Μήκους και Πλάτους"
+
+#: String 404
+msgid "Get started by creating and editing categories and locations for your site here."
+msgstr "Ξεκινήστε με δημιουργία και τροποποίηση κατηγοριών και τοποθεσιών για την ιστοσελίδα σας εδώ."
+
+#: String 405
+msgid "Gets Ads Latitude and Longitude from Google Maps API using advertisements address"
+msgstr "Λήψη Γεωγραφικού Μήκους και Πλάτους των Αγγελιών από το Google Maps API με χρήση της διεύθυνσης των αγγελιών"
+
+#: String 406
+msgid "Go Featured!"
+msgstr "Για προβολή!"
+
+#: String 407
+msgid "Go Top!"
+msgstr "Στην κορυφη!"
+
+#: String 408
+msgid "Go to Website"
+msgstr "Πήγαινε στην ιστοσελίδα"
+
+#: String 409
+msgid "Go to Your Website"
+msgstr "Πηγαίνετε στον ιστοτόπο σας"
+
+#: String 410
+msgid "Go to top"
+msgstr "Προς την κοευφή της σελίδας"
+
+#: String 411
+msgid "Google Maps"
+msgstr "Χάρτες Google"
+
+#: String 412
+msgid "Google Maps Settings"
+msgstr "Ρυθμίσεις Χαρτών Google"
+
+#: String 413
+msgid "Google Maps in Ad"
+msgstr "Χάρτης Google στη αγγελία"
+
+#: String 414
+msgid "Google Maps in Publish New"
+msgstr "Χάρτης Google στην επιλογή Νέα Δημοσίευση"
+
+#: String 415
+msgid "Google Maps with ads"
+msgstr "Χάρτες Google με διαφημίσεις"
+
+#: String 416
+msgid "Google map default latitude coordinates"
+msgstr "Προκαθορισμένες συντεταγμένες γεωγραφικού πλάτους για χάρτη Google"
+
+#: String 417
+msgid "Google map default longitude coordinates"
+msgstr "Προκαθορισμένες συντεταγμένες γεωγραφικού μήκος για χάρτη Google"
+
+#: String 418
+msgid "Google map default zoom level "
+msgstr "Προκαθορισμένο επίπεδο zoom για χάρτη Google"
+
+#: String 419
+msgid "Google map zoom level"
+msgstr "Επίπεδο zoom για χάρτη Google"
+
+#: String 420
+msgid "HTML in HEAD element"
+msgstr ""
+
+#: String 421
+msgid "HTML in footer"
+msgstr ""
+
+#: String 422
+msgid "HTML text area"
+msgstr "Περιοχή κειμένου HTML"
+
+#: String 423
+msgid "HTML/text content here"
+msgstr "Περιεχόμενο κειμένου ή HTML"
+
+#: String 424
+msgid "Has image"
+msgstr "Έχει εικόνα"
+
+#: String 425
+msgid "Has images"
+msgstr "Έχει εικόνες"
+
+#: String 426
+msgid "Have you forgotten your password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+#: String 427
+msgid "Heads Up!"
+msgstr "Heads Up!"
+
+#: String 428
+msgid "Height (px)"
+msgstr "Ύψος (px)"
+
+#: String 429
+msgid "Hello, world"
+msgstr "Γεια σας"
+
+#: String 430
+msgid "Help us improve!"
+msgstr "Βοηθήστε μας να βελτιωθούμε!"
+
+#: String 431
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Εδώ υπάρχουν συγκεκριμένες τιμές παραμέτρων για το θέμα. Αντικαταστήστε τις εισαγόμενες τιμές με επιθυμητές."
+
+#: String 432
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Εδώ μπορείτε να δηλώσετε το δημόσιο όνομά σας. Αυτό θα φαίνεται σε όλους!"
+
+#: String 433
+msgid "Here you can find a selection of our premium themes."
+msgstr "Εδώ μπορείτε να βρείτε μια ποικιλία από τα καλύτερα θέματά μας."
+
+#: String 434
+msgid "Here you can modify any text you find in your web."
+msgstr "Από εδώ μπορείτε να αλλάξετε το κείμενο"
+
+#: String 435
+msgid "Here you can reset your password if you forgot it."
+msgstr "Εδώ μπορείτε να επαναφέρετε τον κωδικό σας αν τον ξεχάσατε."
+
+#: String 436
+msgid "Hey!"
+msgstr "Γεια!"
+
+#: String 437
+msgid "Hide translated texts"
+msgstr "Απόκριψη μεταφρασμένων κειμένων"
+
+#: String 438
+msgid "Hit enter to confirm"
+msgstr "Πιέστε enter για επιβεβαίωση"
+
+#: String 439
+msgid "Hits"
+msgstr "Επισκέψεις"
+
+#: String 440
+msgid "Home"
+msgstr "Αρχή"
+
+#: String 441
+msgid "Host name"
+msgstr "Όνομα εξυπηρετητή"
+
+#: String 442
+msgid "Hosting limit"
+msgstr "Όριο διακομιστή"
+
+#: String 443
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Πόσες αγγελίες πρόκειται να εμφανιστούς στο κανάλι RSS του ιστοτόπου σας."
+
+#: String 444
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Πόσες αγγελίες πρόκειται να εμφανιστούν στο χάρτη του ιστοτόπου"
+
+#: String 445
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Το ποσό που απαιτείται για να γίνει top-up μιας αγγελίας"
+
+#: String 446
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Πόσο συχνά ανανεώνεται το RSS (σε δευτερόλεπτα)"
+
+#: String 447
+msgid "How to configure %s"
+msgstr ""
+
+#: String 448
+msgid "I Understand"
+msgstr "Καταλαβαίνω"
+
+#: String 449
+msgid "I accept"
+msgstr "Δέχομαι"
+
+#: String 450
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: String 451
+msgid "Icon deleted."
+msgstr "Το εικονίδιο διαγράφηκε"
+
+#: String 452
+msgid "Icon file could not been saved."
+msgstr "Το αρχείο του εικονιδίου δεν μπορεί να αποθηκευτεί"
+
+#: String 453
+msgid "Icon is uploaded."
+msgstr "Το εικονίδιο φορτώθηκε."
+
+#: String 454
+msgid "Id"
+msgstr "Id"
+
+#: String 455
+msgid "Id_User"
+msgstr "ID Χρήστη"
+
+#: String 456
+msgid "If advertisement is marked as spam, user is also marked. Can not publish new ads or register until removed from Black List! Also will not allow users from disposable email addresses to register."
+msgstr "Αν η αγγελία μαρκαρίστηκε ως ανεπιθύμητη, τότε μαρκαρίστηκε και ο χρήστης. Δεν μπορεί να δημοσιεύσει νέες αγγελίες ή να εγγραφεί μέχρι να αφαιρεθεί από τη Μαύρη Λίστα! Επείσης δεν επιτρέπεται σε χρήστες από disposable ηλεκτρονικές διευθύνσεις να εγγραφούν."
+
+#: String 457
+msgid "If you have doubts check the release notes for this version"
+msgstr "Αν έχετε αμφιβολίες ελέγξτε τις σημειώσης αυτής της έκδοσης"
+
+#: String 458
+msgid "If you wanted to go to the main page instead, click here."
+msgstr "Εάν επιθυμούσατε να μεταβείτε στην κεντρική σελίδα, πατήστε εδώ."
+
+#: String 459
+msgid "If your locale is not listed, be sure your hosting has your locale installed."
+msgstr ""
+
+#: String 460
+msgid "Image"
+msgstr "Εικόνα"
+
+#: String 461
+msgid "Image Configuration"
+msgstr "Ρυθμίσεις Εικόνας"
+
+#: String 462
+msgid "Image Configuration updated"
+msgstr "Οι Ρυθμίσεις Εικόνας ανανεώθηκαν"
+
+#: String 463
+msgid "Image Quality"
+msgstr "Ποιότητα Εικόνας"
+
+#: String 464
+msgid "Image configuration"
+msgstr "Ρυθμίσεις Εικόνας"
+
+#: String 465
+msgid "Image configuration values. Replace input fields with new desired values"
+msgstr "Τιμές Ρύθμισης Εικόνας. Αντικαταστήστε τις τιμές στα πεδία με τις τιμές που επιθυμείτε"
+
+#: String 466
+msgid "Image folder is missing and cannot be created with mkdir. Please correct to be able to upload images."
+msgstr "Ο φάκελος εικόνων λείπει και δεν είναι δυνατό να δημιουργηθεί με την εντολή mkdir. Παρακαλούμε διορθώστε το πρόβλημα για να μεταφορτωθούν οι εικόνες."
+
+#: String 467
+msgid "Image height"
+msgstr "Ύψος εικόνας"
+
+#: String 468
+msgid "Image height in pixels(px)"
+msgstr "Ύψος εικόνας σε πίξελ (px)"
+
+#: String 469
+msgid "Image is not valid. Please try again."
+msgstr "Η εικόνα δεν είναι έγκυρη, παρακαλούμε δοκιμάστε ξανα."
+
+#: String 470
+msgid "Image is uploaded."
+msgstr "Η εικόνα μεταφορτώθηκε."
+
+#: String 471
+msgid "Image quality"
+msgstr "Ποιότητα εικόνας"
+
+#: String 472
+msgid "Image size in mega bites(Mb)"
+msgstr "Μέγεθος εικόνας σε megabytes (MB)"
+
+#: String 473
+msgid "Image width"
+msgstr "Πλάτος εικόνας"
+
+#: String 474
+msgid "Image width in pixels(px)"
+msgstr "Πλάτος εικόνας σε πίξελ (px)"
+
+#: String 475
+msgid "Images"
+msgstr "Εικόνες"
+
+#: String 476
+msgid "Import"
+msgstr "Εισαγωγή"
+
+#: String 477
+msgid "Import Ads"
+msgstr "Εισαγωγή Αγγελιών"
+
+#: String 478
+msgid "Import Categories"
+msgstr "Εισαγωγή Κατηγοριών"
+
+#: String 479
+msgid "Import Locations"
+msgstr "Εισαγωγή Τοποθεσιών"
+
+#: String 480
+msgid "Import categories and locations"
+msgstr "Εισαγωγή κατηγοριών και τοποθεσιών"
+
+#: String 481
+msgid "Import cities"
+msgstr "Εισαγωγή πόλεων"
+
+#: String 482
+msgid "Import continents"
+msgstr "Εισαγωγή ηπείρων"
+
+#: String 483
+msgid "Import counties/regions"
+msgstr "Εισαγωγή νομών/περιφερειών"
+
+#: String 484
+msgid "Import countries"
+msgstr "Εισαγωγή χωρών"
+
+#: String 485
+msgid "Import states/provinces"
+msgstr "Εισαγωγή πολιτειών/επαρχειών"
+
+#: String 486
+msgid "Import tool"
+msgstr "Εργαλείο εισαγωγής"
+
+#: String 487
+msgid "Import tool for ads"
+msgstr "Εισαγωγή εργαλείων για αγγελίες"
+
+#: String 488
+msgid "Import tool for locations and categories"
+msgstr "Εργαλείο εισαγωγής για τοποθεσίες και κατηγορίες"
+
+#: String 489
+msgid "In Stock"
+msgstr "Σε απόθεμα"
+
+#: String 490
+msgid "Inactive Region Color"
+msgstr "Απενεργοποίηση Χρώματος Περιοχών"
+
+#: String 491
+msgid "Include auto locate visitors"
+msgstr "Συμπερίληψη αυτόματου εντοπισμού επισκεπτών"
+
+#: String 492
+msgid "Include search by description"
+msgstr "Ενεργοποίηση αναζήτησης με περιγραφή"
+
+#: String 493
+msgid "Included files"
+msgstr "Περιλαμβανομένα αρχεία"
+
+#: String 494
+msgid "Increment Step"
+msgstr "Βήμα αύξησης"
+
+#: String 495
+msgid "Info"
+msgstr "Πληροφορία"
+
+#: String 496
+msgid "Install theme"
+msgstr "Εγκατάσταση θέματος"
+
+#: String 497
+msgid "Install theme from license."
+msgstr "Εγκατάσταση θέματο από άδεια."
+
+#: String 498
+msgid "Installation"
+msgstr "Εγκατάσταση"
+
+#: String 499
+msgid "Interactive Map"
+msgstr "Διαδραστικός Χάρτης"
+
+#: String 500
+msgid "Interactive Regions"
+msgstr "Διαδραστικές Περιοχές"
+
+#: String 501
+msgid "Interactive map"
+msgstr "Διαδραστικός χάρτης"
+
+#: String 502
+msgid "Interactive map is only available with premium themes!"
+msgstr "Ο διαδραστικός χάρτης είναι διαθέσιμος μόνο με premium themes"
+
+#: String 503
+msgid "Interactivity"
+msgstr "Διαδραστικότητα"
+
+#: String 504
+msgid "Invalid Email"
+msgstr "Μη έγκυρο e-mail"
+
+#: String 505
+msgid "Ip address"
+msgstr "Διεύθυνση IP"
+
+#: String 506
+msgid "Is not of valid size. Size is limited to %s MB per image"
+msgstr "Το μέγεθος δεν είναι έγκυρο. Το μέγεθος περιορίζεται σε %s ΜΒ ανα εικόνα"
+
+#: String 507
+msgid "Is not valid format, please use ZIP format"
+msgstr "Το format δεν είναι έγκυρο, παρακαλούμε χρησιμοποιείστε format ZIP"
+
+#: String 508
+msgid "It changes landing page of website"
+msgstr "Αλλάζει τη πρώτη σελίδα του ιστοτόπου"
+
+#: String 509
+msgid "It is either not existing, moved or deleted. Make sure the URL is correct."
+msgstr "Δεν υπάρχει, έχει μετακινηθεί ή διαγραφεί. Παρακαλούμε ελέγξτε την εγκυρότητα του URL."
+
+#: String 510
+msgid "It looks like you have been about to publish a new advertisement, if you leave before submitting your changes will be lost."
+msgstr "Φαίνεται ότι προσπαθείτε δημοσιοποιήσετε νέα αγγελία, αν φύγετε πριν την υποβολή οι αλλαγές σας θα χαθούν."
+
+#: String 511
+msgid "It will be the first line of the tooltip."
+msgstr "Θα είναι η πρώτη γραμμή της επεξήγησης."
+
+#: String 512
+msgid "It will be the second line of the tooltip."
+msgstr "Θα είναι η δεύτερη γραμμή της επεξήγησης."
+
+#: String 513
+msgid "Item created"
+msgstr "Το αντικείμενο δημιουργήθηκε"
+
+#: String 514
+msgid "Item updated"
+msgstr "Το αντικείμενο ενημερώθηκε"
+
+#: String 515
+msgid "Jobs"
+msgstr "Επαγγέλματα"
+
+#: String 516
+msgid "Keep Aspect Ratio"
+msgstr "Διατήρηση αναλογίας διαστάσεων"
+
+#: String 517
+msgid "Key"
+msgstr "Κλειδί"
+
+#: String 518
+msgid "Label"
+msgstr "Ετικέτα"
+
+#: String 519
+msgid "Landing page"
+msgstr "Σελίδα πρώτης επίσκεψης"
+
+#: String 520
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: String 521
+msgid "Language folder cannot be created with mkdir. Please correct to be able to create new translation."
+msgstr "Ο φάκελος της γλώσσας δεν μπορεί να δημιουργηθεί με την εντολή mkdir. Παρακαλώ διορθώστε ώστε να μπορεί να δημιουργηθεί η νέα μετάφραση."
+
+#: String 522
+msgid "Language saved"
+msgstr "Η γλώσσα αποθηκεύτηκε"
+
+#: String 523
+msgid "Last"
+msgstr "Τελευταίο"
+
+#: String 524
+msgid "Last 30 days"
+msgstr "Τελευταίες 30 ημέρες"
+
+#: String 525
+msgid "Last Login"
+msgstr "Τελευταία σύνδεση"
+
+#: String 526
+msgid "Last Message"
+msgstr "Τελευταίο μήνυμα"
+
+#: String 527
+msgid "Last login"
+msgstr "Τελευταία σύνδεση"
+
+#: String 528
+msgid "Last modified"
+msgstr "Ενημερωμένο τελευταία"
+
+#: String 529
+msgid "Last time generated"
+msgstr "Last time generated"
+
+#: String 530
+msgid "Latest"
+msgstr "Τελευταία"
+
+#: String 531
+msgid "Latest Ads"
+msgstr "Τελευταίες αγγελίες"
+
+#: String 532
+msgid "Latest News"
+msgstr "Τελευταία νέα"
+
+#: String 533
+msgid "Latest Published Ads"
+msgstr "Τελευταίες Δημοσιοποιημένες Αγγελίες"
+
+#: String 534
+msgid "Latest post published"
+msgstr "Τελευταία δημοσίευση"
+
+#: String 535
+msgid "Latest published"
+msgstr "Τελευταία δημοσίευση"
+
+#: String 536
+msgid "Latitude"
+msgstr "Γεωγραφικό Πλάτος"
+
+#: String 537
+msgid "Latitude coordinates"
+msgstr "Συντεταγμένες γεωγραφικού πλάτους"
+
+#: String 538
+msgid "License"
+msgstr "Άδεια"
+
+#: String 539
+msgid "License validation error, please insert again."
+msgstr "Σφάλμα πιστοποίησης της άδειας, παρακαλούμε επαναλάβετε εισαγωγή"
+
+#: String 540
+msgid "Limited Offer!"
+msgstr "Περιορισμένη προσφορά!"
+
+#: String 541
+msgid "Links"
+msgstr "Σύνδεσμοι"
+
+#: String 542
+msgid "Links title displayed"
+msgstr "Εμφάνιση τίτλου συνδέσμων"
+
+#: String 543
+msgid "List"
+msgstr "Κατάλογος"
+
+#: String 544
+msgid "List of all postings in"
+msgstr "Λίστα όλων των καταχωρήσεων"
+
+#: String 545
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Κατάλογος από τιμές ρυθμίσεων πληρωμών. Αντικαταστήσετε τις υπάρχουσες τιμές με νέες."
+
+#: String 546
+msgid "Listing"
+msgstr "Κατάλογος"
+
+#: String 547
+msgid "Listing Options"
+msgstr "Επιλογές Λίστας"
+
+#: String 548
+msgid "Listings"
+msgstr "Κατάλογοι"
+
+#: String 549
+msgid "Loaded extensions"
+msgstr "Φορτωμένες προεκτάσεις"
+
+#: String 550
+msgid "Locale"
+msgstr "Τοπική γλώσσα"
+
+#: String 551
+msgid "Locate me"
+msgstr "Εντοπίστε με"
+
+#: String 552
+msgid "Location"
+msgstr "Τοποθεσία"
+
+#: String 553
+msgid "Location created"
+msgstr "Η τοποθεσία δημιουργήθηκε"
+
+#: String 554
+msgid "Location deleted"
+msgstr "Η τοποθεσία διαγράφηκε"
+
+#: String 555
+msgid "Location details"
+msgstr "Λεπτομέριες τοποθεσίας"
+
+#: String 556
+msgid "Location icon"
+msgstr "Εικονίδιο τοποθεσίας"
+
+#: String 557
+msgid "Location not deleted"
+msgstr "Η τοποθεσία δε διαγράφηκε"
+
+#: String 558
+msgid "Locations"
+msgstr "Τοποθεσίες"
+
+#: String 559
+msgid "Locations successfully imported."
+msgstr "Οι τοποθεσίες εισάχθηκαν επιτυχώς."
+
+#: String 560
+msgid "Locations title displayed"
+msgstr "Εμφάνιση τίτλου τοποθεσιών"
+
+#: String 561
+msgid "Log"
+msgstr "Log"
+
+#: String 562
+msgid "Login"
+msgstr "Σύνδεση"
+
+#: String 563
+msgid "Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in 24 hours."
+msgstr "Η είσοδος έχει απενεργοποιηθεί προσωρινά λόγο πολλών ανεπιτυχών προσπαθιών εισόδου. Παρακαλώ δοκιμάστε ξανά σε 24 ώρες."
+
+#: String 564
+msgid "Login has been temporarily disabled due to too many unsuccessful login attempts. Please try again in a minute."
+msgstr "Η είσοδος έχει απενεργοποιηθεί προσωρινά λόγο πολλών ανεπιτυχών προσπαθιών εισόδου. Παρακαλώ δοκιμάστε ξανά σε ένα λεπτό."
+
+#: String 565
+msgid "Login to"
+msgstr "Είσοδος στο"
+
+#: String 566
+msgid "Login to reply"
+msgstr "Συνδεθείτε για να απαντήσετε"
+
+#: String 567
+msgid "Logout"
+msgstr "Αποσύνδεση"
+
+#: String 568
+msgid "Logs"
+msgstr "Logs"
+
+#: String 569
+msgid "Longitude"
+msgstr "Γεωγραφικό Μήκος"
+
+#: String 570
+msgid "Longitude coordinates"
+msgstr "Συντεταγμένες γεωγραφικού μήκους"
+
+#: String 571
+msgid "MANDATORY"
+msgstr "ΥΠΟΧΡΕΩΤΙΚΟ"
+
+#: String 572
+msgid "Mail not sent"
+msgstr "Το e-mail δεν εστάλη"
+
+#: String 573
+msgid "Maintenance"
+msgstr "Συντήρηση"
+
+#: String 574
+msgid "Maintenance Mode"
+msgstr "Λειτουργία συντήρησης"
+
+#: String 575
+msgid "Make featured?"
+msgstr "Να γίνει προβεβλημένη;"
+
+#: String 576
+msgid "Manage ads you published and edit them through this tab, you can also ask to feature or place your ad to top here."
+msgstr "Διαχειριστείτε τις αγγελίες που δημοσιεύσατε και επεξεργαστείτε τα μέσω αυτής της καρτέλας, μπορείτε επείσης να ζητήσετε να προβληθούν ή να τοποθετηθούν στην κορυφή από εδώ."
+
+#: String 577
+msgid "Map"
+msgstr "Χάρτης"
+
+#: String 578
+msgid "Map Border Color"
+msgstr "Χρώμα Συνόρου Χάρτη"
+
+#: String 579
+msgid "Map Border Width (px)"
+msgstr "Μήκος Συνόρου Χάρτη (px)"
+
+#: String 580
+msgid "Map Settings"
+msgstr "Ρυθμίσεις Χάρτη"
+
+#: String 581
+msgid "Map View"
+msgstr "Προβολή Χάρτη"
+
+#: String 582
+msgid "Map height in pixels"
+msgstr "Ύψος χάρτη σε pixels"
+
+#: String 583
+msgid "Map latitude coordinates"
+msgstr "Συντεταγμένες γεωγραφικού πλάτους χάρτη"
+
+#: String 584
+msgid "Map longitude coordinates"
+msgstr "Συντεταγμένες γεωγραφικού μήκους χάρτη"
+
+#: String 585
+msgid "Map on homepage"
+msgstr "Χάρτης στην αρχική σελίδα"
+
+#: String 586
+msgid "Map saved."
+msgstr "Ο χάρτης αποθηκεύτηκε."
+
+#: String 587
+msgid "Map title displayed"
+msgstr "Εμφάνιση τίτλου χάρτη"
+
+#: String 588
+msgid "Markers (Coordinates)"
+msgstr "Δείκτες (Συντεταγμένες)"
+
+#: String 589
+msgid "Markers (Text Location)"
+msgstr "Δείκτες (Τοποθεσία κειμένου)"
+
+#: String 590
+msgid "Market"
+msgstr "Αγορά"
+
+#: String 591
+msgid "Max Price"
+msgstr "Μέγιστη τιμή"
+
+#: String 592
+msgid "Max image size"
+msgstr "Μέγιστο μέγεθος εικόνας"
+
+#: String 593
+msgid "Maximum Price"
+msgstr "Μέγιστη τιμή"
+
+#: String 594
+msgid "Maximum file size of"
+msgstr "Μέγιστο μέγεθος αρχείου"
+
+#: String 595
+msgid "Menu"
+msgstr "Μενού"
+
+#: String 596
+msgid "Menu created"
+msgstr "Το μενού δημιουργήθηκε"
+
+#: String 597
+msgid "Menu deleted"
+msgstr "Το μενού διαγράφηκε"
+
+#: String 598
+msgid "Menu not created"
+msgstr "Το μενού δε δημιουργήθηκε"
+
+#: String 599
+msgid "Menu not updated"
+msgstr "Το μενού δεν ανανεώθηκε"
+
+#: String 600
+msgid "Menu type"
+msgstr "Τύπος μενού"
+
+#: String 601
+msgid "Menu updated"
+msgstr "Το μενού ανανεώθηκε"
+
+#: String 602
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: String 603
+msgid "Message not sent"
+msgstr "Το μήνυμα δεν εστάλη"
+
+#: String 604
+msgid "Migrate"
+msgstr "Μετάβαση"
+
+#: String 605
+msgid "Migration"
+msgstr "Μετάβαση"
+
+#: String 606
+msgid "Min Price"
+msgstr "Ελάχιστη τιμή"
+
+#: String 607
+msgid "Minimum Price"
+msgstr "Ελάχιστη τιμή"
+
+#: String 608
+msgid "Mobile Theme updated"
+msgstr "Το θέμα για κινητό ενημερώθηκε"
+
+#: String 609
+msgid "Mobile Version"
+msgstr "Έκδοση για κινητό"
+
+#: String 610
+msgid "Moderation"
+msgstr "Αλλαγή"
+
+#: String 611
+msgid "Moderation on"
+msgstr "Ενεργοποίηση Συντονισμού"
+
+#: String 612
+msgid "Money format"
+msgstr "Μορφή νομίσματος"
+
+#: String 613
+msgid "Multi select category and location search"
+msgstr "Αναζήτηση πολλαπλής επιλογής κατηγορίας και τοποθεσίας"
+
+#: String 614
+msgid "My Advertisement page "
+msgstr "Η σελίδα αγγελιών μου"
+
+#: String 615
+msgid "My Advertisements"
+msgstr "Οι Αγγελίες μου"
+
+#: String 616
+msgid "My Favorites"
+msgstr "Τα αγαπημένα μου"
+
+#: String 617
+msgid "My Payments"
+msgstr "Οι Πληρωμές μου"
+
+#: String 618
+msgid "My payments"
+msgstr "Οι πληρωμές μου"
+
+#: String 619
+msgid "NOPUBLISHED"
+msgstr "MH ΔΗΜΟΣΙΕΥΜΕΝΗ"
+
+#: String 620
+msgid "Name"
+msgstr "Name"
+
+#: String 621
+msgid "Name (A-Z)"
+msgstr "Όνομα (Α-Ω)"
+
+#: String 622
+msgid "Name (Z-A)"
+msgstr "Όνομα (Ω-Α)"
+
+#: String 623
+msgid "Name of your chat room/channel"
+msgstr "Όνομα του δικού σας δωματίου/καναλιού chat"
+
+#: String 624
+msgid "New"
+msgstr "Νέο"
+
+#: String 625
+msgid "New Advertisement"
+msgstr "Νέα αγγελία"
+
+#: String 626
+msgid "New Category"
+msgstr "Νέα Κατηγορία"
+
+#: String 627
+msgid "New Custom Field"
+msgstr "Νέο προσαρμοσμένο πεδίο"
+
+#: String 628
+msgid "New Custom Field for Advertisement"
+msgstr "Νέο προσαρμοσμένο πεδίο για Αγγελία"
+
+#: String 629
+msgid "New Custom Field for Users"
+msgstr "Νεό Προσαρμοσμένο Πεδίο για τους Χρήστες"
+
+#: String 630
+msgid "New Forum"
+msgstr "Νέο forum"
+
+#: String 631
+msgid "New Forum Topic"
+msgstr "Νέο θέμα forum"
+
+#: String 632
+msgid "New Location"
+msgstr "Νέα Τοποθεσία"
+
+#: String 633
+msgid "New Topic"
+msgstr "Νέο θέμα"
+
+#: String 634
+msgid "New Topic is not available as a feature."
+msgstr "Το Νέο Θέμα δεν είναι διαθέσιμο ως υπηρεσία"
+
+#: String 635
+msgid "New field"
+msgstr "Νέο πεδίο"
+
+#: String 636
+msgid "New forum"
+msgstr "Νέο forum"
+
+#: String 637
+msgid "New password"
+msgstr "Νέος κωδικός"
+
+#: String 638
+msgid "New tab or window"
+msgstr "Νέα καρτέλα ή παράθυρο"
+
+#: String 639
+msgid "New translation"
+msgstr "Νέα μετάφραση"
+
+#: String 640
+msgid "Newest"
+msgstr "Νεώτερο"
+
+#: String 641
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: String 642
+msgid "Newsletters"
+msgstr "Newsletters"
+
+#: String 643
+msgid "Next"
+msgstr "Επόμενο"
+
+#: String 644
+msgid "No"
+msgstr "Όχι"
+
+#: String 645
+msgid "No Subscriptions"
+msgstr "Καμία συνδρομή"
+
+#: String 646
+msgid "No results match"
+msgstr "Δεν βρέθηκαν αποτελέσματα"
+
+#: String 647
+msgid "No way!"
+msgstr "Σε καμιά περίπτωση!"
+
+#: String 648
+msgid "None"
+msgstr "Τίποτα"
+
+#: String 649
+msgid "None (0) advertisement has been deleted"
+msgstr "Καμία (0) αγγελία δε διαγράφηκε"
+
+#: String 650
+msgid "Not any ad to be processed"
+msgstr "Καμιά αγγελία για επεξεργασία"
+
+#: String 651
+msgid "Not paid"
+msgstr "Δεν πληρώθηκε"
+
+#: String 652
+msgid "Not possible to auto update"
+msgstr "Δεν είναι δυνατόν να γίνει αυτόματη αναβάθμιση"
+
+#: String 653
+msgid "Not published"
+msgstr "Μη δημοσιευμένη"
+
+#: String 654
+msgid "Not valid email."
+msgstr "Μη έγκυρη ηλεκτρονική διεύθυνση."
+
+#: String 655
+msgid "Nothing found, sorry!"
+msgstr "Δεν βρέθηκε, συγνώμη!"
+
+#: String 656
+msgid "Nothing is provided"
+msgstr "Nothing is provided"
+
+#: String 657
+msgid "Notify email"
+msgstr "E-mail ειδοποίησης"
+
+#: String 658
+msgid "Notify me on new ad"
+msgstr "Ενημέρωσέ με για κάθε νέα αγγελία"
+
+#: String 659
+msgid "Number"
+msgstr "Αριθμός"
+
+#: String 660
+msgid "Number Decimal"
+msgstr "Δεκαδικός αριθμός"
+
+#: String 661
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Η μορφοποίηση αριθμών αφορά τον τρόπο απεικόνισης των αριθμών στις διάφορες αγγελίες, όπως η τιμή. Κάθε χώρα έχει συγκεκριμένο τρόπο να διαχειρίζεται τα δεκαδικά ψηφία."
+
+#: String 662
+msgid "Number of Ads"
+msgstr "Αριθμός αγγελιών"
+
+#: String 663
+msgid "Number of ads per page"
+msgstr "Αρ. αγγελιών ανα σελίδα"
+
+#: String 664
+msgid "Number of ads to display"
+msgstr "Αριθμός αγγελιών προς εμφάνιση"
+
+#: String 665
+msgid "Number of comments to display"
+msgstr "Αριθμός σχολίων προς εμφάνιση"
+
+#: String 666
+msgid "Number of images"
+msgstr "Αρ. εικόνων"
+
+#: String 667
+msgid "Number of images displayed"
+msgstr "Αρ. εμφανιζόμενων εικόνων"
+
+#: String 668
+msgid "Number of items to display"
+msgstr "Αρ. αντικειμένων προς προβολή"
+
+#: String 669
+msgid "OK"
+msgstr "ΟΚ"
+
+#: String 670
+msgid "Oldest"
+msgstr "Παλιότερο"
+
+#: String 671
+msgid "Once logged in your Google Analytics, you can find the Tracking ID in the Accounts List or in the Property Settings"
+msgstr "Αφού συνδεθείτε με το δικό σας Google Analytics, μπορείτε να βρείτε το Tracking ID στη λίστα λογαριασμών ή στις Ρυθμίσεις Παραμέτρων"
+
+#: String 672
+msgid "Once set to TRUE, enables FAQ"
+msgstr "TRUE = ενεργοποίηση Συχνών Ερωτήσεων"
+
+#: String 673
+msgid "Once set to TRUE, enables auto locate visitors"
+msgstr "TRUE = ενεργοποίηση αυτόματου εντοπισμού επισκεπτών"
+
+#: String 674
+msgid "Once set to TRUE, enables blog posts"
+msgstr "TRUE = ενεργοποίηση δημοσιεύσεων στο blog"
+
+#: String 675
+msgid "Once set to TRUE, enables forums posts"
+msgstr "TRUE = ενεργοποίηση δημοσιεύσεων στο forum"
+
+#: String 676
+msgid "Once set to TRUE, enables multi select category and location search"
+msgstr "TRUE = ενεργοποίηση αναζήτησης πολλαπλής επιλογής κατηγορίας και τοποθεσίας"
+
+#: String 677
+msgid "Once set to TRUE, enables search to look for key words in description"
+msgstr "TRUE = ενεργοποίηση αναζήτησης λέξεων-κλειδί στην περιγραφή"
+
+#: String 678
+msgid "Only Admin"
+msgstr "Μόνο ο Διαχειριστής"
+
+#: String 679
+msgid "Only administrators can publish"
+msgstr "Μόνο οι διαχειριστές μπορούν να δημοσιεύσουν"
+
+#: String 680
+msgid "Only for paid transactions"
+msgstr "Μόνο για πληρωμένες συναλλαγές"
+
+#: String 681
+msgid "Only if you have a premium theme you will be able to filter by users!"
+msgstr "Το φίλτρο με βάση τους χρήστες είναι διαθέσιμο μόνο σε premium θέματα!"
+
+#: String 682
+msgid "Open Classifieds is an amazing free Open Source Software. By buying a theme you help us keep the project alive and updated. Thanks!"
+msgstr ""
+
+#: String 683
+msgid "Open Classifieds migration"
+msgstr "Μετάβαση Open Classifieds"
+
+#: String 684
+msgid "Open URL (new window)"
+msgstr ""
+
+#: String 685
+msgid "Open URL (same window)"
+msgstr ""
+
+#: String 686
+msgid "Optimize"
+msgstr "Βελτίωση"
+
+#: String 687
+msgid "Optimize DB"
+msgstr "Βελτιστοποίηση ΒΔ"
+
+#: String 688
+msgid "Optimize Database"
+msgstr "Βελτίωση βάσης δεδομένων"
+
+#: String 689
+msgid "Optional Advertisement Fields"
+msgstr "Προαιρετικά πεδία αγγελίας"
+
+#: String 690
+msgid "Optional Fields"
+msgstr "Προαιρετικά πεδία"
+
+#: String 691
+msgid "Options"
+msgstr "Επιλογές"
+
+#: String 692
+msgid "Or"
+msgstr "ή"
+
+#: String 693
+msgid "Order"
+msgstr "Order"
+
+#: String 694
+msgid "Order could not be loaded"
+msgstr "Είναι αδύνατη η φόρτωση της παραγγελίας"
+
+#: String 695
+msgid "Orders"
+msgstr "Παραγγελίες"
+
+#: String 696
+msgid "Original Translation"
+msgstr "Αυθεντική μετάφραση"
+
+#: String 697
+msgid "Other"
+msgstr "Άλλο"
+
+#: String 698
+msgid "PHP Info"
+msgstr "Πληροφορίες PHP"
+
+#: String 699
+msgid "PHP internal call"
+msgstr "Εσωτερική κλήση PHP"
+
+#: String 700
+msgid "PUBLISHED"
+msgstr "ΔΗΜΟΣΙΕΥΜΕΝΗ"
+
+#: String 701
+msgid "Page"
+msgstr "Σελίδα"
+
+#: String 702
+msgid "Page "
+msgstr "Σελίδα"
+
+#: String 703
+msgid "Page Not Found"
+msgstr "Η σελίδα δε βρέθηκε"
+
+#: String 704
+msgid "Page not found"
+msgstr "Η σελίδα δεν βρέθηκε"
+
+#: String 705
+msgid "Page title displayed"
+msgstr "Εμφάνιση τίτλου σελίδας"
+
+#: String 706
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: String 707
+msgid "Paid"
+msgstr "Πληρώθηκε"
+
+#: String 708
+msgid "Panel"
+msgstr "Διαχείριση"
+
+#: String 709
+msgid "Paramater for the action."
+msgstr ""
+
+#: String 710
+msgid "Parent"
+msgstr "Parent"
+
+#: String 711
+msgid "Parent category"
+msgstr "Υπερκατηγορία"
+
+#: String 712
+msgid "Parent deep"
+msgstr "Parent deep"
+
+#: String 713
+msgid "Parent frame"
+msgstr "Υπερπλαίσιο"
+
+#: String 714
+msgid "Password"
+msgstr "Κωδικός"
+
+#: String 715
+msgid "Password is changed"
+msgstr "Ο κωδικός αλλαξε"
+
+#: String 716
+msgid "Passwords do not match"
+msgstr "Οι κωδικοί δεν ταιριάζουν"
+
+#: String 717
+msgid "Pay"
+msgstr "Πληρωμή"
+
+#: String 718
+msgid "Pay With Card"
+msgstr "Πληρωμή με κάρτα"
+
+#: String 719
+msgid "Pay with Bitcoin"
+msgstr "Πληρωμή με Bitcoin"
+
+#: String 720
+msgid "Pay with Card"
+msgstr "Πληρωμή με κάρτα"
+
+#: String 721
+msgid "Pay with Credit Card"
+msgstr "Πληρωμή με Πιστωτική Κάρτα"
+
+#: String 722
+msgid "Pay with Paypal"
+msgstr "Πληρωμή με Paypal"
+
+#: String 723
+msgid "Payment"
+msgstr "Πληρωμές"
+
+#: String 724
+msgid "Payment on"
+msgstr "Ενεργοποίηση πληρωμής"
+
+#: String 725
+msgid "Payment with Moderation"
+msgstr "Πληρωμή με Συντονισμό"
+
+#: String 726
+msgid "Payments"
+msgstr "Πληρωμές"
+
+#: String 727
+msgid "Payments Configuration"
+msgstr "Ρυθμίσεις πληρωμής"
+
+#: String 728
+msgid "Payments Configuration updated"
+msgstr "Οι ρυθμίσεις πληρωμών αναβαθμίστηκαν"
+
+#: String 729
+msgid "Paymill private key"
+msgstr ""
+
+#: String 730
+msgid "Paymill public key"
+msgstr ""
+
+#: String 731
+msgid "Paypal Email"
+msgstr ""
+
+#: String 732
+msgid "Paypal account"
+msgstr "Λογαριασμός Paypal"
+
+#: String 733
+msgid "Paypal link stock control"
+msgstr "Σύνδεσμος Paypal για έλεγχο αποθέματος"
+
+#: String 734
+msgid "Paypal mail address"
+msgstr "Διεύθυνση e-mail Paypal"
+
+#: String 735
+msgid "Phone"
+msgstr "Τηλέφωνο"
+
+#: String 736
+msgid "Phone field"
+msgstr "Πεδίο τηλεφώνου"
+
+#: String 737
+msgid "Photo deleted."
+msgstr "Η φωτογραφία διαγράφηκε"
+
+#: String 738
+msgid "Please be sure you are using a currency that your payment gateway supports."
+msgstr "Παρακαλώ σιγουρευτείτε ότι χρησιμοποιείτε συνάλλαγμα που υποστηρίζεται από το σύστημα πληρωμών σας."
+
+#: String 739
+msgid "Please check your email"
+msgstr "Παρακαλώ ελέγξτε το email σας"
+
+#: String 740
+msgid "Please choose your closest location"
+msgstr "Παρακαλώ επιλέξτε την πλησιέστερη σας τοποθεσία"
+
+#: String 741
+msgid "Please enter a valid URL."
+msgstr "Παρακαλώ εισάγετε έγκυρο URL"
+
+#: String 742
+msgid "Please enter a valid credit card number."
+msgstr "Παρακαλώ εισάγετε έγκυρο αριθμό πιστωτικής κάρτας"
+
+#: String 743
+msgid "Please enter a valid date (ISO)."
+msgstr "Παρακαλώ εισάγετε έγκυρη ημερομηνία (ISO)."
+
+#: String 744
+msgid "Please enter a valid date."
+msgstr "Παρακαλώ εισάγετε έγκυρη ημερομηνία."
+
+#: String 745
+msgid "Please enter a valid email address."
+msgstr "Παρακαλώ εισάγετε έγκυρη ηλεκτρονική διεύθυνση. "
+
+#: String 746
+msgid "Please enter a valid format."
+msgstr "Παρακαλώ εισάγετε μια έγκυρη μορφή."
+
+#: String 747
+msgid "Please enter a valid number."
+msgstr "Παρακαλώ εισάγετε ένα έγκυρο αριθμό."
+
+#: String 748
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr "Παρακαλώ εισάγετε μια τιμή μεταξύ {0} και {1} αριθμού χαρακτήρων."
+
+#: String 749
+msgid "Please enter a value between {0} and {1}."
+msgstr "Παρακαλώ εισάγετε μια τιμή μεταξύ {0} και {1}."
+
+#: String 750
+msgid "Please enter a value greater than or equal to {0}."
+msgstr "Παρακαλώ εισάγετε μια τιμή μεγαλύτερη ή ίση από το {0}."
+
+#: String 751
+msgid "Please enter a value less than or equal to {0}."
+msgstr "Παρακαλώ εισάγετε μια τιμή μικρότερη ή ίση από το {0}."
+
+#: String 752
+msgid "Please enter a value with a valid extension."
+msgstr "Καταχωρίστε μια τιμή με έγκυρη επέκταση."
+
+#: String 753
+msgid "Please enter at least {0} characters."
+msgstr "Παρακαλώ εισάγετε το λιγότερο {0} χαρακτήρες."
+
+#: String 754
+msgid "Please enter no more than {0} characters."
+msgstr "Παρακαλώ μην εισάγετε περισσότερους από {0} χαρακτήρες. "
+
+#: String 755
+msgid "Please enter only digits."
+msgstr "Παρακαλώ εισάγετε μόνο ψηφία."
+
+#: String 756
+msgid "Please enter the same value again."
+msgstr "Παρακαλώ εισάγετε την ίδια τιμή ξανά."
+
+#: String 757
+msgid "Please fill your card details."
+msgstr "Παρακαλώ εισάγετε τις λεπτομέριες τις κάρτας σας."
+
+#: String 758
+msgid "Please fix this field."
+msgstr "Παρακαλώ διορθώστε αυτό το πεδίο."
+
+#: String 759
+msgid "Please insert here the license for your theme."
+msgstr "Παρακαλούμε εισάγετε την άδεια για το συγκεκριμένο θέμα."
+
+#: String 760
+msgid "Please insert here your custom CSS."
+msgstr "Παρακαλώ εισάγετε εδώ το Custom CSS σας."
+
+#: String 761
+msgid "Please login before posting"
+msgstr "Παρακαλούμε συνδεθείτε προτού δημοσιεύσετε"
+
+#: String 762
+msgid "Please login to unsubscribe."
+msgstr "Παρακαλώ συνδεθείτε για να απεγγραφείτε."
+
+#: String 763
+msgid "Please to see the changes delete the cache"
+msgstr "Για να δείτε τις αλλαγές παρακαλούμ να διαγράψετε τη cache"
+
+#: String 764
+msgid "Please use the correct CSV format"
+msgstr "Παρακαλώ χρησιμοποιείστε σωστή μορφή του CSV"
+
+#: String 765
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Μετάβαση στην Paypal. Παρακαλούμε περιμένετε."
+
+#: String 766
+msgid "Please, first create some Forums."
+msgstr "Δημιουργήστε πρώτα forum."
+
+#: String 767
+msgid "Please, first create some categories."
+msgstr "Παρακαλούμε δημιουργήστε πρώτα κατηγορίες."
+
+#: String 768
+msgid "Please, login before contacting"
+msgstr "Παρακαλώ, συνδεθείτε πριν επικοινωνήσετε"
+
+#: String 769
+msgid "Please, login before posting advertisement!"
+msgstr "Παρακαλούμε να συνδεθείτε προτού αποστείλετε την αγγελία!"
+
+#: String 770
+msgid "Popular Ads last month"
+msgstr "Δημοφιλέστερες αγγελίες του τελευταίου μήνα"
+
+#: String 771
+msgid "Post Review"
+msgstr "Αναθεώρηση δημοσίευσης"
+
+#: String 772
+msgid "Post directly"
+msgstr "Απευθείας δημοσίευση"
+
+#: String 773
+msgid "Post in paid category"
+msgstr "Δημοσίευση σε κατηγορία επί πληρωμή"
+
+#: String 774
+msgid "Posting advertisements is not yet available."
+msgstr "Η αποστολή αγγελιών δεν είναι ακόμα διαθέσιμη."
+
+#: String 775
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: String 776
+msgid "Previous"
+msgstr "Προηγούμενο"
+
+#: String 777
+msgid "Price"
+msgstr "Τιμή"
+
+#: String 778
+msgid "Price (High)"
+msgstr "Τιμή (Υψηλότερη)"
+
+#: String 779
+msgid "Price (Low)"
+msgstr "Τιμή (χαμηλή)"
+
+#: String 780
+msgid "Price field"
+msgstr "Πεδίο τιμής"
+
+#: String 781
+msgid "Price from"
+msgstr "Τιμή από"
+
+#: String 782
+msgid "Price to"
+msgstr "Τιμή έως"
+
+#: String 783
+msgid "Pricing"
+msgstr "Τιμολόγηση"
+
+#: String 784
+msgid "Proceed with Update"
+msgstr "Προχωρήστε με Αναβάθμιση"
+
+#: String 785
+msgid "Process"
+msgstr "Επεξεργασία"
+
+#: String 786
+msgid "Process Queue"
+msgstr "Ουρά Επεξεργασίας"
+
+#: String 787
+msgid "Processing..."
+msgstr "Επεξεργασία..."
+
+#: String 788
+msgid "Product"
+msgstr "Προϊόν"
+
+#: String 789
+msgid "Product could not be loaded"
+msgstr "Το προιόν δεν μπορεί να φορτωθεί"
+
+#: String 790
+msgid "Profile"
+msgstr "Προφίλ"
+
+#: String 791
+msgid "Profile Options"
+msgstr "Επιλογές προφίλ"
+
+#: String 792
+msgid "Profile Picture"
+msgstr "Εικόνα προφίλ"
+
+#: String 793
+msgid "Profile image"
+msgstr "Εικόνα προφίλ"
+
+#: String 794
+msgid "Profile picture"
+msgstr "Εικόνα προφίλ"
+
+#: String 795
+msgid "Providing akismet key will activate this feature. This feature deals with spam posts and emails."
+msgstr "Η προμήθεια του κλειδιού Akismet θα ενεργοποιήσει τη συγκεκριμένη υπηρεσία. Η υπηρεσία αυτή σχετίζεται με δημοσιεύσεις και e-mail spam."
+
+#: String 796
+msgid "Province"
+msgstr "Επαρχία"
+
+#: String 797
+msgid "Public profile"
+msgstr "Δημόσιο προφίλ"
+
+#: String 798
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+#: String 799
+msgid "Publish Date"
+msgstr "Ημ. δημοσίευσης"
+
+#: String 800
+msgid "Publish Options"
+msgstr "Επιλογές Δημοσίευσης"
+
+#: String 801
+msgid "Publish new"
+msgstr "Νέα δημοσίευση"
+
+#: String 802
+msgid "Publish new "
+msgstr "Νέα δημοσίευση"
+
+#: String 803
+msgid "Publish new advertisement"
+msgstr "Δημοσίευση νέας αγγελίας"
+
+#: String 804
+msgid "Publish new topic"
+msgstr "Δημοσίευση νέου θέματος"
+
+#: String 805
+msgid "Published"
+msgstr "Δημοσιευμένη"
+
+#: String 806
+msgid "Purchase"
+msgstr "Αγορά"
+
+#: String 807
+msgid "Put your website on maintenance mode until you want to launch it, manage other general settings and create custom fields through this tab."
+msgstr "Θέστε την ιστοσελίδα σας σε λειτουργία συντήρησης μέχρι να θέλετε να την εκκινήσετε, διαχειρηστείτε άλλες γενικές ρυθμίσεις και δημιουργείστε προσαρμοσμένα πεδία μέσω αυτής της καρτέλας."
+
+#: String 808
+msgid "Queue cleaned"
+msgstr "Η ουρά καθαρίστηκε"
+
+#: String 809
+msgid "Quick category creator."
+msgstr "Γρήγορος δημιουργός κατηγορίας."
+
+#: String 810
+msgid "Quick location creator."
+msgstr "Γρήγορος δημιουργός τοποθεσίας."
+
+#: String 811
+msgid "RSS"
+msgstr "RSS"
+
+#: String 812
+msgid "RSS reader with cache"
+msgstr "Αναγνώστης RSS με προσωρινή μνήμη"
+
+#: String 813
+msgid "RSS title displayed"
+msgstr "Εμφάνιση τίτλου RSS"
+
+#: String 814
+msgid "RSS url address"
+msgstr "URL διεύθυνση RSS"
+
+#: String 815
+msgid "Radio"
+msgstr "Radio"
+
+#: String 816
+msgid "Rate"
+msgstr "Βαθμός"
+
+#: String 817
+msgid "Read carefully"
+msgstr "Διαβάστε προσεκτικά"
+
+#: String 818
+msgid "Read more"
+msgstr "Διαβάστε περισσότερα"
+
+#: String 819
+msgid "Reading log file"
+msgstr "Ανάγνωση αρχείου log"
+
+#: String 820
+msgid "Real State"
+msgstr "Ακίνητα"
+
+#: String 821
+msgid "Refresh listing, go to top?"
+msgstr "Ανανέωση καταλόγου, κοευφή της σελίδας;"
+
+#: String 822
+msgid "Region"
+msgstr "Περιοχή"
+
+#: String 823
+msgid "Region Code:"
+msgstr "Κωδικός Περιοχής"
+
+#: String 824
+msgid "Region to Display"
+msgstr "Περιοχή προς εμφάνιση"
+
+#: String 825
+msgid "Regional Settings"
+msgstr "Ρυθμίσεις Περιοχής"
+
+#: String 826
+msgid "Regions"
+msgstr "Περιοχές"
+
+#: String 827
+msgid "Register"
+msgstr "Εγγραφή"
+
+#: String 828
+msgid "Register new user"
+msgstr "Εγγραφή νέου χρήστη"
+
+#: String 829
+msgid "Related ads"
+msgstr "Σχετικές αγγελίες"
+
+#: String 830
+msgid "Relative path to the image to use as watermark"
+msgstr "Σχετική διαδρομή της εικόνας - υδατογράφημα"
+
+#: String 831
+msgid "Release Date"
+msgstr "Ημερομηνία Κυκλοφορίας"
+
+#: String 832
+msgid "Release Notes"
+msgstr "Σημειώσεις Κυκλοφορίας"
+
+#: String 833
+msgid "Remember me"
+msgstr "Να με θυμάσαι"
+
+#: String 834
+msgid "Remember password"
+msgstr "Αποθήκευση κωδικού"
+
+#: String 835
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: String 836
+msgid "Repeat password"
+msgstr "Επανάληψη κωδικού"
+
+#: String 837
+msgid "Replacement of a banned word"
+msgstr "Αντικατάσταση μιας λογοκριμένης λέξης"
+
+#: String 838
+msgid "Replies"
+msgstr "Απαντήσεις"
+
+#: String 839
+msgid "Reply"
+msgstr "Απάντηση"
+
+#: String 840
+msgid "Reply added, thanks!"
+msgstr "Η απάντηση προστέθηκε"
+
+#: String 841
+msgid "Reply here"
+msgstr "Απαντήστε εδώ"
+
+#: String 842
+msgid "Require login to contact"
+msgstr "Απαιτείται σύνδεση για να επικοινωνήσετε"
+
+#: String 843
+msgid "Require login to post"
+msgstr "Απαιτείται σύνδεση για να δημοσιεύσετε"
+
+#: String 844
+msgid "Require only the logged in users to contact."
+msgstr "Απαιτείται μόνο οι συνδεδεμένοι χρήστες να επικοινωνούν."
+
+#: String 845
+msgid "Require only the logged in users to post."
+msgstr "Απαιτείται μόνο οι συνδεδεμένοι χρήστες μπορούν να δημοσιεύσουν"
+
+#: String 846
+msgid "Required"
+msgstr "Υποχρεωτικό"
+
+#: String 847
+msgid "Required field to register."
+msgstr "Απαιτούμενο πεδίο για εγγραφή."
+
+#: String 848
+msgid "Required field to submit a new ad."
+msgstr "Απαιτούμενο πεδίο για καταχώρηση νέας αγγελίας."
+
+#: String 849
+msgid "Requirements checks we do before we install."
+msgstr "Οι έλεγχοι απαιτήσεων που εκτελούμε προτού αρχίσει η εγκατάσταση."
+
+#: String 850
+msgid "Requires address to pay for extra security"
+msgstr ""
+
+#: String 851
+msgid "Reset"
+msgstr "Επαναφορά"
+
+#: String 852
+msgid "Restricts likely nude pictures that are being uploaded to your server."
+msgstr "Περιορισμός πιθανόν γυμνών φωτογραφιών που φορτώνονται στον διακομιστή."
+
+#: String 853
+msgid "Review"
+msgstr "Κριτική"
+
+#: String 854
+msgid "Review database connection parameters"
+msgstr "Review database connection parameters"
+
+#: String 855
+msgid "Reviews"
+msgstr "Κριτικές"
+
+#: String 856
+msgid "Reviews Configuration"
+msgstr "Ρυθμίσεις Κριτικών"
+
+#: String 857
+msgid "Reviews are only available with premium themes!"
+msgstr "Οι κριτικές είναι διαθέσιμες μόνο με premium themes!"
+
+#: String 858
+msgid "Reviews for paid transactions"
+msgstr "Κριτικές για πληρωμένες συναλλαγές"
+
+#: String 859
+msgid "Role"
+msgstr "Ρόλος"
+
+#: String 860
+msgid "Roles"
+msgstr "Ρόλοι"
+
+#: String 861
+msgid "Rows"
+msgstr "Γραμμές"
+
+#: String 862
+msgid "S3 Domain Name"
+msgstr ""
+
+#: String 863
+msgid "SEO title"
+msgstr "Τίτλος SEO"
+
+#: String 864
+msgid "SMTP Configuration"
+msgstr ""
+
+#: String 865
+msgid "SPAM"
+msgstr "SPAM"
+
+#: String 866
+msgid "Sales"
+msgstr "Πωλήσεις"
+
+#: String 867
+msgid "Sales statistics"
+msgstr "Στατιστικά πωλήσεων"
+
+#: String 868
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 869
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: String 870
+msgid "Save changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: String 871
+msgid "Save plan"
+msgstr "Αποθήκευση πλάνου"
+
+#: String 872
+msgid "Save size"
+msgstr "Μέγεθος αποθήκευσης"
+
+#: String 873
+msgid "Saved"
+msgstr "Αποθηκεύτηκε"
+
+#: String 874
+msgid "Scan"
+msgstr "Ανίχνευση"
+
+#: String 875
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: String 876
+msgid "Search FAQs"
+msgstr "Αναζήτησης ερωτήσεων"
+
+#: String 877
+msgid "Search in"
+msgstr "Αναζήτηση σε"
+
+#: String 878
+msgid "Search in ads will include this field as well."
+msgstr "Αναζήτηση σε αγγελίες θα απαιτεί και αυτό το πεδίο."
+
+#: String 879
+msgid "Search results"
+msgstr "Αποτελέσματα αναζήτησης"
+
+#: String 880
+msgid "Search users by name or email"
+msgstr "Αναζήτηση χρηστών από το όνομα ή την ηλεκτρονική διεύθυνση τους"
+
+#: String 881
+msgid "Searchable"
+msgstr "Διαθέσιμο προς αναζήτηση"
+
+#: String 882
+msgid "Seems a nude picture so you cannot upload it"
+msgstr "Μοιάζει με γυμνή φωτογραφία άρα δεν μπορεί να φορτωθεί"
+
+#: String 883
+msgid "Select"
+msgstr "Επιλέξτε"
+
+#: String 884
+msgid "Select Some Options"
+msgstr "Διαλέξτε κάποιες Επιλογές"
+
+#: String 885
+msgid "Select a forum"
+msgstr "Επιλέξτε forum"
+
+#: String 886
+msgid "Select an Option"
+msgstr "Διαλέξτε μια Επιλογή"
+
+#: String 887
+msgid "Select another category"
+msgstr "Επιλέξτε άλλη κατηγορία"
+
+#: String 888
+msgid "Select another location"
+msgstr "Επιλέξτε άλλη τοποθεσία"
+
+#: String 889
+msgid "Select from files"
+msgstr "Επιλέξτε από αρχεία"
+
+#: String 890
+msgid "Select some categories first."
+msgstr "Επιλέξετε πρώτα κατηγορίες."
+
+#: String 891
+msgid "Select some locations first."
+msgstr "Επιλέξτε τοποθεσία πρώτα"
+
+#: String 892
+msgid "Selected Category"
+msgstr "Επιλεγμένη κατηγορία"
+
+#: String 893
+msgid "Selected Category does not exists, please select another one!"
+msgstr "Η επιλεγμένη κατηγορία δεν υπάρχει, παρακαλούμε επιλέξτε άλλη!"
+
+#: String 894
+msgid "Selected Location"
+msgstr "Επιλεγμένη Τοποθεσία"
+
+#: String 895
+msgid "Selected Location does not exists, please select another one!"
+msgstr "Η επιλεγμένη τοποθεσία δεν υπάρχει, παρακαλώ επιλέξτε διαφορετική!"
+
+#: String 896
+msgid "Selected location"
+msgstr "Επιλεγμένη τοποθεσία"
+
+#: String 897
+msgid "Selection of nice extras for your installation."
+msgstr "Επιλογή προσθέτων για την εγκατάστασή σας"
+
+#: String 898
+msgid "Send"
+msgstr "Αποστολή"
+
+#: String 899
+msgid "Send Message"
+msgstr "Αποστολή Μηνύματος"
+
+#: String 900
+msgid "Seo Title"
+msgstr ""
+
+#: String 901
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 902
+msgid "Seotitle"
+msgstr "Τίτλος SEO"
+
+#: String 903
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Εισάγετε τα επιτρεπόμενα φορμάτ των εικόνων που μεταφορτώνονται στο σύστημα. "
+
+#: String 904
+msgid "Set up your cron at your hosting / cPanel, every minute"
+msgstr ""
+
+#: String 905
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: String 906
+msgid "Share"
+msgstr "Κοινοποίηση"
+
+#: String 907
+msgid "Share on social networks."
+msgstr "Κοινοποίηση σε κοινωνικά δίκτυα"
+
+#: String 908
+msgid "Show Listing"
+msgstr "Εμφάνιση Καταλόγου"
+
+#: String 909
+msgid "Show Profile"
+msgstr "Εμφάνιση Προφίλ"
+
+#: String 910
+msgid "Show QR code"
+msgstr "Εμφάνιση κώδικα QR "
+
+#: String 911
+msgid "Show Register"
+msgstr "Εμφάνιση Εγγραφής"
+
+#: String 912
+msgid "Show Tooltip"
+msgstr "Εμφάνιση Tooltip"
+
+#: String 913
+msgid "Show listing"
+msgstr "Εμφάνιση καταλόγου"
+
+#: String 914
+msgid "Show profile"
+msgstr "Εμφάνιση προφίλ"
+
+#: String 915
+msgid "Show register"
+msgstr "Εμφάνιση εγγραφής"
+
+#: String 916
+msgid "Show sharing buttons"
+msgstr "Εμφάνιση κουμπιών κοινοποίησης"
+
+#: String 917
+msgid "Show translated texts"
+msgstr "Εμφάνιση μεταφρασμένων κειμένων"
+
+#: String 918
+msgid "Site Description"
+msgstr "Περιγραφή ιστοτόπου"
+
+#: String 919
+msgid "Site Name"
+msgstr "Όνομα ιστοτόπου"
+
+#: String 920
+msgid "Site Statistics"
+msgstr "Στατιστικά ιστοσελίδας"
+
+#: String 921
+msgid "Site Usage Statistics"
+msgstr "Στατιστικά χρήσης ιστοτόπου"
+
+#: String 922
+msgid "Site currency"
+msgstr "Νόμισμα ιστοσελίδας"
+
+#: String 923
+msgid "Site description"
+msgstr "Περιγραφή ιστοτόπου"
+
+#: String 924
+msgid "Site name"
+msgstr "Όνομα ιστοτόπου"
+
+#: String 925
+msgid "Sitemap"
+msgstr "Χάρτης Ιστοτόπου"
+
+#: String 926
+msgid "Sitemap Configuration updated"
+msgstr "Οι ρυθμίσεις χάρτη ιστοτόπου ενημερώθηκαν"
+
+#: String 927
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: String 928
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 929
+msgid "Smtp active"
+msgstr "SMTP ενεργός"
+
+#: String 930
+msgid "Smtp auth"
+msgstr "Έλεγχος ταυτότητας SMTP"
+
+#: String 931
+msgid "Smtp host"
+msgstr "Εξυπηρετητής SMTP"
+
+#: String 932
+msgid "Smtp password"
+msgstr "Κωδικός SMTP"
+
+#: String 933
+msgid "Smtp port"
+msgstr "Πόρτα SMTP"
+
+#: String 934
+msgid "Smtp ssl"
+msgstr "SMTP SSL"
+
+#: String 935
+msgid "Smtp user"
+msgstr "Χρήστης SMTP"
+
+#: String 936
+msgid "Social Auth"
+msgstr "Ταυτοποίηση μέσω κοινωνικού δικτύου"
+
+#: String 937
+msgid "Social Auth updated"
+msgstr "Η Ταυτοποίηση μέσω κοινωνικού δικτύου ανανεώθηκε"
+
+#: String 938
+msgid "Social Authentication Settings"
+msgstr "Ρυθμίσεις ελέγχου τατυότητας για κοινωνικά δίκτυα"
+
+#: String 939
+msgid "Social Authentication for login"
+msgstr "Σύνδεση μέσω κοινωνικού δικτύου"
+
+#: String 940
+msgid "Social Login"
+msgstr "Σύνδεση μέσω κοινωνικού δικτύου"
+
+#: String 941
+msgid "Social authentication is only available with premium themes!"
+msgstr "Η πιστοποίηση κοινωνικών δικτύων είναι διαθέσιμη μόνο με premium θέματα!"
+
+#: String 942
+msgid "Software DB Updated to latest version!"
+msgstr "Η Βάση Δεδομένων του λογισμικού αναβαθμίστηκε στην τελευταία έκδοση!"
+
+#: String 943
+msgid "Software Requirements"
+msgstr "Απαιτήσεις λογισμικού"
+
+#: String 944
+msgid "Some errors in the form"
+msgstr "Υπάρχουν σφάλματα στη φόρμα"
+
+#: String 945
+msgid "Some errors were encountered, please check the details you entered."
+msgstr "Έχουν εντοπιστεί σφάλματα, παρακαλούμε να ελέγξετε τα στοιχεία που εισάγατε."
+
+#: String 946
+msgid "Something went wrong uploading your logo"
+msgstr "Κάτι πήγε στραβά κατά το φόρτωμα του λογότυπου σας"
+
+#: String 947
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Πρόβλημα με τη μεταφόρτωση εικόνων, παρακαλούμε ελέγξτε το φορμάτ"
+
+#: String 948
+msgid "Something went wrong, please check format of the file! Remove single quotes or strange characters, in case you have any."
+msgstr "Πρόβλημα, παρακαλούμε ελέγξτε το φορμάτ του αρχείου! Αφαιρέστε μονά εισαγωγικά ή ειδικούς χαρακτήρες σε περίπτωση που υπάρχουν."
+
+#: String 949
+msgid "Sorry, deleting %s locale emails is not allowed"
+msgstr ""
+
+#: String 950
+msgid "Sort"
+msgstr "Ταξινόμηση"
+
+#: String 951
+msgid "Sort by in listing"
+msgstr "Ταξινόμηση στον κατάλογο"
+
+#: String 952
+msgid "Space to optimize"
+msgstr "Χώρος προς βελτίωση"
+
+#: String 953
+msgid "Spam"
+msgstr "Spam"
+
+#: String 954
+msgid "Spam Sort"
+msgstr "Ταξινόμηση spam"
+
+#: String 955
+msgid "Spam?"
+msgstr "Spam;"
+
+#: String 956
+msgid "State"
+msgstr "Πολιτεία"
+
+#: String 957
+msgid "Statistics"
+msgstr "Στατιστικά"
+
+#: String 958
+msgid "Stats"
+msgstr "Στατιστικά"
+
+#: String 959
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: String 960
+msgid "Stripe private key"
+msgstr ""
+
+#: String 961
+msgid "Stripe public key"
+msgstr ""
+
+#: String 962
+msgid "Subject"
+msgstr "Θέμα"
+
+#: String 963
+msgid "Submit"
+msgstr "Αποστολή"
+
+#: String 964
+msgid "Subscribe"
+msgstr "Συνδρομή"
+
+#: String 965
+msgid "Subscribe for categories"
+msgstr "Συνδρομή για κατηγορίες"
+
+#: String 966
+msgid "Subscribe title displayed"
+msgstr "Εμφάνιση τίτλου συνδρομής"
+
+#: String 967
+msgid "Subscribed to emails"
+msgstr "Εγγραφή στα e-mail"
+
+#: String 968
+msgid "Subscriptions"
+msgstr "Συνδρομές"
+
+#: String 969
+msgid "Success"
+msgstr "Success"
+
+#: String 970
+msgid "Successfully imported latitude and longitude info from your ads."
+msgstr "Η εισαγωγή γεωγραφικού μήκου και πλάτους από τις αγγελίες σας έγινε επιτυχώς."
+
+#: String 971
+msgid "Support"
+msgstr "Υποστήριξη"
+
+#: String 972
+msgid "Sure you want to delete the widget?"
+msgstr "Σίγουρα θέλετε να διαγράψετε αυτό το widget;"
+
+#: String 973
+msgid "Switch off custom CSS"
+msgstr "Απενεργοποίηση custom CSS"
+
+#: String 974
+msgid "System Logs"
+msgstr "Logs συστήματος"
+
+#: String 975
+msgid "System logs"
+msgstr "Logs συστήματος"
+
+#: String 976
+msgid "TRUE"
+msgstr "TRUE"
+
+#: String 977
+msgid "TRUE or FALSE"
+msgstr ""
+
+#: String 978
+msgid "Table"
+msgstr "Πίνακας"
+
+#: String 979
+msgid "Table %s not found"
+msgstr "Ο πίνακας %s δε βρέθηκε"
+
+#: String 980
+msgid "Table prefix"
+msgstr "Πρόθεμα πίνακα"
+
+#: String 981
+msgid "Target"
+msgstr "Στόχος"
+
+#: String 982
+msgid "Terms of Service"
+msgstr "Όροι υπηρεσίας"
+
+#: String 983
+msgid "Terms of service"
+msgstr "Όροι υπηρεσίας"
+
+#: String 984
+msgid "Text"
+msgstr "Κείμενο"
+
+#: String 985
+msgid "Text 256 Chars"
+msgstr "Κείμενο (256 χαρακτ.)"
+
+#: String 986
+msgid "Text Long"
+msgstr "Μήκος κειμένου"
+
+#: String 987
+msgid "Text title displayed"
+msgstr "Εμφάνιση τίτλου κειμένου"
+
+#: String 988
+msgid "Thank you for subscribing"
+msgstr "Ευχαριστούμε για την εγγραφή"
+
+#: String 989
+msgid "Thanks"
+msgstr "Ευχαριστούμε"
+
+#: String 990
+msgid "Thanks for submitting your advertisement"
+msgstr "Ευχαριστούμε που καταχωρήσατε την αγγελία σας"
+
+#: String 991
+msgid "Thanks for using Open Classifieds."
+msgstr "Ευχαριστούμε που χρησιμοποείτε το Open Classifieds."
+
+#: String 992
+msgid "Thanks for using our website."
+msgstr "Ευχαριστούμε που χρησιμοποιείτε τον ιστοτόπο μας."
+
+#: String 993
+msgid "Thanks for your payment!"
+msgstr "Ευχαριστούμε για την πληρωμή!"
+
+#: String 994
+msgid "Thanks for your review!"
+msgstr "Ευχαριστούμε για την κριτική!"
+
+#: String 995
+msgid "Thanks page"
+msgstr ""
+
+#: String 996
+msgid "The paypal email address where the payments will be sent"
+msgstr "Η διεύθυνση e-mail του Paypal όπου θα αποσταλεί"
+
+#: String 997
+msgid "The requested page"
+msgstr "Η ζητούμενη σελίδα"
+
+#: String 998
+msgid "Theme License"
+msgstr "Άδεια θέματος"
+
+#: String 999
+msgid "Theme Options"
+msgstr "Επιλογές θέματος"
+
+#: String 1000
+msgid "Theme activated, thanks."
+msgstr "Το θέμα ενεργγοποιήθηκε, ευχαριστούμε."
+
+#: String 1001
+msgid "Theme configuration updated"
+msgstr "Οι ρυθμίσεις του θέματος ενημερώθηκαν"
+
+#: String 1002
+msgid "Theme could not be downloaded"
+msgstr "Το θέμα δε μπορεί να μεταφορτωθεί"
+
+#: String 1003
+msgid "Theme downloaded"
+msgstr "Το θέμα μεταφορτώθηκε"
+
+#: String 1004
+msgid "Themes"
+msgstr "Θέματα"
+
+#: String 1005
+msgid "Themes Market"
+msgstr "Αγορά θεμάτων"
+
+#: String 1006
+msgid "Themes Updated"
+msgstr "Τα θέματα ενημερώθηκαν."
+
+#: String 1007
+msgid "There was an error activating your license."
+msgstr "Σφάλμα κατα την ενεργοποίηση της άδειάς σας."
+
+#: String 1008
+msgid "This advertisement doesn´t exist, or is not yet published!"
+msgstr "Η αγγελία δεν υπάρχει ή δεν έχει ακόμα δημοσιευτεί"
+
+#: String 1009
+msgid "This email has been considered as spam! We are sorry but we can not send this email."
+msgstr "Το e-mail έχει χαρακτηρισθεί ως spam! Λυπούμαστε αλλά δεν μπορούμε να αποστείλουμε το συγκεκριμένο e-mail."
+
+#: String 1010
+msgid "This field is required."
+msgstr "Αυτό το πεδίο είναι απαραίτητο."
+
+#: String 1011
+msgid "This is a list of users marked as spammers. To understand how this feature works, please read this article"
+msgstr "Αυτή είναι η λίστα χρηστών χαρακτηρισμένων ως spammers. Για να κατανοήσετε τη λειτουργία της, παρακαλούμε να διαβάσετε αυτό το άρθρο."
+
+#: String 1012
+msgid "This is not your advertisement."
+msgstr "Δεν είναι η αγγελία σας αυτή."
+
+#: String 1013
+msgid "This is permanent! No backups, no restores, no magic undo button. We warned you, ok?"
+msgstr ""
+
+#: String 1014
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Πόσες αγγελίες θα εμφανίζονται ανα σελίδα. Εισάγετε μια ακέραια τιμή ως πάνω όριο."
+
+#: String 1015
+msgid "This license is in use in the theme %s"
+msgstr "Η άδεια χρησιμποιείται στο θέμα %s"
+
+#: String 1016
+msgid "This order was already paid."
+msgstr "Αυτή η παραγγελία έχει ήδη πληρωθεί."
+
+#: String 1017
+msgid "This post has been considered as spam! We are sorry but we cant publish this advertisement."
+msgstr "Η αγγελία αυτή θεωρείται spam! Λυπούμαστε αλλά δεν μπορούμε να δημοσιεύσουμε τη συγκεκριμένη αγγελία."
+
+#: String 1018
+msgid "This process can take few minutes DO NOT interrupt it"
+msgstr "Η διαδικασία μπορεί να διαρκέσει λίγα λεπτά ΜΗΝ τη διακόψετε"
+
+#: String 1019
+msgid "Thumb height"
+msgstr "Ύψος μικρογραφίας"
+
+#: String 1020
+msgid "Thumb height in pixels(px)"
+msgstr "Ύψος μικρογραφίας σε πίξελ (px)"
+
+#: String 1021
+msgid "Thumb is a small image resized to fit certain elements. This is the height for this image."
+msgstr "Μικρογραφία είναι η μικρή εικόνα με τέτοιο μέγεθος ώστε να ταιριάζει σε ορισμένα σημεία της σελίδας. Αυτό είναι το ύψος για αυτήν την εικόνα."
+
+#: String 1022
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Μικρογραφία είναι μια μικρή εικόνα που ταιριάζει σε συγκεκριμένα μεη της σελίδας. Αυτό είναι το πλάτος αυτής της εικόνας."
+
+#: String 1023
+msgid "Thumb width"
+msgstr "Πλάτος μικρογραφίας"
+
+#: String 1024
+msgid "Thumb width in pixels(px)"
+msgstr "Πλάτος μικρογραφίας σε πίξελ (px)"
+
+#: String 1025
+msgid "Tickets"
+msgstr ""
+
+#: String 1026
+msgid "Time Zone"
+msgstr "Ζώνη ώρας"
+
+#: String 1027
+msgid "Title"
+msgstr "Τίτλος"
+
+#: String 1028
+msgid "Title displayed"
+msgstr "Εμφανιζόμενος Τίτλος"
+
+#: String 1029
+msgid "Title:"
+msgstr "Τίτλος:"
+
+#: String 1030
+msgid "To"
+msgstr "Προς"
+
+#: String 1031
+msgid "To buy this product you first need to register"
+msgstr "Για να αγοράσετε αυτό το προιόν πρέπει πρώτα να εγγραφείτε"
+
+#: String 1032
+msgid "To continue your experience with %s you can get back to the main website by clicking here."
+msgstr ""
+
+#: String 1033
+msgid "To get paid via Credit card you need a %s account"
+msgstr "Για να πληρωθείτε μέσω Πιστωτικής κάρτας χρειάζεστε ένα %s λογαριασμό"
+
+#: String 1034
+msgid "To go back to the previous page, click the Back button."
+msgstr "Για να μεταβείτε στην προηγούμενη σελίδα, πατήστε το πλήκρο Πίσω"
+
+#: String 1035
+msgid "To include your custom HTML code (reference to JS or CSS files, etc.) in the footer of the rendered page."
+msgstr ""
+
+#: String 1036
+msgid "To include your custom HTML code (validation metadata, reference to JS/CSS files, etc.) in the HEAD element of the rendered page."
+msgstr ""
+
+#: String 1037
+msgid "To install new theme choose zip file."
+msgstr "Για να εγκαταστήσετε ένα νέο θέμα επιλέξτε αρχείο zip."
+
+#: String 1038
+msgid "To top"
+msgstr "Στην κορυφή"
+
+#: String 1039
+msgid "To top price"
+msgstr "Μέγιστη τιμή"
+
+#: String 1040
+msgid "Today"
+msgstr "Σήμερα"
+
+#: String 1041
+msgid "Toggle navigation"
+msgstr "Ενεργοποίηση/Απενεργοποίηση πλοήγησης"
+
+#: String 1042
+msgid "Tools"
+msgstr "Εργαλεία"
+
+#: String 1043
+msgid "Tools title displayed"
+msgstr "Εμφάνιση τίτλου εργαλείων"
+
+#: String 1044
+msgid "Tooltip"
+msgstr "Tooltip"
+
+#: String 1045
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: String 1046
+msgid "Tooltip:"
+msgstr ""
+
+#: String 1047
+msgid "Top up ad"
+msgstr "Ανανέωση διαφήμισης"
+
+#: String 1048
+msgid "Topic"
+msgstr "Θέμα"
+
+#: String 1049
+msgid "Topic is updated."
+msgstr "Το θέμα ενημερώθηκε"
+
+#: String 1050
+msgid "Topics"
+msgstr "Θέματα"
+
+#: String 1051
+msgid "Total"
+msgstr "Σύνολο"
+
+#: String 1052
+msgid "Transaction not successful!"
+msgstr "Ανεπιτυχής συναλλαγή!"
+
+#: String 1053
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Μετάφραση όλων; Προσοχή, θα αντικατασταθούν όλα τα κείμενα."
+
+#: String 1054
+msgid "Translation"
+msgstr "Μετάφραση"
+
+#: String 1055
+msgid "Translations"
+msgstr "Μεταφράσεις"
+
+#: String 1056
+msgid "Translations files available in the system."
+msgstr "Οι διαθέσιμες μεταφράσεις του συστήματος"
+
+#: String 1057
+msgid "Translations regenarated"
+msgstr "Οι μεταφράσεις αναδημιουργήθηκαν"
+
+#: String 1058
+msgid "Type"
+msgstr "Τύπος"
+
+#: String 1059
+msgid "Type address"
+msgstr "Εισάγετε διεύθυνση"
+
+#: String 1060
+msgid "Type ads to display"
+msgstr "Εισάγετε αγγελίες προς εμφάνιση"
+
+#: String 1061
+msgid "Type your password twice"
+msgstr "Εισάγετε τον κωδικό σας 2 φορές"
+
+#: String 1062
+msgid "Type your password twice to change"
+msgstr "Εισάγετε τον κωδικό σας 2 φορές για αλλαγή"
+
+#: String 1063
+msgid "UNAVAILABLE"
+msgstr "ΜΗ ΔΙΑΘΕΣΙΜΗ"
+
+#: String 1064
+msgid "UNCONFIRMED"
+msgstr "ΜΗ ΕΠΙΒΕΒΑΙΩΜΕΝΗ"
+
+#: String 1065
+msgid "Unavailable"
+msgstr "Μη διαθέσιμο"
+
+#: String 1066
+msgid "Unavailable Sort"
+msgstr "Ταξινόμηση μη διαθεσίμων"
+
+#: String 1067
+msgid "Unconfirmed"
+msgstr "Μη επιβεβαιωμένο"
+
+#: String 1068
+msgid "Unconfirmed Sort"
+msgstr "Μη επιβεβαιωμένη ταξινόμηση"
+
+#: String 1069
+msgid "Unsubscribe"
+msgstr "Διαγραφείτε από συνδρομητής"
+
+#: String 1070
+msgid "Unsubscribe to all?"
+msgstr "Διαγραφή συνδρομής από όλα;"
+
+#: String 1071
+msgid "Unsubscribe?"
+msgstr "Διαγραφή συνδρομής;"
+
+#: String 1072
+msgid "Up to"
+msgstr "Μέχρι"
+
+#: String 1073
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: String 1074
+msgid "Update Topic"
+msgstr "Ενημέρωση θέματος"
+
+#: String 1075
+msgid "Update folder `%s` not found."
+msgstr ""
+
+#: String 1076
+msgid "Updated to "
+msgstr ""
+
+#: String 1077
+msgid "Updates"
+msgstr "Ενημερώσεις"
+
+#: String 1078
+msgid "Updating, do not close this window."
+msgstr "Αναβάθμιση, μην κλείσετε αυτό το παράθυρο."
+
+#: String 1079
+msgid "Upgrade your Yclas site to PRO to activate this feature."
+msgstr "Εκτελέστε Upgrade στο Οpen Classifieds για να ενργοποιήσετε τη συκεκριμένη λειτουργία."
+
+#: String 1080
+msgid "Upload"
+msgstr "Μεταφόρτωση"
+
+#: String 1081
+msgid "Upload CSV file"
+msgstr "Φόρτωμα αρχείου CSV"
+
+#: String 1082
+msgid "Upload category icon"
+msgstr "Φόρτωμα εικονιδίου κατηγορίας"
+
+#: String 1083
+msgid "Upload file"
+msgstr "Φόρτωμα αρχείου"
+
+#: String 1084
+msgid "Upload location icon"
+msgstr "Φόρτωμα εικονιδίου τοποθεσίας"
+
+#: String 1085
+msgid "Url"
+msgstr "URL"
+
+#: String 1086
+msgid "Use parent categories"
+msgstr "Χρήση υπερκατηγοριών"
+
+#: String 1087
+msgid "Use the form below to help you get the coordinates values"
+msgstr "Χρησιμοποιείστε την παρακάτω φόρμα για να βρείτε τις συντεταγμένες"
+
+#: String 1088
+msgid "User"
+msgstr "Χρήστης"
+
+#: String 1089
+msgid "User %s has been removed from black list."
+msgstr "Ο χρήστης %s αφαιρέθηκε από τη μαύρη λίστα"
+
+#: String 1090
+msgid "User Profile"
+msgstr "Προφίλ χρήστη"
+
+#: String 1091
+msgid "User account will be created"
+msgstr "Θα δημιιουργηθεί λογαριασμός χρήστη"
+
+#: String 1092
+msgid "User already exists"
+msgstr "User already exists"
+
+#: String 1093
+msgid "User name"
+msgstr "Όνομα χρήστη"
+
+#: String 1094
+msgid "User not in database"
+msgstr "User not in database"
+
+#: String 1095
+msgid "User paypal link"
+msgstr "Σύνδεσμος χρήστη Paypal"
+
+#: String 1096
+msgid "Users"
+msgstr "Χρήστες"
+
+#: String 1097
+msgid "Users marked a spam"
+msgstr "Χρήστες σεσημασμένοι ως spam"
+
+#: String 1098
+msgid "Users not logged last 3 months"
+msgstr "Χρήστες που δεν έχουν συνδεθεί τους 3 τελευταίους μήνες"
+
+#: String 1099
+msgid "Users with featured ads expired."
+msgstr "Χρήστες με προβεβλημένες λειτουργίες έχουν λήξει."
+
+#: String 1100
+msgid "Users with featured ads."
+msgstr "Χρήστες με προβεβλημένες αγγελίες."
+
+#: String 1101
+msgid "Users without published ads."
+msgstr "Χρήστες χωρίς προβεβλημένες αγγελίες."
+
+#: String 1102
+msgid "Using mobile theme"
+msgstr "Χρησιμοποιείται θέμα για κινητό"
+
+#: String 1103
+msgid "Valid Until"
+msgstr "Έγκυρο έως"
+
+#: String 1104
+msgid "Values"
+msgstr "Τιμές"
+
+#: String 1105
+msgid "Version"
+msgstr "Έκδοση"
+
+#: String 1106
+msgid "View Advertisement"
+msgstr "Προβολή Αγγελίας"
+
+#: String 1107
+msgid "Views and Ads"
+msgstr "Προβολές και Αγγελίες"
+
+#: String 1108
+msgid "Views and Ads statistics"
+msgstr "Εμφανίσεις και στατιστικά αγγελιών"
+
+#: String 1109
+msgid "Views and Contacts statistic"
+msgstr "Στατιστικά Όψεων και Επαφών"
+
+#: String 1110
+msgid "Visit Site"
+msgstr "Επίσκεψη ιστοτόπου"
+
+#: String 1111
+msgid "Visits"
+msgstr "Επισκέψεις"
+
+#: String 1112
+msgid "Warning"
+msgstr "Προσοχή"
+
+#: String 1113
+msgid "Warning, something went wrong while deleting"
+msgstr "Προσοχή, πρόβλημα κατα τη διαγραφή"
+
+#: String 1114
+msgid "Warning, something went wrong while deleting Ad with id %u"
+msgstr "Προσοχή, υπήρξε σφάλμα κατα τη διαγραφή της αγγελίας με ID %u"
+
+#: String 1115
+msgid "Watermark"
+msgstr "Υδατογράφημα"
+
+#: String 1116
+msgid "Watermark path"
+msgstr "Διαδρομή υδατογραφήματος"
+
+#: String 1117
+msgid "Watermark position"
+msgstr "Θέση υδατογραφήματος"
+
+#: String 1118
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Ο ιστοτόπος είναι ύπο συντήρηση. Παρακαλούμε επισκεφτείτε μας αργότερα. Ευχαριστούμε!"
+
+#: String 1119
+msgid "We can not copy the %s since the locale %s already has existing %s"
+msgstr ""
+
+#: String 1120
+msgid "We can not read file %s"
+msgstr "Δεν μπορούμε να διαβάσουμε το αρχείο %s"
+
+#: String 1121
+msgid "We detected you are currently off-line, please connect to gain full experience."
+msgstr "Αυτή τη στιγμή είστε αποσυνδεδεμένος/η, παρακαλούμε να συνδεθείτε για να αποκτήσετε πλήρη πρόσβαση"
+
+#: String 1122
+msgid "We do not have any FAQ-s"
+msgstr "Δεν υπάρχουν Συχνές Ερωτήσεις"
+
+#: String 1123
+msgid "We do not have any advertisements in this category"
+msgstr "Δεν υπάρχουν αγγελίες για τη συγκεκριμένη κατηγορία"
+
+#: String 1124
+msgid "We do not have any blog posts"
+msgstr "Δεν υπάρχουν δημοσιεύσεις blog"
+
+#: String 1125
+msgid "We do not have any reviews for this product"
+msgstr "Δεν έχουμε κριτικές για αυτό το προιόν"
+
+#: String 1126
+msgid "We had a problem downloading latest version, try later please."
+msgstr "Υπήρξε πρόβλημα μεταφόρτωσης της τελευταίας έκδοσης, παρακαλούμε δοκιμάστε αργότερα."
+
+#: String 1127
+msgid "We have detected some incompatibilities, installation may not work as expected but you can try."
+msgstr "Έχουν εντοπιστεί ορισμένες ασυμβατότητες, η εγκατάσταση είναι πιθανό να μη λειτουργήσει όπως αναμένεται αλλά μπορείτε να προσπαθήσετε."
+
+#: String 1128
+msgid "We install it for you, Buy now!"
+msgstr "Το εγκαθιστούμε για εσάς, αγοράστε το τώρα!"
+
+#: String 1129
+msgid "We need your email address to complete"
+msgstr "Απαιτείται η διεύθυνη e-mal για να ολοκληρωθεί η διαδικασία"
+
+#: String 1130
+msgid "We use cookies to track usage and preferences"
+msgstr "Χρησιμοποιούμε cookies για να εντοπίζουμε τη χρήση και τις προτιμήσεις"
+
+#: String 1131
+msgid "We will move all the ads to home category."
+msgstr "Θα μεταφέρουμε όλες τις αγγελίες στην αρχική κατηγορία"
+
+#: String 1132
+msgid "We will move all the ads to home location."
+msgstr "Θα μεταφέρουμε όλες τις αγγελίες στην αρχική τοποθεσία"
+
+#: String 1133
+msgid "We will move the siblings categories and ads to the parent of this category."
+msgstr "Θα μεταφέρουμε τις συγγενείς κατηγορίες και αγγελίες στο γονέα αυτής της κατηγορίας."
+
+#: String 1134
+msgid "We will remove all the forum posts and answers."
+msgstr "Θα διαγράψουμε όλα τα posts και τις απαντήσεις του forum."
+
+#: String 1135
+msgid "Website"
+msgstr "Ιστοτόπος"
+
+#: String 1136
+msgid "Website field"
+msgstr "Πεδίο ιστοτόπου"
+
+#: String 1137
+msgid "Welcome"
+msgstr "Καλώς ήρθατε"
+
+#: String 1138
+msgid "Welcome!"
+msgstr "Καλώς ήρθατε!"
+
+#: String 1139
+msgid "Where do you want the widget displayed?"
+msgstr "Που επιθυμείτε να εμφανίζεται το widget;"
+
+#: String 1140
+msgid "Widget %s deleted"
+msgstr "Το widget %s διαγράφηκε"
+
+#: String 1141
+msgid "Widget %s saved in %s"
+msgstr "To widget %s αποθηκεύτηκε σε %"
+
+#: String 1142
+msgid "Widget created in %s"
+msgstr "Το widget δημιουργήθηκε σε %s"
+
+#: String 1143
+msgid "Widget parameter missing"
+msgstr "Λείπει παράμετρος widget"
+
+#: String 1144
+msgid "Widgets"
+msgstr "Widgets"
+
+#: String 1145
+msgid "Width (px)"
+msgstr "Μήκος (px)"
+
+#: String 1146
+msgid "Wrong Captcha"
+msgstr "Λάθος Captcha"
+
+#: String 1147
+msgid "Wrong email or password"
+msgstr "Λάθος e-mail ή κωδικός"
+
+#: String 1148
+msgid "Yes"
+msgstr "Ναι"
+
+#: String 1149
+msgid "Yes, Keep me updated!"
+msgstr "Ναι, κρατήστε με ενήμερο!"
+
+#: String 1150
+msgid "Yes, definitely!"
+msgstr "Ναι, απολύτως!"
+
+#: String 1151
+msgid "Yesterday"
+msgstr "Χθες"
+
+#: String 1152
+msgid "You already added a review"
+msgstr "Ήδη προσθέσατε κριτική"
+
+#: String 1153
+msgid "You are assigning a parent category that does not exist"
+msgstr ""
+
+#: String 1154
+msgid "You are assigning a parent location that does not exist"
+msgstr ""
+
+#: String 1155
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Είστε σε κατάσταση συντήρησης, μπορείτε να δείτε μόνο τον ιστοτόπο"
+
+#: String 1156
+msgid "You are not using latest version, please update."
+msgstr "Δεν είστε στην τελευταία έκδοση, παρακαλούμε ενημερώστε το σύστημα."
+
+#: String 1157
+msgid "You are now viewing the back panel at %s here you can manage your ads, favorites, payments and more."
+msgstr ""
+
+#: String 1158
+msgid "You are now viewing your admin panel, where you can control almost everything in your classifieds site."
+msgstr ""
+
+#: String 1159
+msgid "You are responsible for any damages or down time at your site"
+msgstr ""
+
+#: String 1160
+msgid "You are selecting a location that does not exist"
+msgstr "Έχετε επιλέξει μια τοποθεσία που δεν υπάρχει"
+
+#: String 1161
+msgid "You are unsubscribed"
+msgstr "Έχετε ακυρώσει τη συνδρομή"
+
+#: String 1162
+msgid "You can change the look and feel of your website here."
+msgstr "Εδώ μπορείτε να αλλάξετε την εμφάνιση του ιστοτόπου σας."
+
+#: String 1163
+msgid "You can check payments you made and see your favorites list here"
+msgstr "Εδώ μπορείτε να ελέγξετε τις πληρωμές που έχετε κάνει και να δείτε τις αγαπημένες σας λίστες"
+
+#: String 1164
+msgid "You can choose if you wish to display amount of visits at each advertisement."
+msgstr "Μπορείτε να επιλέξετε αν επιθυμείτε να εμφανίζετε ο αριθμός των επισκέψεων σε κάθε αγγελία."
+
+#: String 1165
+msgid "You can choose if you wish to display random related ads at each advertisement"
+msgstr "Μπορείτε να επιλέξετε αν επιθυμείτε να φαίνονται οι σχετικές αγγελίες σε κάθε αγγελίας σας σε τυχαία σειρά"
+
+#: String 1166
+msgid "You can choose if you wish to display sharing buttons at each advertisement."
+msgstr "Μπορείτε να επιλέξετε αν θέλετε να εμφανίζονται τα κουμπιά κοινοποίησης σε κάθε αγγελία."
+
+#: String 1167
+msgid "You can choose what ads you want to display in home."
+msgstr "Μπορείτε να επιλέξετε ποιες αγγελίες επιθυμείτε να φαίνονται στην αρχική σελίδα"
+
+#: String 1168
+msgid "You can leave it blank for no action."
+msgstr "Μπορείτε να το αφήσετε κενό για καμιά ενέργεια"
+
+#: String 1169
+msgid "You can move it to the inactive placeholder"
+msgstr ""
+
+#: String 1170
+msgid "You can not review yourself."
+msgstr "Δεν μπορείτε να αφήσετε κριτική για τον εαυτό σας."
+
+#: String 1171
+msgid "You can not set as parent the same category"
+msgstr "Είναι αδύνατος ο ορισμός της ίδιας κατηγορίας σε μητρική"
+
+#: String 1172
+msgid "You can not set as parent the same location"
+msgstr "Δεν είναι δυνατός ο ορισμός της ίδιας τοποθεσίας ως μητρική"
+
+#: String 1173
+msgid "You can only add a review if you bought this product"
+msgstr "Μπορείτε να προσθέσετε κριτική μόνο αν αγοράσατε αυτό το προιόν"
+
+#: String 1174
+msgid "You can try a new search or publish a new topic ;)"
+msgstr "Μπορείτε να δοκιμάσετε νέα αναζήτηση ή να δημοσιεύσετε νέο topic"
+
+#: String 1175
+msgid "You did not confirmed your delete action."
+msgstr "Δεν επιβεβαιώσατε την ενέργεια διαγραφής."
+
+#: String 1176
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Δεν έχετε αγγελίες προς δημοσίευση"
+
+#: String 1177
+msgid "You do not have permissions to access %s"
+msgstr "Δεν έχετε δικαίωμα πρόσβασης σε %s"
+
+#: String 1178
+msgid "You dont have permission to access this link"
+msgstr "Δεν έχετε δικαίωμα πρόσβασης για αυτόν το σύνδεσμο"
+
+#: String 1179
+msgid "You got %d ads to get processed"
+msgstr "Έχετε %d αγγελίες να επεξεργαστείτε"
+
+#: String 1180
+msgid "You have an old version and automatic update is not possible. Please read the release notes and the manual update instructions."
+msgstr "Έχετε μια παλιά έκδοση και η αυτόματη αναβάθμιση δεν είναι δυνατή. Παρακαλώ διαβάστε τις σημειώσεις της έκδοσης και το εγχειρίδιο έκδοσης με τις οδηγίες."
+
+#: String 1181
+msgid "You have been contacted for these ads"
+msgstr "Έχουν επικοινωνήσει μαζί σας για αυτές τις αγγελίες"
+
+#: String 1182
+msgid "You have reached the maximum number of custom fields allowed."
+msgstr "Έχετε φτάσει στο όριο του μέγιστου επιτρεπόμενου αριθμού των προσαρμοσμένων πεδίων."
+
+#: String 1183
+msgid "You have succesfully installed the theme!"
+msgstr "Το θέμα εγκαταστάθηκε με επιτυχία!"
+
+#: String 1184
+msgid "You have successfuly changed your data"
+msgstr "Τα στοιχεία σας ενημερώθηκαν επιτυχώς"
+
+#: String 1185
+msgid "You have successfuly unsubscribed"
+msgstr "Έχετε απεγγραφεί επιτυχώς"
+
+#: String 1186
+msgid "You need help or you have some questions"
+msgstr "Χρειάζεστε βοήθεια ή έχετε κάποιες ερωτήσεις"
+
+#: String 1187
+msgid "You need to enable paypal link to allow only reviews on purchases."
+msgstr "Απαιτείται να ενεργοποιήσετε το paypal link για να επιτρέψετε κριτικές μόνο από αγορές."
+
+#: String 1188
+msgid "You need to write reCAPTCHA Site Key to enable the service."
+msgstr "Απαιτείται να γράψετε το reCAPTCHA Site Key για να ενεργοποιήσετε την υπηρεσία."
+
+#: String 1189
+msgid "You need to write your Facebook APP ID to enable the service."
+msgstr "Απαιτείται να εισάγετε το δικό σας Facebook APP ID για να ενεργοποιήσετε την υπηρεσία."
+
+#: String 1190
+msgid "You need to write your banned words to enable the service."
+msgstr "Απαιτείται να εισάγετε τις λογοκριμένες λέξεις για να ενεργοποιηθεί η συγκεκριμένη υπηρεσία."
+
+#: String 1191
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Απαιτείται να εισάγετε το δικό σας Disqus ID για να ενεργοποιήσετε την υπηρεσία."
+
+#: String 1192
+msgid "You need to write your reCAPTCHA Secret Key to enable the service."
+msgstr "Απαιτείται να γράψετε το reCAPTCHA Site Key σας για να ενεργοποιήσετε την υπηρεσία."
+
+#: String 1193
+msgid "You will need also a SSL certificate"
+msgstr "Θα χρειαστείτε επείσης ένα SSL certificate"
+
+#: String 1194
+msgid "Your Advertisement can go on top again! For only "
+msgstr "Η αγγελία σας μπορεί να τοποθετηθεί στην κορυφή ξανά! Μόνο για "
+
+#: String 1195
+msgid "Your Advertisement can go to featured! For only "
+msgstr "Η αγγελία σας μπορεί να μετατραπεί σε προβεβλημένη! Για μόνο "
+
+#: String 1196
+msgid "Your Hash Key for this installation is"
+msgstr "Το κλειδί hash της εγκατάστασης είναι"
+
+#: String 1197
+msgid "Your PHP time limit is"
+msgstr "Το όριο χρόνου PHP είναι"
+
+#: String 1198
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Η αγγελία σας έχει δημοσιευθεί επιτυχώς!. Ευχαριστούμε!"
+
+#: String 1199
+msgid "Your installation version is"
+msgstr "Η έκδοση της εγκατάστασης είναι"
+
+#: String 1200
+msgid "Your message has been sent"
+msgstr "Το μήνυμά σας έχει αποσταλεί"
+
+#: String 1201
+msgid "Your profile has been disable for posting, due to recent spam content! If you think this is a mistake please contact us."
+msgstr "Το προφίλ σας απενεργοποιήθηκε εξαιτίας περιεχομένου spam! Αν νομίζετε ότι αυτό είναι λάθος παρακαλούμε να επικοινωνήσετε μαζί μας."
+
+#: String 1202
+msgid "Your sitemap XML to submit to engines"
+msgstr ""
+
+#: String 1203
+msgid "Zip file failed to extract, please try again."
+msgstr "Αδυναμία αποσυμπίεσης αρχείου zip, παρακαλούμε δοκιμάστε ξανά."
+
+#: String 1204
+msgid "Zoom in the map"
+msgstr "Μεγέθυνση στο χάρτη"
+
+#: String 1205
+msgid "Zoom level"
+msgstr "Επίπεδο zoom"
+
+#: String 1206
+msgid "a couple of days"
+msgstr "λίγες μέρες"
+
+#: String 1207
+msgid "a couple of decades"
+msgstr "λίγες δεκαετίες"
+
+#: String 1208
+msgid "a couple of hours"
+msgstr "λίγες ώρες"
+
+#: String 1209
+msgid "a couple of months"
+msgstr "λίγους μήνες"
+
+#: String 1210
+msgid "a couple of years"
+msgstr "λίγα χρόνια"
+
+#: String 1211
+msgid "a few minutes"
+msgstr "λίγα λεπτά"
+
+#: String 1212
+msgid "a few years"
+msgstr "λίγα χρόνα"
+
+#: String 1213
+msgid "a long time"
+msgstr "αρκετό χρόνο"
+
+#: String 1214
+msgid "about a day"
+msgstr "περίπου μια μέρα"
+
+#: String 1215
+msgid "about a decade"
+msgstr "περίπου μια δεκαετία"
+
+#: String 1216
+msgid "about a month"
+msgstr "περίπου ένα μήνα"
+
+#: String 1217
+msgid "about a week"
+msgstr "περίπου μια εβδομάδα"
+
+#: String 1218
+msgid "about a year"
+msgstr "περίπου ένα χρόνο"
+
+#: String 1219
+msgid "ads"
+msgstr "αγγελίες"
+
+#: String 1220
+msgid "all"
+msgstr "όλα"
+
+#: String 1221
+msgid "arguments"
+msgstr "ορίσματα"
+
+#: String 1222
+msgid "blog section."
+msgstr ""
+
+#: String 1223
+msgid "buy your SSL certificate here"
+msgstr "αγοράστε το SSL certificate σας εδώ"
+
+#: String 1224
+msgid "category"
+msgstr "κατηγορία"
+
+#: String 1225
+msgid "community forums."
+msgstr ""
+
+#: String 1226
+msgid "contact"
+msgstr "επαφή"
+
+#: String 1227
+msgid "disallow_nudes"
+msgstr ""
+
+#: String 1228
+msgid "download example"
+msgstr "κατεβάστε το παράδειγμα"
+
+#: String 1229
+msgid "email"
+msgstr "e-mail"
+
+#: String 1230
+msgid "formats only"
+msgstr ""
+
+#: String 1231
+msgid "forum title displayed"
+msgstr "Εμφάνιση τίλου φόρουμ"
+
+#: String 1232
+msgid "forums"
+msgstr "forums"
+
+#: String 1233
+msgid "frequently asked questions."
+msgstr "συχνές ερωτήσεις"
+
+#: String 1234
+msgid "from_email"
+msgstr "from_email"
+
+#: String 1235
+msgid "has been disable for posting, due to recent spam content!"
+msgstr "έχει απενεργοποιηθεί για δημοσίευση εξαιτίας περιεχομένου spam!"
+
+#: String 1236
+msgid "images allowed."
+msgstr "επιτρεπόμενες εικόνες."
+
+#: String 1237
+msgid "import Categories"
+msgstr "Εισαγωγή κατηγοριών"
+
+#: String 1238
+msgid "import Locations"
+msgstr "Εισαγωγή τοποθεσιών"
+
+#: String 1239
+msgid "in"
+msgstr ""
+
+#: String 1240
+msgid "in "
+msgstr ""
+
+#: String 1241
+msgid "is created"
+msgstr "δημιουργήθηκε"
+
+#: String 1242
+msgid "is edited"
+msgstr "επεξεργάστηκε"
+
+#: String 1243
+msgid "is not found"
+msgstr "δε βρέθηκε"
+
+#: String 1244
+msgid "less than a day"
+msgstr "λιγότερο από μια μέρα"
+
+#: String 1245
+msgid "less than a month"
+msgstr "λιγότερο από ένα μήνα"
+
+#: String 1246
+msgid "less than a week"
+msgstr "λιγότερο από μια εβδομάδα"
+
+#: String 1247
+msgid "less than a year"
+msgstr "λιγότερο από ένα χρόνο"
+
+#: String 1248
+msgid "less than an hour"
+msgstr "λιγότερο από μια ώρα"
+
+#: String 1249
+msgid "license"
+msgstr "άδεια"
+
+#: String 1250
+msgid "listing"
+msgstr "κατάλογος"
+
+#: String 1251
+msgid "locale"
+msgstr "διάλεκτος"
+
+#: String 1252
+msgid "location"
+msgstr "τοποθεσία"
+
+#: String 1253
+msgid "maintenance"
+msgstr "συντήρηση"
+
+#: String 1254
+msgid "map"
+msgstr "χάρτης"
+
+#: String 1255
+msgid "moments"
+msgstr "στιγμές"
+
+#: String 1256
+msgid "new topic"
+msgstr "νέο θέμα"
+
+#: String 1257
+msgid "official homepage, get your post listed now."
+msgstr "επίσημη αρχική σελίδα, αναρτήστε την αγγελία σας τώρα."
+
+#: String 1258
+msgid "on"
+msgstr ""
+
+#: String 1259
+msgid "only available with premium themes!"
+msgstr "διαθέσιμο μόνο με premium themes!"
+
+#: String 1260
+msgid "or"
+msgstr "ή"
+
+#: String 1261
+msgid "page"
+msgstr "σελίδα"
+
+#: String 1262
+msgid "parent_category field"
+msgstr "Πεδίο υπερκατηγορίας"
+
+#: String 1263
+msgid "publish new"
+msgstr "νέα δημοσίευση"
+
+#: String 1264
+msgid "reCAPTCHA Configuration"
+msgstr ""
+
+#: String 1265
+msgid "reCAPTCHA Secret Key"
+msgstr ""
+
+#: String 1266
+msgid "reCAPTCHA Site Key"
+msgstr ""
+
+#: String 1267
+msgid "reCaptcha Secret Key"
+msgstr ""
+
+#: String 1268
+msgid "reCaptcha Site Key"
+msgstr ""
+
+#: String 1269
+msgid "required"
+msgstr "υποχρεωτικό"
+
+#: String 1270
+msgid "reviews"
+msgstr "κριτικές"
+
+#: String 1271
+msgid "rss"
+msgstr "RSS"
+
+#: String 1272
+msgid "search"
+msgstr "αναζήτηση"
+
+#: String 1273
+msgid "searchable"
+msgstr "διαθέσιμο προς αναζήτηση"
+
+#: String 1274
+msgid "seconds"
+msgstr "δευτερόλεπτα"
+
+#: String 1275
+msgid "secret"
+msgstr "μυστικό"
+
+#: String 1276
+msgid "seotitle"
+msgstr "τίτλος SEO"
+
+#: String 1277
+msgid "several decades"
+msgstr "αρκετές δεκαετίες"
+
+#: String 1278
+msgid "title"
+msgstr "τίτλος"
+
+#: String 1279
+msgid "to"
+msgstr "προς"
+
+#: String 1280
+msgid "user"
+msgstr "χρήστης"
+
+#: String 1281
+msgid "users"
+msgstr "χρήστες"
+
+#: String 1282
+msgid "views"
+msgstr "όψεις"
+

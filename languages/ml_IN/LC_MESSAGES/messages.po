@@ -1,0 +1,2968 @@
+#: String 0
+msgid "Social Login"
+msgstr "സോഷ്യല്‍ ലോഗിന്‍"
+
+#: String 1
+msgid "Type your password twice"
+msgstr "താങ്കളുടെ പാസ്‌വേഡ് രണ്ടു പ്രാവശ്യം ടൈപ്പ് ചെയ്യുക"
+
+#: String 2
+msgid "Promote at Adserum"
+msgstr "Adserum-ത്തില്‍ പരസ്യപ്പെടുത്താം"
+
+#: String 3
+msgid "Offer"
+msgstr "ഓഫര്‍"
+
+#: String 4
+msgid "Remember me"
+msgstr "എന്നെ ഓര്‍ത്തുവെയ്ക്കുക"
+
+#: String 5
+msgid "Forgot password?"
+msgstr "പാസ്‌വേഡ് മറന്നുപോയി?"
+
+#: String 6
+msgid "Profile Picture"
+msgstr "പ്രൊഫൈല്‍ ചിത്രം"
+
+#: String 7
+msgid "Last Login"
+msgstr "കഴിഞ്ഞ ലോഗിന്‍"
+
+#: String 8
+msgid " advertisements"
+msgstr "പരസ്യങ്ങള്‍"
+
+#: String 9
+msgid "Remember password"
+msgstr "പാസ്‌വേഡ് ഓര്‍ത്തിരിക്കുക"
+
+#: String 10
+msgid "RSS"
+msgstr "RSS"
+
+#: String 11
+msgid "Remember Password"
+msgstr "പാസ്‌വേഡ് ഓര്‍ത്തിരിക്കുക"
+
+#: String 12
+msgid "advertisements"
+msgstr "പരസ്യങ്ങള്‍"
+
+#: String 13
+msgid "Not yet published"
+msgstr "പബ്ലിഷ് ചെയ്തിട്ടില്ല"
+
+#: String 14
+msgid "Publisher"
+msgstr "പരസ്യകാരന്‍"
+
+#: String 15
+msgid "Phone Number"
+msgstr "ഫോണ്‍നമ്പര്‍"
+
+#: String 16
+msgid "Public Profile"
+msgstr "പബ്ലിക്‌ പ്രൊഫൈല്‍"
+
+#: String 17
+msgid "Desktop Version"
+msgstr "ഡെസ്ക്ടോപ്പ് പതിപ്പ്"
+
+#: String 18
+msgid "Page "
+msgstr "പേജ്"
+
+#: String 20
+msgid "Contact us"
+msgstr "ഞങ്ങളെ ബന്ധപ്പെടുക"
+
+#: String 21
+msgid "Advanced search"
+msgstr "അഡ്വാന്‍സ്ഡ് സെര്‍ച്ച്‌"
+
+#: String 22
+msgid "User Profile"
+msgstr "യുസര്‍ പ്രൊഫൈല്‍"
+
+#: String 23
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "സൈറ്റില്‍ ജോലികള്‍ പുരോഗമിക്കുന്നു.  ദയവായി അല്‍പംകൂടി കാത്തിരുന്നു സന്ദര്‍ശിക്കുക.  നന്ദി!"
+
+#: String 24
+msgid " Unconfirmed"
+msgstr "ഉറപ്പാക്കിയിട്ടില്ലാത്തവ"
+
+#: String 25
+msgid "Delete All Unavailable?"
+msgstr "ഉറപ്പാക്കിയിട്ടില്ലാത്തവയെല്ലാം ഡിലീറ്റ് ചെയ്യട്ടേ?"
+
+#: String 26
+msgid "Delete All Unavailable"
+msgstr "ഉറപ്പാക്കിയിട്ടില്ലാത്തവയെല്ലാം ഡിലീറ്റ് ചെയ്യുക"
+
+#: String 27
+msgid "Delete All"
+msgstr "എല്ലാം ഡിലീറ്റ് ചെയ്യുക"
+
+#: String 28
+msgid "Unconfirmed Sort"
+msgstr "ഉറപ്പാക്കിയിട്ടില്ലാത്തവയെ  തരംതിരിക്കാം "
+
+#: String 29
+msgid " Unavailable"
+msgstr "ലഭ്യമല്ലാത്തവ"
+
+#: String 30
+msgid "Language"
+msgstr "ഭാഷ"
+
+#: String 31
+msgid "Active"
+msgstr "സജീവം"
+
+#: String 32
+msgid "Spam Sort"
+msgstr "സ്പാമുകളെ തരംതിരിക്കാം "
+
+#: String 33
+msgid "Unavailable Sort"
+msgstr "ലഭ്യമായിട്ടില്ലാത്തവയെ തരംതിരിക്കാം "
+
+#: String 34
+msgid "Delete All Unconfirmed?"
+msgstr "ഉറപ്പാക്കിയിട്ടില്ലാത്തവയെല്ലാം ഡിലീറ്റ് ചെയ്യാം?"
+
+#: String 35
+msgid "Delete All Unconfirmed"
+msgstr "ഉറപ്പാക്കിയിട്ടില്ലാത്തവയെല്ലാം ഡിലീറ്റ് ചെയ്യാം"
+
+#: String 36
+msgid "Deactivate Featured"
+msgstr "ഫീച്ചേര്‍ഡിനെ ഡി-ആക്ടിവേറ്റ് ആക്കുക"
+
+#: String 37
+msgid "Thanks for using Open Classifieds."
+msgstr "ഓപ്പണ്‍-- ക്ളാസ്സിഫൈഡ്സ് ഉപയോഗിച്ചതിന് നന്ദി."
+
+#: String 38
+msgid "Latest News"
+msgstr "പുതിയ വാര്‍ത്തകള്‍ "
+
+#: String 39
+msgid "We do not have any blog post"
+msgstr "ബ്ലോഗ്‌ പോസ്റ്റ്‌കള്‍ ഒന്നുമില്ല. "
+
+#: String 40
+msgid "Are you sure you want to make it to top?"
+msgstr "ഇത് കൂടുതല്‍ പ്രാധാന്യമുള്ളതാക്കണമെന്ന് തീര്‍ച്ചയാണോ?"
+
+#: String 41
+msgid "to_top"
+msgstr "മുകളിലേക്ക്"
+
+#: String 42
+msgid "Delete All Spam?"
+msgstr "സ്പാമുകളെല്ലാം ഡിലിറ്റ് ചെയ്യട്ടേ?"
+
+#: String 43
+msgid "Delete All Spam"
+msgstr "സ്പാമുകളെല്ലാം ഡിലിറ്റ് ചെയ്യാം"
+
+#: String 44
+msgid "Are you sure you want to make it to_top?"
+msgstr "ഇത് കൂടുതല്‍ പ്രാധാന്യമുള്ളതാക്കണമെന്ന് തീര്‍ച്ചയാണോ?"
+
+#: String 45
+msgid "Change the main color scheme and style of the theme"
+msgstr "തീമിന്‍റെ മുഖ്യ കളര്‍ സ്കീമും സ്റ്റൈലും മാറ്റുക"
+
+#: String 46
+msgid "Change the header color scheme and style of the theme"
+msgstr "തീമിന്‍റെ ഹെഡ്ഡര്‍ കളര്‍ സ്കീമും സ്റ്റൈലും മാറ്റുക"
+
+#: String 47
+msgid "Install"
+msgstr "ഇന്‍സ്റ്റാള്‍"
+
+#: String 48
+msgid "Ocacu classifieds community registration"
+msgstr "ഒകാകു ക്ലാസ്സിഫൈഡ് കമ്മ്യൂണിറ്റി രെജിസ്ട്രേഷന്‍"
+
+#: String 49
+msgid "Terms"
+msgstr "നിബന്ധനകള്‍"
+
+#: String 50
+msgid "Cannot connect to server"
+msgstr "സെര്‍വറുമായി ബന്ധപ്പെടുവാന്‍ കഴിയുന്നില്ല"
+
+#: String 51
+msgid "Only numbers, letters, and underscores"
+msgstr "സംഖ്യകളും, അക്ഷരങ്ങളും, അണ്ടര്‍സ്കോര്‍ ചിഹ്നവും മാത്രം ഉപയോഗിക്കുക"
+
+#: String 52
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "ഓരോന്നിനും പ്രത്യേകം പ്രി-ഫിക്സ് നല്‍കിയാല്‍ ഒരു ഡാറ്റാബേസ് ഉപയോഗിച്ചുതന്നെ മള്‍ടിപ്പിള്‍ ഇന്‍സ്റ്റല്ലേഷനുകള്‍ നടത്താവുന്നതാണ്"
+
+#: String 53
+msgid "Creates few sample categories to start with"
+msgstr "ഒരു തുടക്കത്തിനായി കുറച്ചു സാമ്പിള്‍ കാറ്റഗറികള്‍ നിര്‍മ്മിക്കുന്നു"
+
+#: String 54
+msgid "Hash Key"
+msgstr "ഹാഷ് കീ"
+
+#: String 55
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "റീ-ഇന്‍സ്റ്റാള്‍ ചെയ്യുവാന്‍ ഈ ഹാഷ് കീ ആവശ്യമാണ്"
+
+#: String 56
+msgid "Database Configuration"
+msgstr "ഡാറ്റാബേസ് കോണ്‍ഫിഗറേഷന്‍"
+
+#: String 57
+msgid "No database name was given"
+msgstr "ഡാറ്റാബേസിന്‍റെ പേര് തന്നിട്ടില്ല"
+
+#: String 58
+msgid "Available databases"
+msgstr "ലഭ്യമായ ഡാറ്റാബേസ്കള്‍"
+
+#: String 59
+msgid "Included files"
+msgstr "ഉള്‍പെടുത്തിയിട്ടുള്ള ഫയലുകള്‍ "
+
+#: String 60
+msgid "Loaded extensions"
+msgstr "ഉള്‍പെടുത്തിയിട്ടുള്ള എക്സ്ടെന്‍ഷനുകള്‍"
+
+#: String 61
+msgid "publish new"
+msgstr "പുതിയത് പ്രസിദ്ധികരിക്കാം"
+
+#: String 62
+msgid "search"
+msgstr "തിരയുക"
+
+#: String 63
+msgid "Environment"
+msgstr "ചുറ്റുപാട്"
+
+#: String 64
+msgid "Hello, world"
+msgstr "ഹെല്ലോ, ലോകമേ!"
+
+#: String 65
+msgid "Invalid query"
+msgstr "ഇന്‍വാലിഡ്‌ അയ ഡാറ്റാബേസ് അന്വേഷണം"
+
+#: String 66
+msgid "Benchmark"
+msgstr "ബഞ്ച്മാര്‍ക്ക്‌ "
+
+#: String 67
+msgid "Application Execution"
+msgstr "ആപ്ലിക്കേഷന്‍ എക്സിക്യുഷന്‍ "
+
+#: String 68
+msgid "Sample data"
+msgstr "സാമ്പിള്‍ ഡാറ്റാ "
+
+#: String 69
+msgid "Admin Password"
+msgstr "അഡ്മിനിസ്ട്രെയ്റ്റര്‍ പാസ്‌വേഡ്"
+
+#: String 70
+msgid "Please now erase the folder"
+msgstr "ഇപ്പോള്‍ ദയവായി ഫോള്‍ഡര്‍ ഇറെസ്‌ ചെയ്യുക"
+
+#: String 71
+msgid "Go to Your Website"
+msgstr "താങ്കളുടെ വെബ്സൈറ്റിലേക്ക്‌ പോകാം"
+
+#: String 72
+msgid "Make a donation"
+msgstr "ദാനം നല്‍കാം"
+
+#: String 73
+msgid "We really appreciate it"
+msgstr "ഞങ്ങള്‍ അത്യധികം ശ്ലാഹിക്കുന്നു "
+
+#: String 74
+msgid "Installation done"
+msgstr "ഇന്‍സ്റ്റല്ലേഷന്‍ പൂര്‍ത്തിയാക്കിയിരിക്കുന്നു"
+
+#: String 75
+msgid "Congratulations"
+msgstr "അഭിനന്ദനങ്ങള്‍"
+
+#: String 76
+msgid "Change the theme of List Elements"
+msgstr "ലിസ്റ്റ്കളുടെ തീം മാറ്റുക"
+
+#: String 77
+msgid "Change the theme of Featured Elements"
+msgstr "ഫീച്ചേര്‍ഡ് എലമെന്‍റുകളുടെ തീം മാറ്റുക"
+
+#: String 78
+msgid "Installation"
+msgstr "ഇന്‍സ്റ്റല്ലേഷന്‍"
+
+#: String 79
+msgid "Requirements"
+msgstr "ഇന്‍സ്റ്റല്ലേഷന് വേണ്ടിയവ"
+
+#: String 80
+msgid "Welcome to"
+msgstr "സ്വാഗതമോതുന്നു"
+
+#: String 81
+msgid "installation"
+msgstr "ഇന്‍സ്റ്റല്ലേഷന്‍"
+
+#: String 82
+msgid "Time Zone"
+msgstr "ടൈം സോണ്‍"
+
+#: String 83
+msgid "New Install"
+msgstr "പുതിയ ഇന്‍സ്റ്റല്ലേഷന്‍"
+
+#: String 84
+msgid "Upgrade System"
+msgstr "സിസ്റ്റം അപ്പ്‌ഗ്രേഡ്‌ ചെയ്യുക"
+
+#: String 85
+msgid "Administrator email"
+msgstr "അഡ്മിനിസ്ട്രെയ്റ്റര്‍ ഇമെയില്‍"
+
+#: String 86
+msgid "Site URL"
+msgstr "സൈറ്റ് URL"
+
+#: String 87
+msgid "Site Language"
+msgstr "സൈറ്റ് ഭാഷ"
+
+#: String 88
+msgid "Welcome to the super easy and fast installation"
+msgstr "അത്യധികം ലഘുവും വേഗത്തിലുമുള്ളതുമായ ഇന്‍സ്റ്റല്ലേഷനിലേക്ക് സ്വാഗതമോതുന്നു"
+
+#: String 89
+msgid "If you need any help please check our professional services"
+msgstr "എന്തെകിലും സഹായം ആവശ്യമായി വന്നാല്‍ ഞങ്ങളുടെ പ്രൊഫഷണല്‍ സര്‍വീസുകളെകുറിച്ച് അന്യേഷിക്കുക."
+
+#: String 90
+msgid "Site Configuration"
+msgstr "സൈറ്റ് കോണ്‍ഫിഗറേഷന്‍"
+
+#: String 91
+msgid "New translation"
+msgstr "പുതിയ ഭാഷാന്തരീകരണം"
+
+#: String 92
+msgid "Scan"
+msgstr "സ്കാന്‍ ചെയ്യുക"
+
+#: String 93
+msgid "Advertisements in Map"
+msgstr "ഗൂഗിള്‍ മാപ്പിലെ പരസ്യങ്ങള്‍"
+
+#: String 94
+msgid "How many ads are going to appear in the map of your site."
+msgstr "എത്ര പരസ്യങ്ങളാണ് ഒരു ഗൂഗിള്‍ മാപ്പിലെ പേജില്‍ പ്രദര്‍ശിപ്പിക്കേണ്ടത്?"
+
+#: String 95
+msgid "Money format"
+msgstr "കറന്‍സി ഫോര്‍മാറ്റ്‌"
+
+#: String 96
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "പരസ്യങ്ങളില്‍ സംഖ്യകള്‍ പ്രദര്‍ശിപ്പിക്കുന്ന ഫോര്‍മാറ്റ്. ഓരോ രാജ്യത്തെയും രീതികള്‍ വ്യത്യസ്തമായിരിക്കും."
+
+#: String 97
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "എത്ര പരസ്യങ്ങളാണ് ഒരു RSS പേജില്‍ പ്രദര്‍ശിപ്പിക്കേണ്ടത്?"
+
+#: String 98
+msgid "Number of Ads"
+msgstr "പരസ്യങ്ങളുടെ എണ്ണം "
+
+#: String 99
+msgid "Advertisements per page"
+msgstr "ഒരു  പേജിലെ പരസ്യങ്ങളുടെ എണ്ണം"
+
+#: String 100
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "ഒരു പേജില്‍ പ്രദര്‍ശിപ്പിക്കാവുന്ന കൂടിയ  പരസ്യങ്ങളുടെ എണ്ണം ഒരു പൂര്‍ണ്ണ സംഖ്യയായി നല്‍കുക"
+
+#: String 101
+msgid "Number of ads per page"
+msgstr "ഒരു പേജില്‍ പ്രദര്‍ശിപ്പിക്കാവുന്ന പരസ്യങ്ങളുടെ എണ്ണം"
+
+#: String 102
+msgid "Advertisements in RSS"
+msgstr "ഒരു RSS പേജില്‍ പ്രദര്‍ശിപ്പിക്കാവുന്ന പരസ്യങ്ങളുടെ എണ്ണം "
+
+#: String 103
+msgid "Decimal representation"
+msgstr "ഡെസിമല്‍ സംഖ്യാരൂപം"
+
+#: String 104
+msgid "Date format"
+msgstr "തിയതി ഫോര്‍മാറ്റ്"
+
+#: String 105
+msgid "Image size in mega bites(Mb)"
+msgstr "അനുവദനീയമായ ഇമേജ് വലിപ്പം (MBits)"
+
+#: String 106
+msgid "Image height"
+msgstr "ഇമേജിന്‍റെ ഉയരം"
+
+#: String 107
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "അപ്‌ലോഡ്‌ ചെയ്യപ്പെടുമ്പോള്‍ തന്നെ ഓരോ ഇമേജും റീ-സൈസ് ചെയ്യപ്പെടുന്നു. ഇത് ഏറ്റവും വലിയ ഇമേജിന്‍റെ വലിപ്പമാണ്. ഇവിടെ വാല്യു ഒന്നും നല്‍കാതിരുന്നാല്‍ ഓട്ടോമാറ്റിക്കായുള്ള റീ-സൈസിംഗ് നടന്നുകൊള്ളും."
+
+#: String 108
+msgid "Image height in pixels(px)"
+msgstr "ഇമേജിന്‍റെ ഉയരം പിക്സലുകളില്‍ (Px) "
+
+#: String 109
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "അനുവദനീയമായ ഇമേജ് വലിപ്പം സെറ്റ്‌  ചെയ്യുന്നതുവഴി (MBits) സൈറ്റില്‍  അപ്‌ലോഡ്‌ ചെയ്യാവുന്ന ഇമേജ്കളുടെ വലിപ്പം നിയന്ത്രിക്കുവാന്‍ കഴിയും"
+
+#: String 110
+msgid "Max image size"
+msgstr "ഇമേജ്കളുടെ കൂടിയ വലിപ്പം"
+
+#: String 111
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "എല്ലാ പരസ്യങ്ങള്‍ക്കും ഒരു പ്രസിദ്ധീകരണ ത്തിയതി ഉണ്ടായിരിക്കും. തിയതി ഫോര്‍മാറ്റ് തിരഞ്ഞെടുക്കുക വഴി സൈറ്റില്‍  അവ എങ്ങിനെ പ്രദര്‍ശിപ്പിക്കപ്പെടുന്നു എന്നത്‌ തിരഞ്ഞെടുക്കാം."
+
+#: String 112
+msgid "Analytics"
+msgstr "സൈറ്റ്‌ വിശകലനം(Analytics)"
+
+#: String 113
+msgid "Allowed image formats"
+msgstr "അനുവദനീയമായ ഇമേജ് ഫോര്‍മാറ്റ്‌കള്‍"
+
+#: String 114
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "അനുവദനീയമായ ഇമേജ് ഫോര്‍മാറ്റ്‌കള്‍ സെറ്റ്‌ ചെയ്യുന്നതുവഴി സൈറ്റില്‍ അപ്‌ലോഡ്‌ ചെയ്യാവുന്ന ഇമേജ് ഫോര്‍മാറ്റ്‌കളെ നിയന്ത്രിക്കുവാന്‍ കഴിയും"
+
+#: String 115
+msgid "Moderation controls"
+msgstr "മോഡറേഷന്‍ കണ്ട്രോളുകള്‍"
+
+#: String 116
+msgid "Base URL path"
+msgstr "ബേസ് URL പാത്ത്"
+
+#: String 117
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "ലിസ്റ്റിലെ ഏറ്റവും മുകളിലെ പരസ്യമാക്കി മാറ്റുന്നതിന് ഉപഭോക്താവ് നല്‍കേണ്ട ചാര്‍ജ്"
+
+#: String 118
+msgid "User paypal link"
+msgstr "യൂസറിന്‍റെ Paypal ലിങ്ക് "
+
+#: String 119
+msgid "General Configuration"
+msgstr "പൊതുവായ കോണ്‍ഫിഗറേഷന്‍"
+
+#: String 120
+msgid "General site settings."
+msgstr "സൈറ്റിന്‍റെ പൊതുവായ കോണ്‍ഫിഗറേഷന്‍ സെറ്റിംഗ്കള്‍"
+
+#: String 121
+msgid "To top price"
+msgstr "ലിസ്റ്റിലെ ഏറ്റവും മുകളിലെ പരസ്യമാക്കി മാറ്റുന്നതിനുള്ള ചാര്‍ജ്"
+
+#: String 122
+msgid "Brings your Ad to the top of the listing."
+msgstr "താങ്കളുടെ പരസ്യം ലിസ്റ്റിലെ ഏറ്റവും മുകളിലെ പരസ്യമാക്കി മാറ്റുന്നു."
+
+#: String 123
+msgid "Days Featured"
+msgstr "ഫീച്ചേര്‍ഡ് ആക്കുന്ന ദിവസങ്ങള്‍"
+
+#: String 124
+msgid "Featured length"
+msgstr "ഫീച്ചേര്‍ഡ് കാലാവധി"
+
+#: String 125
+msgid "How many days an ad will be featured after paying."
+msgstr "പേമെന്‍റ് നല്‍കിയതു മുതല്‍ എത്ര ദിവസത്തേയ്ക്കാണ് പരസ്യം ഫീച്ചേര്‍ഡ് ആക്കുന്നത്?"
+
+#: String 126
+msgid "Bring to top Ad"
+msgstr "ഏറ്റവും മുകളിലെ പരസ്യമാക്കി മാറ്റുക"
+
+#: String 127
+msgid "All configurations"
+msgstr "എല്ലാ കോണ്‍ഫിഗറേഷന്‍ സെറ്റിംഗ്കളും"
+
+#: String 128
+msgid "Maintenance Mode"
+msgstr "മെയിന്‍റെനന്‍സ് മോഡ് "
+
+#: String 129
+msgid "Site Name"
+msgstr "സൈറ്റിന്‍റെ പേര്"
+
+#: String 130
+msgid "Site description"
+msgstr "സൈറ്റിന്‍റെ ലഘു വിവരണം"
+
+#: String 131
+msgid "Base URL"
+msgstr "ബേസ് URL "
+
+#: String 132
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "ബേസ് URL താങ്കളുടെ സൈറ്റിന്‍റെ ഒരു ബേസ് പാത്ത് ആണോ ?  സൈറ്റിന്‍റെ മുഴുവന്‍ നിര്‍മ്മിതിയും ഇതിലാണ് അടിസ്ഥാനമാക്കിയിരിക്കുന്നത്"
+
+#: String 133
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "എല്ലാവര്‍ക്കും കാണാവുന്ന, പ്രദര്‍ശിപ്പിക്കുവാനുള്ള താങ്കളുടെ പേര് ഇവിടെ നല്‍കാം"
+
+#: String 134
+msgid "Site name"
+msgstr "സൈറ്റിന്‍റെ പേര്"
+
+#: String 135
+msgid "Enables the site to maintenance"
+msgstr "സൈറ്റ്‌നെ മെയിന്‍റെനന്‍സ് മോഡിലാക്കുക"
+
+#: String 136
+msgid "Landing page"
+msgstr "സൈറ്റിന്‍റെ ഹോംപേജ് "
+
+#: String 137
+msgid "It changes landing page of website"
+msgstr "ഇത് സൈറ്റിന്‍റെ ഹോംപേജ് മാറ്റും"
+
+#: String 138
+msgid "Image width"
+msgstr "ഇമേജിന്‍റെ വീതി."
+
+#: String 139
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "അപ്‌ലോഡ്‌ ചെയ്യപ്പെടുമ്പോള്‍ തന്നെ ഓരോ ഇമേജും റീ-സൈസ് ചെയ്യപ്പെടുന്നു. ഇത് ഏറ്റവും വലിയ ഇമേജിന്‍റെ വലിപ്പമാണ്."
+
+#: String 140
+msgid "Default links"
+msgstr "ഡിഫാള്‍ട്ട് ആയ ലിങ്കുകള്‍"
+
+#: String 141
+msgid "listing"
+msgstr "പരസ്യലിസ്റ്റ്"
+
+#: String 142
+msgid "contact"
+msgstr "ബന്ധപ്പെടുക"
+
+#: String 143
+msgid "rss"
+msgstr "RSS"
+
+#: String 144
+msgid "Create Menu Item"
+msgstr "മെനു ഐറ്റം നിര്‍മ്മിക്കാം"
+
+#: String 145
+msgid "Default"
+msgstr "ഡിഫാള്‍ട്ട്"
+
+#: String 146
+msgid "Disqus for Blog Comments"
+msgstr "Disqus ബ്ലോഗ്‌ കമന്‍റ് സിസ്റ്റം"
+
+#: String 147
+msgid "Custom menu"
+msgstr "പ്രത്യേക മെനു"
+
+#: String 148
+msgid "Menu type"
+msgstr "മെനുവിന്‍റെ തരം"
+
+#: String 149
+msgid "Custom"
+msgstr "പ്രത്യേകമായി ചെയ്തത്"
+
+#: String 150
+msgid "map"
+msgstr "ഭൂപടം"
+
+#: String 151
+msgid "Url"
+msgstr "URL"
+
+#: String 152
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "എല്ലാം കോപ്പി ചെയ്യുന്നു?, ഓര്‍ക്കുക ഇത് നിങ്ങളുടെ എല്ലാ ടെക്സ്റ്റ്‌കളിലും മാറ്റംവരുത്തും."
+
+#: String 153
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "എല്ലാം ഭാഷാന്തരീകരിക്കുന്നു?, ഓര്‍ക്കുക ഇത് നിങ്ങളുടെ എല്ലാ ടെക്സ്റ്റ്‌കളിലും മാറ്റംവരുത്തും."
+
+#: String 154
+msgid "Translation"
+msgstr "ഭാഷാന്തരീകരണം"
+
+#: String 155
+msgid "Translations files available in the system."
+msgstr "സിസ്റ്റത്തില്‍ ലഭ്യമായ ഭാഷാന്തരീകരണ ഫയലുകള്‍ "
+
+#: String 156
+msgid "Original Translation"
+msgstr "ഒറിജിനല്‍ ഭാഷാന്തരീകരണം"
+
+#: String 157
+msgid "Here you can modify any text you find in your web."
+msgstr "സൈറ്റിലുള്ള ഏതൊരു ടെക്സ്റ്റ്‌ഉം നിങ്ങള്‍ക്കിവിടെ മാറ്റം വരുത്താം."
+
+#: String 158
+msgid "Target"
+msgstr "ലക്ഷ്യം"
+
+#: String 159
+msgid "Icon"
+msgstr "ഐക്കണ്‍"
+
+#: String 160
+msgid "icon-envelope icon-white"
+msgstr "ഐക്കണ്‍-എന്‍വെലപ്‌ ഐക്കണ്‍-വൈറ്റ് "
+
+#: String 161
+msgid "Disqus for blog"
+msgstr "ബ്ലോഗിനുള്ള Discus"
+
+#: String 162
+msgid "Once set to TRUE, enables blog posts"
+msgstr "അതെയെന്നു സെറ്റ്‌ ചെയ്യ്താല്‍ ബ്ലോഗ്‌ പോസ്റ്റ്‌കള്‍ ഇനേബിള്‍ ആകും"
+
+#: String 163
+msgid "Thumb width in pixels(px)"
+msgstr "തമ്പ്നെയിലിന്‍റെ വീതി പിക്സലുകളില്‍ (Px) "
+
+#: String 164
+msgid "Image quality"
+msgstr "ഇമേജ് ക്വാളിറ്റി"
+
+#: String 165
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "ഇമേജ് ക്വാളിറ്റി തിരഞ്ഞെടുക്കുക. ഒറിജിനല്‍ ഇമേജിന്‍റെ ക്വാളിറ്റിയുമായുള്ള ശതമാനകണക്കില്‍ (1 - 100%)"
+
+#: String 166
+msgid "Image Quality"
+msgstr "ഇമേജ് ക്വാളിറ്റി"
+
+#: String 167
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "അപ്‌ലോഡ്‌ ചെയ്യപ്പെടുമ്പോള്‍ തന്നെ ഓരോ ഇമേജും, ചില രൂപങ്ങള്‍ക്കുള്ളില്‍ ഒതുങ്ങി നില്‍ക്കേണ്ടതിനായി   തമ്പ്നെയില്‍ രൂപത്തില്‍  റീ-സൈസ് ചെയ്യപ്പെടുന്നു. ഇത് തമ്പ്നെയിലിന്‍റെ വീതിയാണ്‌."
+
+#: String 168
+msgid "Thumb width"
+msgstr "തമ്പ്നെയിലിന്‍റെ വീതി."
+
+#: String 169
+msgid "Image width in pixels(px)"
+msgstr "ഇമേജിന്‍റെ വീതി പിക്സലുകളില്‍ (Px) "
+
+#: String 170
+msgid "Thumb height"
+msgstr "തമ്പ്നെയിലിന്‍റെ ഉയരം"
+
+#: String 171
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "അപ്‌ലോഡ്‌ ചെയ്യപ്പെടുമ്പോള്‍ തന്നെ ഓരോ ഇമേജും, ചില രൂപങ്ങള്‍ക്കുള്ളില്‍ ഒതുങ്ങി നില്‍ക്കേണ്ടതിനായി   തമ്പ്നെയില്‍ രൂപത്തില്‍  റീ-സൈസ് ചെയ്യപ്പെടുന്നു. ഇത് തമ്പ്നെയിലിന്‍റെ ഉയരമാണ്."
+
+#: String 172
+msgid "Thumb height in pixels(px)"
+msgstr "തമ്പ്നെയിലിന്‍റെ ഉയരം പിക്സലുകളില്‍ (Px) "
+
+#: String 173
+msgid "Watermark"
+msgstr "വാട്ടര്‍മാര്‍ക്ക് "
+
+#: String 174
+msgid "Appends watermark to images"
+msgstr "ഇമേജില്‍ വാട്ടര്‍മാര്‍ക്ക് ചേര്‍ക്കുന്നു"
+
+#: String 175
+msgid "Accept Terms Alert"
+msgstr "വ്യവസ്ഥകള്‍ അംഗീകരിപ്പിക്കല്‍"
+
+#: String 176
+msgid "Include search by description"
+msgstr "പരസ്യത്തിന്‍റെ വിശദീകരണഭാഗവും തിരയാം"
+
+#: String 177
+msgid "Once set to TRUE, enables search to look for key words in description"
+msgstr "അതെയെന്നു സെറ്റ്‌ ചെയ്യ്താല്‍ പരസ്യത്തിന്‍റെ വിശദീകരണഭാഗവും തിരയാം"
+
+#: String 178
+msgid "Activates Blog posting"
+msgstr "ബ്ലോഗ്‌ പോസ്റ്റിങ്ങ്‌ ഇനേബിള്‍ ചെയ്യുന്നു"
+
+#: String 179
+msgid "Providing akismet key will activate this feature. This feature deals with spam posts and emails."
+msgstr "സ്പാമുകള്‍ ഒഴിവാക്കുവാന്‍ ഇവിടെ Akismet Key ഉപയോഗിച്ചാല്‍ ഈ സൗകര്യം സജീവമാകും "
+
+#: String 180
+msgid "Akismet Key"
+msgstr "Akismet Key"
+
+#: String 181
+msgid "Watermark path"
+msgstr "വാട്ടര്‍മാര്‍ക്ക്‌ ഇമേജിന്‍റെ പാത്ത് "
+
+#: String 182
+msgid "Watermark position"
+msgstr "വാട്ടര്‍മാര്‍ക്കിന്‍റെ സ്ഥാനം"
+
+#: String 183
+msgid "Watermark possition"
+msgstr "വാട്ടര്‍മാര്‍ക്കിന്‍റെ സ്ഥാനം"
+
+#: String 184
+msgid "maintenance"
+msgstr "മെയിന്‍റെനന്‍സ്"
+
+#: String 185
+msgid "views"
+msgstr "കണ്ടത്‌ (Views)"
+
+#: String 186
+msgid "Zip file faild to extract, please try again."
+msgstr "സിപ്‌ ഫയല്‍ ശരിയല്ല, വീണ്ടും ശ്രമിക്കുക"
+
+#: String 187
+msgid "Custom Fields for Advertisements"
+msgstr "പരസ്യങ്ങളിലെ കസ്റ്റം ഫീല്‍ഡുകള്‍"
+
+#: String 188
+msgid "New Custom Field for Advertisement"
+msgstr "പുതിയ  കസ്റ്റം ഫീല്‍ഡ്‌ "
+
+#: String 189
+msgid "Edit Custom Field for Advertisement"
+msgstr "കസ്റ്റം ഫീല്‍ഡ്‌ എഡിറ്റ്‌ ചെയ്യാം"
+
+#: String 190
+msgid "Updated"
+msgstr "പുതുക്കിയിട്ടുണ്ട്"
+
+#: String 191
+msgid "You are not using latest version of OC, please update."
+msgstr "താങ്കള്‍ ഉപയോഗിക്കുന്നത് OC-യുടെ ഏറ്റവും പുതിയ വേര്‍ഷന്‍ അല്ല. ദയവായി അപ്ഡേറ്റ് ചെയ്യുക."
+
+#: String 192
+msgid "You are unsubscribed"
+msgstr "താങ്കളുടെ അംഗത്വം ഒഴിവാക്കിയിരിക്കുന്നു"
+
+#: String 193
+msgid "List"
+msgstr "ലിസ്റ്റ്"
+
+#: String 194
+msgid "Edit Translation"
+msgstr "ഭാഷാന്തരീകരണം എഡിറ്റ്‌ ചെയ്യുക"
+
+#: String 195
+msgid "Language saved"
+msgstr "ഭാഷ സേവ് ചെയ്തിരിക്കുന്നു"
+
+#: String 196
+msgid "Email sent to all the users"
+msgstr "ഇമെയില്‍ എല്ലാ യുസര്‍മാര്‍ക്കും പോയിരിക്കുന്നു"
+
+#: String 197
+msgid "Mail not sent"
+msgstr "ഇമെയില്‍ പോയിട്ടില്ല"
+
+#: String 198
+msgid "You have succesfully installed the theme!"
+msgstr "തീം ശരിയായി ഇന്‍സ്റ്റാള്‍ ആയിരിക്കുന്നു!"
+
+#: String 199
+msgid "Social Authentication for login"
+msgstr "സോഷ്യല്‍ ലോഗിന്‍ ഉപയോഗം"
+
+#: String 200
+msgid "Optimize DB"
+msgstr "DB ഒപ്ടിമൈസേഷന്‍"
+
+#: String 201
+msgid "Database Optimized"
+msgstr "DB ഒപ്ടിമൈസ് ചെയ്യപ്പെട്ടു "
+
+#: String 202
+msgid "Is not valid format, please use ZIP format"
+msgstr "ഇതല്ല, സിപ്‌ ഫോര്‍മാറ്റ്‌ ആണ് വേണ്ടത്‌"
+
+#: String 203
+msgid "Mobile Theme updated"
+msgstr "മൊബൈല്‍ തീം അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു"
+
+#: String 204
+msgid "Theme configuration updated"
+msgstr "തീം കോണ്‍ഫിഗറേഷന്‍ അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു"
+
+#: String 205
+msgid "Appearance configuration updated"
+msgstr "അപ്പീയറന്‍സ്  കോണ്‍ഫിഗറേഷന്‍ അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു"
+
+#: String 206
+msgid "Theme activated, thanks."
+msgstr "തീം ആക്ടിവേറ്റ് ആയിരിക്കുന്നു, നന്ദി!"
+
+#: String 207
+msgid "There was an error activating your license."
+msgstr "താങ്കളുടെ ലൈസന്‍സുമായി ബന്ധപ്പെട്ട്‌ എന്തോ പ്രശ്നമുണ്ട്"
+
+#: String 208
+msgid "No Subscriptions"
+msgstr "ഒരു സബ്സ്ക്രിപ്ഷനും ഇല്ല"
+
+#: String 209
+msgid "You dont have permission to access this link"
+msgstr "ഈ ലിങ്ക് ഉപയോഗിക്കുവാന്‍ താങ്കള്‍ക്ക് അനുവാദമില്ല"
+
+#: String 210
+msgid "Saved"
+msgstr "സേവ് ചെയ്തിരിക്കുന്നു"
+
+#: String 211
+msgid "Password is changed"
+msgstr "പാസ്‌വേഡ് മാറ്റിയിരിക്കുന്നു"
+
+#: String 212
+msgid "Nothing is provided"
+msgstr "ഒന്നും തന്നിട്ടില്ല"
+
+#: String 213
+msgid "Passwords do not match"
+msgstr "പാസ്‌വേഡ്കള്‍ തമ്മില്‍ യോജിക്കുന്നില്ല "
+
+#: String 214
+msgid "Widget parameter missing"
+msgstr "വിട്ഗെറ്റ്  പരാമീറ്ററുകള്‍ വിട്ടുപോയിരിക്കുന്നു "
+
+#: String 215
+msgid "Payments"
+msgstr "പെയ്മെന്‍റ്കള്‍ "
+
+#: String 216
+msgid "Content is deleted"
+msgstr "കണ്ടന്‍റ് നീക്കം ചെയ്തിരിക്കുന്നു"
+
+#: String 217
+msgid "Content is not deleted"
+msgstr "കണ്ടന്‍റ് നീക്കം ചെയ്തിട്ടില്ല"
+
+#: String 218
+msgid "Email Configuration updated"
+msgstr "ഇമെയില്‍ കോണ്‍ഫിഗറേഷന്‍ അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു "
+
+#: String 219
+msgid "General Configuration updated"
+msgstr "പൊതുവായ കോണ്‍ഫിഗറേഷന്‍ അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു "
+
+#: String 220
+msgid "Image is not valid. Please try again."
+msgstr "ഇമേജ് ശരിയല്ല, വീണ്ടും ശ്രമിക്കുക."
+
+#: String 221
+msgid "Image is uploaded."
+msgstr "ഇമേജ് അപ്‌ലോഡ്‌ ചെയ്തിരിക്കുന്നു"
+
+#: String 222
+msgid "Advertisement is active and published"
+msgstr "പരസ്യം ആക്റ്റീവ് ആക്കുകയും പബ്ലിഷ് ചെയ്യുകയും ചെയ്തിരിക്കുന്നു"
+
+#: String 223
+msgid "Edit advertisement"
+msgstr "പരസ്യം എഡിറ്റ്‌ ചെയ്യുക"
+
+#: String 224
+msgid "Advertisement is updated!"
+msgstr "പരസ്യം അപ്ഡേറ്റ് ചെയ്യപ്പെട്ടിരിക്കുന്നു!"
+
+#: String 225
+msgid "Advertisement is updated"
+msgstr "പരസ്യം അപ്ഡേറ്റ് ചെയ്യപ്പെട്ടിരിക്കുന്നു!"
+
+#: String 226
+msgid "Advertisement is deactivated"
+msgstr "പരസ്യം ഡി-ആക്ടിവേറ്റ് ചെയ്തിരിക്കുന്നു"
+
+#: String 227
+msgid "This is not your advertisement."
+msgstr "ഇത് താങ്കളുടെ പരസ്യമല്ല."
+
+#: String 228
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "പുതിയ പാസ്‌വേഡ് ശരിയല്ല അഥവാ യോജിക്കുന്നില്ല,  ദയവായി വീണ്ടും പരിശ്രമിക്കുക."
+
+#: String 229
+msgid "You have successfuly changed your data"
+msgstr "താങ്കളുടെ വിവരങ്ങള്‍ വിജയപ്രദമായി മാറ്റം വരുത്തിയിരിക്കുന്നു."
+
+#: String 230
+msgid "My Advertisement page "
+msgstr "എന്‍റെ പരസ്യങ്ങള്‍"
+
+#: String 231
+msgid "All cache deleted"
+msgstr "എല്ലാ കാഷും ഡിലീറ്റ് ആയി"
+
+#: String 232
+msgid "Deleted expired cache"
+msgstr "കാലഹരണപ്പെട്ട  കാഷ് ഡിലീറ്റ് ആയി"
+
+#: String 233
+msgid "Advertisement to top"
+msgstr "പരസ്യം ടോപ്‌- ലേയ്ക്ക് "
+
+#: String 234
+msgid " category"
+msgstr "കാറ്റഗറി"
+
+#: String 235
+msgid "Order could not be loaded"
+msgstr "ഓര്‍ഡര്‍ ലോഡ്‌ ചെയ്യുവാന്‍ കഴിയുന്നില്ല"
+
+#: String 236
+msgid "all"
+msgstr "എല്ലാം"
+
+#: String 237
+msgid "Advertisement to featured"
+msgstr "പരസ്യം ഫീച്ചേര്‍ഡ്  ആക്കുന്നു"
+
+#: String 238
+msgid "You made some mistake"
+msgstr "താങ്കള്‍ ചില തെറ്റുകള്‍ വരുത്തിയിരിക്കുന്നു"
+
+#: String 239
+msgid "Your message has been sent"
+msgstr "താങ്കളുടെ സന്ദേശം അയയ്ക്കപ്പെട്ടിരിക്കുന്നു"
+
+#: String 240
+msgid "Message not sent"
+msgstr "സന്ദേശം അയയ്ക്കപ്പെട്ടിട്ടില്ല"
+
+#: String 241
+msgid "This email has been considered as spam! We are sorry but we can not send this email."
+msgstr "ദയവായി ക്ഷമിക്കുക, ഇത് സ്പാം മെയില്‍ പോലെ കാണപ്പെടുന്നതിനാല്‍ അയയ്ക്കുവാന്‍ കഴിയില്ല."
+
+#: String 242
+msgid "Check the form for errors"
+msgstr "ഈ ഫോമില്‍ തെറ്റുകളുണ്ടോയെന്നു പരിശോധിക്കുക"
+
+#: String 243
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "താങ്കളുടെ പരസ്യം വിജയകരമായി ആക്ടിവേറ്റ് ചെയ്തിരിക്കുന്നു. നന്ദി"
+
+#: String 244
+msgid "We did not find any advertisements for your search."
+msgstr "താങ്കളുടെ തിരച്ചിലിന് യോജിച്ച ഒരു പരസ്യവും കണ്ടെത്താന്‍ കഴിഞ്ഞിട്ടില്ല"
+
+#: String 245
+msgid "Check form for errors"
+msgstr "ഈ ഫോമില്‍ തെറ്റുകളുണ്ടോയെന്നു പരിശോധിക്കുക"
+
+#: String 246
+msgid "Item updated"
+msgstr "വിവരങ്ങള്‍ പുതുക്കപ്പെട്ടു"
+
+#: String 247
+msgid "Access not allowed"
+msgstr "പ്രവേശനാനുമതിയില്ല"
+
+#: String 248
+msgid "Some errors in the form"
+msgstr "ഈ ഫോമില്‍ ചില തെറ്റുകള്‍ കാണുന്നു"
+
+#: String 249
+msgid "Please to see the changes delete the cache"
+msgstr "കാഷ് ഡിലീറ്റ് ചെയ്‌താല്‍ മാറ്റങ്ങള്‍ വരുത്തിയത്‌ കാണുവാന്‍ കഴിയും."
+
+#: String 250
+msgid "Item created"
+msgstr "ഐറ്റം സൃഷ്ടിക്കപ്പെട്ടിരിക്കുന്നു"
+
+#: String 251
+msgid "Thank you for subscribing"
+msgstr "വരിക്കാരനായത്തില്‍ നന്ദി!"
+
+#: String 252
+msgid "No sitemap generated"
+msgstr "സൈറ്റ്മാപ്പ് ജെനെറേറ്റ്‌ ആയിട്ടില്ല."
+
+#: String 253
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "താങ്കള്‍ മെയിന്‍റെനന്‍സ് മോഡിലാണ്.  താങ്കള്‍ക്കു മാത്രമേ വെബ്സൈറ്റ് കാണുവാന്‍ കഴിയുകയുള്ളൂ"
+
+#: String 254
+msgid "Category not deleted"
+msgstr "കാറ്റഗറി ഡിലീറ്റ് ചെയ്തിട്ടില്ല"
+
+#: String 255
+msgid "Category deleted"
+msgstr "കാറ്റഗറി ഡിലീറ്റ് ചെയ്തിരിക്കുന്നു "
+
+#: String 256
+msgid "Menu created"
+msgstr "മെനു നിര്‍മ്മിക്കപ്പെട്ടിരിക്കുന്നു"
+
+#: String 257
+msgid "Menu not created"
+msgstr "മെനു നിര്‍മ്മിക്കപ്പെട്ടിട്ടില്ല"
+
+#: String 258
+msgid "Wrong email or password"
+msgstr "തെറ്റായ ഇമെയില്‍ അഥവാ പാസ്‌വേഡ് ആണ്."
+
+#: String 259
+msgid "Email to recover password sent"
+msgstr "പാസ്‌വേഡ് റിക്കവര്‍ ചെയ്യാനുള്ള ഇമെയില്‍ വിലാസം"
+
+#: String 260
+msgid "Menu deleted"
+msgstr "മെനു ഡിലീറ്റ് ആയിരിക്കുന്നു"
+
+#: String 261
+msgid "Review database connection parameters"
+msgstr "ഡാറ്റബേസ് കണക്ഷന്‍ പരാമീറ്ററുകള്‍ പരിശോധിക്കുക"
+
+#: String 262
+msgid "System logs"
+msgstr "സിസ്റ്റം ലോഗ്കള്‍"
+
+#: String 263
+msgid "Sitemap Configuration updated"
+msgstr "സൈറ്റ്മാപ്പ് കോണ്‍ഫിഗറേഷന്‍ അപ്ഡേറ്റ് ചെയ്തിരിക്കുന്നു"
+
+#: String 264
+msgid "Open Classifieds migration"
+msgstr "ഓപ്പണ്‍ ക്ലാസിഫൈഡ്സ് മൈഗ്രേഷന്‍"
+
+#: String 265
+msgid "Database cleaned"
+msgstr "DB ക്ലീന്‍ ചെയ്തിരിക്കുന്നു"
+
+#: String 266
+msgid "User not in database"
+msgstr "യുസര്‍ ഡാറ്റബേസില്‍ ഇല്ല"
+
+#: String 267
+msgid "User already exists"
+msgstr "ഇതേ യുസര്‍ നിലനില്‍ക്കുന്നു"
+
+#: String 268
+msgid "Advertisement is featured"
+msgstr "പരസ്യം ഫീച്ചേര്‍ഡ് ആകുന്നു"
+
+#: String 269
+msgid "Advertisement is to top"
+msgstr "പരസ്യം മുകള്‍ നിരയിലേക്ക്‌"
+
+#: String 270
+msgid "Location deleted"
+msgstr "സ്ഥലം ഡിലീറ്റ് ചെയ്യപ്പെട്ടിരിക്കുന്നു"
+
+#: String 271
+msgid "Location not deleted"
+msgstr "സ്ഥലം ഡിലീറ്റ് ചെയ്തിട്ടില്ല"
+
+#: String 272
+msgid "Advertisement is marked as spam"
+msgstr "പരസ്യം സ്പാം ആയി മാര്‍ക്ക്‌ ചെയ്യപ്പെട്ടിരിക്കുന്നു "
+
+#: String 273
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "വാണിംഗ്, പരസ്യം ഇപ്പോള്‍ത്തന്നെ സ്പാം ആയി മാര്‍ക്ക്‌ ചെയ്യപ്പെട്ടിരിക്കുന്നു "
+
+#: String 274
+msgid "You do not have any advertisements waiting to be published"
+msgstr "താങ്കളുടെതായി പ്രസിദ്ധീകരണം കാത്തിരിക്കുന്ന പരസ്യങ്ങള്‍ ഒന്നുമില്ല"
+
+#: String 275
+msgid "Warning, something went wrong while deleting"
+msgstr "വാണിംഗ്, ഡിലീറ്റ് ചെയ്യുന്നതിനിടയില്‍ എന്തോ പിശകു സംഭവിച്ചിരിക്കുന്നു "
+
+#: String 276
+msgid "Advertisement is deleted"
+msgstr "പരസ്യം നീക്കം ചെയ്യപ്പെട്ടിരിക്കുന്നു"
+
+#: String 277
+msgid "Faild to load content"
+msgstr "കണ്ടന്‍റ് ലോഡ്‌ ചെയ്യുവാന്‍ പറ്റുന്നില്ല."
+
+#: String 278
+msgid "is edited"
+msgstr "എഡിറ്റ്‌ ചെയ്തിരിക്കുന്നു."
+
+#: String 279
+msgid "Categories title displayed"
+msgstr "കാറ്റഗറി തലക്കെട്ടായി പ്രദര്‍ശിപ്പിക്കേണ്ടത്"
+
+#: String 280
+msgid "Display Locations"
+msgstr "സ്ഥലങ്ങള്‍ പ്രദര്‍ശിപ്പിക്കുക"
+
+#: String 281
+msgid "Locations title displayed"
+msgstr "സ്ഥലങ്ങളുടെ തലക്കെട്ടായി പ്രദര്‍ശിപ്പിക്കേണ്ടത്"
+
+#: String 282
+msgid "FALSE"
+msgstr "അല്ല"
+
+#: String 283
+msgid "Display categories"
+msgstr "കാറ്റഗറികള്‍ പ്രദര്‍ശിപ്പിക്കുക"
+
+#: String 284
+msgid "Featured title displayed"
+msgstr "ഫീച്ചേര്‍ഡ് തലക്കെട്ടായി പ്രദര്‍ശിപ്പിക്കേണ്ടത്"
+
+#: String 285
+msgid "Map title displayed"
+msgstr "മാപ്പിന്‍റെ തലകെട്ട്"
+
+#: String 286
+msgid "Map height in pixels"
+msgstr "മാപ്പിന്‍റെ ഉയരം (In Pixels)"
+
+#: String 287
+msgid "Zoom in the map"
+msgstr "മാപ്പ് സൂം ചെയ്യുക"
+
+#: String 288
+msgid "Display Featured Ads"
+msgstr "ഫീച്ചേര്‍ഡ് പരസ്യങ്ങള്‍ പ്രദര്‍ശിപ്പിക്കുക"
+
+#: String 289
+msgid "TRUE"
+msgstr "അതെ"
+
+#: String 290
+msgid "Text"
+msgstr "ടെക്സ്റ്റ്‌"
+
+#: String 291
+msgid "Ads title displayed"
+msgstr "പരസ്യങ്ങളുടെ തലക്കെട്ടായി പ്രദര്‍ശിപ്പിക്കേണ്ടത്"
+
+#: String 292
+msgid "Pages"
+msgstr "പേജുകള്‍"
+
+#: String 293
+msgid "Display CMS pages"
+msgstr "CMS പേജുകള്‍ പ്രദര്‍ശിപ്പിക്കുക"
+
+#: String 294
+msgid "Page title displayed"
+msgstr "പേജിന്‍റെ തലകെട്ട്"
+
+#: String 295
+msgid "Number of ads to display"
+msgstr "പ്രദര്‍ശിപ്പിക്കുന്ന പരസ്യങ്ങളുടെ എണ്ണം"
+
+#: String 296
+msgid "Type ads to display"
+msgstr "പ്രദര്‍ശിപ്പിക്കേണ്ട പരസ്യങ്ങള്‍"
+
+#: String 297
+msgid "HTML textarea"
+msgstr "HTML ടെക്സ്റ്റ്‌ ഏരിയ"
+
+#: String 298
+msgid "Text title displayed"
+msgstr "ടെക്സ്റ്റ്‌ തലകെട്ട്"
+
+#: String 299
+msgid "HTML/text content here"
+msgstr "HTML അഥവാ ടെക്സ്റ്റ്‌ കണ്ടന്‍റ് നല്‍കാം"
+
+#: String 300
+msgid "Ads reader"
+msgstr "പരസ്യപ്രദര്‍ശകന്‍"
+
+#: String 301
+msgid "Google Maps with ads"
+msgstr "പരസ്യങ്ങളുള്ള ഗൂഗിള്‍ മാപ്പ്"
+
+#: String 302
+msgid "Adserum publisher ID"
+msgstr "Adserum പബ്ലിഷര്‍ ഐഡി"
+
+#: String 303
+msgid "How often we refresh the RSS, in seconds"
+msgstr "എത്ര സമയവ്യത്യസത്തിലാണ് RSS കാഷ് റീ-ഫ്രെഷ് ചെയ്യേണ്ടത്‌? -(സെക്കന്‍ഡ് കണക്കില്‍)"
+
+#: String 304
+msgid "RSS url address"
+msgstr "RSS URL വിലാസം "
+
+#: String 305
+msgid "RSS title displayed"
+msgstr "RSS തലകെട്ട് "
+
+#: String 306
+msgid "Share"
+msgstr "ഷെയര്‍ ചെയ്യുക"
+
+#: String 307
+msgid "Number items to display"
+msgstr "കാണിക്കേണ്ട എണ്ണം"
+
+#: String 308
+msgid "RSS reader with cache"
+msgstr "സെര്‍വര്‍ കാഷുള്ള RSS റീഡര്‍"
+
+#: String 309
+msgid "ads"
+msgstr "പരസ്യങ്ങള്‍"
+
+#: String 310
+msgid "users"
+msgstr "യുസര്‍മാര്‍"
+
+#: String 311
+msgid "Subscribe"
+msgstr "വരിക്കാരാകാം"
+
+#: String 312
+msgid "# items to display"
+msgstr "# കാണിക്കേണ്ട എണ്ണം"
+
+#: String 313
+msgid "Share on social networks."
+msgstr "സോഷ്യല്‍ നെറ്റ്-വര്‍ക്കുകളില്‍ ഷെയര്‍ ചെയ്യുക"
+
+#: String 314
+msgid "Title displayed"
+msgstr "പ്രദര്‍ശിപ്പിക്കേണ്ട തലകെട്ട്"
+
+#: String 315
+msgid "New tab or window"
+msgstr "പുതിയ TAB അഥവാ WINDOW"
+
+#: String 316
+msgid "Parent frame"
+msgstr "മാതൃ ഫ്രെയിം"
+
+#: String 317
+msgid "Earn money from your site"
+msgstr "നിങ്ങളുടെ സൈറ്റ്‌ വഴി പണം സമ്പാദിക്കാം"
+
+#: String 318
+msgid "Banner Format"
+msgstr "ബാനര്‍ ഫോര്‍മാറ്റ്‌"
+
+#: String 319
+msgid "Links title displayed"
+msgstr "ലിങ്കിന്‍റെ തലക്കെട്ട്‌"
+
+#: String 320
+msgid "Links"
+msgstr "ലിങ്കുകള്‍"
+
+#: String 321
+msgid "Add latest comments"
+msgstr "പുതിയ കമന്‍റുകള്‍ ചേര്‍ക്കുക"
+
+#: String 322
+msgid "Comments"
+msgstr "കമന്‍റുകള്‍ "
+
+#: String 323
+msgid "Number of comments to display"
+msgstr "പ്രദര്‍ശിപ്പിക്കേണ്ട കമന്‍റുകളുടെ എണ്ണം"
+
+#: String 324
+msgid "Display site stats"
+msgstr "സൈറ്റ് സ്റ്റാറ്റസ് പ്രദര്‍ശിപ്പിക്കുക"
+
+#: String 325
+msgid "Subscribe for categories"
+msgstr "കാറ്റഗറികള്‍ക്ക് വരിക്കാരാകാം"
+
+#: String 326
+msgid "Advertisement is published. Congratulations!"
+msgstr "പരസ്യം പ്രസിദ്ധീകരിച്ചിരിക്കുന്നു, അഭിനന്ദനങ്ങള്‍!"
+
+#: String 327
+msgid "Advertisement is created but needs to be validated first before it is published."
+msgstr "പരസ്യം സ്വീകരിക്കപ്പെട്ടിരിക്കുന്നു.  പരിശോധനയ്ക്കു ശേഷം പ്രസിദ്ധീകരിക്കുന്നതാണ്."
+
+#: String 328
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "പരസ്യം പ്രസിദ്ധീകരണത്തിനു നല്‍കിയിരിക്കുന്നു. അതിനു മുമ്പായി  താങ്കളുടെ മെയില്‍ പരിശോധിച്ച് പരസ്യം ആക്റ്റീവേറ്റ് ചെയ്യുക."
+
+#: String 329
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "പരസ്യം അഡ്മിനിസ്ട്രെയിറ്ററുടെ പരിശോധനയ്ക്കായി സ്വീകരിച്ചിരിക്കുന്നു.  ദയവായി കാത്തിരിക്കുന്നതില്‍ നന്ദി!"
+
+#: String 330
+msgid "Something went wrong with uploading pictures"
+msgstr "ചിത്രങ്ങള്‍ അപ്‌ലോഡ്‌ ചെയ്യുന്നതില്‍ എന്തോ പിശകു സംഭവിച്ചിരിക്കുന്നു."
+
+#: String 331
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "ചിത്രങ്ങള്‍ അപ്‌ലോഡ്‌ ചെയ്യുന്നതില്‍ എന്തോ പിശകു സംഭവിച്ചിരിക്കുന്നു. ദയവായി അവയുടെ ഫോര്‍മാറ്റുകള്‍ പരിശോധിക്കുക"
+
+#: String 332
+msgid "Success"
+msgstr "വിജയം!"
+
+#: String 333
+msgid "New profile has been created. Welcome "
+msgstr "പുതിയ പ്രൊഫൈല്‍ സൃഷ്ടിക്കപ്പെട്ടിരിക്കുന്നു. സ്വാഗതം!"
+
+#: String 334
+msgid "Invalid Email"
+msgstr "ഈമെയില്‍ വിലാസം പരിശോധിക്കുക."
+
+#: String 335
+msgid "This post has been considered as spam! We are sorry but we cant publish this advertisement."
+msgstr "ഈ പോസ്റ്റ്‌ സ്പാം പോലെ കാണപ്പെടുന്നു.  പ്രസിദ്ധീകരിക്കാത്തതില്‍ ഖേദിക്കുന്നു."
+
+#: String 336
+msgid "Advertisement is posted. Congratulations!"
+msgstr "പരസ്യം പ്രസിദ്ധീകരിച്ചിരിക്കുന്നു.  അഭിനന്ദനങ്ങള്‍!!!"
+
+#: String 337
+msgid "Captcha is not correct"
+msgstr "ക്യാപ്ച തെറ്റാണ്"
+
+#: String 338
+msgid "Register new user"
+msgstr "പുതിയ യുസര്‍ രജിസ്ട്രേഷന്‍"
+
+#: String 339
+msgid "contents"
+msgstr "കണ്ടന്‍റ്കള്‍"
+
+#: String 340
+msgid "You dont have any "
+msgstr "താങ്കള്‍ക്കില്ല ഒരു"
+
+#: String 341
+msgid "is created"
+msgstr "നിര്‍മ്മിക്കപ്പെട്ടിരിക്കന്നു."
+
+#: String 342
+msgid "Error: please try again!"
+msgstr "എറര്‍, വീണ്ടും ശ്രമിക്കുക."
+
+#: String 343
+msgid "Welcome!"
+msgstr "സ്വാഗതം!"
+
+#: String 344
+msgid "Latest published"
+msgstr "പ്രസിദ്ധീകരിച്ച ഏറ്റവും പുതിയത്"
+
+#: String 345
+msgid "Latest post published"
+msgstr "പ്രസിദ്ധീകരിച്ച ഏറ്റവും പുതിയ പോസ്റ്റ്‌"
+
+#: String 346
+msgid "We need your email address to complete"
+msgstr "താങ്കളുടെ ഈമെയില്‍ വിലാസം കൂടി വേണ്ടിയിരിക്കുന്നു."
+
+#: String 347
+msgid "Error"
+msgstr "എറര്‍"
+
+#: String 348
+msgid "Warning"
+msgstr "വാണിംഗ്"
+
+#: String 349
+msgid "100"
+msgstr "100"
+
+#: String 350
+msgid "Other"
+msgstr "മറ്റുള്ളവ"
+
+#: String 351
+msgid "Role"
+msgstr "റോള്‍"
+
+#: String 352
+msgid "Last modified"
+msgstr "അവസാനം മാറ്റംവരുത്തിയത്"
+
+#: String 353
+msgid "Increment Step"
+msgstr "എത്ര വച്ച് കൂട്ടണം"
+
+#: String 354
+msgid "1000"
+msgstr "1000"
+
+#: String 355
+msgid "Subscribe title displayed"
+msgstr "സബ്സ്ക്രിപ്ഷന്‍റെ തലക്കെട്ട്‌"
+
+#: String 356
+msgid "Minimum Price"
+msgstr "കുറഞ്ഞ വില"
+
+#: String 357
+msgid "0"
+msgstr "0"
+
+#: String 358
+msgid "Maximum Price"
+msgstr "കൂടിയ വില"
+
+#: String 359
+msgid "Last login"
+msgstr "അവസാനം ലോഗിന്‍ ചെയ്തത്"
+
+#: String 360
+msgid "User"
+msgstr "യുസര്‍"
+
+#: String 361
+msgid "Seoname"
+msgstr "SEO പേര്"
+
+#: String 362
+msgid "Order"
+msgstr "ഓര്‍ഡര്‍"
+
+#: String 363
+msgid "Error on mail delivery, not sent"
+msgstr "മെയില്‍ അയയ്ക്കുന്നതില്‍ തടസം നേരിട്ടിരിക്കുന്നു, ഇമെയില്‍ പോയിട്ടില്ല"
+
+#: String 364
+msgid "Info"
+msgstr "ഇന്‍ഫോ"
+
+#: String 365
+msgid "Parent deep"
+msgstr "മാതൃലെവല്‍ ആഴം"
+
+#: String 366
+msgid "Parent"
+msgstr "മാതൃ"
+
+#: String 367
+msgid "SEO title"
+msgstr "SEO തലകെട്ട്"
+
+#: String 368
+msgid "Ip address"
+msgstr "IP അഡ്രസ്‌"
+
+#: String 369
+msgid "Has images"
+msgstr "ഇമേജ്കള്‍ ഉണ്ട്‌"
+
+#: String 370
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "പരസ്യം ഫീച്ചേര്‍ഡ്  ആക്കുവാന്‍ ഉപഭോക്താവ് നല്‍കേണ്ട തുക"
+
+#: String 371
+msgid "Pricing"
+msgstr "വില"
+
+#: String 372
+msgid "To"
+msgstr "വേണ്ടി"
+
+#: String 373
+msgid "Filter"
+msgstr "അരിയ്ക്കുക"
+
+#: String 374
+msgid "Views and Contacts statistic"
+msgstr "സന്ദര്‍ശനങ്ങളുടെയും ബന്ധപ്പെടലുകളുടെയും   സ്ഥിതിവിവരങ്ങള്‍ "
+
+#: String 375
+msgid "Edit Advertisement"
+msgstr "പരസ്യത്തില്‍ മാറ്റം വരുത്താം"
+
+#: String 376
+msgid "From"
+msgstr "നിന്നും"
+
+#: String 377
+msgid "Charts"
+msgstr "ചാര്‍ട്ടുകള്‍"
+
+#: String 378
+msgid "Last 30 days"
+msgstr "കഴിഞ്ഞ 30 ദിവസങ്ങള്‍"
+
+#: String 379
+msgid "Total"
+msgstr "ആകെ"
+
+#: String 380
+msgid "Contacts"
+msgstr "ബന്ധപ്പെടല്‍"
+
+#: String 381
+msgid "Visits"
+msgstr "സന്ദര്‍ശനങ്ങള്‍"
+
+#: String 382
+msgid "Id_User"
+msgstr "യൂസര്‍ ഐ.ഡി."
+
+#: String 383
+msgid "Profile"
+msgstr "പ്രൊഫൈല്‍"
+
+#: String 384
+msgid "Cache"
+msgstr "സെര്‍വര്‍ കാഷ് "
+
+#: String 385
+msgid "New"
+msgstr "പുതിയത്"
+
+#: String 386
+msgid "Bog post"
+msgstr "ബ്ലോഗ്‌ പോസ്റ്റ്‌"
+
+#: String 387
+msgid "Welcome"
+msgstr "സ്വാഗതം"
+
+#: String 388
+msgid "Widgets"
+msgstr "വിട്ഗെറ്റുകള്‍"
+
+#: String 389
+msgid "Stats"
+msgstr "സ്ഥിതിവിവരങ്ങള്‍"
+
+#: String 390
+msgid "Delete image"
+msgstr "ചിത്രം നീക്കുക"
+
+#: String 391
+msgid "Panel"
+msgstr "പാനല്‍"
+
+#: String 392
+msgid "Market"
+msgstr "മാര്‍ക്കറ്റ്‌ "
+
+#: String 393
+msgid "Moderation"
+msgstr "നിയന്ത്രണം"
+
+#: String 394
+msgid "Yesterday"
+msgstr "ഇന്നലെ"
+
+#: String 395
+msgid "Today"
+msgstr "ഇന്ന്‍"
+
+#: String 396
+msgid "Published"
+msgstr "പ്രസിദ്ധീകരിച്ചത്"
+
+#: String 397
+msgid "Unavailable"
+msgstr "ലഭ്യമല്ലാത്തത്"
+
+#: String 398
+msgid "Unconfirmed"
+msgstr "ഉറപ്പാക്കിയിട്ടില്ലാത്തത്"
+
+#: String 399
+msgid "Update"
+msgstr "പുതുക്കുക"
+
+#: String 400
+msgid "Not published"
+msgstr "പ്രസിദ്ധീകരിച്ചിട്ടില്ല"
+
+#: String 401
+msgid "Date"
+msgstr "തിയതി"
+
+#: String 402
+msgid "Unsubscribe"
+msgstr "അംഗത്വം ഒഴിവാക്കാം"
+
+#: String 403
+msgid "My Advertisements"
+msgstr "എന്‍റെ പരസ്യങ്ങള്‍"
+
+#: String 404
+msgid " New"
+msgstr "പുതിയത്"
+
+#: String 405
+msgid "Status"
+msgstr "സ്റ്റാറ്റസ്"
+
+#: String 406
+msgid "Activate?"
+msgstr "സജീവമാക്കുക?"
+
+#: String 407
+msgid "Activate"
+msgstr "സജീവമാക്കുക"
+
+#: String 408
+msgid "Deactivate featured?"
+msgstr "ഫീച്ചേര്‍ഡ് അല്ലാതെയാക്കട്ടെ?"
+
+#: String 409
+msgid "Deactivate featured"
+msgstr "ഫീച്ചേര്‍ഡ് അല്ലാതെയാക്കുന്നു"
+
+#: String 410
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "പരസ്യം ഫീച്ചേര്‍ഡ് അല്ലാതെയാക്കുന്നത് ഉറപ്പാണോ?"
+
+#: String 411
+msgid "Statistics"
+msgstr "സ്ഥിതിവിവരങ്ങള്‍ "
+
+#: String 412
+msgid "Are you sure you want to make it featured?"
+msgstr "ഫീച്ചേര്‍ഡ് ആക്കി മാറ്റാമെന്ന്  ഉറപ്പാണോ?"
+
+#: String 413
+msgid "Make featured?"
+msgstr "ഫീച്ചേര്‍ഡ് ആക്കി മാറ്റട്ടെ?"
+
+#: String 414
+msgid "Refresh listing, go to top?"
+msgstr "ലിസ്റ്റ് പുതുക്കി, മുകളിലേക്ക് പോകാം?"
+
+#: String 415
+msgid "Go to top"
+msgstr "മുകളിലേക്ക് പോകാം"
+
+#: String 416
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "ലിസ്റ്റ് പുതുക്കിക്കൊണ്ട്, പേജിന്‍റെ മുകളിലേക്ക് പോകാമെന്ന്  ഉറപ്പാണോ?"
+
+#: String 417
+msgid "Thanks for using our website."
+msgstr "ഞങ്ങളുടെ വെബ്സൈറ്റ് ഉപയോഗിച്ചതിന് നന്ദി."
+
+#: String 418
+msgid "Advertisements"
+msgstr "പരസ്യങ്ങള്‍"
+
+#: String 419
+msgid "Are you sure you want to delete?"
+msgstr "നീക്കം ചെയ്യാമെന്ന് ഉറപ്പാണോ?"
+
+#: String 420
+msgid "Logout"
+msgstr "ലോഗൌട്ട്"
+
+#: String 421
+msgid "Visit Site"
+msgstr "സൈറ്റ്‌ കാണുക"
+
+#: String 422
+msgid "Theme License"
+msgstr "തീമിന്‍റെ ലൈസന്‍സ്"
+
+#: String 423
+msgid "Actions"
+msgstr "ആക്ഷനുകള്‍"
+
+#: String 424
+msgid "Automatic emails sent to users"
+msgstr "യൂസേര്‍സിനെല്ലാം തന്നെ ഓട്ടോമാറ്റിക്കായുള്ള ഈമെയില്‍ അയച്ചിട്ടുണ്ട്"
+
+#: String 425
+msgid "Edit profile"
+msgstr "പ്രൊഫൈല്‍ എഡിറ്റ്‌ ചെയ്യുക"
+
+#: String 426
+msgid "Subscriptions"
+msgstr "സബ്സ്ക്രിപ്ഷനുകള്‍"
+
+#: String 427
+msgid "Public profile"
+msgstr "പബ്ലിക്‌ പ്രൊഫൈല്‍"
+
+#: String 428
+msgid "Home"
+msgstr "ഹോം"
+
+#: String 429
+msgid "Please insert here the license for your theme."
+msgstr "താങ്കളുടെ തീമിന്‍റെ ലൈസന്‍സ് ഇവിടെ നല്‍കുക"
+
+#: String 430
+msgid "License"
+msgstr "ലൈസന്‍സ്‌"
+
+#: String 431
+msgid "You can change the look and feel of your website here."
+msgstr "താങ്കളുടെ വെബ്സൈറ്റിന്‍റെ ഭംഗിയും ഭാവവുമൊക്കെ ഇവിടെനിന്നും മാറ്റം വരുത്താം"
+
+#: String 432
+msgid "Install theme"
+msgstr "തീം ഇന്‍സ്റ്റാള്‍ ചെയ്യാം"
+
+#: String 433
+msgid "To install new theme choose zip file."
+msgstr "തീം ഇന്‍സ്റ്റാള്‍ ചെയ്യാനുള്ള സിപ്‌ ഫയല്‍ തിരഞ്ഞെടുക്കുക."
+
+#: String 434
+msgid "Submit"
+msgstr "സമര്‍പ്പിക്കുക"
+
+#: String 435
+msgid "Options"
+msgstr "ഓപ്ഷനുകള്‍"
+
+#: String 436
+msgid "Disable"
+msgstr "നിര്‍ജ്ജീവമാക്കുക"
+
+#: String 437
+msgid "Check"
+msgstr "പരിശോധിക്കുക"
+
+#: String 438
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "തീമിലെ ക്രമീകരണങ്ങള്‍ ഇവിടെ തന്നിരിക്കുന്നു. പുതിയ വാല്യുകള്‍ വേണ്ടിടത്ത് മാറ്റി നല്‍കുക"
+
+#: String 439
+msgid "Using mobile theme"
+msgstr "മൊബൈല്‍ തീം ഉപയോഗിക്കുന്നു"
+
+#: String 440
+msgid "PHP Info"
+msgstr "PHP വിവരങ്ങള്‍"
+
+#: String 441
+msgid "Logs"
+msgstr "സെര്‍വര്‍ ലോഗ്ബുക്ക്"
+
+#: String 442
+msgid "Menu"
+msgstr "മെനു"
+
+#: String 443
+msgid "Custom Fields"
+msgstr "പരസ്യങ്ങളിലെ കസ്റ്റം ഫീല്‍ഡുകള്‍"
+
+#: String 444
+msgid "Social Auth"
+msgstr "സോഷ്യല്‍ ലോഗിന്‍"
+
+#: String 445
+msgid "Settings"
+msgstr "ക്രമീകരണങ്ങള്‍"
+
+#: String 446
+msgid "Theme Options"
+msgstr "തീം ക്രമീകരണങ്ങള്‍"
+
+#: String 447
+msgid "Themes"
+msgstr "തീമുകള്‍"
+
+#: String 448
+msgid "Locations"
+msgstr "സ്ഥലങ്ങള്‍"
+
+#: String 449
+msgid "Orders"
+msgstr "ഓര്‍ഡര്‍കള്‍"
+
+#: String 450
+msgid "Translations"
+msgstr "ഭാഷാഭേദങ്ങള്‍"
+
+#: String 451
+msgid "Newsletters"
+msgstr "ന്യൂസ്‌ലെറ്ററുകള്‍"
+
+#: String 452
+msgid "General"
+msgstr "പൊതുവായത്"
+
+#: String 453
+msgid "Payment"
+msgstr "പണമടയ്‌ക്കല്‍"
+
+#: String 454
+msgid "Updates"
+msgstr "പുതുക്കലുകള്‍"
+
+#: String 455
+msgid "Sitemap"
+msgstr "സൈറ്റ്മാപ്പ്"
+
+#: String 456
+msgid "Migration"
+msgstr "മൈഗ്രേഷന്‍"
+
+#: String 457
+msgid "Optimize"
+msgstr "ഒപ്ടിമൈസ് ചെയ്യുക"
+
+#: String 458
+msgid "Tools"
+msgstr "ഉപകരണങ്ങള്‍"
+
+#: String 459
+msgid "Roles access"
+msgstr "അധികാരങ്ങള്‍ ക്രമീകരിക്കുക"
+
+#: String 460
+msgid "Advertisement"
+msgstr "പരസ്യം"
+
+#: String 461
+msgid "Users"
+msgstr "യുസേഴ്സ്"
+
+#: String 462
+msgid "User Roles"
+msgstr "യുസര്‍ അധികാരങ്ങള്‍"
+
+#: String 463
+msgid "Unsubscribe?"
+msgstr "സബ്സ്ക്രിപ്ഷന്‍ ഉപേക്ഷിക്കുന്നു?"
+
+#: String 464
+msgid "Unsubscribe to all"
+msgstr "എല്ലാ സബ്സ്ക്രിപ്ഷനുകളും ഉപേക്ഷിക്കുന്നു?"
+
+#: String 465
+msgid "Address"
+msgstr "വിലാസം "
+
+#: String 466
+msgid "Website"
+msgstr "വെബ്സൈറ്റ്"
+
+#: String 467
+msgid "Name"
+msgstr "പേര്"
+
+#: String 468
+msgid "Email"
+msgstr "ഈമെയില്‍"
+
+#: String 469
+msgid "Phone"
+msgstr "ഫോണ്‍"
+
+#: String 470
+msgid "Images"
+msgstr "ചിത്രങ്ങള്‍"
+
+#: String 471
+msgid "Title"
+msgstr "തലക്കെട്ട്"
+
+#: String 472
+msgid "Category"
+msgstr "വിഭാഗം"
+
+#: String 473
+msgid "Location"
+msgstr "സ്ഥലം"
+
+#: String 474
+msgid "Description"
+msgstr "വിവരണം"
+
+#: String 475
+msgid "Terms of service"
+msgstr "ടേംസ് ഓഫ് സര്‍വീസ് "
+
+#: String 476
+msgid "Publish new"
+msgstr "പുതിയത് പ്രസിദ്ധികരിക്കാം"
+
+#: String 477
+msgid "Go Featured!"
+msgstr "ഫീച്ചേര്‍ഡ് ആക്കുന്നു!"
+
+#: String 478
+msgid "Hits"
+msgstr "സന്ദര്‍ശനങ്ങള്‍ (Hits)"
+
+#: String 479
+msgid "Buy Now"
+msgstr "ഇപ്പോള്‍ വാങ്ങാം"
+
+#: String 480
+msgid "Send Message"
+msgstr "സന്ദേശം അയയ്ക്കുക"
+
+#: String 481
+msgid "Your Advertisement can go to featured! For only "
+msgstr "താങ്കളുടെ പരസ്യങ്ങള്‍ ഇപ്പോള്‍ ഫീച്ചേര്‍ഡ് ആക്കാം,കേവലം "
+
+#: String 482
+msgid "Go Top!"
+msgstr "മുകളിലേയ്ക്ക് പോകാം!"
+
+#: String 483
+msgid "User account will be created"
+msgstr "യുസര്‍ അകൌണ്ട് നിര്‍മ്മിക്കപ്പെടും"
+
+#: String 484
+msgid "Advanced Search"
+msgstr "അഡ്വാന്‍സ്ഡ് സെര്‍ച്ച്‌"
+
+#: String 485
+msgid "Advertisement Title"
+msgstr "പരസ്യത്തിന്‍റെ തലകെട്ട്"
+
+#: String 486
+msgid "Your Advertisement can go on top again! For only "
+msgstr "താങ്കളുടെ പരസ്യം വീണ്ടും മുകളിലെത്തിയ്ക്കാം, കേവലം "
+
+#: String 487
+msgid "We do not have any advertisements in this category"
+msgstr "ഈ വിഭാഗത്തില്‍ പരസ്യങ്ങള്‍ ഒന്നുംതന്നെ കാണുന്നില്ല"
+
+#: String 488
+msgid "Delete"
+msgstr "നീക്കം ചെയ്യുക"
+
+#: String 489
+msgid "Forgot password"
+msgstr "പാസ്സ്‌വേര്‍ഡ്‌ മറന്നു"
+
+#: String 490
+msgid "Register"
+msgstr "രജിസ്റ്റര്‍ ചെയ്യാം"
+
+#: String 491
+msgid "Latest Ads"
+msgstr "സമീപകാല പരസ്യങ്ങള്‍"
+
+#: String 492
+msgid "New Advertisement"
+msgstr "പുതിയ പരസ്യം"
+
+#: String 493
+msgid "Login"
+msgstr "ലോഗിന്‍"
+
+#: String 494
+msgid "Publish new "
+msgstr "പുതിയത് പ്രസിദ്ധികരിക്കാം"
+
+#: String 495
+msgid "Listing"
+msgstr "ലിസ്റ്റിംഗ്"
+
+#: String 496
+msgid "Categories"
+msgstr "വിഭാഗങ്ങള്‍"
+
+#: String 497
+msgid "Blog"
+msgstr "ബ്ലോഗ്‌"
+
+#: String 498
+msgid "Search"
+msgstr "തിരച്ചില്‍"
+
+#: String 499
+msgid "Publish new advertisement"
+msgstr "പുതിയ പരസ്യം പ്രസിദ്ധികരിക്കാം"
+
+#: String 500
+msgid "Featured"
+msgstr "ഫീച്ചേര്‍ഡ്"
+
+#: String 501
+msgid "Deactivate"
+msgstr "നിര്‍ജ്ജീവമാക്കുക "
+
+#: String 502
+msgid "Spam?"
+msgstr "സ്പാം?"
+
+#: String 503
+msgid "Spam"
+msgstr "സ്പാം"
+
+#: String 504
+msgid "Delete?"
+msgstr "നീക്കം ചെയ്യുക?"
+
+#: String 505
+msgid "Deactivate?"
+msgstr "നിര്‍ജ്ജീവമാക്കുക "
+
+#: String 506
+msgid "Edit"
+msgstr "മാറ്റം വരുത്താം"
+
+#: String 507
+msgid "Publish Date"
+msgstr "പ്രസിദ്ധികരണ തിയതി"
+
+#: String 508
+msgid "Price"
+msgstr "വില"
+
+#: String 509
+msgid "Read more"
+msgstr "കൂടുതല്‍ വിവരങ്ങള്‍"
+
+#: String 510
+msgid "Contact"
+msgstr "ബന്ധപ്പെടുക"
+
+#: String 511
+msgid "Subject"
+msgstr "വിഷയം"
+
+#: String 512
+msgid "Last"
+msgstr "അവസാനത്തേത്‌"
+
+#: String 513
+msgid "I accept"
+msgstr "ഞാന്‍ അംഗീകരിക്കുന്നു "
+
+#: String 514
+msgid "Edit Profile"
+msgstr "പ്രൊഫൈലില്‍ മാറ്റം വരുത്തുക"
+
+#: String 515
+msgid "Send"
+msgstr "അയയ്ക്കുക"
+
+#: String 516
+msgid "Page"
+msgstr "പേജ്"
+
+#: String 517
+msgid "First"
+msgstr "ആദ്യത്തേത്"
+
+#: String 518
+msgid "Map"
+msgstr "ഭൂപടം"
+
+#: String 519
+msgid "Change the color scheme and style of the theme"
+msgstr "തീമിന്‍റെ കളര്‍ സ്കീമും സ്റ്റൈലും മാറ്റാം"
+
+#: String 520
+msgid "Please wait while we transfer you to Paypal"
+msgstr "ദയവായി കാത്തിരിക്കുക, Paypal -ലേക്ക്‌ താങ്കളെ ബന്ധിപ്പിക്കുന്നു."
+
+#: String 521
+msgid "Click here if you are not redirected"
+msgstr "ബന്ധിപ്പിക്കപ്പെട്ടില്ലെങ്കില്‍ ഈ ലിങ്കില്‍ ക്ലിക്ക് ചെയ്യുക"
+
+#: String 522
+msgid "Change password"
+msgstr "പാസ്‌വേഡ് മാറ്റുക"
+
+#: String 523
+msgid "New password"
+msgstr "പുതിയ പാസ്‌വേഡ്"
+
+#: String 524
+msgid "Min Price"
+msgstr "കുറഞ്ഞ വില"
+
+#: String 525
+msgid "Max Price"
+msgstr "കൂടിയ വില"
+
+#: String 526
+msgid "Created"
+msgstr "സൃഷ്ടിക്കപെട്ടത്"
+
+#: String 527
+msgid "Unsubscribe to all?"
+msgstr "എല്ലാ സബ്സ്ക്രിപ്ഷനും ഉപേക്ഷിക്കുന്നു?"
+
+#: String 528
+msgid "Profile picture"
+msgstr "പ്രൊഫൈല്‍ ചിത്രം"
+
+#: String 529
+msgid "Cancel"
+msgstr "ഉപേക്ഷിക്കുക"
+
+#: String 530
+msgid "Password"
+msgstr "പാസ്‌വേഡ്"
+
+#: String 531
+msgid "Repeat password"
+msgstr "പാസ്‌വേഡ് വീണ്ടും നല്‍കുക"
+
+#: String 532
+msgid "Type your password twice to change"
+msgstr "പാസ്‌വേഡ് മാറ്റുവാന്‍ രണ്ടു പ്രാവശ്യം ടൈപ്പ് ചെയ്യണം"
+
+#: String 533
+msgid "Listing random position banner, allows HTML"
+msgstr "ലിസ്റ്റിങ്ങിനിടയിലെ random  ബാനര്‍, HTML ഉപയോഗിക്കാം"
+
+#: String 534
+msgid "Footer banner, allows HTML"
+msgstr "ഫുട്ടര്‍ ബാനര്‍,  HTML ഉപയോഗിക്കാം"
+
+#: String 535
+msgid "Slideshow"
+msgstr "സ്ലൈഡ്ഷോ "
+
+#: String 536
+msgid "Download"
+msgstr "ഡൌണ്‍ലോഡ്"
+
+#: String 537
+msgid "Change the admin color theme"
+msgstr "അഡ്മിന്‍ കളര്‍സ്കീം മാറ്റാം"
+
+#: String 538
+msgid "Header tool bar gets fixed in the top"
+msgstr "ഹെഡ്ഡര്‍ ടൂള്‍ബാര്‍ മുകളില്‍ ഉറപ്പിക്കുന്നു "
+
+#: String 539
+msgid "Next"
+msgstr "അടുത്തത്"
+
+#: String 540
+msgid "Previous"
+msgstr "മുമ്പത്തേത്"
+
+#: String 541
+msgid "Message"
+msgstr "സന്ദേശം"
+
+#: String 542
+msgid "File"
+msgstr "ഫയല്‍"
+
+#: String 543
+msgid "Captcha"
+msgstr "ക്യാപ്ച്ച"
+
+#: String 544
+msgid "Contact Us"
+msgstr "ഞങ്ങളെ ബന്ധപ്പെടുക"
+
+#: String 545
+msgid "Yes"
+msgstr "അതെ"
+
+#: String 546
+msgid "No"
+msgstr "അല്ല"
+
+#: String 547
+msgid "Right side"
+msgstr "വലതുവശത്ത്"
+
+#: String 548
+msgid "Left side"
+msgstr "ഇടതുവശത്ത്"
+
+#: String 549
+msgid "Display slider in listing"
+msgstr "ലിസ്റ്റിംഗ് പേജില്‍ സ്ലൈഡര്‍"
+
+#: String 550
+msgid "Header banner, allows HTML"
+msgstr "തലക്കെട്ടായുള്ള ബാനര്‍, HTML അനുവദനീയം"
+
+#: String 551
+msgid "Where you want the sidebar to appear"
+msgstr "ഏതു വശത്താണ് സൈഡ്ബാര്‍ കാണിക്കേണ്ടത് "
+
+#: String 552
+msgid "Numbers of ads to display in home slider"
+msgstr "ഹോംപേജ് സ്ലൈഡറില്‍ എത്ര പരസ്യങ്ങള്‍ കാണിക്കണം"
+
+#: String 553
+msgid "Display breadcrumb"
+msgstr "ബ്രെഡ്‌ക്രംമ്പ്  കാണിക്കുക"
+
+#: String 554
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "ലോഗോയുടെ URL നല്‍കുക. 250px X 40px അഭികാമ്യം.  ലോഗോ വേണ്ടെങ്കില്‍ ഒന്നും നല്‍കാതിരിക്കുക."
+
+#: String 555
+msgid "Short description that appears after the site name."
+msgstr "സൈറ്റ് പേരിനു താഴെ നല്‍കുന്ന ലഘുവിവരണം"
+
+#: String 556
+msgid "Current Theme"
+msgstr "ഇപ്പോഴത്തെ തീം"
+
+#: String 557
+msgid "Available Themes"
+msgstr "ലഭ്യമായ തീമുകള്‍"
+
+#: String 558
+msgid "Notify email"
+msgstr "അറിയിക്കേണ്ട ഈമെയില്‍ വിലാസം"
+
+#: String 559
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "ഞങ്ങള്‍ ഇമെയില്‍ അയയ്ക്കുന്ന വിലാസം, സോഫ്റ്റ്‌വെയര്‍ കമ്മ്യുണിക്കേഷനു വേണ്ടിയും   ഉപയോഗിക്കുന്നു."
+
+#: String 560
+msgid "Email From"
+msgstr "ഫ്രം ഇമെയില്‍ വിലാസം"
+
+#: String 561
+msgid "Smtp active"
+msgstr "ആക്ടിവ് SMTP "
+
+#: String 562
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "ധാരാളം മെയിലുകള്‍  കൂടുതല്‍ കാര്യക്ഷമതയോടെ അയയ്കേണ്ടിവരുന്നെങ്കില്‍ പരിശോധിക്കുക"
+
+#: String 563
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "പൊതുവായ കോണ്‍ഫിഗറേഷന്‍ വാല്യുകള്‍, ആവശ്യമായവ മാറ്റംവരുത്തുക."
+
+#: String 564
+msgid "created"
+msgstr "നിര്‍മ്മിച്ചിരിക്കുന്നു"
+
+#: String 565
+msgid "seotitle"
+msgstr "SEO തലക്കെട്ട്‌"
+
+#: String 566
+msgid "status"
+msgstr "സ്റ്റാറ്റസ്"
+
+#: String 567
+msgid "Email Configuration"
+msgstr "ഈമെയില്‍ കോണ്‍ഫിഗറേഷന്‍"
+
+#: String 568
+msgid "Smtp ssl"
+msgstr "SMTP SSL"
+
+#: String 569
+msgid "Smtp host"
+msgstr "SMTP ഹോസ്റ്റ് "
+
+#: String 570
+msgid "Number of images"
+msgstr "ചിത്രങ്ങളുടെ എണ്ണം"
+
+#: String 571
+msgid "Number of images displayed"
+msgstr "പ്രദര്‍ശിപ്പിക്കാവുന്ന ചിത്രങ്ങളുടെ എണ്ണം"
+
+#: String 572
+msgid "Parent category"
+msgstr "മാതൃ കാറ്റഗറി"
+
+#: String 573
+msgid "parent_category field"
+msgstr "മാതൃ കാറ്റഗറി ഫീല്‍ഡ്‌"
+
+#: String 574
+msgid "Advertisement Configuration"
+msgstr "പരസ്യങ്ങളുടെ കോണ്‍ഫിഗറേഷന്‍"
+
+#: String 575
+msgid "Notify me on new ad"
+msgstr "പുതിയ പരസ്യങ്ങളെത്തിയാല്‍ എന്നെ അറിയിക്കുക."
+
+#: String 576
+msgid "Smtp port"
+msgstr "SMTP പോര്‍ട്ട്‌"
+
+#: String 577
+msgid "Smtp auth"
+msgstr "SMTP Auth"
+
+#: String 578
+msgid "Smtp user"
+msgstr "SMTP യുസര്‍"
+
+#: String 579
+msgid "Smtp password"
+msgstr "SMTP പാസ്‌വേഡ് "
+
+#: String 580
+msgid "from_email"
+msgstr "ഫ്രം ഈമെയില്‍ വിലാസം"
+
+#: String 581
+msgid "From email"
+msgstr "ഫ്രം ഈമെയില്‍ വിലാസം"
+
+#: String 582
+msgid "Update on publish"
+msgstr "പ്രസിദ്ധീകരണം നടക്കുമ്പോള്‍ പുതുക്കുക"
+
+#: String 583
+msgid "Save"
+msgstr "സേവ് ചെയ്യുക"
+
+#: String 584
+msgid "Versions"
+msgstr "പതിപ്പുകള്‍"
+
+#: String 585
+msgid "Open Classifieds release history information."
+msgstr "ഓപ്പണ്‍ ക്ലാസിഫൈഡ്സ് - വിവിധ റിലീസുകളുടെ വിവരങ്ങള്‍"
+
+#: String 586
+msgid "Expire time"
+msgstr "കാലഹരണപ്പെടുന്ന സമയം"
+
+#: String 587
+msgid "Generate"
+msgstr "ജനറേറ്റ് ചെയ്യുക"
+
+#: String 588
+msgid "Table prefix"
+msgstr "ടേബിള്‍ പ്രീഫിക്സ് "
+
+#: String 589
+msgid "Migrate"
+msgstr "മൈഗ്രെറ്റ്‌ ചെയ്യുക"
+
+#: String 590
+msgid "Last time generated"
+msgstr "ഏററവും അവസാനം ജനറേറ്റ് ചെയ്യപ്പെട്ട സമയം"
+
+#: String 591
+msgid "Next sitemap"
+msgstr "അടുത്ത സൈറ്റ്മാപ്പ് "
+
+#: String 592
+msgid "Your installation version is"
+msgstr "താങ്കള്‍ ഉപയോഗിക്കുന്ന വെര്‍ഷന്‍"
+
+#: String 593
+msgid "Your Hash Key for this installation is"
+msgstr "താങ്കളുടെ ഇന്‍സ്റ്റലെഷന്‍ ഹാഷ് കീ"
+
+#: String 594
+msgid "title"
+msgstr "തലക്കെട്ട്‌"
+
+#: String 595
+msgid "Locale"
+msgstr "ഭാഷ"
+
+#: String 596
+msgid "locale"
+msgstr "ഭാഷ"
+
+#: String 597
+msgid "description"
+msgstr "വിശദീകരണം"
+
+#: String 598
+msgid "Current"
+msgstr "ഇപ്പോഴത്തേത്"
+
+#: String 599
+msgid "Latest"
+msgstr "എറ്റവും പുതിയത് "
+
+#: String 600
+msgid "Check for updates"
+msgstr "പുതിയ പതിപ്പിനായ്‌ നോക്കുക"
+
+#: String 601
+msgid "Version"
+msgstr "പതിപ്പ്‌"
+
+#: String 602
+msgid "Information"
+msgstr "വിവരങ്ങള്‍"
+
+#: String 603
+msgid "Use parent categories"
+msgstr "മാതൃ-കാറ്റഗറികള്‍ ഉപയോഗിക്കുക"
+
+#: String 604
+msgid "Ad expiration date"
+msgstr "പരസ്യങ്ങളുടെ കാലാവധി തീയതി"
+
+#: String 605
+msgid "Baned Words Replacement"
+msgstr "സഭ്യമല്ലാത്ത വാക്കുകള്‍ നിരോധിയ്ക്കാം"
+
+#: String 606
+msgid "Replacement of a banedword"
+msgstr "സഭ്യമല്ലാത്ത വാക്കിന്‍റെ പകരം വാക്ക് "
+
+#: String 607
+msgid "Baned word replacement replaces selected array with string that you provided."
+msgstr "സഭ്യമല്ലാത്ത വാക്കുകള്‍ക്കു പകരം നിങ്ങള്‍ നല്‍കുന്ന വാക്കുകള്‍ ഉപയോഗിക്കുന്നു."
+
+#: String 608
+msgid "Payments Configuration"
+msgstr "പേയ്‌മെന്‍റ് കോണ്‍ഫിഗറേഷന്‍"
+
+#: String 609
+msgid "You need to write your baned words enable the service."
+msgstr "സഭ്യമല്ലാത്ത വാക്കുകള്‍ നിരോധിയ്ക്കാന്‍ അത്തരം വാക്കുകളുടെ ലിസ്റ്റ്‌ നല്‍കുക."
+
+#: String 610
+msgid "Baned words are separated with coma (,)"
+msgstr "സഭ്യമല്ലാത്ത വാക്കുകളുടെ ലിസ്റ്റ്‌ കോമ ഉപയോഗിച്ച് വേര്‍തിരിച്ചു നല്‍കുക."
+
+#: String 611
+msgid "Disqus"
+msgstr "ഡിസ്കസ്"
+
+#: String 612
+msgid "Disqus Comments"
+msgstr "ഡിസ്കസ് കമന്‍റുകള്‍"
+
+#: String 613
+msgid "You need to write your disqus ID to enable the service."
+msgstr "ഈ സേവനം ആക്ടീവ് ആകുവാന്‍ താങ്കളുടെ ഡിസ്കസ് ഐ.ഡി  നല്‍കുക."
+
+#: String 614
+msgid "Baned Words"
+msgstr "നിരോധിയ്ക്കേണ്ട വാക്കുകള്‍"
+
+#: String 615
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "ഇപ്പോഴത്തെ പേയ്‌മെന്‍റ് കോണ്‍ഫിഗറേഷന്‍  വാല്യൂകള്‍ കാണിച്ചിരിക്കുന്നു . ആവശ്യമായ മാറ്റങ്ങള്‍  വരുത്തുക"
+
+#: String 616
+msgid "Paypal account"
+msgstr "Paypal അക്കൌണ്ട് "
+
+#: String 617
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Paypal സപ്പോര്‍ട്ട് ഉള്ള കറന്‍സിയാണോ തിരഞ്ഞെടുത്തിരിക്കുന്നതെന്ന് ഉറപ്പ്‌വരുത്തുക "
+
+#: String 618
+msgid "Featured ads"
+msgstr "ഫീച്ചേര്‍ഡ് പരസ്യങ്ങള്‍"
+
+#: String 619
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "ഫീച്ചേര്‍ഡ് പരസ്യങ്ങള്‍ നിശ്ചിതദിവസത്തേയ്ക്ക് ഹൈലൈറ്റ് ചെയ്തു കാണിക്കുന്നതായിരിക്കും"
+
+#: String 620
+msgid "Price for featuring the Ad"
+msgstr "പരസ്യം ഫീച്ചേര്‍ഡ്  ആക്കുവാന്‍ നല്‍കേണ്ട തുക"
+
+#: String 621
+msgid "Currency"
+msgstr "കറന്‍സി"
+
+#: String 622
+msgid "Paypal currency"
+msgstr "Paypal കറന്‍സി"
+
+#: String 623
+msgid "Paypal mail address"
+msgstr "Paypal ഇമെയില്‍ വിലാസം"
+
+#: String 624
+msgid "The paypal email address where the payments will be sent"
+msgstr "പേയ്‌മെന്‍റ് അയയ്ക്കേണ്ട Paypal ഇമെയില്‍ വിലാസം"
+
+#: String 625
+msgid "Sandbox"
+msgstr "സാന്‍ഡ്ബോക്സ്"
+
+#: String 626
+msgid "Terms of Service"
+msgstr "ടേംസ് ഓഫ് സര്‍വീസ്"
+
+#: String 627
+msgid "Deactivated"
+msgstr "ഡീ-ആക്ടിവേറ്റഡ്"
+
+#: String 628
+msgid "You can choose what ads you want to display in home."
+msgstr "ഹോം പേജില്‍ പ്രദര്‍ശിപ്പിക്കേണ്ട പരസ്യങ്ങള്‍ തിരഞ്ഞെടുക്കാം"
+
+#: String 629
+msgid "Google Maps in Ad"
+msgstr "ഗൂഗിള്‍ മാപ്പ് പരസ്യത്തോടൊപ്പം"
+
+#: String 630
+msgid "Displays the google maps in the Ad."
+msgstr "ഗൂഗിള്‍ മാപ്പ് പരസ്യത്തോടൊപ്പം  പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 631
+msgid "Google map zoom level"
+msgstr "ഗൂഗിള്‍ മാപ്പ് സൂം ലെവല്‍"
+
+#: String 632
+msgid "Popular Ads last month"
+msgstr "കഴിഞ്ഞ മാസത്തെ പ്രശസ്ത പരസ്യങ്ങള്‍"
+
+#: String 633
+msgid "Featured Ads"
+msgstr "ഫീച്ചേര്‍ഡ് പരസ്യങ്ങള്‍"
+
+#: String 634
+msgid "Expire days"
+msgstr "കാലാവധി ദിവസങ്ങള്‍"
+
+#: String 635
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "എത്ര ദിവസത്തില്‍ പരസ്യം നീക്കണം? വേണ്ടെങ്കില്‍ '0' നല്‍കുക."
+
+#: String 636
+msgid "Days"
+msgstr "ദിവസങ്ങള്‍ "
+
+#: String 637
+msgid "Advertisements in home"
+msgstr "പരസ്യങ്ങള്‍ ഹോംപേജില്‍"
+
+#: String 638
+msgid "Zoom level"
+msgstr "സൂം ലെവല്‍"
+
+#: String 639
+msgid "Google map default zoom level "
+msgstr "ഗൂഗിള്‍ മാപ്പിന്‍റെ തുടക്ക സൂം ലെവല്‍"
+
+#: String 640
+msgid "Google map default longitude coordinates"
+msgstr "ഗൂഗിള്‍ മാപ്പിന്‍റെ തുടക്ക Longitude കോ-ഓര്‍ഡിനേറ്റുകള്‍"
+
+#: String 641
+msgid "Contact form"
+msgstr "കോണ്ടാക്റ്റ് ഫോം"
+
+#: String 642
+msgid "Enables Contact Form"
+msgstr "കോണ്ടാക്റ്റ് ഫോം സജീവമാക്കുക"
+
+#: String 643
+msgid "Contact form appears int he ad."
+msgstr "കോണ്ടാക്റ്റ് ഫോം പരസ്യത്തില്‍ ഉള്‍പ്പെടുത്തുക"
+
+#: String 644
+msgid "Longitude coordinates"
+msgstr "മാപ്പ്  Longitude കോ-ഓര്‍ഡിനേറ്റുകള്‍"
+
+#: String 645
+msgid "Map longitude coordinates"
+msgstr "മാപ്പ്  Longitude കോ-ഓര്‍ഡിനേറ്റുകള്‍"
+
+#: String 646
+msgid "Map latitude coordinates"
+msgstr "മാപ്പ്  Lattitude കോ-ഓര്‍ഡിനേറ്റുകള്‍"
+
+#: String 647
+msgid "Latitude coordinates"
+msgstr "മാപ്പ്  Latiutude കോ-ഓര്‍ഡിനേറ്റുകള്‍"
+
+#: String 648
+msgid "Google map default latitude coordinates"
+msgstr "ഗൂഗിള്‍ മാപ്പ്  തുടക്ക Lattitude കോ-ഓര്‍ഡിനേറ്റുകള്‍"
+
+#: String 649
+msgid "Database charset"
+msgstr "ഡാറ്റാബേസ് ക്യാരക്റ്റര്‍സെറ്റ്‌"
+
+#: String 650
+msgid "Database name"
+msgstr "ഡാറ്റാബേസ്"
+
+#: String 651
+msgid "Heads Up!"
+msgstr "തലകള്‍ ഉയര്‍ത്തൂ!"
+
+#: String 652
+msgid "Custom fields are only available with premium themes!"
+msgstr "കസ്റ്റം ഫീല്‍ഡുകള്‍ പ്രീമിയം തീമുകളില്‍ മാത്രം ലഭ്യം!"
+
+#: String 653
+msgid "Upgrade your Yclas site to PRO to activate this feature."
+msgstr "ഈ സൗകര്യം ലഭിക്കുവാന്‍ OC-Script അപ്ഗ്രേഡ് ചെയ്യുക."
+
+#: String 654
+msgid "Browse Themes"
+msgstr "തീമുകള്‍ തിരയാം"
+
+#: String 655
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "നീക്കം ചെയ്യണമെന്നു ഉറപ്പാണോ?  ഉപവിഭാഗങ്ങളും അവയിലെ പരസ്യങ്ങളും മാതൃ-കാറ്റഗറിയിലേയ്ക്കു മാറ്റപ്പെടും."
+
+#: String 656
+msgid "New category"
+msgstr "പുതിയ കാറ്റഗറി"
+
+#: String 657
+msgid "Limited Offer!"
+msgstr "പരിമിതകാല വാഗ്ദാനം!"
+
+#: String 658
+msgid "Valid Until"
+msgstr "ലഭ്യമായ കാലാവധി"
+
+#: String 659
+msgid "Selection of nice extras for your installation."
+msgstr "താങ്കളുടെ സൈറ്റില്‍ ഉപയോഗപ്പെടുത്താവുന്ന അധിക വിഭവങ്ങള്‍ നോക്കുക"
+
+#: String 660
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "കാറ്റഗറികളെ ഇഷ്ടമനുസരിച്ച് ക്രമീകരിക്കാം. രണ്ടു ലെവലില്‍ കൂടുതലുള്ള കാറ്റഗറികള്‍ പരമാവധി ഒഴിവാക്കുക, അവ ഈ തീമില്‍ പ്രദര്‍ശിപ്പിക്കപ്പെടില്ല."
+
+#: String 661
+msgid "AdvertisementS Custom Fields"
+msgstr "കസ്റ്റം ഫീല്‍ഡ്‌ പരസ്യങ്ങള്‍"
+
+#: String 662
+msgid "New field"
+msgstr "പുതിയ ഫീല്‍ഡ്"
+
+#: String 663
+msgid "Displays the field Website in the Ad form."
+msgstr "പരസ്യത്തില്‍ വെബ്സൈറ്റ് ഫീല്‍ഡ്  പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 664
+msgid "Displays location select"
+msgstr "സ്ഥലങ്ങള്‍ തിരഞ്ഞെടുക്കുന്നത് പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 665
+msgid "Displays the Select Location in the Ad form."
+msgstr "പരസ്യത്തില്‍ സ്ഥലങ്ങള്‍ തിരഞ്ഞെടുക്കുന്നത്  പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 666
+msgid "Price field"
+msgstr "വില ഫീല്‍ഡ് "
+
+#: String 667
+msgid "Website field"
+msgstr "വെബ്സൈറ്റ് ഫീല്‍ഡ് "
+
+#: String 668
+msgid "Displays the field Phone in the Ad form."
+msgstr "പരസ്യത്തില്‍ ഫോണ്‍ നമ്പര്‍  പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 669
+msgid "Are you sure you want to delete? All data contained in this field will be deleted."
+msgstr "ഈ ഫീല്‍ഡിലെ ഡാറ്റാകള്‍ മുഴുവന്‍ നഷ്ട്പ്പെടും. ഡിലീറ്റ് ചെയ്യണമെന്നു തീര്‍ച്ച?"
+
+#: String 670
+msgid "Optional Fields"
+msgstr "ഓപ്ഷണല്‍ ഫീല്‍ഡുകള്‍"
+
+#: String 671
+msgid "Optional Advertisement Fields"
+msgstr "പരസ്യത്തിലെ ഓപ്ഷണല്‍ ഫീല്‍ഡുകള്‍"
+
+#: String 672
+msgid "Phone field"
+msgstr "ഫോണ്‍ നമ്പര്‍"
+
+#: String 673
+msgid "More info"
+msgstr "കൂടുതല്‍ വിവരങ്ങള്‍"
+
+#: String 674
+msgid "Save changes"
+msgstr "മാറ്റങ്ങള്‍ സേവ് ചെയ്യുക"
+
+#: String 675
+msgid "Social Authentication Settings"
+msgstr "സോഷ്യല്‍ ലോഗിന്‍ സെറ്റിങ്ങുകള്‍"
+
+#: String 676
+msgid "Debug Mode"
+msgstr "ഡീബഗ് മോഡ്"
+
+#: String 677
+msgid "Id"
+msgstr "ഐ.ഡി"
+
+#: String 678
+msgid "Key"
+msgstr "കീ"
+
+#: String 679
+msgid "Also white labeled and free of ads"
+msgstr "നിയമാനുസൃതവും മറ്റു പരസ്യങ്ങളില്ലാത്തതും."
+
+#: String 680
+msgid "All themes include support, updates and 1 site license."
+msgstr "എല്ലാ തീമുകളും ഒരു സൈറ്റ്‌ ലൈസന്‍സ്, സപ്പോര്‍ട്ട്, അപ്ഡേറ്റ്  എന്നിവയുള്‍പ്പെടെയാണ് ലഭിക്കുന്നത്."
+
+#: String 681
+msgid "Preview"
+msgstr "പ്രിവ്യു"
+
+#: String 682
+msgid "Available Mobile Themes"
+msgstr "ലഭ്യമായ മൊബൈല്‍ തീമുകള്‍"
+
+#: String 683
+msgid "Themes Market"
+msgstr "തീം മാര്‍ക്കറ്റ്‌ "
+
+#: String 684
+msgid "Here you can find a selection of our premium themes."
+msgstr "ഞങ്ങളുടെ പ്രീമിയം തീമുകള്‍ ഇവിടെ കാണാം."
+
+#: String 685
+msgid "secret"
+msgstr "സീക്രറ്റ്‌ കീ"
+
+#: String 686
+msgid "Site Usage Statistics"
+msgstr "സൈറ്റ്‌ ഉപയോഗത്തിന്‍റെ വിവരങ്ങള്‍"
+
+#: String 687
+msgid "Create"
+msgstr "നിര്‍മ്മിക്കുക"
+
+#: String 688
+msgid "Where do you want the widget displayed?"
+msgstr "ഈ വിട്ഗെറ്റ് എവിടെയാണ് കാണിക്കേണ്ടത് ?"
+
+#: String 689
+msgid "Close"
+msgstr "ക്ലോസ് ചെയ്യുക"
+
+#: String 690
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "ഈ വിട്ഗെറ്റ്  നീക്കം ചെയ്യണോ? എങ്കില്‍ നിര്‍ജ്ജിവ വിട്ഗെറ്റ്കളുടെ ഭാഗത്തേയ്ക്കു നീക്കിയിടുക."
+
+#: String 691
+msgid "Available widgets"
+msgstr "ലഭ്യമായ വിട്ഗെറ്റ്കള്‍"
+
+#: String 692
+msgid "Sales statistics"
+msgstr "വില്‍പ്പന വിവരങ്ങള്‍"
+
+#: String 693
+msgid "Ads"
+msgstr "പരസ്യങ്ങള്‍"
+
+#: String 694
+msgid "Sales"
+msgstr "വില്‍പ്പനകള്‍"
+
+#: String 695
+msgid "Views and Ads statistics"
+msgstr "പരസ്യങ്ങളുടെയും സന്ദര്‍ശനങ്ങളുടെയും വിവരങ്ങള്‍"
+
+#: String 696
+msgid "Displays the field Price in the Ad form."
+msgstr "പരസ്യഫോമില്‍ വില പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 697
+msgid "Upload file"
+msgstr "ഫയല്‍ അപ്‌ലോഡ്‌"
+
+#: String 698
+msgid "Table"
+msgstr "പട്ടിക"
+
+#: String 699
+msgid "Rows"
+msgstr "നിരകള്‍"
+
+#: String 700
+msgid "Size"
+msgstr "വലിപ്പം"
+
+#: String 701
+msgid "Save size"
+msgstr "സൂക്ഷിക്കാനുള്ള സ്ഥലം"
+
+#: String 702
+msgid "Space to optimize"
+msgstr "ഒപ്ടിമൈസ് ചെയ്യാന്‍ വേണ്ടിയ സ്ഥലം"
+
+#: String 703
+msgid "Database space"
+msgstr "ഡാറ്റബേസ് സ്ഥല ഉപയോഗം"
+
+#: String 704
+msgid "Email Settings"
+msgstr "ഈമെയില്‍ ക്രമീകരണങ്ങള്‍"
+
+#: String 705
+msgid "You can send a mass email to all active users."
+msgstr "സജീവമായ എല്ലാ ഈമെയില്‍ അക്കൗണ്ട്‌കളിലേയ്ക്കും ഒറ്റ ക്ലിക്കില്‍ മെയില്‍ അയയ്ക്കാം."
+
+#: String 706
+msgid "From Email"
+msgstr "ഫ്രം മെയില്‍ അഡ്രസ്‌"
+
+#: String 707
+msgid "Optimize Database"
+msgstr "ഡാറ്റബേസ് ഒപ്ടിമൈസ് ചെയ്യുക"
+
+#: String 708
+msgid "Cache configuration information"
+msgstr "സെര്‍വര്‍ കാഷ് സെറ്റിംഗ്സ്"
+
+#: String 709
+msgid "Delete all"
+msgstr "എല്ലാം ഡിലീറ്റ് ചെയ്യുക"
+
+#: String 710
+msgid "Your PHP time limit is"
+msgstr "PHP സമയപരിധി"
+
+#: String 711
+msgid "seconds"
+msgstr "സെക്കന്‍റ്കള്‍"
+
+#: String 712
+msgid "Host name"
+msgstr "ഹോസ്റ്റ്"
+
+#: String 713
+msgid "User name"
+msgstr "യുസര്‍"
+
+#: String 714
+msgid "Log"
+msgstr "ലോഗ് വിവരം"
+
+#: String 715
+msgid "Reading log file"
+msgstr "ലോഗ് ഫയല്‍"
+
+#: String 716
+msgid "Delete expired"
+msgstr "കാലാവധി കഴിഞ്ഞവ മാത്രം ഡിലീറ്റ് ചെയ്യുക "
+
+#: String 717
+msgid "Config file"
+msgstr "കോണ്‍ഫിഗ് ഫയല്‍"
+
+#: String 718
+msgid "System Logs"
+msgstr "സെര്‍വര്‍ ലോഗ്ബുക്ക്‌"
+
+#: String 719
+msgid "Newsletter"
+msgstr "വാര്‍ത്താപത്രിക"
+
+#: String 720
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "നീക്കം ചെയ്യണമെന്നു ഉറപ്പാണോ?  ഉപവിഭാഗങ്ങളും അവയിലെ പരസ്യങ്ങളും മാതൃ-കാറ്റഗറിയിലേയ്ക്കു മാറ്റപ്പെടും."
+
+#: String 721
+msgid "Type"
+msgstr "തരം"
+
+#: String 722
+msgid "Text 256 Chars"
+msgstr "ടെക്സ്റ്റ്‌ (256 അക്ഷരങ്ങള്‍ വരെ)"
+
+#: String 723
+msgid "Text Long"
+msgstr "നീളം കൂടിയ ടെക്സ്റ്റ്‌ "
+
+#: String 724
+msgid "Number"
+msgstr "സംഖ്യ"
+
+#: String 725
+msgid "Label"
+msgstr "പേര്"
+
+#: String 726
+msgid "New Custom Field"
+msgstr "പുതിയ കസ്റ്റം ഫീല്‍ഡ്"
+
+#: String 727
+msgid "Enables Captcha"
+msgstr "ക്യാപ്ച്ച ഇനേബിള്‍ ചെയ്യുന്നു"
+
+#: String 728
+msgid "Captcha appears in the form."
+msgstr "പരസ്യഫോമില്‍ ക്യാപ്ച്ച പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 729
+msgid "Address field"
+msgstr "മേല്‍വിലാസം"
+
+#: String 730
+msgid "Displays the field Address in the Ad form."
+msgstr "പരസ്യഫോമില്‍ മേല്‍വിലാസം പ്രദര്‍ശിപ്പിക്കുന്നു "
+
+#: String 731
+msgid "Number Decimal"
+msgstr "ദശാംശ സംഖ്യ"
+
+#: String 732
+msgid "Select"
+msgstr "തിരഞ്ഞെടുക്കുക"
+
+#: String 733
+msgid "Searchable"
+msgstr "തിരയാവുന്നത്"
+
+#: String 734
+msgid "Edit Custom Field"
+msgstr "കസ്റ്റം ഫീല്‍ഡില്‍ മാറ്റംവരുത്താന്‍"
+
+#: String 735
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "സ്ഥലങ്ങളെ ഇഷ്ടമനുസരിച്ച് ക്രമീകരിക്കാം. രണ്ടു ലെവലില്‍ കൂടുതലുള്ള സ്ഥലവിഭാഗങ്ങള്‍ പരമാവധി ഒഴിവാക്കുക, അവ ഈ തീമില്‍ പ്രദര്‍ശിപ്പിക്കപ്പെടില്ല."
+
+#: String 736
+msgid "New location"
+msgstr "പുതിയ സ്ഥലം"
+
+#: String 737
+msgid "Required"
+msgstr "നിര്‍ബന്ധമായും നല്‍കേണ്ടത്"
+
+#: String 738
+msgid "Comma separated for select"
+msgstr "സെലക്ട്‌ ഓപ്ഷനുകള്‍ കൊമ ഉപയോഗിച്ച് വേര്‍തിരിക്കുക"
+
+#: String 739
+msgid "Radio"
+msgstr "റേഡിയോ "
+
+#: String 740
+msgid "Checkbox"
+msgstr "ചെക്ബോക്സ്‌"
+
+#: String 741
+msgid "Values"
+msgstr "വിലകള്‍ "
+
+#: String 742
+msgid "Mobile Version"
+msgstr "മൊബൈല്‍ രൂപം"
+

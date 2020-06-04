@@ -1,0 +1,2392 @@
+#: String 260
+msgid "Environment"
+msgstr "Nharaunda"
+
+#: String 525
+msgid "Translations files available in the system."
+msgstr "Mafiles etranslation aripo pasystem"
+
+#: String 438
+msgid "Image quality"
+msgstr "Quality yemifananidzo"
+
+#: String 344
+msgid "From Email"
+msgstr "Emai kubva"
+
+#: String 70
+msgid "Something went wrong with uploading pictures"
+msgstr "pane zvakanganisika pakuisa mapicture"
+
+#: String 417
+msgid "Decimal representation"
+msgstr "Decimal representation"
+
+#: String 376
+msgid "Terms of Service"
+msgstr "Mitemo yekushandisa"
+
+#: String 368
+msgid "Displays the field Price in the Ad form."
+msgstr "Taridza peMutengo paform reAd"
+
+#: String 209
+msgid "Ads reader"
+msgstr "Ads reader"
+
+#: String 575
+msgid "Visit Site"
+msgstr "Shanyira site"
+
+#: String 431
+msgid "Image width in pixels(px)"
+msgstr "Kukura kwemifananidzo kumapixels (px)"
+
+#: String 470
+msgid "Yesterday"
+msgstr "Nezuro"
+
+#: String 142
+msgid "PHP Info"
+msgstr "PHP Info"
+
+#: String 383
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "Email dzatinoshandisa kusender maemail,dzinoshandiswa zve pacommunication yesoftware"
+
+#: String 154
+msgid "Language saved"
+msgstr "Chirudzi chachengetedzwa"
+
+#: String 313
+msgid "Latest News"
+msgstr "Nhau dzitswa"
+
+#: String 14
+msgid "Site URL"
+msgstr "Site URL"
+
+#: String 555
+msgid "Incorect price, not more than 3 decimals"
+msgstr "Price haisi, kwete kuisa madecimal anopfuura matatu"
+
+#: String 565
+msgid "Content"
+msgstr "Content"
+
+#: String 583
+msgid "Type your password twice"
+msgstr "Nyora password yako kaviri"
+
+#: String 280
+msgid "Search"
+msgstr "Searcher"
+
+#: String 20
+msgid "Admin Password"
+msgstr "Password yeAdmin"
+
+#: String 418
+msgid "Date format"
+msgstr "Format yedate"
+
+#: String 101
+msgid "Welcome"
+msgstr "Tinokutambirayi"
+
+#: String 160
+msgid "Widget parameter missing"
+msgstr "Maparameter eWidget arikushaikwa"
+
+#: String 506
+msgid "Size"
+msgstr "Saizi"
+
+#: String 63
+msgid "You made some mistake"
+msgstr "maita mamistakes"
+
+#: String 457
+msgid "Price for featuring the Ad"
+msgstr "Mutengo weFeatured ad"
+
+#: String 8
+msgid "Welcome to"
+msgstr "Tokutambirai ku"
+
+#: String 220
+msgid "Comments"
+msgstr "Macomments"
+
+#: String 477
+msgid "Filter"
+msgstr "Filter"
+
+#: String 33
+msgid "Only numbers, letters, and underscores"
+msgstr "Tongoda manhamba, letters nemaunderscores"
+
+#: String 467
+msgid "User paypal link"
+msgstr "Paypal link yemunhu"
+
+#: String 318
+msgid " Unavailable"
+msgstr "Hazvipo"
+
+#: String 256
+msgid "views"
+msgstr "Vakawona"
+
+#: String 435
+msgid "Thumb width"
+msgstr "Kukura kwethumb"
+
+#: String 388
+msgid "Smtp port"
+msgstr "Smtp port"
+
+#: String 391
+msgid "Smtp password"
+msgstr "Smtp password"
+
+#: String 544
+msgid "Repeat password"
+msgstr "Dzokorora password"
+
+#: String 591
+msgid "Change the theme of List Elements"
+msgstr "Chinja list element yetheme"
+
+#: String 41
+msgid "Info"
+msgstr "ruzivo"
+
+#: String 492
+msgid "Delete all"
+msgstr "Deleter zvese"
+
+#: String 120
+msgid "Advertisement is updated"
+msgstr "Advert yaUpdatiwa"
+
+#: String 279
+msgid "Listing"
+msgstr "Listing"
+
+#: String 322
+msgid "Activate?"
+msgstr "Activater?"
+
+#: String 96
+msgid "Register new user"
+msgstr "Register zita ritswa"
+
+#: String 80
+msgid "Advertisement is deleted"
+msgstr "Advert yadeletiwa"
+
+#: String 334
+msgid "New location"
+msgstr "Location itswa"
+
+#: String 238
+msgid "Share"
+msgstr "Sheya"
+
+#: String 394
+msgid "All configurations"
+msgstr "Maconfigurations ose"
+
+#: String 214
+msgid "Number of ads to display"
+msgstr "Number yemaAds anoratidzwa"
+
+#: String 584
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Tirikushanda pasite yedu, Tinokumbirawo muzodzoka later. Mazvita"
+
+#: String 550
+msgid "Go Featured!"
+msgstr "Enda featured"
+
+#: String 241
+msgid "Subscribe"
+msgstr "Subscriber"
+
+#: String 311
+msgid "Your installation version is"
+msgstr "Installation version yenyu i"
+
+#: String 530
+msgid "Create"
+msgstr "Gadzira"
+
+#: String 263
+msgid "Change the admin color theme"
+msgstr "Chinja color yetheme readmin "
+
+#: String 529
+msgid "Active"
+msgstr "Zvirikuita"
+
+#: String 361
+msgid "Displays the field Phone in the Ad form."
+msgstr "Taridza pePhone paform reAd"
+
+#: String 481
+msgid "Using mobile theme"
+msgstr "Kushandisa mobile theme"
+
+#: String 133
+msgid "Theme configuration updated"
+msgstr "Theme configuration yaupdatiwa"
+
+#: String 300
+msgid "Buy Now"
+msgstr "Tenga izvezvi"
+
+#: String 513
+msgid "Versions"
+msgstr "Versions"
+
+#: String 542
+msgid "Edit Profile"
+msgstr "Editer profile"
+
+#: String 446
+msgid "Payments Configuration"
+msgstr "Configuration yemubhadharo"
+
+#: String 495
+msgid "System Logs"
+msgstr "Logs dzesystem"
+
+#: String 270
+msgid "Numbers of ads to display in home slider"
+msgstr "Nhamba dzeads dzinotaridzwa paslider remba"
+
+#: String 597
+msgid "Public Profile"
+msgstr "Profile republic"
+
+#: String 186
+msgid "Parent"
+msgstr "Parent"
+
+#: String 503
+msgid "Space to optimize"
+msgstr "Space ino optimizika"
+
+#: String 233
+msgid "RSS reader with cache"
+msgstr "RSS reader ine cache"
+
+#: String 190
+msgid "Last modified"
+msgstr "Rakapedzisira kugadziriswa"
+
+#: String 66
+msgid "Publish new advertisement"
+msgstr "Gadzira advert itswa"
+
+#: String 293
+msgid "Delete?"
+msgstr "Bvisa?"
+
+#: String 283
+msgid "Register"
+msgstr "Register"
+
+#: String 98
+msgid "Saved"
+msgstr "Zvachengetwa"
+
+#: String 512
+msgid "Save"
+msgstr "Saver"
+
+#: String 74
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Advert yapostiwa. Makorokoto!"
+
+#: String 7
+msgid "We really appreciate it"
+msgstr "Tafara zvikuru kwazvo"
+
+#: String 150
+msgid "seconds"
+msgstr "Maseconds"
+
+#: String 582
+msgid "Remember me"
+msgstr "Ndirangarire"
+
+#: String 462
+msgid "How many days an ad will be featured after paying."
+msgstr "Mazuva mangani ekuti ad inofeature kubva pamubhadharo"
+
+#: String 458
+msgid "Pricing"
+msgstr "Pricing"
+
+#: String 561
+msgid "Unsubscribe to all?"
+msgstr "Unsubscriber kwese"
+
+#: String 375
+msgid "Deactivated"
+msgstr "Deactivator"
+
+#: String 534
+msgid "Save changes"
+msgstr "Saver zvachinja"
+
+#: String 3
+msgid "Installation done"
+msgstr "Installation yaita"
+
+#: String 34
+msgid "Install"
+msgstr "Install"
+
+#: String 421
+msgid "Allowed image formats"
+msgstr "Mifananidzo formats anodiwa"
+
+#: String 105
+msgid "Market"
+msgstr "Musika"
+
+#: String 403
+msgid "Moderation controls"
+msgstr "Control yeModeration"
+
+#: String 48
+msgid "Check form for errors"
+msgstr "Tarisa form kuiitira maerrors"
+
+#: String 111
+msgid "Password is changed"
+msgstr "Password yachinjiwa"
+
+#: String 353
+msgid "Days"
+msgstr "Mazuva"
+
+#: String 176
+msgid "Price"
+msgstr "Mutengo"
+
+#: String 284
+msgid "New Advertisement"
+msgstr "Advert itswa"
+
+#: String 24
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "Munoda hash key kuti mure-installer,munokwanisa kuiwana kana makairasa ku"
+
+#: String 188
+msgid "Seoname"
+msgstr "Zita reSEO"
+
+#: String 424
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Controller saizi yemufananidzo unoiswa,isa integer value kugadzirisa makuriro emufananidzo muhombe"
+
+#: String 224
+msgid "Locations title displayed"
+msgstr "Title yenzwimbo yataridzwa"
+
+#: String 501
+msgid "Optimize"
+msgstr "Optimizer"
+
+#: String 164
+msgid "Order could not be loaded"
+msgstr "Order haisi kuloadeka"
+
+#: String 410
+msgid "Advertisements in RSS"
+msgstr "Adverts muRSS"
+
+#: String 312
+msgid "Check for updates"
+msgstr "Tarisai maupdates"
+
+#: String 453
+msgid "Currency"
+msgstr "Currency"
+
+#: String 95
+msgid "Passwords do not match"
+msgstr "Password haifanani"
+
+#: String 148
+msgid "Database cleaned"
+msgstr "Database racleaniwa"
+
+#: String 412
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "MaAds mangani acharatidzwa muRSS"
+
+#: String 274
+msgid "Display slider in listing"
+msgstr "Taridza slider kulisting"
+
+#: String 266
+msgid "No"
+msgstr "Aiwa"
+
+#: String 496
+msgid "Reading log file"
+msgstr "Kuverenga log files"
+
+#: String 314
+msgid "Unavailable"
+msgstr "Hazvipo"
+
+#: String 398
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Pano munodeclareya zita redisplay renyu Zvinowonekwa nemunhu wese"
+
+#: String 484
+msgid "You can change the look and feel of your website here."
+msgstr "Unokwanisa kuchinja chimiro chewebsite pano"
+
+#: String 84
+msgid "Advertisement is deactivated"
+msgstr "Advert yadeactivetwa"
+
+#: String 330
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Chinja order yecategories,Chengetedza mupfungwa kuti 2 malevels anotsikirirana"
+
+#: String 234
+msgid "Number items to display"
+msgstr "Nhamba yemaitems achataridzwa"
+
+#: String 193
+msgid "# items to display"
+msgstr "# Zvinhu zvichataridziswa"
+
+#: String 516
+msgid "Version"
+msgstr "Version"
+
+#: String 508
+msgid "Last time generated"
+msgstr "Nguva yekupedzisira kugenerator"
+
+#: String 576
+msgid "Advertisement Title"
+msgstr "Title yeadvert"
+
+#: String 206
+msgid "Next"
+msgstr "Kumberi"
+
+#: String 183
+msgid "Id"
+msgstr "Id"
+
+#: String 269
+msgid "Short description that appears after the site name."
+msgstr "Description pfupi inotaridza pasi pezita resite"
+
+#: String 365
+msgid "Displays location select"
+msgstr "Taridza sarudzo yenzwimbo"
+
+#: String 18
+msgid "Upgrade System"
+msgstr "Upgrade System"
+
+#: String 526
+msgid "Scan"
+msgstr "Scanner"
+
+#: String 371
+msgid "Captcha appears in the form."
+msgstr "Captcha inotaridzika paform"
+
+#: String 489
+msgid "Here you can find a selection of our premium themes."
+msgstr "Kuno unowana zvisarudzwa zvemaPremium themes edu"
+
+#: String 157
+msgid "Updated"
+msgstr "Updated"
+
+#: String 509
+msgid "Generate"
+msgstr "Generator"
+
+#: String 444
+msgid "Watermark position"
+msgstr "Position yewatermark"
+
+#: String 566
+msgid "Newsletters"
+msgstr "Nhau dzetsamba"
+
+#: String 137
+msgid "Optimize DB"
+msgstr "Optimise Db"
+
+#: String 147
+msgid "Migration"
+msgstr "Migration"
+
+#: String 304
+msgid "File"
+msgstr "Faira"
+
+#: String 194
+msgid "publish new"
+msgstr "Isai zvitswa"
+
+#: String 546
+msgid "Edit Advertisement"
+msgstr "Editer advert"
+
+#: String 11
+msgid "If you need any help please check our professional services"
+msgstr "Tarisai maproffessional services edu kana muchida rubatsiro"
+
+#: String 287
+msgid "Read more"
+msgstr "Verenga zvakanyanya"
+
+#: String 23
+msgid "Hash Key"
+msgstr "Hash Key"
+
+#: String 414
+msgid "How many ads are going to appear in the map of your site."
+msgstr "MaAds mangani acharatidzwa mumap "
+
+#: String 402
+msgid "Base URL path"
+msgstr "Nzira yebase URL"
+
+#: String 102
+msgid "Locations"
+msgstr "Nzwimbo"
+
+#: String 554
+msgid "Images"
+msgstr "Mifananidzo"
+
+#: String 406
+msgid "Country specific currency"
+msgstr "Mari inonyanya kushanda munyika"
+
+#: String 78
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Hauna advert yakamirira kupublishiwa"
+
+#: String 161
+msgid "Advertisement to top"
+msgstr "Advert iende kumusoro"
+
+#: String 62
+msgid "Check the form for errors"
+msgstr "Tarira form kuiitira maerrors"
+
+#: String 297
+msgid "Publish new"
+msgstr "Puplisher Zvitswa"
+
+#: String 175
+msgid "Address"
+msgstr "Address"
+
+#: String 47
+msgid "Item created"
+msgstr "item yagadzirwa"
+
+#: String 409
+msgid "Number of ads per page"
+msgstr "Nhamba dzeAds papage"
+
+#: String 479
+msgid "Sales statistics"
+msgstr "Zvirikuitika pakutenga"
+
+#: String 219
+msgid "Add latest comments"
+msgstr "Wedzera macomments manyuwani"
+
+#: String 387
+msgid "Smtp host"
+msgstr "Smtp host"
+
+#: String 400
+msgid "Base URL"
+msgstr "Base URL"
+
+#: String 125
+msgid "Advertisement"
+msgstr "Advert"
+
+#: String 259
+msgid "Unsubscribe"
+msgstr "Unsubscriber"
+
+#: String 139
+msgid "Cache"
+msgstr "Cache"
+
+#: String 523
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Translator zvese? Ziva kuti zvinochinja mazvi ako ose."
+
+#: String 500
+msgid "Optimize Database"
+msgstr "Optimizer Database"
+
+#: String 337
+msgid "More info"
+msgstr "Info izhinji"
+
+#: String 83
+msgid "Advertisement is marked as spam"
+msgstr "Advert yakamakwa seSpam"
+
+#: String 109
+msgid "Mail not sent"
+msgstr "Tsamba haina kuenda"
+
+#: String 44
+msgid "Success"
+msgstr "Zvaita"
+
+#: String 115
+msgid "You have successfuly changed your data"
+msgstr "Machinja zvinhu zvenyu zvakanaka"
+
+#: String 168
+msgid "User"
+msgstr "Zita"
+
+#: String 505
+msgid "Rows"
+msgstr "Rows"
+
+#: String 469
+msgid "Today"
+msgstr "Nhasi"
+
+#: String 244
+msgid "TRUE"
+msgstr "Zvirimo"
+
+#: String 357
+msgid "Displays the field Address in the Ad form."
+msgstr "Taridza peAddress paform reAd ."
+
+#: String 211
+msgid "Latest Ads"
+msgstr "Ads dzinyuwani"
+
+#: String 172
+msgid "Title"
+msgstr "Title"
+
+#: String 93
+msgid "User already exists"
+msgstr "Zita riripo kare"
+
+#: String 288
+msgid "Edit"
+msgstr "Gadzirisa"
+
+#: String 590
+msgid "Change the header color scheme and style of the theme"
+msgstr "Chinja header color scheme nestaira yetheme"
+
+#: String 228
+msgid "Zoom in the map"
+msgstr "Zoomer pamap"
+
+#: String 515
+msgid "Your Hash Key for this installation is"
+msgstr "Hash key yeinstallation iyi i"
+
+#: String 252
+msgid "Text"
+msgstr "Text"
+
+#: String 208
+msgid "Ads"
+msgstr "Ads"
+
+#: String 588
+msgid "Click here if you are not redirected"
+msgstr "Baya pano kana usina kuendeswa"
+
+#: String 262
+msgid "Loaded extensions"
+msgstr "Maextensions akalodiwa"
+
+#: String 362
+msgid "Website"
+msgstr "Website"
+
+#: String 144
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: String 315
+msgid "Unconfirmed"
+msgstr "Hazvina kuconfirmiwa"
+
+#: String 317
+msgid "Unavailable Sort"
+msgstr "Hapana sort"
+
+#: String 553
+msgid "Delete image"
+msgstr "Deleter mifananidzo"
+
+#: String 128
+msgid "General"
+msgstr "General"
+
+#: String 132
+msgid "Theme Options"
+msgstr "Options dzeTheme"
+
+#: String 187
+msgid "Parent deep"
+msgstr "Parent deep"
+
+#: String 265
+msgid "Yes"
+msgstr "Ehe"
+
+#: String 230
+msgid "Display CMS pages"
+msgstr "Taridza CMS pages"
+
+#: String 197
+msgid "map"
+msgstr "Map"
+
+#: String 579
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 543
+msgid "New password"
+msgstr "Password itswa"
+
+#: String 386
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 445
+msgid "Watermark possition"
+msgstr "Position yewatermark"
+
+#: String 71
+msgid "Advertisement is published. Congratulations!"
+msgstr "Advert yapublishwa.Makorokoto"
+
+#: String 345
+msgid "Cancel"
+msgstr "Cancella"
+
+#: String 528
+msgid "Language"
+msgstr "Chirudzi"
+
+#: String 439
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Sarudza quality yemufananidzo wakachengetwa (1 - 100% yemifananidzo chaiyo)."
+
+#: String 290
+msgid "Deactivate"
+msgstr "Deactivater"
+
+#: String 65
+msgid "Map"
+msgstr "Map"
+
+#: String 30
+msgid "Database charset"
+msgstr "charset yeDatabase"
+
+#: String 369
+msgid "Upload file"
+msgstr "isa file"
+
+#: String 499
+msgid "Migrate"
+msgstr "Migrate"
+
+#: String 143
+msgid "System logs"
+msgstr "System logs"
+
+#: String 308
+msgid "Page"
+msgstr "Page"
+
+#: String 471
+msgid "Last 30 days"
+msgstr "Mazuva 30 apfuura"
+
+#: String 153
+msgid "Edit Translation"
+msgstr "Gadzirisa Translation"
+
+#: String 587
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Tokumbirawo mumire tichikuendesai kupaypal"
+
+#: String 15
+msgid "Site Name"
+msgstr "Zita reSite"
+
+#: String 448
+msgid "Paypal account"
+msgstr "Account yepaypal"
+
+#: String 2
+msgid "Congratulations"
+msgstr "Makorokoto"
+
+#: String 432
+msgid "Thumb height"
+msgstr "Kureba kwethumb"
+
+#: String 316
+msgid "Spam Sort"
+msgstr "Spam sort"
+
+#: String 110
+msgid "Change password"
+msgstr "Password yachinja"
+
+#: String 325
+msgid "Not published"
+msgstr "Haina kupublishiwa"
+
+#: String 126
+msgid "Email"
+msgstr "Email"
+
+#: String 171
+msgid "Type"
+msgstr "Type"
+
+#: String 324
+msgid "Are you sure you want to make it featured?"
+msgstr "Uri sure unoda kuiita featured?"
+
+#: String 90
+msgid "Email to recover password sent"
+msgstr "Email icharecover password yasendiwa"
+
+#: String 27
+msgid "User name"
+msgstr "Zita"
+
+#: String 57
+msgid "Advanced Search"
+msgstr "Kutsvaka kwakapfurikidza"
+
+#: String 251
+msgid "100"
+msgstr "100"
+
+#: String 106
+msgid "Newsletter"
+msgstr "Nhau dzetsamba"
+
+#: String 189
+msgid "Role"
+msgstr "Zvarakamirira"
+
+#: String 257
+msgid "ads"
+msgstr "Ads"
+
+#: String 348
+msgid "Number of images"
+msgstr "Nhamba yemifananidzo"
+
+#: String 165
+msgid "Thank you for subscribing"
+msgstr "Tinotenda nekusubscriber kwenyu"
+
+#: String 247
+msgid "0"
+msgstr "0"
+
+#: String 352
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Papera mazuva mangani panoexpire Ad, 0 kana risingaexpire"
+
+#: String 58
+msgid "We did not find any advertisements for your search."
+msgstr "Hatina kuwana advert yamatsvaka"
+
+#: String 539
+msgid "Go to top"
+msgstr "Enda kumusoro"
+
+#: String 450
+msgid "The paypal email address where the payments will be sent"
+msgstr "email address yepaypal kunova iko kunosendwa mubhadharo"
+
+#: String 227
+msgid "Map height in pixels"
+msgstr "Height yemap mumaPixels"
+
+#: String 399
+msgid "Site description"
+msgstr "Description yesite"
+
+#: String 249
+msgid "1000"
+msgstr "1000"
+
+#: String 271
+msgid "Where you want the sidebar to appear"
+msgstr "Paunoda kuti pave nesidebar"
+
+#: String 40
+msgid "Invalid query"
+msgstr "query hayiite"
+
+#: String 119
+msgid "Advertisement is updated!"
+msgstr "Advert yaupdatiwa"
+
+#: String 121
+msgid "Stats"
+msgstr "Zvirikuiitika"
+
+#: String 358
+msgid "Google Maps in Ad"
+msgstr "Google map muAd"
+
+#: String 493
+msgid "Delete expired"
+msgstr "Deleter zvakashakara"
+
+#: String 97
+msgid "Categories"
+msgstr "Categories"
+
+#: String 323
+msgid "Activate"
+msgstr "Activater"
+
+#: String 201
+msgid "Application Execution"
+msgstr "Application execution"
+
+#: String 180
+msgid "Published"
+msgstr "Published"
+
+#: String 87
+msgid "Wrong email or password"
+msgstr "Email kana password haisi"
+
+#: String 355
+msgid "You can choose what ads you want to display in home."
+msgstr "Unosarudza ad yauna kutaridza kumba"
+
+#: String 397
+msgid "Site name"
+msgstr "Zita resite"
+
+#: String 240
+msgid "Display site stats"
+msgstr "Taridza zvirikuitika musite"
+
+#: String 559
+msgid "Min Price"
+msgstr "Mutengo wepasi"
+
+#: String 215
+msgid "Ads title displayed"
+msgstr "matitle eAds anoratidzwa"
+
+#: String 436
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Thumbs mufananidzo mudiki wakadzorwa kuti ufite mamwe maelements,ndiko kureba kwemufananidzo uyu"
+
+#: String 370
+msgid "Enables Captcha"
+msgstr "Bvumira captcha"
+
+#: String 19
+msgid "Administrator email"
+msgstr "Email yaAdministrator"
+
+#: String 346
+msgid "Send"
+msgstr "Senda"
+
+#: String 72
+msgid "Advertisement is created but needs to be validated first before it is published."
+msgstr "Advert yagadzirwa asi inoda kubvumirwa isati yapublishwa"
+
+#: String 343
+msgid "From"
+msgstr "Kubva"
+
+#: String 114
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "Password itswa haisi,kana kuti hadzisi kuenderana! Tinokumbira muzame futi"
+
+#: String 468
+msgid "Site Usage Statistics"
+msgstr "Kushandiswa kwesite"
+
+#: String 156
+msgid "You are not using latest version of OC, please update."
+msgstr "Hausi kushandisa version ritswa re OC, Tinokumbira muupdater"
+
+#: String 366
+msgid "Displays the Select Location in the Ad form."
+msgstr "Taridza sarudzo yenzwimbo paform reAd"
+
+#: String 136
+msgid "Tools"
+msgstr "Turuzi"
+
+#: String 586
+msgid " advertisements"
+msgstr "Advert"
+
+#: String 567
+msgid "Payment"
+msgstr "Mubhadharo"
+
+#: String 140
+msgid "All cache deleted"
+msgstr "Cache yose yabviswa"
+
+#: String 427
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Mufananidzo wese unodamburwa paunoiswa,ndiko kureba kwemufananidzo muhombe  unoiswa"
+
+#: String 511
+msgid "Update on publish"
+msgstr "Updater pakupublisher"
+
+#: String 1
+msgid "Requirements"
+msgstr "Zvinodiwa "
+
+#: String 557
+msgid "Contacts"
+msgstr "Contacts"
+
+#: String 447
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "List yeconfiguration value yemubhadharo, Replacer zviripo nezvinyuwani zvinonyatso kuita"
+
+#: String 294
+msgid "Delete"
+msgstr "Bvisa"
+
+#: String 61
+msgid "Message not sent"
+msgstr "Message haina kuenda"
+
+#: String 573
+msgid "Public profile"
+msgstr "Profile republic"
+
+#: String 429
+msgid "Image width"
+msgstr "Kukura kwemifananidzo"
+
+#: String 404
+msgid "Global currency"
+msgstr "Mari yepasirose"
+
+#: String 296
+msgid "Change the color scheme and style of the theme"
+msgstr "Chinja color scheme nestaira yetheme"
+
+#: String 411
+msgid "Number of Ads"
+msgstr "Nhamba dzeAds"
+
+#: String 99
+msgid "Category deleted"
+msgstr "Category yabviswa"
+
+#: String 282
+msgid "Forgot password"
+msgstr "Wakangamwa password"
+
+#: String 425
+msgid "Image size in mega bites(Mb)"
+msgstr "Size yemifananidzo pama mega bites(Mb)"
+
+#: String 75
+msgid "Captcha is not correct"
+msgstr "Captcha haisi chaiyo"
+
+#: String 341
+msgid "Email Settings"
+msgstr "Email settings"
+
+#: String 162
+msgid "Advertisement to featured"
+msgstr "Advert iende kufeatured"
+
+#: String 538
+msgid "Refresh listing, go to top?"
+msgstr "Refresher listing, enda kumusoro?"
+
+#: String 461
+msgid "Featured length"
+msgstr "Hurefu hwefeatured"
+
+#: String 593
+msgid "Menu"
+msgstr "Zvirimukati"
+
+#: String 459
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Mari inofanirwa kubhadharwa nemunhu kuti ad yake iiswe pafeatured"
+
+#: String 202
+msgid "Submit"
+msgstr "Submitter"
+
+#: String 537
+msgid " New"
+msgstr "Chitswa"
+
+#: String 570
+msgid "Roles access"
+msgstr "Roles access"
+
+#: String 35
+msgid "Ocacu classifieds community registration"
+msgstr "nharaunda yeregistration yeOcacu classifieds "
+
+#: String 428
+msgid "Image height in pixels(px)"
+msgstr "Kureba kwemifananidzo kumapixels (px)"
+
+#: String 475
+msgid "Charts"
+msgstr "Charts"
+
+#: String 29
+msgid "Database name"
+msgstr "Zita reDatabase"
+
+#: String 518
+msgid "Latest"
+msgstr "Zvitswa"
+
+#: String 122
+msgid "No Subscriptions"
+msgstr "Hapana masubscription"
+
+#: String 328
+msgid "Deactivate Featured"
+msgstr "Deactivater featured"
+
+#: String 393
+msgid "General site settings."
+msgstr "Masetting arigeneral esite"
+
+#: String 504
+msgid "Table"
+msgstr "Table"
+
+#: String 295
+msgid "We do not have any advertisements in this category"
+msgstr "Hatina advert mucategory rino"
+
+#: String 138
+msgid "Database Optimized"
+msgstr "Database raOptimizika"
+
+#: String 53
+msgid "all"
+msgstr "zvese"
+
+#: String 82
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Chenjera, Advert yakamakwa seSpam"
+
+#: String 336
+msgid "Selection of nice extras for your installation."
+msgstr "Selection yezvimwe zvakanaka painstallation yako"
+
+#: String 43
+msgid "Error"
+msgstr "Error"
+
+#: String 199
+msgid "Hello, world"
+msgstr "Makadii,Pasirose"
+
+#: String 549
+msgid "Your Advertisement can go to featured! For only "
+msgstr "Advert yako inokwanisa kuenda kufeatured! Kwemazuva "
+
+#: String 243
+msgid "FALSE"
+msgstr "Hazvipo"
+
+#: String 356
+msgid "Address field"
+msgstr "PeAddress"
+
+#: String 212
+msgid "Popular Ads last month"
+msgstr "MaAds akaita mbiri mwedzi wapera"
+
+#: String 320
+msgid " Unconfirmed"
+msgstr "Haina kuconfirmiwa"
+
+#: String 94
+msgid "Welcome!"
+msgstr "Tinokutambirayi"
+
+#: String 548
+msgid "Go Top!"
+msgstr "Enda kumusoro!"
+
+#: String 253
+msgid "HTML textarea"
+msgstr "Nzwimbo yeHTML"
+
+#: String 169
+msgid "Category"
+msgstr "Category"
+
+#: String 275
+msgid "Header banner, allows HTML"
+msgstr "Header banner,rinobvumira HTML"
+
+#: String 149
+msgid "Review database connection parameters"
+msgstr "Tarisisa connection yedatabase parameters"
+
+#: String 261
+msgid "Included files"
+msgstr "Mafile akaiswa"
+
+#: String 497
+msgid "Log"
+msgstr "Log"
+
+#: String 131
+msgid "Themes"
+msgstr "Mathemes"
+
+#: String 568
+msgid "Users"
+msgstr "Vashandisi"
+
+#: String 487
+msgid "Available Mobile Themes"
+msgstr "Matheme ephone aripo"
+
+#: String 302
+msgid "Subject"
+msgstr "Nhanga nyaya"
+
+#: String 268
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL yekune logo rako.Size inodiwa i250px x 40px .siya pasina kana usina"
+
+#: String 540
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Urisure unoda kurefresher listing woenda kumusoro"
+
+#: String 192
+msgid "No sitemap generated"
+msgstr "Hapana sitemap yakagadzirwa"
+
+#: String 563
+msgid "Unsubscribe?"
+msgstr "Unsubscriber?"
+
+#: String 456
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Featured ads dzino highlighetiwa kwemazuva akatarwa"
+
+#: String 309
+msgid "Thanks for using our website."
+msgstr "Tinotenda nekushandisa website yedu"
+
+#: String 272
+msgid "Right side"
+msgstr "Divi rekurudyi"
+
+#: String 205
+msgid "Previous"
+msgstr "Kumasure"
+
+#: String 239
+msgid "Share on social networks."
+msgstr "Sheya pamasocial networks"
+
+#: String 184
+msgid "Name"
+msgstr "Zita"
+
+#: String 235
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Torefresher RSS zvakadii ,mumaseconds"
+
+#: String 478
+msgid "Views and Ads statistics"
+msgstr "Zvaonekwa neZvirikuitika muAds"
+
+#: String 342
+msgid "You can send a mass email to all active users."
+msgstr "unokwanisa kusenda tsamba kamwe kuvashandisi vose vari active"
+
+#: String 76
+msgid "Advertisements"
+msgstr "Advert"
+
+#: String 533
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Sure unoda kudeleter widget? Unokwanisa kuriisa kuinactive placeholder"
+
+#: String 415
+msgid "Number format"
+msgstr "Format yenhamba"
+
+#: String 31
+msgid "Table prefix"
+msgstr "Table prefix"
+
+#: String 64
+msgid "Latest published"
+msgstr "Zvitswa"
+
+#: String 291
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 329
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Uri sure unoda kudeactivater featured advert"
+
+#: String 596
+msgid "Desktop Version"
+msgstr "Vesion yeDesktop"
+
+#: String 374
+msgid "Contact form appears int he ad."
+msgstr "form rekutibata rinotaridzika paAd"
+
+#: String 54
+msgid "Page "
+msgstr "Page"
+
+#: String 423
+msgid "Max image size"
+msgstr "Size yekugumisira pamifananidzo"
+
+#: String 472
+msgid "Total"
+msgstr "Zvose"
+
+#: String 580
+msgid "Download"
+msgstr "Downloader"
+
+#: String 152
+msgid "List"
+msgstr "List"
+
+#: String 520
+msgid "Here you can modify any text you find in your web."
+msgstr "Pano munokwanisa kugadzirisa mazwi ose ari muweb yenyu"
+
+#: String 531
+msgid "Where do you want the widget displayed?"
+msgstr "Unoda kuti widget ritaridzike papi"
+
+#: String 433
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "Thumbs mufananidzo mudiki wakadzorwa kuti ufite mamwe maelements,ndiko kureba kwemufananidzo uyu"
+
+#: String 488
+msgid "Themes Market"
+msgstr "Musika wemaThemes"
+
+#: String 36
+msgid "Terms"
+msgstr "Mitemo"
+
+#: String 5
+msgid "Go to Your Website"
+msgstr "Enda kuwebsite yako"
+
+#: String 286
+msgid "Publish Date"
+msgstr "Zuva rekuPublisher"
+
+#: String 103
+msgid "Location deleted"
+msgstr "Nzwimbo yabviswa"
+
+#: String 401
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "Nzira yebase resite (e.g http://open-classifieds.com/) Zvese zvava"
+
+#: String 89
+msgid "Remember password"
+msgstr "Rangarira password"
+
+#: String 113
+msgid "Edit profile"
+msgstr "Gadzira profile"
+
+#: String 191
+msgid "Last login"
+msgstr "Last login"
+
+#: String 166
+msgid "User Profile"
+msgstr "Profile yeZita"
+
+#: String 298
+msgid "Contact"
+msgstr "Tibate"
+
+#: String 522
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Coper zvese? , Ziva kuti zvinochinja mazvi ako ose."
+
+#: String 38
+msgid "No database name was given"
+msgstr "Hapana zita reDatabase rapihwa"
+
+#: String 22
+msgid "Creates few sample categories to start with"
+msgstr "Gadzira macategories esample mashoma "
+
+#: String 174
+msgid "Description"
+msgstr "Tsananguro"
+
+#: String 222
+msgid "Number of comments to display"
+msgstr "Nhamba dzemacomments achataridzwa"
+
+#: String 79
+msgid "Warning, something went wrong while deleting"
+msgstr "Chenjera,pane chakanganisika pakudeleter"
+
+#: String 473
+msgid "Visits"
+msgstr "Vashanyi"
+
+#: String 465
+msgid "To top price"
+msgstr "Ucha wedzera mari"
+
+#: String 351
+msgid "Expire days"
+msgstr "Mazuva ekuexpire"
+
+#: String 223
+msgid "Display Locations"
+msgstr "Taridza nzwimbo"
+
+#: String 248
+msgid "Maximum Price"
+msgstr "Mutengo wepamusoro soro"
+
+#: String 385
+msgid "Smtp active"
+msgstr "Smtp iriactive"
+
+#: String 276
+msgid "Footer banner, allows HTML"
+msgstr "Footer banner,rinobvumira HTML"
+
+#: String 589
+msgid "Change the main color scheme and style of the theme"
+msgstr "Chinja color scheme nestaira yemain yetheme"
+
+#: String 116
+msgid "My Advertisement page "
+msgstr "Page reAdver yangu"
+
+#: String 494
+msgid "Config file"
+msgstr "Configer file"
+
+#: String 442
+msgid "Appends watermark to images"
+msgstr "Isa watermark kumifananidzo"
+
+#: String 490
+msgid "All themes include support, updates and 1 site license."
+msgstr "Matheme ese anosanganidzira rubatsiro,updates nelicense ye1 site"
+
+#: String 236
+msgid "RSS url address"
+msgstr "url address yeRSS"
+
+#: String 181
+msgid "Status"
+msgstr "Status"
+
+#: String 86
+msgid "Advertisement is featured"
+msgstr "Advert irifeautered"
+
+#: String 332
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Uri sure unoda kudeleter? Tinomover masibling categories nemaads"
+
+#: String 118
+msgid "Edit advertisement"
+msgstr "Gadzirisa advert"
+
+#: String 216
+msgid "Display categories"
+msgstr "Taridza categories"
+
+#: String 179
+msgid "Created"
+msgstr "Yakagadzigwa"
+
+#: String 200
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 527
+msgid "New translation"
+msgstr "Translation itswa"
+
+#: String 363
+msgid "Website field"
+msgstr "PeWebsite"
+
+#: String 373
+msgid "Enables Contact Form"
+msgstr "Bvumira form rekutibata"
+
+#: String 16
+msgid "Time Zone"
+msgstr "Time Zone"
+
+#: String 145
+msgid "Sitemap Configuration updated"
+msgstr "Sitemap configuration yaupdatiwa"
+
+#: String 159
+msgid "Widgets"
+msgstr "Widgets"
+
+#: String 129
+msgid "General Configuration updated"
+msgstr "General configuration yaupdatiwa"
+
+#: String 466
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Imarii inodiwa kuti munhu awedzere mazuva eAd"
+
+#: String 552
+msgid "Profile"
+msgstr "Profile"
+
+#: String 135
+msgid "Mobile Theme updated"
+msgstr "Mobile theme yaupdatiwa"
+
+#: String 434
+msgid "Thumb height in pixels(px)"
+msgstr "Kureba kwethumb mumapixel (px)"
+
+#: String 326
+msgid "Make featured?"
+msgstr "Ita featured?"
+
+#: String 231
+msgid "Page title displayed"
+msgstr "Title yepage yataridzwa"
+
+#: String 92
+msgid "Email required"
+msgstr "Email inodiwa"
+
+#: String 264
+msgid "Header tool bar gets fixed in the top"
+msgstr "Turuzi reheader rinogadzikwa kumusoro"
+
+#: String 307
+msgid "Are you sure you want to delete?"
+msgstr "Murikuda kudeleter here?"
+
+#: String 196
+msgid "contact"
+msgstr "Contact"
+
+#: String 60
+msgid "Your message has been sent"
+msgstr "Message yenyu yaenda"
+
+#: String 21
+msgid "Sample data"
+msgstr "Data resample"
+
+#: String 416
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Format yenhamba ndizvo zvaunoda kutaridza manhamba eadvert akafanana"
+
+#: String 254
+msgid "Text title displayed"
+msgstr "Text title yataridzwa"
+
+#: String 281
+msgid "Publish new "
+msgstr "Publisher zvitswa"
+
+#: String 100
+msgid "Category not deleted"
+msgstr "Category yadeletiwa"
+
+#: String 278
+msgid "Mobile Version"
+msgstr "Version yemaphone"
+
+#: String 440
+msgid "Image Quality"
+msgstr "Quality yemifananidzo"
+
+#: String 218
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 163
+msgid " category"
+msgstr "Category"
+
+#: String 384
+msgid "Email From"
+msgstr "Email yabva"
+
+#: String 9
+msgid "installation"
+msgstr "Installation"
+
+#: String 592
+msgid "Change the theme of Featured Elements"
+msgstr "Chinja theme yefeatured element"
+
+#: String 221
+msgid "Title displayed"
+msgstr "Title dzataridzwa"
+
+#: String 378
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Unofanira kunyora disqus ID kubvumira kushandisa"
+
+#: String 594
+msgid "Contact us"
+msgstr "Tibateyi"
+
+#: String 32
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "Tinobvumira mainstallations akasiyana muDatabase rimwe kana mapa rimwechete unique prefix"
+
+#: String 476
+msgid "To"
+msgstr "Kuna"
+
+#: String 319
+msgid "Unconfirmed Sort"
+msgstr "Sort haina kuconfirmiwa"
+
+#: String 460
+msgid "Days Featured"
+msgstr "Mazuva eFeatured"
+
+#: String 28
+msgid "Password"
+msgstr "Password"
+
+#: String 117
+msgid "This is not your advertisement."
+msgstr "Iyi haisi advert yako"
+
+#: String 390
+msgid "Smtp user"
+msgstr "Mushandisi weSmtp "
+
+#: String 46
+msgid "New"
+msgstr "Zvitswa"
+
+#: String 350
+msgid "Ad expiration date"
+msgstr "Ad inoshakara musi wa"
+
+#: String 127
+msgid "Email Configuration updated"
+msgstr "Email configuration yaupdatiwa"
+
+#: String 26
+msgid "Host name"
+msgstr "Host name"
+
+#: String 170
+msgid "Location"
+msgstr "Nzwimbo"
+
+#: String 483
+msgid "Options"
+msgstr "Options"
+
+#: String 91
+msgid "User not in database"
+msgstr "Zita harisi mudatabase"
+
+#: String 107
+msgid "Error on mail delivery, not sent"
+msgstr "Email iri padelivery yetsamba,haina kuyenda"
+
+#: String 339
+msgid "Valid Until"
+msgstr "Valid kusvikira"
+
+#: String 437
+msgid "Thumb width in pixels(px)"
+msgstr "Kukura kwethumb mumapixel"
+
+#: String 250
+msgid "Increment Step"
+msgstr "Increment step"
+
+#: String 349
+msgid "Number of images displayed"
+msgstr "Nhamba yemifananidzo yakataridzwa"
+
+#: String 69
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "pane zvakanganiswa pakuisa mapictures,tokumbira mutarise format"
+
+#: String 455
+msgid "Featured ads"
+msgstr "Featured ads"
+
+#: String 246
+msgid "Minimum Price"
+msgstr "Mutengo wepasi pasi"
+
+#: String 451
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 59
+msgid "Contact Us"
+msgstr "Tibateyi"
+
+#: String 226
+msgid "Map title displayed"
+msgstr "Title yemap yataridzwa"
+
+#: String 245
+msgid "Subscribe title displayed"
+msgstr "Subscriber pamatitle akaratidzwa"
+
+#: String 380
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "List yegeneral confuguration values,Inoreplacer peinputs nevalue itswa"
+
+#: String 52
+msgid "Home"
+msgstr "Kumba"
+
+#: String 360
+msgid "Phone field"
+msgstr "PePhone"
+
+#: String 562
+msgid "Unsubscribe to all"
+msgstr "Unsubscriber kwese"
+
+#: String 486
+msgid "Available Themes"
+msgstr "Theme dziripo"
+
+#: String 130
+msgid "Payments"
+msgstr "Mubhadharo"
+
+#: String 532
+msgid "Close"
+msgstr "Vhara"
+
+#: String 303
+msgid "Message"
+msgstr "Tsamba"
+
+#: String 50
+msgid "Item updated"
+msgstr "item yaupdatwa"
+
+#: String 572
+msgid "Subscriptions"
+msgstr "Masubscriptions"
+
+#: String 514
+msgid "Open Classifieds release history information."
+msgstr "History information yekuburitswa kweOpen Classifieds"
+
+#: String 541
+msgid "Deactivate featured"
+msgstr "Deactivater featured"
+
+#: String 441
+msgid "Watermark"
+msgstr "Watermark"
+
+#: String 407
+msgid "Advertisements per page"
+msgstr "Advert papage"
+
+#: String 204
+msgid "First"
+msgstr "Chekutanga"
+
+#: String 273
+msgid "Left side"
+msgstr "Divi rekuruboswe"
+
+#: String 232
+msgid "RSS"
+msgstr "RSS"
+
+#: String 382
+msgid "Notify email"
+msgstr "Chiziviso cheemail"
+
+#: String 185
+msgid "Order"
+msgstr "Order"
+
+#: String 502
+msgid "Database space"
+msgstr "Nzwimbo yedatabase"
+
+#: String 377
+msgid "Disqus Comments"
+msgstr "Disqus comments"
+
+#: String 430
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Mufananidzo wese unodamburwa paunoiswa,Ndiyo width yemufananidzo muhombe"
+
+#: String 524
+msgid "Translation"
+msgstr "Translation"
+
+#: String 581
+msgid "Forgot password?"
+msgstr "Wakangamwa password?"
+
+#: String 536
+msgid "My Advertisements"
+msgstr "Maadverts angu"
+
+#: String 73
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Advert yapostwa asi inoda kuti muactivater.Tinokumbira mutarise email yenyu"
+
+#: String 347
+msgid "Advertisement Configuration"
+msgstr "maconfiguration eadvert"
+
+#: String 155
+msgid "Updates"
+msgstr "Updates"
+
+#: String 310
+msgid "Thanks for using Open Classifieds."
+msgstr "Tinotenda nekushandisa Open Classifieds"
+
+#: String 598
+msgid "Publisher"
+msgstr "Publisher"
+
+#: String 585
+msgid "Last Login"
+msgstr "Wakagumisira kulogin"
+
+#: String 367
+msgid "Price field"
+msgstr "Pemutengo"
+
+#: String 599
+msgid "Phone Number"
+msgstr "Nhamba dzenhare"
+
+#: String 564
+msgid "Orders"
+msgstr "Orders"
+
+#: String 12
+msgid "Site Configuration"
+msgstr "Site Configuration"
+
+#: String 141
+msgid "Deleted expired cache"
+msgstr "Bvisa cache yashakara"
+
+#: String 0
+msgid "Installation"
+msgstr "Installation"
+
+#: String 13
+msgid "Site Language"
+msgstr "chirudzi cheSite"
+
+#: String 556
+msgid "Statistics"
+msgstr "Zvirikuiitika"
+
+#: String 104
+msgid "Location not deleted"
+msgstr "Nzwimbo haina kubviswa"
+
+#: String 88
+msgid "Login"
+msgstr "Login"
+
+#: String 55
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "advert yenyu yaita zvakanaka! mazviita"
+
+#: String 571
+msgid "Logs"
+msgstr "Logs"
+
+#: String 381
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Kana uchida kusenda tsamba dzizhinji nedelivery rate yepamusoro tarisai"
+
+#: String 49
+msgid "Update"
+msgstr "Updater"
+
+#: String 39
+msgid "Available databases"
+msgstr "MaDatabase aripo"
+
+#: String 167
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Muri pamaintanance mode,imi chete munokwanisa kuwona website"
+
+#: String 299
+msgid "Hits"
+msgstr "Hits"
+
+#: String 551
+msgid "Id_User"
+msgstr "Id_User"
+
+#: String 177
+msgid "Phone"
+msgstr "Phone"
+
+#: String 426
+msgid "Image height"
+msgstr "Kureba kwemifananidzo"
+
+#: String 285
+msgid "Featured"
+msgstr "Featured"
+
+#: String 225
+msgid "Google Maps with ads"
+msgstr "Google Maps ine maAds"
+
+#: String 255
+msgid "HTML/text content here"
+msgstr "HTML/text content pano"
+
+#: String 464
+msgid "Brings your Ad to the top of the listing."
+msgstr "Isa Ad yako kumusoro kwelisting"
+
+#: String 340
+msgid "Preview"
+msgstr "Preview"
+
+#: String 413
+msgid "Advertisements in Map"
+msgstr "Adverts muMap"
+
+#: String 452
+msgid "Paypal currency"
+msgstr "Currency yepaypal"
+
+#: String 123
+msgid "You are unsubscribed"
+msgstr "Wasubscribiwa"
+
+#: String 359
+msgid "Displays the google maps in the Ad."
+msgstr "Taridza google maps iri mumaAd"
+
+#: String 392
+msgid "General Configuration"
+msgstr "Mageneral configurations"
+
+#: String 81
+msgid "You dont have permission to access this link"
+msgstr "Hauna mvumo yekupinda palink iyi"
+
+#: String 198
+msgid "maintenance"
+msgstr "maintanance"
+
+#: String 42
+msgid "Warning"
+msgstr "Chenjerai"
+
+#: String 449
+msgid "Paypal mail address"
+msgstr "Address yetsamba yepaypal"
+
+#: String 242
+msgid "Subscribe for categories"
+msgstr "Subscriber pamaCategories"
+
+#: String 203
+msgid "Other"
+msgstr "Zvimwe"
+
+#: String 321
+msgid "Date"
+msgstr "Zuva"
+
+#: String 379
+msgid "Email Configuration"
+msgstr "Configuration yeEmail"
+
+#: String 395
+msgid "Maintenance Mode"
+msgstr "Maintanance Mode"
+
+#: String 396
+msgid "Enables the site to maintenance"
+msgstr "Bvumira site kuti ichimaintanance"
+
+#: String 213
+msgid "Featured Ads"
+msgstr "Featured Ads"
+
+#: String 558
+msgid "Views and Contacts statistic"
+msgstr "Vakaona nezvirikuiitika mumaContact"
+
+#: String 364
+msgid "Displays the field Website in the Ad form."
+msgstr "Taridza peWebsite paform reAd"
+
+#: String 569
+msgid "User Roles"
+msgstr "Maroles evashandisi"
+
+#: String 519
+msgid "Current"
+msgstr "Zviripo"
+
+#: String 17
+msgid "New Install"
+msgstr "Install inyuwani"
+
+#: String 574
+msgid "Logout"
+msgstr "Buda"
+
+#: String 521
+msgid "Original Translation"
+msgstr "Translation chaiyo"
+
+#: String 372
+msgid "Contact form"
+msgstr "Form rekutibata"
+
+#: String 146
+msgid "Open Classifieds migration"
+msgstr "Migration yeOpen Classifieds"
+
+#: String 237
+msgid "RSS title displayed"
+msgstr "RSS title yaratidzwa"
+
+#: String 158
+msgid "Nothing to Update"
+msgstr "Hapana chekuupdater"
+
+#: String 498
+msgid "Your PHP time limit is"
+msgstr "PHP time limit yenyu i"
+
+#: String 482
+msgid "Disable"
+msgstr "Bvisa"
+
+#: String 134
+msgid "Appearance configuration updated"
+msgstr "Configuration yechitaridziko yaupdatiwa "
+
+#: String 267
+msgid "Display breadcrumb"
+msgstr "Taridza breadcrumb"
+
+#: String 195
+msgid "search"
+msgstr "Searcher"
+
+#: String 510
+msgid "Expire time"
+msgstr "Nguva yekupera"
+
+#: String 545
+msgid "Type your password twice to change"
+msgstr "Nyora password yako kaviri kuti ichinje"
+
+#: String 10
+msgid "Welcome to the super easy and fast installation"
+msgstr "Tinokutambirai kuinstallation yakapusa nekupfava"
+
+#: String 77
+msgid "Moderation"
+msgstr "Moderation"
+
+#: String 601
+msgid "Not yet published"
+msgstr "Haisati yapublisher"
+
+#: String 292
+msgid "Spam"
+msgstr "Spam"
+
+#: String 67
+msgid "New profile has been created. Welcome "
+msgstr "Profile ritswa ragadzirwa, Tinokutambirayi"
+
+#: String 474
+msgid "Sales"
+msgstr "Zvatengwa"
+
+#: String 595
+msgid "Advanced search"
+msgstr "Advanced search"
+
+#: String 454
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Tinokumbira kuti mushandise currency inosupportewa nepaypal"
+
+#: String 112
+msgid "Nothing is provided"
+msgstr "Hapana chakaisiwa"
+
+#: String 507
+msgid "Save size"
+msgstr "Saver size"
+
+#: String 422
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Gadzirisa izvi kurestricter maformats emifananidzo unoiswa kuserver yako"
+
+#: String 463
+msgid "Bring to top Ad"
+msgstr "Isa kumusoro kwe Ad"
+
+#: String 151
+msgid "Translations"
+msgstr "Translations"
+
+#: String 6
+msgid "Make a donation"
+msgstr "Bvisa donation"
+
+#: String 480
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Pano pane zvinota kusiisa patheme configuration. Replacer input field nezvinyuwani"
+
+#: String 535
+msgid "Available widgets"
+msgstr "Widget dziripo"
+
+#: String 560
+msgid "Max Price"
+msgstr "Mutengo wepamusoro"
+
+#: String 4
+msgid "Please now erase the folder"
+msgstr "Tokumbira mubvise folder "
+
+#: String 37
+msgid "Cannot connect to server"
+msgstr "Yatadza kuconnector kuserver"
+
+#: String 301
+msgid "Send Message"
+msgstr "Sender tsamba"
+
+#: String 45
+msgid "Panel"
+msgstr "kuPanel"
+
+#: String 258
+msgid "users"
+msgstr "Zita"
+
+#: String 124
+msgid "Settings"
+msgstr "Settings"
+
+#: String 289
+msgid "Deactivate?"
+msgstr "Deactivater?"
+
+#: String 56
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "advert yenyu yasvika , asi inoda kutanga yabvumirwa nevakuru,tokutendai nokuva patient!"
+
+#: String 108
+msgid "Email sent to all the users"
+msgstr "Email yaenda kumazita ese"
+
+#: String 25
+msgid "Database Configuration"
+msgstr "Database Configuration"
+
+#: String 338
+msgid "Limited Offer!"
+msgstr "Limited offer"
+
+#: String 51
+msgid "Access not allowed"
+msgstr "Zvamunoda hazvibvumidzwi"
+
+#: String 389
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 305
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 210
+msgid "Type ads to display"
+msgstr "Type Ads yekudisplayer"
+
+#: String 600
+msgid "advertisements"
+msgstr "Advert"
+
+#: String 68
+msgid "Some errors in the form"
+msgstr "Pane zvakakanganiswa paform"
+
+#: String 354
+msgid "Advertisements in home"
+msgstr "Advert kumba"
+
+#: String 173
+msgid "SEO title"
+msgstr "Title yeSEO"
+
+#: String 229
+msgid "Pages"
+msgstr "Pages"
+
+#: String 277
+msgid "Listing random position banner, allows HTML"
+msgstr "Listing random position banner,rinobvumira HTML"
+
+#: String 547
+msgid "Your Advertisement can go on top again! For only "
+msgstr "Advert yako inokwanisa kuenda kumusoro zvakare"
+
+#: String 491
+msgid "Cache configuration information"
+msgstr "Information yecache confiquration"
+
+#: String 420
+msgid "Analytics"
+msgstr "Analytics"
+
+#: String 485
+msgid "Current Theme"
+msgstr "Theme iripo"
+
+#: String 327
+msgid "Deactivate featured?"
+msgstr "Deactivater featured?"
+
+#: String 306
+msgid "Actions"
+msgstr "Zvekuita"
+
+#: String 182
+msgid "Has images"
+msgstr "Ine mifananidzo"
+
+#: String 331
+msgid "New category"
+msgstr "Category itswa"
+
+#: String 85
+msgid "Advertisement is active and published"
+msgstr "Advert iriactive uye yapublishiwa"
+
+#: String 517
+msgid "Information"
+msgstr "Ruzivo"
+
+#: String 217
+msgid "Categories title displayed"
+msgstr "Zita recategory raratidzwa"
+
+#: String 602
+msgid " of "
+msgstr "Zva"
+
+#: String 207
+msgid "Last"
+msgstr "Kwekupedzisira"
+
+#: String 178
+msgid "Ip address"
+msgstr "Ip address"
+
+#: String 443
+msgid "Watermark path"
+msgstr "Nzira yewatermark"
+
+#: String 577
+msgid "Terms of service"
+msgstr "Mitemo yekushandisa"
+
+#: String 578
+msgid "User account will be created"
+msgstr "Account yemushandisi inogadzirwa"
+

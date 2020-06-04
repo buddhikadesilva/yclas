@@ -1,0 +1,3788 @@
+#: String 0
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "După câte zile va expira un anunţ. Introduceţi 0 (zero) pentru a păstra anunţul permanent"
+
+#: String 1
+msgid "Expire days"
+msgstr "Zile expirare"
+
+#: String 2
+msgid "Advertisements in home"
+msgstr "Anunţuri în pagina principală"
+
+#: String 3
+msgid "Featured Ads Random"
+msgstr "Anunţuri promovate aleatorii"
+
+#: String 4
+msgid "You can choose if you wish to display random related ads at each advertisement"
+msgstr "Dacă doriţi, puteţi afişa reclame asemănătoare anunţurilor, după fiecare anunţ în parte"
+
+#: String 5
+msgid "You can choose what ads you want to display in home."
+msgstr "Puteţi alege ce fel de anunţuri vreţi să afişaţi în pagina principală"
+
+#: String 6
+msgid "Ad expiration date"
+msgstr "Data expirării anunţului"
+
+#: String 7
+msgid "Use parent categories"
+msgstr "Foloseşte categoriile principale"
+
+#: String 8
+msgid "Number of images"
+msgstr "Număr de imagini"
+
+#: String 9
+msgid "Advertisement Configuration"
+msgstr "Configurare anunţ"
+
+#: String 10
+msgid "Number of images displayed"
+msgstr "Numărul de imagini afişate"
+
+#: String 11
+msgid "Parent category"
+msgstr "Categorie principală"
+
+#: String 12
+msgid "parent_category field"
+msgstr "câmp parent_category"
+
+#: String 13
+msgid "Address field"
+msgstr "Adresă"
+
+#: String 14
+msgid "Displays the field Address in the Ad form."
+msgstr "Afşează adresa în formularul anunţului."
+
+#: String 15
+msgid "Latitude coordinates"
+msgstr "Coordonate Latitudine"
+
+#: String 16
+msgid "Map latitude coordinates"
+msgstr "Hartă coordonate Latitudine"
+
+#: String 17
+msgid "Google map default latitude coordinates"
+msgstr "Coordonate standard Latitudine hartă Google"
+
+#: String 18
+msgid "Map longitude coordinates"
+msgstr "Hartă coordonate Longitudine"
+
+#: String 19
+msgid "Google map default longitude coordinates"
+msgstr "Coordonate standard Longitudine hartă Google"
+
+#: String 20
+msgid "Longitude coordinates"
+msgstr "Coordonate Longitudine"
+
+#: String 21
+msgid "Google map default zoom level "
+msgstr "Nivel zoom standard în harta Google"
+
+#: String 22
+msgid "Zoom level"
+msgstr "Nivel zoom"
+
+#: String 23
+msgid "Displays the google maps in the Ad."
+msgstr "Afişează hărţile Google în anunţ."
+
+#: String 24
+msgid "Google Maps in Ad"
+msgstr "Hărţi Google în anunţ"
+
+#: String 25
+msgid "Google Maps in Publish New"
+msgstr "Hărţi Google în anunţuri noi"
+
+#: String 26
+msgid "Displays the google maps in the Publish new form."
+msgstr "Afişează hărţi Google în formularul de adăugare anunţ nou"
+
+#: String 27
+msgid "Google map zoom level"
+msgstr "Nivel zoom hartă Google"
+
+#: String 28
+msgid "Paypal link stock control"
+msgstr "Link control stoc PayPal"
+
+#: String 29
+msgid "User paypal link"
+msgstr "Link utilizator PayPal"
+
+#: String 30
+msgid "Paypal account"
+msgstr "Cont PayPal"
+
+#: String 31
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Lista valorilor (configurabile) de plată. Înlocuiţi câmpurile de intrare cu noile valori dorite."
+
+#: String 32
+msgid "Paypal mail address"
+msgstr "Adresă e-mail paypal"
+
+#: String 33
+msgid "The paypal email address where the payments will be sent"
+msgstr "Adresă de e-mail PayPal în care vor fi trimise plăţile "
+
+#: String 34
+msgid "Paypal currency"
+msgstr "Monedă PayPal"
+
+#: String 35
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 36
+msgid "Payments Configuration"
+msgstr "Configurare plăţi"
+
+#: String 37
+msgid "Notify me on new ad"
+msgstr "Notifică-mă când apar anunţuri noi"
+
+#: String 38
+msgid "Smtp port"
+msgstr "Port SMTP"
+
+#: String 39
+msgid "Smtp host"
+msgstr "Gazdă SMTP"
+
+#: String 40
+msgid "Smtp auth"
+msgstr "Autentificare SMTP"
+
+#: String 41
+msgid "Smtp user"
+msgstr "Utilizator SMTP"
+
+#: String 42
+msgid "Smtp password"
+msgstr "Parolă SMTP"
+
+#: String 43
+msgid "Currency"
+msgstr "Monedă"
+
+#: String 44
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Vă rugăm să vă asiguraţi că folosiţi o monedă pe care PayPal o suportă!"
+
+#: String 45
+msgid "Days"
+msgstr "Zile"
+
+#: String 46
+msgid "How many days an ad will be featured after paying."
+msgstr "Câte zile va fii promovat un anunţ, după efectuarea plăţii."
+
+#: String 47
+msgid "Bring to top Ad"
+msgstr "Adu anunţul în Top"
+
+#: String 48
+msgid "Brings your Ad to the top of the listing."
+msgstr "Adu anunţul în partea de sus a listei."
+
+#: String 49
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Cât trebuie să plătească utilizatorul pentru a-i urca un anunţ în Top."
+
+#: String 50
+msgid "To top price"
+msgstr "Preţul pentru anunţurile din Top"
+
+#: String 51
+msgid "Featured length"
+msgstr "Lungime promovare"
+
+#: String 52
+msgid "Days Featured"
+msgstr "Zile promovare"
+
+#: String 53
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Anunţurile promovate vor fi evidenţiate pentru un număr definit de zile."
+
+#: String 54
+msgid "Featured ads"
+msgstr "Anunţuri promovate"
+
+#: String 55
+msgid "Price for featuring the Ad"
+msgstr "Preţul unui anunţ recomandat"
+
+#: String 56
+msgid "Pricing"
+msgstr "Stabilire preţ"
+
+#: String 57
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Cât de mult trebuie să plătească utilizatorul pentru a-i promova un anunţ"
+
+#: String 58
+msgid "Phone field"
+msgstr "Telefon"
+
+#: String 59
+msgid "Displays the field Phone in the Ad form."
+msgstr "Afişează telefonul în formularul anunţului."
+
+#: String 60
+msgid "Site Description"
+msgstr "Descriere site"
+
+#: String 61
+msgid "Description of your site in no more than 160 characters."
+msgstr "Descrierea site-ului nu poate depăşi 160 caractere"
+
+#: String 62
+msgid "Base URL"
+msgstr "URL-ul de bază"
+
+#: String 63
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "Este o cale de bază a site-ului dvs. (de exemplu, http://open-classifieds.com/). Orice altceva este bazat pe acest domeniu."
+
+#: String 64
+msgid "Advertisements per page"
+msgstr "Anunţuri per pagină"
+
+#: String 65
+msgid "Base URL path"
+msgstr "Calea URL-ului de bază"
+
+#: String 66
+msgid "Site description"
+msgstr "Descriere site"
+
+#: String 67
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Aici vă puteţi declara numele afişat. Acesta este văzut de toată lumea!"
+
+#: String 68
+msgid "Enables the site to maintenance"
+msgstr "Activează mentenanţa site-ului"
+
+#: String 69
+msgid "Maintenance Mode"
+msgstr "Modul de întreţinere"
+
+#: String 70
+msgid "Landing page"
+msgstr "Pagina principală"
+
+#: String 71
+msgid "It changes landing page of website"
+msgstr "Modifică pagina principală a site-ului"
+
+#: String 72
+msgid "Site name"
+msgstr "Numele site-ului"
+
+#: String 73
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Puteţi controla câte anunţuri pot fi afişate per pagină. Introduceţi o valoare (întreagă) pentru a limita anunţurile."
+
+#: String 74
+msgid "Number of ads per page"
+msgstr "Numărul anunţurilor per pagină"
+
+#: String 75
+msgid "Date format"
+msgstr "Format dată"
+
+#: String 76
+msgid "Decimal representation"
+msgstr "Reprezentare zecimale"
+
+#: String 77
+msgid "Each advertisement has a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Fiecare anunţ are o dată de publicare. Selectând formatul, poţi schimba cum să apară pe site-ul tău. "
+
+#: String 78
+msgid "Analytics Tracking ID"
+msgstr "ID Analytics"
+
+#: String 79
+msgid "Allowed image formats"
+msgstr "Formate de imagine permise"
+
+#: String 80
+msgid "Once logged in your Google Analytics, you can find the Tracking ID in the Accounts List or in the Property Settings"
+msgstr "O dată autentificat în contul Google Analytics, poţi găsi ID-ul în Listă Conturi sau în Setări (Proprietăţi)."
+
+#: String 81
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Formatul numărului este modul în care doriţi să afişaţi numărul anunţurilor similare. De exemplu, preţul anunţurilor. Fiecare ţară are formatul său când vine vorba de zecimale."
+
+#: String 82
+msgid "Money format"
+msgstr "Format monedă"
+
+#: String 83
+msgid "Number of Ads"
+msgstr "Număr de anunţuri"
+
+#: String 84
+msgid "Advertisements in RSS"
+msgstr "Anunţuri în fluxul RSS"
+
+#: String 85
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Câte anunţuri vor apărea în RSS-ul site-ului tău."
+
+#: String 86
+msgid "Advertisements in Map"
+msgstr "Anunţuri în hartă"
+
+#: String 87
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Câte anunţuri vor apărea în harta site-ului dvs."
+
+#: String 88
+msgid "All configurations"
+msgstr "Toate configurările"
+
+#: String 89
+msgid "General site settings."
+msgstr "Setări generale ale site-ului."
+
+#: String 90
+msgid "Captcha appears in the form."
+msgstr "Captcha apare în formular."
+
+#: String 91
+msgid "Enables Captcha"
+msgstr "Permite Captcha"
+
+#: String 92
+msgid "Enables Contact Form"
+msgstr "Activează formularul de contact"
+
+#: String 93
+msgid "Contact form appears in the ad."
+msgstr "Formularul de contact apare în anunţu"
+
+#: String 94
+msgid "Terms of Service"
+msgstr "Condiţii de utilizare"
+
+#: String 95
+msgid "Deactivated"
+msgstr "Dezactivat"
+
+#: String 96
+msgid "Upload file"
+msgstr "Încarcă fişier"
+
+#: String 97
+msgid "Displays the field Price in the Ad form."
+msgstr "Afişează preţul în formularul anunţului."
+
+#: String 98
+msgid "Displays the field Website in the Ad form."
+msgstr "Afişează site-ul în formularul anunţului."
+
+#: String 99
+msgid "Website field"
+msgstr "Site"
+
+#: String 100
+msgid "Displays location select"
+msgstr "Afişează selecţia locaţiei"
+
+#: String 101
+msgid "Displays the Select Location in the Ad form."
+msgstr "Afişează selecţia locaţiei în formularul anunţului."
+
+#: String 102
+msgid "Price field"
+msgstr "Preţ"
+
+#: String 103
+msgid "Facebook comments"
+msgstr "Comentarii Facebook"
+
+#: String 104
+msgid "Facebook Comments"
+msgstr "Comentarii Facebook"
+
+#: String 105
+msgid "Replacement of a banned word"
+msgstr "Înlocuirea unui cuvânt interzis"
+
+#: String 106
+msgid "Banned words replacement"
+msgstr "Înlocuirea cuvintelor interzise"
+
+#: String 107
+msgid "Banned word replacement replaces selected array with the string you provided."
+msgstr "Cuvântul interzis este înlocuit de către valoarea completată anterior."
+
+#: String 108
+msgid "Show QR code"
+msgstr "Afişează cod QR"
+
+#: String 109
+msgid "General Configuration"
+msgstr "Configurare generală"
+
+#: String 110
+msgid "You need to write your banned words to enable the service."
+msgstr "Trebuie să adaugi aici cuvintele interzise pentru a activa acest serviciu"
+
+#: String 111
+msgid "Banned words are separated with coma (,)"
+msgstr "Cuvintele interzise sunt separate prin virgulă (,)"
+
+#: String 112
+msgid "Disqus Comments"
+msgstr "Comentarii Disqus "
+
+#: String 113
+msgid "You need to write your Facebook APP ID to enable the service."
+msgstr "Trebuie să adaugi ID-ul Facebook APP pentru activarea acestui serviciu"
+
+#: String 114
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Trebuie să vă introduceţi ID-ul dvs. Disqus pentru a putea activa acest serviciu."
+
+#: String 115
+msgid "Banned words"
+msgstr "Cuvinte interzise"
+
+#: String 116
+msgid "For banned word push enter."
+msgstr "Pentru un singur cuvânt interzis, apasă enter."
+
+#: String 117
+msgid "Smtp ssl"
+msgstr "SMTP ssl"
+
+#: String 118
+msgid "Smtp active"
+msgstr "SMTP activ"
+
+#: String 119
+msgid "Open Classifieds is an amazing free Open Source Software. With a small donation you are helping us keep the project alive and updated. Thanks!"
+msgstr "Open Classifieds este un software de anunţuri GRATUIT. Cu o mică donaţie, ne vei ajuta să menţimem acest proiect în viaţă. Îţi mulţumim."
+
+#: String 120
+msgid "Help us improve!"
+msgstr "Ajută-ne să-l îmbunătăţim!"
+
+#: String 121
+msgid "Or"
+msgstr "Sau"
+
+#: String 122
+msgid "Buy a Theme"
+msgstr "Cumpără o temă"
+
+#: String 123
+msgid "Date"
+msgstr "Dată"
+
+#: String 124
+msgid " New"
+msgstr "Nou"
+
+#: String 125
+msgid "Are you sure you want to delete?"
+msgstr "Sunteţi sigur că doriţi să ştergeţi?"
+
+#: String 126
+msgid "Actions"
+msgstr "Acţiuni"
+
+#: String 127
+msgid "Not yet published"
+msgstr "Nepublicat(e) încă"
+
+#: String 128
+msgid "advertisements"
+msgstr "anunţuri"
+
+#: String 129
+msgid "Change the color scheme and style of the theme"
+msgstr "Schimbă schema de culori şi stilul temei"
+
+#: String 130
+msgid "Remember Password"
+msgstr "Memorează Parola"
+
+#: String 131
+msgid "Automatic emails sent to users"
+msgstr "E-mail-uri automate trimise către utilizatori"
+
+#: String 132
+msgid "Not published"
+msgstr "Nepublicat"
+
+#: String 133
+msgid "Unavailable"
+msgstr "Indisponibil"
+
+#: String 134
+msgid "Deactivate featured?"
+msgstr "Dezactivaţi recomandarea?"
+
+#: String 135
+msgid "Are you sure you want to make it featured?"
+msgstr "Sunteţi sigur că dorţi să-l recomandaţi?"
+
+#: String 136
+msgid "Deactivate featured"
+msgstr "Dezactivaţi anunţurile promovate"
+
+#: String 137
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Sunteţi sigur că doriţi să dezactivaţi anunţurile recomandate?"
+
+#: String 138
+msgid "Subscribed to emails"
+msgstr "Abonat(ă) la e-mail-uri"
+
+#: String 139
+msgid "Edit Profile"
+msgstr "Editare profil"
+
+#: String 140
+msgid "Make featured?"
+msgstr "Îl recomandaţi?"
+
+#: String 141
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Sunteţi sigur că doriţi să reîmprospătaţi lista şi să mergeţi în partea de sus?"
+
+#: String 142
+msgid "Activate?"
+msgstr "Activaţi?"
+
+#: String 143
+msgid "Unconfirmed"
+msgstr "Neconfirmat(e)"
+
+#: String 144
+msgid "Activate"
+msgstr "Activare"
+
+#: String 145
+msgid "Refresh listing, go to top?"
+msgstr "Listă reîmprospătată. Mergeţi în partea de sus?"
+
+#: String 146
+msgid "Go to top"
+msgstr "Du-te sus"
+
+#: String 147
+msgid "We do not have any blog posts"
+msgstr "Nu ai nici o postare pe blog."
+
+#: String 148
+msgid "Profile"
+msgstr "Profil"
+
+#: String 149
+msgid "Extra Info"
+msgstr "Informaţii suplimentare"
+
+#: String 150
+msgid " advertisements"
+msgstr "anunţuri"
+
+#: String 151
+msgid "Details"
+msgstr "Detalii"
+
+#: String 152
+msgid "Publisher"
+msgstr "De către"
+
+#: String 153
+msgid "My Advertisements"
+msgstr "Anunţurile mele"
+
+#: String 154
+msgid "Related ads"
+msgstr "Anunţuri asemănătoare"
+
+#: String 155
+msgid "Last Login"
+msgstr "Ultima autentificare"
+
+#: String 156
+msgid "Profile Picture"
+msgstr "Poză profil"
+
+#: String 157
+msgid "Set query sologan for home search"
+msgstr "Stabileşte interogarea sloganului pentru căutarea din pagina principală"
+
+#: String 158
+msgid "Show big query search in HOME"
+msgstr "Afişează  căutarea în PAGINA PRINCIPALĂ"
+
+#: String 159
+msgid "HTML code for header banner"
+msgstr "cod HTML pentru banner antet (header)"
+
+#: String 160
+msgid "HTML code for footer banner"
+msgstr "cod HTML pentru banner subsol (footer)"
+
+#: String 161
+msgid "We do not have any blog post"
+msgstr "Nu ai nici o postare pe blog"
+
+#: String 162
+msgid "Public profile"
+msgstr "Profil public"
+
+#: String 163
+msgid "Logout"
+msgstr "Ieşire"
+
+#: String 164
+msgid "Contact us"
+msgstr "Contactează-ne"
+
+#: String 165
+msgid " of "
+msgstr "din"
+
+#: String 166
+msgid "Advanced search"
+msgstr "Căutare avansată"
+
+#: String 167
+msgid "Desktop Version"
+msgstr "Versiune Desktop"
+
+#: String 168
+msgid "Public Profile"
+msgstr "Profil public"
+
+#: String 169
+msgid "Allow uploading images in publish new."
+msgstr "Permite încărcarea imaginilor la adăugarea anunţurilor noi"
+
+#: String 170
+msgid "Display slider in home"
+msgstr "Afişează slider-ul în pagina principală"
+
+#: String 171
+msgid "Change the main color scheme and style of the theme"
+msgstr "Schimbaţi schema principală de culori principale şi stilul temei"
+
+#: String 172
+msgid "Visit Site"
+msgstr "Vizitati site-ul"
+
+#: String 173
+msgid "Change the header color scheme and style of the theme"
+msgstr "Schimbaţi schema de culori a antetului şi stilul temei"
+
+#: String 174
+msgid "Change the theme of List Elements"
+msgstr "Schimbaţi tema listei elementelor"
+
+#: String 175
+msgid "Change the theme of Featured Elements"
+msgstr "SchimbaÈi tema elementelor recomandate"
+
+#: String 176
+msgid "Type your password twice to change"
+msgstr "Tastaţi parola nouă de două ori"
+
+#: String 177
+msgid "Profile picture"
+msgstr "Poză de profil"
+
+#: String 178
+msgid "Import tool"
+msgstr "Unealtă import"
+
+#: String 179
+msgid "Logs"
+msgstr "Log-uri"
+
+#: String 180
+msgid "Profile Options"
+msgstr "Opţiuni profil"
+
+#: String 181
+msgid "Subscriptions"
+msgstr "Abonări"
+
+#: String 182
+msgid "How to remove this"
+msgstr "Pot elimina asta? Cum"
+
+#: String 183
+msgid "Collapse menu"
+msgstr "Restrange meniu"
+
+#: String 184
+msgid "Optimize"
+msgstr "Optimizare"
+
+#: String 185
+msgid "Roles"
+msgstr "Roluri"
+
+#: String 186
+msgid "Topics"
+msgstr "Subiecte"
+
+#: String 187
+msgid "Newsletters"
+msgstr "Buletine de ştiri"
+
+#: String 188
+msgid "Appearance"
+msgstr "Aspect"
+
+#: String 189
+msgid "Payment"
+msgstr "Plată"
+
+#: String 190
+msgid "Users"
+msgstr "Utilizatori"
+
+#: String 191
+msgid "Blog post"
+msgstr "Postare blog"
+
+#: String 192
+msgid "Search FAQs"
+msgstr "Caută FAQ (Întrebări Frecvente)"
+
+#: String 193
+msgid "Email Configuration"
+msgstr "Configurare e-mail"
+
+#: String 194
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: String 195
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Lista de valori generale configurate. Înlocuiţi câmpurile de intrare cu valorile noi dorite"
+
+#: String 196
+msgid "Notify email"
+msgstr "Notificare e-mail"
+
+#: String 197
+msgid "Email From"
+msgstr "E-mail de la"
+
+#: String 198
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "Adresa de e-maill de la care se trimit e-mail-uri, de regulă cea utilizată pentru comunicaţiile software."
+
+#: String 199
+msgid "Valid Until"
+msgstr "Valabilă până la"
+
+#: String 200
+msgid "Limited Offer!"
+msgstr "Ofertă limitată!"
+
+#: String 201
+msgid "Change the order of your forums. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Modifică ordinarea forumurilor. Ţineţi minte că dacă aveţi mai mult de 2 nivele imbricate, acestea probabil nu vor fi afişate în temă (nu este recomandat)."
+
+#: String 202
+msgid "Check for updates"
+msgstr "Verificaţi dacă sunt actualizări disponibile"
+
+#: String 203
+msgid "New forum"
+msgstr "Forum nou"
+
+#: String 204
+msgid "Are you sure you want to delete? We will move the siblings forums and ads to the parent of this forum."
+msgstr "Eşti sigur că vrei să ştergi? Vă vom muta toate forumurile adiacente şi anunţurile în pagina principală."
+
+#: String 205
+msgid "Selection of nice extras for your installation."
+msgstr "Selectarea suplimentelor pentru instalarea dvs.."
+
+#: String 206
+msgid "Content"
+msgstr "Conţinut"
+
+#: String 207
+msgid "Views and Contacts statistic"
+msgstr "Statistici vizualizări şi contacte"
+
+#: String 208
+msgid "Edit location"
+msgstr "Editare locaţie"
+
+#: String 209
+msgid "Edit category"
+msgstr "Editare categorie"
+
+#: String 210
+msgid "Delete image"
+msgstr "Ştergeţi imaginea"
+
+#: String 211
+msgid "View"
+msgstr "Vezi"
+
+#: String 212
+msgid "Max Price"
+msgstr "Preţ maxim"
+
+#: String 213
+msgid "Min Price"
+msgstr "Preţ minim"
+
+#: String 214
+msgid "UNAVAILABLE"
+msgstr "INDISPONIBIL"
+
+#: String 215
+msgid "SPAM"
+msgstr "SPAM"
+
+#: String 216
+msgid "Id_User"
+msgstr "Id_User"
+
+#: String 217
+msgid "Edit Advertisement"
+msgstr "Editare anunţ"
+
+#: String 218
+msgid "NOPUBLISHED"
+msgstr "NEPUBLICAT"
+
+#: String 219
+msgid "PUBLISHED"
+msgstr "PUBLICAT"
+
+#: String 220
+msgid "UNCONFIRMED"
+msgstr "NECONFIRMAT"
+
+#: String 221
+msgid "Unsubscribe to all?"
+msgstr "Te dezabonezi de la toate abonările?"
+
+#: String 222
+msgid "Unsubscribe to all"
+msgstr "Dezabonare de la toate"
+
+#: String 223
+msgid "Charts"
+msgstr "Grafice"
+
+#: String 224
+msgid "Visits"
+msgstr "Vizite"
+
+#: String 225
+msgid "From"
+msgstr "De la"
+
+#: String 226
+msgid "To"
+msgstr "Până la"
+
+#: String 227
+msgid "Filter"
+msgstr "Filtru"
+
+#: String 228
+msgid "Contacts"
+msgstr "Contacte"
+
+#: String 229
+msgid "Total"
+msgstr "Total"
+
+#: String 230
+msgid "Statistics"
+msgstr "Statistici"
+
+#: String 231
+msgid "Unsubscribe?"
+msgstr "Te dezabonezi?"
+
+#: String 232
+msgid "Today"
+msgstr "Azi"
+
+#: String 233
+msgid "Yesterday"
+msgstr "Ieri"
+
+#: String 234
+msgid "Last 30 days"
+msgstr "Ultimele 30 zile"
+
+#: String 235
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Setaţi aceaste valori pentru a restricţiona încărcarea altor tipuri de imagini, excepţie făcând cele precizate de către dvs."
+
+#: String 236
+msgid "Max image size"
+msgstr "Dimensiunea maximă a imaginii"
+
+#: String 237
+msgid "Available Mobile Themes"
+msgstr "Teme mobil disponibile"
+
+#: String 238
+msgid "Available Themes"
+msgstr "Teme disponibile"
+
+#: String 239
+msgid "Themes Market"
+msgstr "Market teme"
+
+#: String 240
+msgid "Here you can find a selection of our premium themes."
+msgstr "Aici puteţi găsi o selecţie a temelor noastre premium."
+
+#: String 241
+msgid "Also white labeled and free of ads"
+msgstr "De asemenea marcate cu alb şi fără reclame"
+
+#: String 242
+msgid "All themes include support, updates and 1 site license."
+msgstr "Toate temele includ asistenţă, actualizări şi 1 licenţă per site."
+
+#: String 243
+msgid "To install new theme choose zip file."
+msgstr "Pentru a instala o temă nouă alegeţi un fişier zip."
+
+#: String 244
+msgid "license"
+msgstr "licenţă"
+
+#: String 245
+msgid "Disable"
+msgstr "Dezactivaţi"
+
+#: String 246
+msgid "Using mobile theme"
+msgstr "Folosind tema pentru mobil"
+
+#: String 247
+msgid "Options"
+msgstr "Opţiuni"
+
+#: String 248
+msgid "Install theme"
+msgstr "Instalează tema"
+
+#: String 249
+msgid "Install theme from license."
+msgstr "Instalează tema din licenţă"
+
+#: String 250
+msgid "Please insert here the license for your theme."
+msgstr "Te rugăm să introduci aici licenţa temei tale"
+
+#: String 251
+msgid "License"
+msgstr "Licenţă"
+
+#: String 252
+msgid "listing"
+msgstr "listare"
+
+#: String 253
+msgid "Default links"
+msgstr "Link-uri standard"
+
+#: String 254
+msgid "rss"
+msgstr "rss"
+
+#: String 255
+msgid "Url"
+msgstr "URL"
+
+#: String 256
+msgid "glyphicon  glyphicon-envelope glyphicon"
+msgstr "glyphicon  glyphicon-envelope glyphicon"
+
+#: String 257
+msgid "Icon"
+msgstr "Icoană"
+
+#: String 258
+msgid "Create Menu Item"
+msgstr "Crează meniu"
+
+#: String 259
+msgid "Custom"
+msgstr "Particularizat"
+
+#: String 260
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Aici sunt enumerate anumite valori de configurare ale temei. Înlocuiţi câmpurile de intrare cu valorile noi dorite."
+
+#: String 261
+msgid "Check"
+msgstr "Verifică"
+
+#: String 262
+msgid "Custom menu"
+msgstr "Meniu personalizat"
+
+#: String 263
+msgid "Are you sure you want to delete? All data contained in this field will be deleted."
+msgstr "Eşti sigur că vre să ştergi? Toate datele conţinute în acest câmp vor fi eliminate!"
+
+#: String 264
+msgid "Menu type"
+msgstr "Tip meniu"
+
+#: String 265
+msgid "Current Theme"
+msgstr "Tema curentă"
+
+#: String 266
+msgid "You can change the look and feel of your website here."
+msgstr "Puteţi schimba aspectul site-ului dvs. aici."
+
+#: String 267
+msgid "to_top"
+msgstr "to_top"
+
+#: String 268
+msgid "Are you sure you want to make it to_top?"
+msgstr "Eşti sigur că vrei să urci asta în top?"
+
+#: String 269
+msgid "Are you sure you want to make it to top?"
+msgstr "Eşti sigur că vrei să-l urci în top?"
+
+#: String 270
+msgid "Deactivate Featured"
+msgstr "Dezactivaţi promovările"
+
+#: String 271
+msgid "Heads Up!"
+msgstr "Capul sus!"
+
+#: String 272
+msgid "Social Authentication Settings"
+msgstr "Setări autentificare socială"
+
+#: String 273
+msgid "Delete All Spam"
+msgstr "Şterge tot SPAM-ul"
+
+#: String 274
+msgid "Delete All Spam?"
+msgstr "Şterg tot SPAM-ul?"
+
+#: String 275
+msgid "Delete All Unavailable?"
+msgstr "Şterg toate indisponibilele?"
+
+#: String 276
+msgid " Unconfirmed"
+msgstr "Neconfirmat"
+
+#: String 277
+msgid "Delete All Unavailable"
+msgstr "Şterge toate indisponibilele"
+
+#: String 278
+msgid "Delete All Unconfirmed?"
+msgstr "Şterg toate neconfirmatele?"
+
+#: String 279
+msgid "Delete All Unconfirmed"
+msgstr "Şterge toate neconfirmatele"
+
+#: String 280
+msgid "Social authentication is only available with premium themes!"
+msgstr "Autentificare socială este disponibilă numai cu temele premium!"
+
+#: String 281
+msgid "Upgrade your Yclas site to PRO to activate this feature."
+msgstr "Cumpără versiunea premium Open Classifieds pentru a putea activa această facilitate."
+
+#: String 282
+msgid "Users with featured ads expired."
+msgstr "Utilizatori cu anunţuri promovate expirate."
+
+#: String 283
+msgid "Users with featured ads."
+msgstr "Utiliziatori cu anunţuri promovate."
+
+#: String 284
+msgid "Users without published ads."
+msgstr "Utilizatori fără anunţuri publicate."
+
+#: String 285
+msgid "Users not logged last 3 months"
+msgstr "Utiliziatori ne-autentificaţi de 3 luni."
+
+#: String 286
+msgid "From Email"
+msgstr "De la e-mail"
+
+#: String 287
+msgid "Users marked a spam"
+msgstr "Utilizatori marcaţi ca spammeri"
+
+#: String 288
+msgid "All active users."
+msgstr "Totţi utilizatorii activi."
+
+#: String 289
+msgid "Email Settings"
+msgstr "Setări e-mail"
+
+#: String 290
+msgid "Debug Mode"
+msgstr "Mod depanare"
+
+#: String 291
+msgid "Browse Themes"
+msgstr "Răsfoieşte temele"
+
+#: String 292
+msgid "Key"
+msgstr "Cheie"
+
+#: String 293
+msgid "secret"
+msgstr "secretă"
+
+#: String 294
+msgid "Only if you have a premium theme you will be able to filter by users!"
+msgstr "Doar dacă deţii o temă premium vei putea să faci filtrarea după utilizatori!"
+
+#: String 295
+msgid "Site Usage Statistics"
+msgstr "Statistici folosire site"
+
+#: String 296
+msgid "Sales"
+msgstr "Vânzări"
+
+#: String 297
+msgid "Login to reply"
+msgstr "Autentifică-te pentru a răspunde"
+
+#: String 298
+msgid "Reply here"
+msgstr "Răspunde aici"
+
+#: String 299
+msgid "Select a forum"
+msgstr "Selectează un forum"
+
+#: String 300
+msgid "Publish new topic"
+msgstr "Adaugă subiect nou"
+
+#: String 301
+msgid "Forum topic"
+msgstr "Subiect forum"
+
+#: String 302
+msgid "New Topic"
+msgstr "Subiect nou"
+
+#: String 303
+msgid "Some errors were encountered, please check the details you entered."
+msgstr "Se pare că sunt unele erori, te rugăm să verifici detaliile introduse."
+
+#: String 304
+msgid "Reply"
+msgstr "Răspunde"
+
+#: String 305
+msgid "Save changes"
+msgstr "Salvaţi modificările"
+
+#: String 306
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Sunteţi sigur că doriţi să ştergeţi acest widget? Totuşi, aveţi posibilitatea de a-l muta la cele inactive"
+
+#: String 307
+msgid "Thanks for using our website."
+msgstr "Vă mulţumim pentru utilizarea site-ului nostru."
+
+#: String 308
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Aşteptaţi vă rugăm, pînă se face transferul către PayPal"
+
+#: String 309
+msgid "Click here if you are not redirected"
+msgstr "Click aici dacă nu sunteţi redirecţionat"
+
+#: String 310
+msgid "Last Message"
+msgstr "Ultimul mesaj"
+
+#: String 311
+msgid "Topic"
+msgstr "Subiect"
+
+#: String 312
+msgid "It is either not existing, moved or deleted. Make sure the URL is correct."
+msgstr "Fie nu există, fie a fost mutat sau şters. Asigură-te că URL-ul este corect."
+
+#: String 313
+msgid "is not found"
+msgstr "nu a fost găsit"
+
+#: String 314
+msgid "To go back to the previous page, click the Back button."
+msgstr "Pentru a merge pagina anterioară, click pe butonul Înapoi"
+
+#: String 315
+msgid "If you wanted to go to the main page instead, click here."
+msgstr "Dacă doreşti să mergi la pagina principală, click aici"
+
+#: String 316
+msgid "Requirements checks we do before we install."
+msgstr "Verificarea cerinţelor înainte de instalare."
+
+#: String 317
+msgid "URL to your Logo. Recommended size W:200px x H:120px. Leave blank for none."
+msgstr "URL-ul către logo. Dimensiunea recomandată W:200px, H: 120px. Lasă necompletat pentru nici unul "
+
+#: String 318
+msgid "The requested page"
+msgstr "Pagina solicitată"
+
+#: String 319
+msgid "Page Not Found"
+msgstr "Pagina nu a fost găsită"
+
+#: String 320
+msgid "Frequently Asked Questions"
+msgstr "Întrebări Frecvente (FAQ)"
+
+#: String 321
+msgid "Replies"
+msgstr "Răspunsuri"
+
+#: String 322
+msgid "We do not have any FAQ-s"
+msgstr "Nu există nicio Întrebare Frecventî (FAQ)"
+
+#: String 323
+msgid "This advertisement doesn´t exist, or is not yet published!"
+msgstr "Anunţul nu există sau nu a fost publicat încă"
+
+#: String 324
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Momentan, se lucrează la acest site. Vă rugăm să reveniţi. Vă mulţumim."
+
+#: String 325
+msgid "Close"
+msgstr "Închide"
+
+#: String 326
+msgid "Where do you want the widget displayed?"
+msgstr "Unde doriţi să afişaţi widget-ul?"
+
+#: String 327
+msgid "Searchable"
+msgstr "Căutabil"
+
+#: String 328
+msgid "Required"
+msgstr "Obligatoriu"
+
+#: String 329
+msgid "Admin Privileged"
+msgstr "Privilegii Admin"
+
+#: String 330
+msgid "New Custom Field"
+msgstr "Câmp nou personalizat"
+
+#: String 331
+msgid "Text Long"
+msgstr "Text lung"
+
+#: String 332
+msgid "Text 256 Chars"
+msgstr "Text 256 Caractere"
+
+#: String 333
+msgid "Comma separated for select"
+msgstr "Pentru selecţie, separate prin virgulă"
+
+#: String 334
+msgid "Values"
+msgstr "Valori"
+
+#: String 335
+msgid "Sales statistics"
+msgstr "Statistici vânzări"
+
+#: String 336
+msgid "Views and Ads statistics"
+msgstr "Vizualizări şi statistici anunţuri"
+
+#: String 337
+msgid "Edit Custom Field"
+msgstr "Editare câmp personalizat"
+
+#: String 338
+msgid "Label"
+msgstr "Etichetă"
+
+#: String 339
+msgid "Tooltip"
+msgstr "Ajutor"
+
+#: String 340
+msgid "Number"
+msgstr "Număr"
+
+#: String 341
+msgid "Number Decimal"
+msgstr "Număr zecimal"
+
+#: String 342
+msgid "admin_privilege"
+msgstr "admin_privilege"
+
+#: String 343
+msgid "required"
+msgstr "obligatoriu"
+
+#: String 344
+msgid "Optional Fields"
+msgstr "Câmpuri opţionale"
+
+#: String 345
+msgid "Optional Advertisement Fields"
+msgstr "Câmpuri opţionale anunţ"
+
+#: String 346
+msgid "Available widgets"
+msgstr "Widget-uri disponibile"
+
+#: String 347
+msgid "searchable"
+msgstr "căutabil(e)"
+
+#: String 348
+msgid "New field"
+msgstr "Câmp nou"
+
+#: String 349
+msgid "Checkbox"
+msgstr "Căsuţă "
+
+#: String 350
+msgid "Radio"
+msgstr "Radio"
+
+#: String 351
+msgid "Can be seen and edited only by admin."
+msgstr "Poate fi vizualizat şi editat numai de către administrator."
+
+#: String 352
+msgid "Custom fields are only available with premium themes!"
+msgstr "Câmpurile personalizate sunt disponibile numai cu temele premium!"
+
+#: String 353
+msgid "Advertisement Custom Fields"
+msgstr "Câmpuri personalizate anunţ"
+
+#: String 354
+msgid "Unconfirmed Sort"
+msgstr "Sortare neconfirmate"
+
+#: String 355
+msgid " Unavailable"
+msgstr "Indisponibil(e)"
+
+#: String 356
+msgid "Minify CSS/JS"
+msgstr "Miniy CSS/JS"
+
+#: String 357
+msgid "Disqus for FAQ Comments"
+msgstr "Disqus pentru Comentarii FAQ"
+
+#: String 358
+msgid "Once set to TRUE, enables minify CSS and JS to speed up your site"
+msgstr "O dată setat ca TRUE, activează Minify CSS/JS pentru a îmbunătăţii viteza site-ului dvs."
+
+#: String 359
+msgid "Activates Minify CSS/JS"
+msgstr "Activează Minify CSS/JS"
+
+#: String 360
+msgid "Black List"
+msgstr "Blacklist"
+
+#: String 361
+msgid "Sort by in listing"
+msgstr "Ordonează în listare"
+
+#: String 362
+msgid "Disqus for FAQ"
+msgstr "Disqus pentru FAQ"
+
+#: String 363
+msgid "Once set to TRUE, enables FAQ"
+msgstr "O dată setat ca TRUE, activează FAQ"
+
+#: String 364
+msgid "Disqus for Blog Comments"
+msgstr "Disqus pentru Comentarii Blog"
+
+#: String 365
+msgid "Disqus for blog"
+msgstr "Disqus pentru Blog"
+
+#: String 366
+msgid "Activates Forums"
+msgstr "Activează Forumurile"
+
+#: String 367
+msgid "Once set to TRUE, enables forums posts"
+msgstr "O dată setat ca TRUE, activează postările forumurilor"
+
+#: String 368
+msgid "Activates FAQ"
+msgstr "Activează FAQ"
+
+#: String 369
+msgid "If advertisement is marked as spam, user is also marked to be spammer. Next time is not able to publish new advertisement. Until removed from Black List!"
+msgstr "Dacă anunţul este marcat ca spam, utilizatorul este marcat de asemenea ca spammer, iar următoarea dată nu va putea  publica alte anunţuri."
+
+#: String 370
+msgid "Locale"
+msgstr "Local"
+
+#: String 371
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Schimbă ordinea categoriilor. Ţineţi minte că dacă sunt mai mult de 2 nivele imbricate, acestea nu vor fi afişate în temă (nu este recomandat)."
+
+#: String 372
+msgid "status"
+msgstr "status"
+
+#: String 373
+msgid "New category"
+msgstr "Categorie nouă"
+
+#: String 374
+msgid "Add names for multiple categories, for each one push enter."
+msgstr "Adaugă nume pentru categorii multiple, iar pentru fiecare apasă enter"
+
+#: String 375
+msgid "email"
+msgstr "e-mail"
+
+#: String 376
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Sunteţi sigur că doriţi să ştergeţi? Vom muta sub-categoriile şi anunţurile în rădăcina acestei categorii."
+
+#: String 377
+msgid "created"
+msgstr "creat"
+
+#: String 378
+msgid "title"
+msgstr "titlu"
+
+#: String 379
+msgid "From email"
+msgstr "De la e-mail"
+
+#: String 380
+msgid "locale"
+msgstr "locale"
+
+#: String 381
+msgid "from_email"
+msgstr "from_email"
+
+#: String 382
+msgid "Seotitle"
+msgstr "Titlu SEO"
+
+#: String 383
+msgid "seotitle"
+msgstr "titlu seo"
+
+#: String 384
+msgid "Once set to TRUE, enables blog posts"
+msgstr "O dată setat ca TRUE, activează postările blog-ului"
+
+#: String 385
+msgid "Activates Blog posting"
+msgstr "Activează postarea pe blog"
+
+#: String 386
+msgid "Thumb height"
+msgstr "Înălţimea pictogramei"
+
+#: String 387
+msgid "Image width in pixels(px)"
+msgstr "Lăţimea imaginii în pixeli (px)"
+
+#: String 388
+msgid "Thumb is a small image resized to fit certain elements. This is the height for this image."
+msgstr "Pictograma este o imagine mică, redimensionată pentru a se potrivi anumitor elemente.Aceasta este înălţimea pentru această imagine."
+
+#: String 389
+msgid "Thumb height in pixels(px)"
+msgstr "Înălţimea pictogramei în pixeli (px)"
+
+#: String 390
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Pictograma este o imagine redimensionată pentru a se potrivii anumitor elemente. Aceasta este lăţimea acelei imagini."
+
+#: String 391
+msgid "Thumb width"
+msgstr "Lăţime pictogramă"
+
+#: String 392
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Fiecare imagine este redimensionată la încărcare. Aceasta este lăţimea imaginii mari."
+
+#: String 393
+msgid "Image width"
+msgstr "Lăţimea imaginii"
+
+#: String 394
+msgid "Image size in mega bites(Mb)"
+msgstr "Dimensiunea imaginii în mega bites (Mb)"
+
+#: String 395
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Controlaţi dimensiunea imaginilor încărcate. Introduceţi o valoare întreagă pentru a stabilii dimensiunea maximă a imaginii, în mega bites (Mb)."
+
+#: String 396
+msgid "Image height"
+msgstr "Înălţimea imaginii"
+
+#: String 397
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Fiecare imagine este redimensionată când este încărcată. Aceasta este înălţimea imaginii mari. Notă: puteţi lăsa acest câmp necompletat pentru a seta redimensionarea automată a înălţimii."
+
+#: String 398
+msgid "Image height in pixels(px)"
+msgstr "Înălţimea imaginii în pixeli (px)"
+
+#: String 399
+msgid "Thumb width in pixels(px)"
+msgstr "Lăţimea pictogramei în pixeli (px)"
+
+#: String 400
+msgid "Image quality"
+msgstr "Calitatea imaginii"
+
+#: String 401
+msgid "Providing akismet key will activate this feature. This feature deals with spam posts and emails."
+msgstr "Oferind cheia Akismet veţi activa aceasta funcţionalitate. Akismet se ocupă cu postările şi e-mail-urile spam."
+
+#: String 402
+msgid "Akismet Key"
+msgstr "Cheie Akismet"
+
+#: String 403
+msgid "Accept Terms Alert"
+msgstr "Acceptă Alertă Termeni"
+
+#: String 404
+msgid "Include search by description"
+msgstr "Include căutare după descriere"
+
+#: String 405
+msgid "Once set to TRUE, enables search to look for key words in description"
+msgstr "O dată setat ca TRUE, activează căutarea după cuvintele cheie din descriere"
+
+#: String 406
+msgid "Watermark position"
+msgstr "Poziţie siglă"
+
+#: String 407
+msgid "Relative path to the image to use as watermark"
+msgstr "Calea relativă a imaginii folosită ca siglă"
+
+#: String 408
+msgid "Image Quality"
+msgstr "Calitate imagine"
+
+#: String 409
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Alegeţi calitatea imaginilor stocate (1-100% din original)."
+
+#: String 410
+msgid "Watermark"
+msgstr "Siglă"
+
+#: String 411
+msgid "Appends watermark to images"
+msgstr "Aplică sigla pe imagini"
+
+#: String 412
+msgid "Watermark path"
+msgstr "Cale siglă"
+
+#: String 413
+msgid "Ad"
+msgstr "Anunţ"
+
+#: String 414
+msgid "Product"
+msgstr "Produs"
+
+#: String 415
+msgid "Size"
+msgstr "Dimensiune"
+
+#: String 416
+msgid "Rows"
+msgstr "Rânduri"
+
+#: String 417
+msgid "Save size"
+msgstr "Salvaţi dimensiunea"
+
+#: String 418
+msgid "Select .csv file to upload categories or locations. Valid format must be:"
+msgstr "Selctează fişierul .csv pentru a încărca categoriile sau locaţiile. Formatele valide trebuie să fie:"
+
+#: String 419
+msgid "Upload CSV file"
+msgstr "Încarcă fişier CSV"
+
+#: String 420
+msgid "Name is mandatory. But seoname is not, if not provided it is automatically generated"
+msgstr "Numele este obligatoriu, numele SEO nu. Însă dacă numele SEO nu este introdus, acesta va fi generat automat."
+
+#: String 421
+msgid "Table"
+msgstr "Tabel"
+
+#: String 422
+msgid "Space to optimize"
+msgstr "Spaţiul de optimizat"
+
+#: String 423
+msgid "Delete expired"
+msgstr "Ştergeţi anunţurile expirate"
+
+#: String 424
+msgid "Delete all"
+msgstr "Ştergeţi tot"
+
+#: String 425
+msgid "Config file"
+msgstr "Fişier de configurare"
+
+#: String 426
+msgid "Optimize Database"
+msgstr "Optimizaţi baza de date"
+
+#: String 427
+msgid "Database space"
+msgstr "Spaţiul bazei de date"
+
+#: String 428
+msgid "import Categories"
+msgstr "Importă categorii"
+
+#: String 429
+msgid "import Locations"
+msgstr "Importăp locaţii"
+
+#: String 430
+msgid "System Logs"
+msgstr "Log-uri de sistem"
+
+#: String 431
+msgid "Current"
+msgstr "Curentă"
+
+#: String 432
+msgid "Reading log file"
+msgstr "Citire fişier log"
+
+#: String 433
+msgid "Log"
+msgstr "Log"
+
+#: String 434
+msgid "Unavailable Sort"
+msgstr "Sortare indisponibilă"
+
+#: String 435
+msgid "Spam Sort"
+msgstr "Sortare spam"
+
+#: String 436
+msgid "Latest"
+msgstr "Ultima"
+
+#: String 437
+msgid "Information"
+msgstr "Informaţii"
+
+#: String 438
+msgid "Versions"
+msgstr "Versiuni"
+
+#: String 439
+msgid "Upload"
+msgstr "Încarcă"
+
+#: String 440
+msgid "Open Classifieds release history information."
+msgstr "Deschideţi informaţiile despre istoria lansărilor."
+
+#: String 441
+msgid "Your Hash Key for this installation is"
+msgstr "Cheia Hash pentru această instalare este"
+
+#: String 442
+msgid "Version"
+msgstr "Versiune"
+
+#: String 443
+msgid "Cache configuration information"
+msgstr "Informaţii configurare cache"
+
+#: String 444
+msgid "Update on publish"
+msgstr "Actualizează la publicare"
+
+#: String 445
+msgid "Scan"
+msgstr "Scanează"
+
+#: String 446
+msgid "Translations files available in the system."
+msgstr "Fişiere disponibile în sistemul de traduceri."
+
+#: String 447
+msgid "New translation"
+msgstr "Traducere nouă"
+
+#: String 448
+msgid "Language"
+msgstr "Limba"
+
+#: String 449
+msgid "Here you can modify any text you find in your web."
+msgstr "Aici puteţi modifica orice text găsit de către dvs. în site."
+
+#: String 450
+msgid "Active"
+msgstr "Activat"
+
+#: String 451
+msgid "Action"
+msgstr "Acţiune"
+
+#: String 452
+msgid "This is a list of users marked as spammers. To understand how this feature works, please read this article"
+msgstr "Aceasta este lista utilizatorilor marcaţi ca spammeri. Pentru a înţelege mai bine cum funcţionează această list, te rugăm să citeşti acest articol"
+
+#: String 453
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Modifică ordinea locaţiilor. Ţine minte că dacă există mai mult de 2 nivele imbricate, acestea nu vor fi afişate în temă (nu este recomandat)."
+
+#: String 454
+msgid "Amount"
+msgstr "Sumă"
+
+#: String 455
+msgid "New location"
+msgstr "Locaţie nouă"
+
+#: String 456
+msgid "Add names for multiple locations, for each one push enter."
+msgstr "Pentru locaţii multiple introduceţi numele, pentru o singură locaţie apăsaţi enter"
+
+#: String 457
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Sunteţi sigur că doriţi să ştergeţi? Vom muta locaţiile secundare şi anunţurile în rădăcina acestei locaţii."
+
+#: String 458
+msgid "Original Translation"
+msgstr "Traducerea originală"
+
+#: String 459
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Copiaţi totul? Atenţie: Această acţiune va înlocui toate textele dvs. "
+
+#: String 460
+msgid "Last time generated"
+msgstr "Ultima generare"
+
+#: String 461
+msgid "Migrate"
+msgstr "Migrare"
+
+#: String 462
+msgid "Next sitemap"
+msgstr "Următorul sitemap"
+
+#: String 463
+msgid "Generate"
+msgstr "Generează"
+
+#: String 464
+msgid "Expiry time"
+msgstr "Data exprirării"
+
+#: String 465
+msgid "Cancel"
+msgstr "Anulează"
+
+#: String 466
+msgid "Your PHP time limit is"
+msgstr "Limita de timp (PHP) este "
+
+#: String 467
+msgid "Translation"
+msgstr "Traducere"
+
+#: String 468
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Traduceţi tot? Atenţie: această acţiune va înlocui toate textele dvs."
+
+#: String 469
+msgid "Save"
+msgstr "Salvează"
+
+#: String 470
+msgid "New Forum"
+msgstr "Forum nou"
+
+#: String 471
+msgid "Forum parent"
+msgstr "Forum principal"
+
+#: String 472
+msgid "Show locations in HOME"
+msgstr "Afişează locaţiile în pagina principală"
+
+#: String 473
+msgid "Show"
+msgstr "Afişare"
+
+#: String 474
+msgid "You dont have permission to access this link"
+msgstr "Nu aveţi permisiunea de a accesa acest link"
+
+#: String 475
+msgid "Advertisement is updated"
+msgstr "Anunţul dvs. este actualizat"
+
+#: String 476
+msgid "Stats"
+msgstr "Statistici"
+
+#: String 477
+msgid "No Subscriptions"
+msgstr "Fără abonaţi"
+
+#: String 478
+msgid "Social Auth"
+msgstr "Social Auth"
+
+#: String 479
+msgid "Welcome"
+msgstr "Bun venit"
+
+#: String 480
+msgid "Advertisement is updated, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Anunţul a fost actualizat, însă are nevoie de aprobarea şi validarea sa de către un moderator/administrator. Vă mulţumim pentru răbdare."
+
+#: String 481
+msgid "Advertisement is updated!"
+msgstr "Anunţul dvs. este actualizat!"
+
+#: String 482
+msgid "This is not your advertisement."
+msgstr "Acesta nu este anunţul dvs."
+
+#: String 483
+msgid "My Advertisement page "
+msgstr "Pagina mea cu anunţuri"
+
+#: String 484
+msgid "Advertisement is deactivated"
+msgstr "Anunţul a fost dezactivat"
+
+#: String 485
+msgid "Advertisement is active and published"
+msgstr "Anunţul este activ şi publicat"
+
+#: String 486
+msgid "Edit advertisement"
+msgstr "Editare anunţ"
+
+#: String 487
+msgid "Social Authentication for login"
+msgstr "Autentificare Socială "
+
+#: String 488
+msgid "Ads"
+msgstr "Anunţuri"
+
+#: String 489
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Atenţie, anunţul este deja marcat ca fiind spam"
+
+#: String 490
+msgid "None (0) advertisement has been deleted"
+msgstr "Niciun (0) anunţ nu a fost şters"
+
+#: String 491
+msgid "Advertisement is marked as spam"
+msgstr "Anunţul este marcat ca spam"
+
+#: String 492
+msgid "Ads deleted"
+msgstr "Anunţuri eliminate"
+
+#: String 493
+msgid "Advertisement is featured"
+msgstr "Anunţul este recomandat"
+
+#: String 494
+msgid "Warning, something went wrong while deleting"
+msgstr "Atenţie, ceva n-a funcţionat corespunzător în timpul efectuării ştergerii"
+
+#: String 495
+msgid "%u advertisements have been permanently deleted"
+msgstr "%u anunţuri au fost şterse permanent"
+
+#: String 496
+msgid "Advertisement has been permanently deleted"
+msgstr "Anunţul a fost şters permanent."
+
+#: String 497
+msgid "Moderation"
+msgstr "Moderare"
+
+#: String 498
+msgid "Advertisements"
+msgstr "Anunţuri"
+
+#: String 499
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Nu aveţi nici un anunţ care aşteaptă să fie publicat"
+
+#: String 500
+msgid "Warning, something went wrong while deleting Ad with id %u"
+msgstr "ATENŢIE! Ceva nu a funcţionat corespunzător în timpul ştergerii anunţului cu ID-ul %u"
+
+#: String 501
+msgid "Cannot find Ad with id %u"
+msgstr "Nu pot găsii anunţul cu ID-ul %u"
+
+#: String 502
+msgid "You have successfuly changed your data"
+msgstr "Datele dvs. sunt modificate cu succes"
+
+#: String 503
+msgid "Edit profile"
+msgstr "Editare profil"
+
+#: String 504
+msgid "is created"
+msgstr "este creat"
+
+#: String 505
+msgid "Create"
+msgstr "Creează"
+
+#: String 506
+msgid "Please to see the changes delete the cache"
+msgstr "Pentru a vedea modificările, goleşte cache-ul"
+
+#: String 507
+msgid "Delete All"
+msgstr "Şterge tot"
+
+#: String 508
+msgid "is edited"
+msgstr "este editat"
+
+#: String 509
+msgid "Edit"
+msgstr "Editare"
+
+#: String 510
+msgid "contents"
+msgstr "conţinut"
+
+#: String 511
+msgid "Page"
+msgstr "Pagină"
+
+#: String 512
+msgid "Saved"
+msgstr "Salvat"
+
+#: String 513
+msgid "Widget parameter missing"
+msgstr "Lipseşte parametrul widget-ului"
+
+#: String 514
+msgid "Market"
+msgstr "Market"
+
+#: String 515
+msgid "Orders"
+msgstr "Comenzi"
+
+#: String 516
+msgid "List"
+msgstr "Listă"
+
+#: String 517
+msgid "Failed to load content"
+msgstr "Eşuare la încărcarea conţinutului"
+
+#: String 518
+msgid "Content is deleted"
+msgstr "Conţinutul este eliminat"
+
+#: String 519
+msgid "Change password"
+msgstr "Schimbare parolă"
+
+#: String 520
+msgid "Select some categories first."
+msgstr "Selectează câteva categorii întâi"
+
+#: String 521
+msgid "Password is changed"
+msgstr "Parola este schimbată"
+
+#: String 522
+msgid "Nothing is provided"
+msgstr "Nu este nimic specificat"
+
+#: String 523
+msgid "Image is uploaded."
+msgstr "Imaginea este încărcată"
+
+#: String 524
+msgid "Image is not valid. Please try again."
+msgstr "Imaginea nu este validă. Te rugăm să încerci din nou."
+
+#: String 525
+msgid "Category not deleted"
+msgstr "Categoria nu a fost ştearsă"
+
+#: String 526
+msgid "Category deleted"
+msgstr "Categorie ştearsă"
+
+#: String 527
+msgid "Categories"
+msgstr "Categorii"
+
+#: String 528
+msgid "Content is not deleted"
+msgstr "Conţinutul nu este eliminat."
+
+#: String 529
+msgid "You can not set as parent the same category"
+msgstr "Nu poţi seta aceeaşi categorii ca fiind cea principală"
+
+#: String 530
+msgid "Item updated"
+msgstr "Element actualizat"
+
+#: String 531
+msgid "Check form for errors"
+msgstr "Verifică formularul de erori"
+
+#: String 532
+msgid "Advertisement is to top"
+msgstr "Anunţul este în top"
+
+#: String 533
+msgid "Forums"
+msgstr "Forumuri"
+
+#: String 534
+msgid "Table %s not found"
+msgstr "Tabelul %u nu este găsit"
+
+#: String 535
+msgid "Review database connection parameters"
+msgstr "Verificaţi parametrii conexiunii bazei de date"
+
+#: String 536
+msgid "seconds"
+msgstr "secunde"
+
+#: String 537
+msgid "Locations"
+msgstr "Locaţii"
+
+#: String 538
+msgid "Location deleted"
+msgstr "Locaţie ştearsă"
+
+#: String 539
+msgid "You can not set as parent the same location"
+msgstr "Nu poţi seta aceeaşi locaţie ca fiind cea principală"
+
+#: String 540
+msgid "Database cleaned"
+msgstr "Baza de date a fost curăţată"
+
+#: String 541
+msgid "Migration"
+msgstr "Migrare"
+
+#: String 542
+msgid "%s have been created"
+msgstr "%s au fost create"
+
+#: String 543
+msgid "Something went wrong, please check format of the file! Remove single quotes, in case you have any."
+msgstr "Ceva nu a funcţionat corespunzător, te rugăm să verific formatul fişierului! Înlătură apostroful (ghilimelele simple), în cazul în care ai aşa ceva."
+
+#: String 544
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: String 545
+msgid "Sitemap Configuration updated"
+msgstr "Configurare sitemap actualizată"
+
+#: String 546
+msgid "Open Classifieds migration"
+msgstr "Migrarea anunţurilor"
+
+#: String 547
+msgid "Location not deleted"
+msgstr "Locaţia nu a fost ştearsă"
+
+#: String 548
+msgid "Select some locations first."
+msgstr "Selectează câteva locaţii întâi"
+
+#: String 549
+msgid "New"
+msgstr "Nou"
+
+#: String 550
+msgid "Custom Fields for Advertisements"
+msgstr "Câmpuri personalizate pentru anunţuri"
+
+#: String 551
+msgid "New Custom Field for Advertisement"
+msgstr "Câmp nou personalizat pentru anunţ"
+
+#: String 552
+msgid "Edit Custom Field for Advertisement"
+msgstr "Editare câmp personalizat anunţ"
+
+#: String 553
+msgid "Please login before posting"
+msgstr "Te rugăm să te autentifici pentru a putea posta"
+
+#: String 554
+msgid "Forum"
+msgstr "Forum"
+
+#: String 555
+msgid "Custom Fields"
+msgstr "Câmpuri personalizate"
+
+#: String 556
+msgid "Payments"
+msgstr "Plăţi"
+
+#: String 557
+msgid "Advertisement"
+msgstr "Anunţ"
+
+#: String 558
+msgid "Settings"
+msgstr "Setări"
+
+#: String 559
+msgid "Email Configuration updated"
+msgstr "Configurarea e-mail-ului a fost actualizată"
+
+#: String 560
+msgid "General"
+msgstr "General"
+
+#: String 561
+msgid "General Configuration updated"
+msgstr "Configurare generală actualizată"
+
+#: String 562
+msgid "Something went wrong, please check format of the file! Remove single quotes or strange characters, in case you have any."
+msgstr "Ceva nu a fcunţionat corespunzător, te rugăm să verifici formatul fişierului! Înlătură apostroful (ghilimelele simple) sau caracterele ciudate, în caz că există aşa ceva."
+
+#: String 563
+msgid "File %s contains invalid parsing format!"
+msgstr "Fişierul %s conţine un format parsing invalid !"
+
+#: String 564
+msgid "Mail not sent"
+msgstr "Mesajul nu a fost trimis"
+
+#: String 565
+msgid "Email sent"
+msgstr "E-mail trimis"
+
+#: String 566
+msgid "Menu"
+msgstr "Meniu"
+
+#: String 567
+msgid "Menu deleted"
+msgstr "Meniu şters"
+
+#: String 568
+msgid "Menu not created"
+msgstr "Meniul nu a fost creat"
+
+#: String 569
+msgid "Menu created"
+msgstr "Meniu creat"
+
+#: String 570
+msgid "Newsletter"
+msgstr "Newsletter"
+
+#: String 571
+msgid "Forum not deleted"
+msgstr "Forumul nu a fost şters"
+
+#: String 572
+msgid "Forum is created."
+msgstr "Forumul este creat"
+
+#: String 573
+msgid "Create new forum"
+msgstr "Crează forum nou"
+
+#: String 574
+msgid "Edit new forum"
+msgstr "Editează forumul nou"
+
+#: String 575
+msgid "Forum is updated."
+msgstr "Forumul este actualizat"
+
+#: String 576
+msgid "Forum deleted"
+msgstr "Forum şters"
+
+#: String 577
+msgid "Translations"
+msgstr "Traduceri"
+
+#: String 578
+msgid "Edit Translation"
+msgstr "Editare traducere"
+
+#: String 579
+msgid "Deleted expired cache"
+msgstr "Cache-ul expirat a fost şters"
+
+#: String 580
+msgid "All cache deleted"
+msgstr "Cache-ul a fost şters"
+
+#: String 581
+msgid "PHP Info"
+msgstr "Informaţii PHP"
+
+#: String 582
+msgid "System logs"
+msgstr "Log-uri de sistem"
+
+#: String 583
+msgid "Import tool for locations and categories"
+msgstr "Unealtă import categorii şi locaţii"
+
+#: String 584
+msgid "Cache"
+msgstr "Cache"
+
+#: String 585
+msgid "Database Optimized"
+msgstr "Baza de date a fost optimizată"
+
+#: String 586
+msgid "Black list"
+msgstr "Blacklist"
+
+#: String 587
+msgid "Language saved"
+msgstr "Limba a fost salvată"
+
+#: String 588
+msgid "User %s has been removed from black list."
+msgstr "Utilizatorul %s a fost eliminat din blacklist."
+
+#: String 589
+msgid "Tools"
+msgstr "Instrumente"
+
+#: String 590
+msgid "Optimize DB"
+msgstr "Optimizare DB"
+
+#: String 591
+msgid "Cannot delete widget %s"
+msgstr "Nu pot elimina widget-ul %s"
+
+#: String 592
+msgid "Widget %s deleted"
+msgstr "Widget-ul %s şters"
+
+#: String 593
+msgid "Published"
+msgstr "Publicat"
+
+#: String 594
+msgid "Ip address"
+msgstr "Adresă IP"
+
+#: String 595
+msgid "Status"
+msgstr "Stare"
+
+#: String 596
+msgid "Has images"
+msgstr "Conţine imagini"
+
+#: String 597
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Ceva n-a funcţionat corespunzător în timpul încărcării fotografiilor. Vă rugăm să verificaţi formatul acestora, înainte de publicare"
+
+#: String 598
+msgid "Is not of valid size. Size is limited to %s MB per image"
+msgstr "Nu este o dimensiune validă. Dimensiunea este limitată la %s MB per imagine."
+
+#: String 599
+msgid "Phone"
+msgstr "Telefon"
+
+#: String 600
+msgid "Address"
+msgstr "Adresă"
+
+#: String 601
+msgid "Location"
+msgstr "Locaţie"
+
+#: String 602
+msgid "Category"
+msgstr "Categorie"
+
+#: String 603
+msgid "Type"
+msgstr "Tip"
+
+#: String 604
+msgid "Title"
+msgstr "Titlu"
+
+#: String 605
+msgid "SEO title"
+msgstr "Titlu SEO"
+
+#: String 606
+msgid "Image folder is missing and cannot be created with mkdir. Please correct to be able to upload images."
+msgstr "Directorul imaginilor lipseşte sau nu poate fi creat cu mkdir. Te rugăm să corectezi asta pentru a putea încărca imagini."
+
+#: String 607
+msgid "Email"
+msgstr "E-mail"
+
+#: String 608
+msgid "FAQ"
+msgstr "FAQ"
+
+#: String 609
+msgid "Home"
+msgstr "Acasă"
+
+#: String 610
+msgid " Frequently Asked Questions - FAQ"
+msgstr "Întrebări Frecvente (FAQ)"
+
+#: String 611
+msgid "Publish new advertisement"
+msgstr "Publică anunţ nou"
+
+#: String 612
+msgid "This post has been considered as spam! We are sorry but we cant publish this advertisement."
+msgstr "Acest anunţ a fost considerat a fi SPAM! Ne cerem scuze, dar nu putem publica acest anunţ!"
+
+#: String 613
+msgid "Your profile has been disable for posting, due to recent spam content! If you think this is a mistake please contact us."
+msgstr "Profilul dvs. a fost dezactivat, datorită conţinutului nesolicitat (SPAM) publicat recent. Dacă  dvs. consideraţi că aceasta este o greşseală, vă rugăm să ne contactaţi."
+
+#: String 614
+msgid "has been disable for posting, due to recent spam content!"
+msgstr "a fost dezactivat, datorită conţinutului nesolicitat (SPAM) publicat recent."
+
+#: String 615
+msgid "Invalid Email"
+msgstr "E-mail invalid"
+
+#: String 616
+msgid "Role"
+msgstr "Rol"
+
+#: String 617
+msgid "Password"
+msgstr "Parolă"
+
+#: String 618
+msgid "Last modified"
+msgstr "Ultima actualizare"
+
+#: String 619
+msgid "Last login"
+msgstr "Ultima autentificare"
+
+#: String 620
+msgid "New profile has been created. Welcome "
+msgstr "A fost creat un profil nou. Bun venit"
+
+#: String 621
+msgid "User"
+msgstr "Utilizator"
+
+#: String 622
+msgid "Error on mail delivery, not sent"
+msgstr "Eroare la livrarea e-mailului. Acesta nu a fos trimis"
+
+#: String 623
+msgid "Error"
+msgstr "Eroare"
+
+#: String 624
+msgid "Warning"
+msgstr "ATENŢIE"
+
+#: String 625
+msgid "Success"
+msgstr "Succes"
+
+#: String 626
+msgid "search"
+msgstr "căutare"
+
+#: String 627
+msgid "maintenance"
+msgstr "întreţinere"
+
+#: String 628
+msgid "contact"
+msgstr "contact"
+
+#: String 629
+msgid "Info"
+msgstr "Info"
+
+#: String 630
+msgid "No sitemap generated"
+msgstr "Nu a fost generat nici un sitemap"
+
+#: String 631
+msgid "Application Execution"
+msgstr "Realizare cerere"
+
+#: String 632
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 633
+msgid "# items to display"
+msgstr "# elemente de afişat"
+
+#: String 634
+msgid "License validation error, please insert again."
+msgstr "Eroare validare licenţă, te rugăm s-o introduci din nou."
+
+#: String 635
+msgid "This license is in use in the theme %s"
+msgstr "Această licenţă este deja folsoită în tema %s"
+
+#: String 636
+msgid "publish new"
+msgstr "anunţ nou"
+
+#: String 637
+msgid "map"
+msgstr "hartă"
+
+#: String 638
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 639
+msgid "Parent deep"
+msgstr "Nivel părinte"
+
+#: String 640
+msgid "Description"
+msgstr "Descriere"
+
+#: String 641
+msgid "Price"
+msgstr "Preţ"
+
+#: String 642
+msgid "category"
+msgstr "categorie"
+
+#: String 643
+msgid "Parent"
+msgstr "Părinte"
+
+#: String 644
+msgid "Created"
+msgstr "Creat"
+
+#: String 645
+msgid "all"
+msgstr "toate"
+
+#: String 646
+msgid "page"
+msgstr "pagina"
+
+#: String 647
+msgid "Id"
+msgstr "ID-ul"
+
+#: String 648
+msgid "Name"
+msgstr "Nume"
+
+#: String 649
+msgid "Order"
+msgstr "Ordonare"
+
+#: String 650
+msgid "Advertisement is published. Congratulations!"
+msgstr "Anunţul a fost publicat. Felicitări şi succes!"
+
+#: String 651
+msgid "Advertisement is created but needs to be validated first before it is published."
+msgstr "Anunţul a fost creat, dar necesită validarea şi aprobarea lui de către un moderator/administrator, înainte ca acesta să fie publicat pe site."
+
+#: String 652
+msgid "Theme configuration updated"
+msgstr "Configurarea temei a fost actualizată"
+
+#: String 653
+msgid "Theme Options"
+msgstr "Opţiuni temă"
+
+#: String 654
+msgid "Mobile Theme updated"
+msgstr "Tema de mobil a fost actualizată"
+
+#: String 655
+msgid "Appearance configuration updated"
+msgstr "Configurarea aspectului a fost actualizat"
+
+#: String 656
+msgid "There was an error activating your license."
+msgstr "A apărut o eroare în timpul activării licenţei."
+
+#: String 657
+msgid "Theme activated, thanks."
+msgstr "Temă activată, îţi mulţumim!"
+
+#: String 658
+msgid "Themes"
+msgstr "Teme"
+
+#: String 659
+msgid "Passwords do not match"
+msgstr "Cele două parole nu se potrivesc"
+
+#: String 660
+msgid "Remember password"
+msgstr "Memorare parolă"
+
+#: String 661
+msgid "Login"
+msgstr "Autentificare"
+
+#: String 662
+msgid "Email to recover password sent"
+msgstr "E-mail-ul pentru recuperarea parolei, a fost trimis cu succes"
+
+#: String 663
+msgid "User not in database"
+msgstr "Utilizatorul nu se regăseşte în baza de date"
+
+#: String 664
+msgid "User already exists"
+msgstr "Utilizatorul există deja"
+
+#: String 665
+msgid "Theme License"
+msgstr "Licenţă temă"
+
+#: String 666
+msgid "Is not valid format, please use ZIP format"
+msgstr "Nu este un format valid, te rugăm să foloseşti formatul ZIP"
+
+#: String 667
+msgid "We had a problem downloading latest version, try later please."
+msgstr "Am întâmpinat unele erori la descărcarea ultimei versiuni, te rugăm să încerci din nou, mai târziu."
+
+#: String 668
+msgid "Software Updated to latest version!"
+msgstr "Software-ul a fost actualizat la ultima versiune!"
+
+#: String 669
+msgid "Themes Updated"
+msgstr "Teme actualizate"
+
+#: String 670
+msgid "Widgets"
+msgstr "Widget-uri"
+
+#: String 671
+msgid "Widget created in %s"
+msgstr "Widget creat în %s "
+
+#: String 672
+msgid "Widget %s saved in %s"
+msgstr "Widget-ul %s este salvat în %s"
+
+#: String 673
+msgid "Update"
+msgstr "Actualizare"
+
+#: String 674
+msgid "You are not using latest version of OC, please update."
+msgstr "Din ultimele verificări, se pare că nu folosiţi ultima versiune de OC. Vă recomandăm să actualizaţi la ultima versiune. "
+
+#: String 675
+msgid "You have succesfully installed the theme!"
+msgstr "Ai instalat cu succes această temă!"
+
+#: String 676
+msgid "Zip file failed to extract, please try again."
+msgstr "Eroare la extragerea fişierului ZIP, te rugăm să încerci din nou."
+
+#: String 677
+msgid "Theme downloaded"
+msgstr "Temă descărcată"
+
+#: String 678
+msgid "Theme could not be downloaded"
+msgstr "Tema nu poate fi descărcată"
+
+#: String 679
+msgid "Updates"
+msgstr "Actualizări"
+
+#: String 680
+msgid "Wrong email or password"
+msgstr "E-mail-ul sau parola sunt greşite"
+
+#: String 681
+msgid "Advanced Search"
+msgstr "Căutare avansată"
+
+#: String 682
+msgid "Order could not be loaded"
+msgstr "Ordonarea nu a putut fi încărcată"
+
+#: String 683
+msgid " category"
+msgstr "categorie"
+
+#: String 684
+msgid "Contact Us"
+msgstr "Contactaţi-ne"
+
+#: String 685
+msgid "Your message has been sent"
+msgstr "Mesajul dvs. a fost trimis"
+
+#: String 686
+msgid "This email has been considered as spam! We are sorry but we can not send this email."
+msgstr "Acest e-mail a fost considerat a fi SPAM! Ne cerem scuze pentru neplăcerile cauzate, dar nu putem trimite acest e-mail."
+
+#: String 687
+msgid "Message not sent"
+msgstr "Mesajul nu a fost trimis"
+
+#: String 688
+msgid "Advertisement to top"
+msgstr "Anunţ de top"
+
+#: String 689
+msgid "Advertisement to featured"
+msgstr "Anunţ recomandat"
+
+#: String 690
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Anunţul dvs. a fost trimis, dar necesită aprobarea lui de către un moderator/administrator. Vă mulţumim pentru răbdarea acordată."
+
+#: String 691
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Anunţul dvs. este publicat, dar va trebui activat. Vă rugăm să verificaţi căsuţa de e-mail!"
+
+#: String 692
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Anunţul dvs. a fost publicat. Felicitări!"
+
+#: String 693
+msgid "Captcha is not correct"
+msgstr "Cod captcha introdus nu este corect"
+
+#: String 694
+msgid "Map"
+msgstr "Hartă"
+
+#: String 695
+msgid "Check the form for errors"
+msgstr "Verificaţi formularul de erori"
+
+#: String 696
+msgid "You made some mistake"
+msgstr "Aţi făcut o greşeală"
+
+#: String 697
+msgid "Latest post published"
+msgstr "Ultimele anunţuri publicate"
+
+#: String 698
+msgid "Latest published"
+msgstr "Ultimele publicate"
+
+#: String 699
+msgid "Page "
+msgstr "Pagină"
+
+#: String 700
+msgid "Advertisement %s is sold out!"
+msgstr "Anunţul %s nu mai este disponibil!"
+
+#: String 701
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Anunţul dumneavoastră este activat cu succes! Vă mulţumim!"
+
+#: String 702
+msgid "Register new user"
+msgstr "Înregistrare utilizator nou"
+
+#: String 703
+msgid "Error: please try again!"
+msgstr "Eroare: te rugăm să încerci din nou!"
+
+#: String 704
+msgid "You are unsubscribed"
+msgstr "Acum eşti dezabonat"
+
+#: String 705
+msgid "Thank you for subscribing"
+msgstr "îţi mulţumim pentru abonare!"
+
+#: String 706
+msgid "Default theme selected"
+msgstr "Tema standard selectată"
+
+#: String 707
+msgid "We need your email address to complete"
+msgstr "Avem nevoie de adresa ta de e-mail pentru a putea continua"
+
+#: String 708
+msgid "Welcome!"
+msgstr "Bine aţi venit!"
+
+#: String 709
+msgid "New Forum Topic"
+msgstr "Subiect nou forum"
+
+#: String 710
+msgid "Reply added, thanks!"
+msgstr "Răspuns adăugat, mulţumim!"
+
+#: String 711
+msgid "Sample data"
+msgstr "Date de probă (mostră)"
+
+#: String 712
+msgid "Creates few sample categories to start with"
+msgstr "Crează câteva categorii de probă pentru a începe "
+
+#: String 713
+msgid "Create DB."
+msgstr "Crează DB (baza de date)"
+
+#: String 714
+msgid "Database charset"
+msgstr "Setul de caractere al bazei de date"
+
+#: String 715
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "Permite instalări multiple într-o singură bază de date, dacă atribuiţi fiecăruia câte un prefix unic"
+
+#: String 716
+msgid "Table prefix"
+msgstr "Prefix tabel"
+
+#: String 717
+msgid "User name"
+msgstr "Nume utilizator"
+
+#: String 718
+msgid "Host name"
+msgstr "Numele gazdei"
+
+#: String 719
+msgid "Hash Key"
+msgstr "Cheie Hash"
+
+#: String 720
+msgid "Admin Password"
+msgstr "Paroă Admin"
+
+#: String 721
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "Aveţi nevoie de o cheie Hash pentru re-instalare. Puteţi găsi această valoare, în caz că aţi pierdut-o, la"
+
+#: String 722
+msgid "Database Configuration"
+msgstr "Configurarea bazei de date"
+
+#: String 723
+msgid "How to create a MySQL database?"
+msgstr "Cum să creez o bază de date MySQL?"
+
+#: String 724
+msgid "Only numbers, letters, and underscores"
+msgstr "Numai cifre, litere şi underscore"
+
+#: String 725
+msgid "We have detected some incompatibilities, installation may not work as expected but you can try."
+msgstr "Am detectat unele incompatibilităţi, instalarea s-ar putea să nu decurgă aşa cum ne-am aştepta noi, dar dacă doreşti, putem încerc! :-)"
+
+#: String 726
+msgid "None"
+msgstr "Nici una"
+
+#: String 727
+msgid "Where you want the sidebar to appear"
+msgstr "Unde doriţi să apară bara laterală"
+
+#: String 728
+msgid "Right side"
+msgstr "Lateral dreapta"
+
+#: String 729
+msgid "Left side"
+msgstr "Lateral stânga"
+
+#: String 730
+msgid "Default"
+msgstr "Standard"
+
+#: String 731
+msgid "Display slider in listing"
+msgstr "Afişează slider-ul în anunţuri"
+
+#: String 732
+msgid "Numbers of ads to display in home slider"
+msgstr "Numărul de anunţuri afişate în slider-ul principal"
+
+#: String 733
+msgid "Short description that appears after the site name."
+msgstr "O descriere scurtă, care apare după numele site-ului dvs. "
+
+#: String 734
+msgid "Display breadcrumb"
+msgstr "Afişare breadcrumb"
+
+#: String 735
+msgid "Change the admin color theme"
+msgstr "Schimbaţi culoarea temei - pentru admin"
+
+#: String 736
+msgid "Yes"
+msgstr "Da"
+
+#: String 737
+msgid "No"
+msgstr "Nu"
+
+#: String 738
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL-ul ogo-ului dvs. Dimensiunea recomandată este de 250px x 40px. Lăsaţi necompletat pentru nici unul."
+
+#: String 739
+msgid "Administrator email"
+msgstr "E-mail Administrator"
+
+#: String 740
+msgid "Reinstall System"
+msgstr "Reinstalare sistem"
+
+#: String 741
+msgid "Make a donation"
+msgstr "Fă o donaţie"
+
+#: String 742
+msgid "Go to Your Website"
+msgstr "Mergi la site-ul tău"
+
+#: String 743
+msgid "We really appreciate it"
+msgstr "Am aprecia cu adevărat"
+
+#: String 744
+msgid "Software Requirements"
+msgstr "Cerinţe Software"
+
+#: String 745
+msgid "Thanks for using Open Classifieds."
+msgstr "Vă mulţumim că folosiţi Open Classifieds."
+
+#: String 746
+msgid "In this page you can see the requirements checks we do before we install."
+msgstr "În această pagină puteţi vedea verificările cerinţelor pe care noi le facem înainte de instalare"
+
+#: String 747
+msgid "Please now erase the folder"
+msgstr "Acum, vă rugăm să ştergeţi directorul"
+
+#: String 748
+msgid "Installation done"
+msgstr "Instalare reuşită"
+
+#: String 749
+msgid "Requirements"
+msgstr "Cerinţe"
+
+#: String 750
+msgid "Support"
+msgstr "Suport"
+
+#: String 751
+msgid "About"
+msgstr "Despre"
+
+#: String 752
+msgid "We install it for you, Buy now!"
+msgstr "Îl vom instalat noi pentru tine, cumpără acum!"
+
+#: String 753
+msgid "Congratulations"
+msgstr "Felicitări"
+
+#: String 754
+msgid "Your installation version is"
+msgstr "Versiunea instalată de dvs. este"
+
+#: String 755
+msgid "You need help or you have some questions"
+msgstr "Pentru orice alte întrebări şi/sau nelămuriri ne găseşti"
+
+#: String 756
+msgid "Site URL"
+msgstr "URL-ul site-ului"
+
+#: String 757
+msgid "Site Language"
+msgstr "Limba site-ului"
+
+#: String 758
+msgid "Installation Folder"
+msgstr "Directorul de instalare"
+
+#: String 759
+msgid "Site Name"
+msgstr "Numele site-ului"
+
+#: String 760
+msgid "New Install"
+msgstr "Instalare nouă"
+
+#: String 761
+msgid "Time Zone"
+msgstr "Fus Orar"
+
+#: String 762
+msgid "Site Configuration"
+msgstr "Configurare site"
+
+#: String 763
+msgid "If you need any help please check our professional services"
+msgstr "Dacă aveţi nevoie de ajutor, vă rugăm să solicitaţi serviciile noastre profesionale"
+
+#: String 764
+msgid "Advanced options"
+msgstr "Opţiuni avansate"
+
+#: String 765
+msgid "Latest News"
+msgstr "Ultimele noutăţi"
+
+#: String 766
+msgid "Welcome to"
+msgstr "Bun venit la "
+
+#: String 767
+msgid "installation"
+msgstr "instalare"
+
+#: String 768
+msgid "Welcome to the super easy and fast installation"
+msgstr "Bun venit la cea mai rapidă şi uşoară instalare"
+
+#: String 769
+msgid "Featured Random"
+msgstr "Promovări aleatorii"
+
+#: String 770
+msgid "Header banner, allows HTML"
+msgstr "Banner antet (Header) - permite HTML"
+
+#: String 771
+msgid "Type your password twice"
+msgstr "Tastaţi parola de două ori"
+
+#: String 772
+msgid "Repeat password"
+msgstr "Repetaţi parola"
+
+#: String 773
+msgid "Social Login"
+msgstr "Autentificare Socială"
+
+#: String 774
+msgid "Send"
+msgstr "Trimite"
+
+#: String 775
+msgid "Remember me"
+msgstr "Ţine-mă minte"
+
+#: String 776
+msgid "Forgot password?"
+msgstr "Aţi uitat parola?"
+
+#: String 777
+msgid "New password"
+msgstr "Parolă nouă"
+
+#: String 778
+msgid "Buy Now"
+msgstr "Cumparaţi acum"
+
+#: String 779
+msgid "We do not have any advertisements in this category"
+msgstr "Nu există niciun anunţ în această categorie"
+
+#: String 780
+msgid "Read more"
+msgstr "Citeşte mai multe"
+
+#: String 781
+msgid "Your Advertisement can go on top again! For only "
+msgstr "Anunţul tău poate fi în top din nou! Pentru doar"
+
+#: String 782
+msgid "Your Advertisement can go to featured! For only "
+msgstr "Anunţul tău poate fi promovat! Pentru doar "
+
+#: String 783
+msgid "Hits"
+msgstr "Vizualizari"
+
+#: String 784
+msgid "Mobile Version"
+msgstr "Versiunea mobilă"
+
+#: String 785
+msgid "Header tool bar gets fixed in the top"
+msgstr "Bara de instrumente din antet devine fixată în partea de sus"
+
+#: String 786
+msgid "Image logo URL"
+msgstr "URL logo"
+
+#: String 787
+msgid "Select a color scheme"
+msgstr "Selectează o schemă de culori"
+
+#: String 788
+msgid "Web site slogan"
+msgstr "Slogan site"
+
+#: String 789
+msgid "Set max layout width in pixels"
+msgstr "Setează lăţimea (width) maximă a layout-ului - în pixeli"
+
+#: String 790
+msgid "Hide"
+msgstr "Ascunde"
+
+#: String 791
+msgid "Turn of sidebar in advetrisement page"
+msgstr "Dezactivează bara laterală în pagina anunţurilor"
+
+#: String 792
+msgid "Download"
+msgstr "Descărcaţi"
+
+#: String 793
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 794
+msgid "Grid"
+msgstr "Tabel"
+
+#: String 795
+msgid "Default state for list/grid in listing"
+msgstr "Statutul standard pentru afişarea ca listă/tabel"
+
+#: String 796
+msgid "Infinite scroll"
+msgstr "Scroll infinit"
+
+#: String 797
+msgid "Content shift right to left"
+msgstr "Conţinutul de la dreapta la stânga"
+
+#: String 798
+msgid "Publish new "
+msgstr "Anunţ nou"
+
+#: String 799
+msgid "Publish Date"
+msgstr "Data publicării"
+
+#: String 800
+msgid "Oldest"
+msgstr "Cele mai vechi"
+
+#: String 801
+msgid "Register"
+msgstr "Înregistrare"
+
+#: String 802
+msgid "Forgot password"
+msgstr "Am uitat parola"
+
+#: String 803
+msgid "Search results"
+msgstr "Rezultatele căutării"
+
+#: String 804
+msgid "Selected Category does not exists, please select another one!"
+msgstr "Categoria selectată nu există, te rugăm să selectezi alta!"
+
+#: String 805
+msgid "Select another category"
+msgstr "Selectează altă categorie!"
+
+#: String 806
+msgid "Selected Category"
+msgstr "Categorie selectată"
+
+#: String 807
+msgid "Listing"
+msgstr "Anunţuri"
+
+#: String 808
+msgid "Publish new"
+msgstr "Anunţ nou"
+
+#: String 809
+msgid "Listing random position banner, allows HTML"
+msgstr "Banner aleator în anunţ - permite HTML"
+
+#: String 810
+msgid "Footer banner, allows HTML"
+msgstr "Banner subsol (footer) - permite HTML"
+
+#: String 811
+msgid "Uses CDN for CSS/JS"
+msgstr "Foloseşte CDN pentru CSS/JS"
+
+#: String 812
+msgid "We detected you are currently off-line, please connect to gain full experience."
+msgstr "Am detectat că sunteţi off-line. Te rugăm să te conectezi din nou pentru a te bucura de toate facilităţile!"
+
+#: String 813
+msgid "I accept"
+msgstr "Accept"
+
+#: String 814
+msgid "Selected location"
+msgstr "Locaţia selectată"
+
+#: String 815
+msgid "Images"
+msgstr "Imagini"
+
+#: String 816
+msgid "Name (Z-A)"
+msgstr "Nume (Z-A)"
+
+#: String 817
+msgid "Name (A-Z)"
+msgstr "Nume (A-Z)"
+
+#: String 818
+msgid "Price (Low)"
+msgstr "Preţ (descrescător)"
+
+#: String 819
+msgid "Price (High)"
+msgstr "Preţ (crescător)"
+
+#: String 820
+msgid "Newest"
+msgstr "Cele mai noi"
+
+#: String 821
+msgid "Sort"
+msgstr "Ordonare"
+
+#: String 822
+msgid "New Advertisement"
+msgstr "Anunţ nou"
+
+#: String 823
+msgid "In Stock"
+msgstr "În sto"
+
+#: String 824
+msgid "Select"
+msgstr "Selectează"
+
+#: String 825
+msgid "Website"
+msgstr "Website"
+
+#: String 826
+msgid "Terms of service"
+msgstr "Condiţii de utilizare"
+
+#: String 827
+msgid "User account will be created"
+msgstr "Contul de utilizator va fi creat"
+
+#: String 828
+msgid "Install"
+msgstr "Instalează"
+
+#: String 829
+msgid "Toggle navigation"
+msgstr "Comutare navigare"
+
+#: String 830
+msgid "Ads reader"
+msgstr "Cititor anunţuri"
+
+#: String 831
+msgid "Categories title displayed"
+msgstr "Titlul categoriilor afişate"
+
+#: String 832
+msgid "Type ads to display"
+msgstr "Tip anunţuri"
+
+#: String 833
+msgid "Latest Ads"
+msgstr "Ultimele anunţuri"
+
+#: String 834
+msgid "Featured Ads"
+msgstr "Anunţuri recomandate"
+
+#: String 835
+msgid "Popular Ads last month"
+msgstr "Anunţuri populare - ultima lună"
+
+#: String 836
+msgid "Display categories"
+msgstr "Afişare categorii"
+
+#: String 837
+msgid "HTML/text content here"
+msgstr "Aici conţinut HTML/Text "
+
+#: String 838
+msgid "Zoom in the map"
+msgstr "Zoom hartă"
+
+#: String 839
+msgid "Map height in pixels"
+msgstr "Înălţimea hărţii în pixeli"
+
+#: String 840
+msgid "Text"
+msgstr "Text"
+
+#: String 841
+msgid "HTML text area"
+msgstr "Zonă text HTML"
+
+#: String 842
+msgid "Text title displayed"
+msgstr "Titlul text"
+
+#: String 843
+msgid "Number of ads to display"
+msgstr "Număr de anunţuri afişate"
+
+#: String 844
+msgid "Ads title displayed"
+msgstr "Titlul anunţului"
+
+#: String 845
+msgid "Forum topic reader"
+msgstr "Cititor subiect forum"
+
+#: String 846
+msgid "Forum Topics"
+msgstr "Subiecte forum"
+
+#: String 847
+msgid "Forum Limit, if none display all"
+msgstr "Limită forum, dacă nu este selectată, vor fi afişate toate"
+
+#: String 848
+msgid "forum title displayed"
+msgstr "titlu forum"
+
+#: String 849
+msgid "RSS reader with cache"
+msgstr "Cititor flux RSS (cu cache)"
+
+#: String 850
+msgid "RSS"
+msgstr "Flux RSS"
+
+#: String 851
+msgid "Share on social networks."
+msgstr "Distribuie pe reţelele sociale"
+
+#: String 852
+msgid "Share"
+msgstr "Distribuie"
+
+#: String 853
+msgid "Locations title displayed"
+msgstr "Titlu locaţiilor"
+
+#: String 854
+msgid "Display Locations"
+msgstr "Arată locaţiile"
+
+#: String 855
+msgid "Contact"
+msgstr "Contact"
+
+#: String 856
+msgid "Contact form"
+msgstr "Formular Contact"
+
+#: String 857
+msgid "Title displayed"
+msgstr "Titlul afişat"
+
+#: String 858
+msgid "Map title displayed"
+msgstr "Titlul hărţii"
+
+#: String 859
+msgid "Google Maps with ads"
+msgstr "Hărţi Google cu anunţuri"
+
+#: String 860
+msgid "Previous"
+msgstr "Anterioare"
+
+#: String 861
+msgid "First"
+msgstr "Primele"
+
+#: String 862
+msgid "Next"
+msgstr "Următoarele"
+
+#: String 863
+msgid "Last"
+msgstr "Ultimele"
+
+#: String 864
+msgid "Other"
+msgstr "Altele"
+
+#: String 865
+msgid "Submit"
+msgstr "Trimite"
+
+#: String 866
+msgid "Panel"
+msgstr "Panou"
+
+#: String 867
+msgid "Access not allowed"
+msgstr "Accesul nu este permis"
+
+#: String 868
+msgid "User Profile"
+msgstr "Profil"
+
+#: String 869
+msgid "Blog"
+msgstr "Blog"
+
+#: String 870
+msgid "Some errors in the form"
+msgstr "Unele erori în formular"
+
+#: String 871
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Sunteţi în modul de mentenanţă, numai dvs. puteţi vizualiza site-ul"
+
+#: String 872
+msgid "Item created"
+msgstr "Element creat"
+
+#: String 873
+msgid "Pages"
+msgstr "Pagini"
+
+#: String 874
+msgid "Display CMS pages"
+msgstr "Afişare pagini CMS"
+
+#: String 875
+msgid "Maximum Price"
+msgstr "Preţ maxim"
+
+#: String 876
+msgid "0"
+msgstr "0"
+
+#: String 877
+msgid "1000"
+msgstr "1000"
+
+#: String 878
+msgid "Increment Step"
+msgstr "Nivel incrementare"
+
+#: String 879
+msgid "100"
+msgstr "100"
+
+#: String 880
+msgid "Minimum Price"
+msgstr "Preţ minim"
+
+#: String 881
+msgid "Subscribe title displayed"
+msgstr "Titlu înscriere"
+
+#: String 882
+msgid "Subscribe"
+msgstr "Abonare"
+
+#: String 883
+msgid "Page title displayed"
+msgstr "Titlul paginii afişate"
+
+#: String 884
+msgid "Subscribe for categories"
+msgstr "Abonează-te la categorii"
+
+#: String 885
+msgid "FALSE"
+msgstr "FALSE"
+
+#: String 886
+msgid "TRUE"
+msgstr "TRUE"
+
+#: String 887
+msgid "Number of items to display"
+msgstr "Numărul elemetelor afişate"
+
+#: String 888
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Cât de des se reîmprospătează fluxul RSS, în secunde"
+
+#: String 889
+msgid "Deactivate"
+msgstr "Dezactivat"
+
+#: String 890
+msgid "Deactivate?"
+msgstr "Dezactivaţi?"
+
+#: String 891
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 892
+msgid "Spam"
+msgstr "Spam"
+
+#: String 893
+msgid "Delete"
+msgstr "Şterge"
+
+#: String 894
+msgid "Delete?"
+msgstr "Ştergeţi?"
+
+#: String 895
+msgid "Go Featured!"
+msgstr "Promovează-mă!"
+
+#: String 896
+msgid "Go Top!"
+msgstr "Du-mă în Top!"
+
+#: String 897
+msgid "Send Message"
+msgstr "Trimite Mesaj"
+
+#: String 898
+msgid "Captcha"
+msgstr "Cod Captcha"
+
+#: String 899
+msgid "views"
+msgstr "vizualizări"
+
+#: String 900
+msgid "ads"
+msgstr "anunţuri"
+
+#: String 901
+msgid "users"
+msgstr "utilizatori"
+
+#: String 902
+msgid "Unsubscribe"
+msgstr "Dezabonare"
+
+#: String 903
+msgid "Advertisement Title"
+msgstr "Titlu anunţ"
+
+#: String 904
+msgid "Database name"
+msgstr "Numele bazei de date"
+
+#: String 905
+msgid "Cannot connect to server"
+msgstr "Nu se poate conecta la server"
+
+#: String 906
+msgid "No database name was given"
+msgstr "Nu a fost specificat nici un nume al bazei de date"
+
+#: String 907
+msgid "Available databases"
+msgstr "Baze de date disponibile"
+
+#: String 908
+msgid "Installation"
+msgstr "Instalare"
+
+#: String 909
+msgid "Invalid query"
+msgstr "Interogare invalidă"
+
+#: String 910
+msgid "new topic"
+msgstr "subiect nou"
+
+#: String 911
+msgid "Loaded extensions"
+msgstr "Extensii încărcate"
+
+#: String 912
+msgid "Price to"
+msgstr "Preţ până al"
+
+#: String 913
+msgid "Price from"
+msgstr "Preţ de la "
+
+#: String 914
+msgid "to"
+msgstr "la"
+
+#: String 915
+msgid "Environment"
+msgstr "Mediu"
+
+#: String 916
+msgid "Included files"
+msgstr "Fişiere incluse"
+
+#: String 917
+msgid "File"
+msgstr "Fişier"
+
+#: String 918
+msgid "Message"
+msgstr "Mesaj"
+
+#: String 919
+msgid "Tools title displayed"
+msgstr "Titlu unealtă"
+
+#: String 920
+msgid "Admin Tools to editing ads"
+msgstr "Uneltele administratorului pentru editarea anunţurilor"
+
+#: String 921
+msgid "Ad Tools"
+msgstr "Unelte Anunţ"
+
+#: String 922
+msgid "Search"
+msgstr "Caută"
+
+#: String 923
+msgid "Custom fields in search"
+msgstr "Câmpuri personalizate în căutare"
+
+#: String 924
+msgid "Advanced option"
+msgstr "Opţiune avansată"
+
+#: String 925
+msgid "Chat height in PX"
+msgstr "Înălţime (height) chat în pixeli"
+
+#: String 926
+msgid "Name of your chat room/channel"
+msgstr "Numele camerei/canalului de chat"
+
+#: String 927
+msgid "RSS title displayed"
+msgstr "Titlul fluxului RSS afişat"
+
+#: String 928
+msgid "RSS url address"
+msgstr "Adresa URL a fluxului RSS"
+
+#: String 929
+msgid "Chat"
+msgstr "Chat"
+
+#: String 930
+msgid "Add a chat room"
+msgstr "Adaugă o cameră chat"
+
+#: String 931
+msgid "Chat room"
+msgstr "Cameră chat"
+
+#: String 932
+msgid "Display site stats"
+msgstr "Afişează statisticile site-ului"
+
+#: String 933
+msgid "Display Featured Ads"
+msgstr "Afişează anunţurile promovate"
+
+#: String 934
+msgid "Add latest comments"
+msgstr "Adaugă ultimele comentarii"
+
+#: String 935
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 936
+msgid "Comments"
+msgstr "Comentarii"
+
+#: String 937
+msgid "Number of comments to display"
+msgstr "Numărul de comentarii afişate"
+
+#: String 938
+msgid "Subject"
+msgstr "Subiect"
+
+#: String 939
+msgid "Parent frame"
+msgstr "Cadru principal"
+
+#: String 940
+msgid "New tab or window"
+msgstr "Tab nou sau fereastră nouă"
+
+#: String 941
+msgid "Featured"
+msgstr "Recomandat(e)"
+
+#: String 942
+msgid "Featured title displayed"
+msgstr "Titlu promovat"
+
+#: String 943
+msgid "Links"
+msgstr "Link-uri"
+
+#: String 944
+msgid "Links title displayed"
+msgstr "Titlu link-uri"
+
+#: String 945
+msgid "Target"
+msgstr "Ţintă"
+
+#: String 946
+msgid "Hello, world"
+msgstr "Bună ziua, lume"
+

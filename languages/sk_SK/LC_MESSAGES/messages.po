@@ -1,0 +1,2204 @@
+#: String 0
+msgid "First"
+msgstr "Prvý"
+
+#: String 1
+msgid "Previous"
+msgstr "Predchádzajúci"
+
+#: String 2
+msgid "Next"
+msgstr "Ďalší"
+
+#: String 3
+msgid "Last"
+msgstr "Posledný"
+
+#: String 4
+msgid "Submit"
+msgstr "Odoslať"
+
+#: String 5
+msgid "Other"
+msgstr "Ostatné"
+
+#: String 6
+msgid "Home"
+msgstr "Domov"
+
+#: String 7
+msgid "views"
+msgstr "zobrazenie"
+
+#: String 8
+msgid "ads"
+msgstr "Inzercia"
+
+#: String 9
+msgid "users"
+msgstr "užívatelia"
+
+#: String 10
+msgid "# items to display"
+msgstr "# Položky na zobrazenie"
+
+#: String 11
+msgid "Disqus"
+msgstr "Disqus"
+
+#: String 12
+msgid "Add latest comments"
+msgstr "Najnovšie komentáre"
+
+#: String 13
+msgid "Comments"
+msgstr "Komentáre"
+
+#: String 14
+msgid "Title displayed"
+msgstr "Nadpis"
+
+#: String 15
+msgid "Number of comments to display"
+msgstr "Počet vyobrayených komentárov "
+
+#: String 16
+msgid "RSS"
+msgstr "RSS"
+
+#: String 17
+msgid "RSS reader with cache"
+msgstr "RSS s cache"
+
+#: String 18
+msgid "Number items to display"
+msgstr "Počet zobrazených položiek"
+
+#: String 19
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Ako často obnoviť RSS v sekundách"
+
+#: String 20
+msgid "RSS url address"
+msgstr "RSS url adresa"
+
+#: String 21
+msgid "RSS title displayed"
+msgstr "Nadpis RSS "
+
+#: String 22
+msgid "Map"
+msgstr "Mapa"
+
+#: String 23
+msgid "Google Maps with ads"
+msgstr "Google Maps s reklamami"
+
+#: String 24
+msgid "Map title displayed"
+msgstr "Nadpis Map"
+
+#: String 25
+msgid "Map height in pixels"
+msgstr "Výška mapy v pixelech"
+
+#: String 26
+msgid "Zoom in the map"
+msgstr "Zväčšiť mapu"
+
+#: String 27
+msgid "Text"
+msgstr "Text"
+
+#: String 28
+msgid "HTML textarea"
+msgstr "HTML textová oblasť"
+
+#: String 29
+msgid "Text title displayed"
+msgstr "Nadpis textu"
+
+#: String 30
+msgid "HTML/text content here"
+msgstr "Obsah HTML / text  sem"
+
+#: String 31
+msgid "Categories"
+msgstr "Kategórie"
+
+#: String 32
+msgid "Display categories"
+msgstr "Zobrazenie kategórií"
+
+#: String 33
+msgid "Categories title displayed"
+msgstr "Nadpis kategórií"
+
+#: String 34
+msgid "Ads"
+msgstr "Inzeráty"
+
+#: String 35
+msgid "Ads reader"
+msgstr "Zobrazenie inzerátov"
+
+#: String 36
+msgid "Type ads to display"
+msgstr "Typ zobrazovaných inzerátov"
+
+#: String 37
+msgid "Latest Ads"
+msgstr "Najnovšie inzeráty"
+
+#: String 38
+msgid "Popular Ads last month"
+msgstr "Obľúbené inzeráty za posledný mesiac"
+
+#: String 39
+msgid "Featured Ads"
+msgstr "Zvýhodnené Inzeráty"
+
+#: String 40
+msgid "Number of ads to display"
+msgstr "Počet zobrazovaných inzerátov"
+
+#: String 41
+msgid "Ads title displayed"
+msgstr "Nadpis inzerátov"
+
+#: String 42
+msgid "Pages"
+msgstr "Stránky"
+
+#: String 43
+msgid "Display CMS pages"
+msgstr "Zobrazenie CMS stránok"
+
+#: String 44
+msgid "Page title displayed"
+msgstr "Nadpis stránok"
+
+#: String 45
+msgid "Share"
+msgstr "Zdieľať"
+
+#: String 46
+msgid "Share on social networks."
+msgstr "Zdieľanie na sociálných sieťach."
+
+#: String 47
+msgid "Stats"
+msgstr "Štatistiky"
+
+#: String 48
+msgid "Display site stats"
+msgstr "Zobrazenie štatistiky webu"
+
+#: String 49
+msgid "Locations"
+msgstr "Miesta"
+
+#: String 50
+msgid "Display Locations"
+msgstr "Zobrazenie miest"
+
+#: String 51
+msgid "Locations title displayed"
+msgstr "Nadpis miesta"
+
+#: String 52
+msgid "Benchmark"
+msgstr "Benchmark"
+
+#: String 53
+msgid "Application Execution"
+msgstr "Spustenie aplikácie"
+
+#: String 54
+msgid "Environment"
+msgstr "Prostredie"
+
+#: String 55
+msgid "Included files"
+msgstr "Zahrnuté súbory"
+
+#: String 56
+msgid "Loaded extensions"
+msgstr "Nahrané rozšírenia"
+
+#: String 57
+msgid "No sitemap generated"
+msgstr "Nie je  vytvorená mapa stránok"
+
+#: String 58
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Ste v režime údržby, webové stránky môžete vidieť len Vy"
+
+#: String 59
+msgid "User"
+msgstr "Užívateľ"
+
+#: String 60
+msgid "Category"
+msgstr "Kategórie"
+
+#: String 61
+msgid "Location"
+msgstr "Miesto"
+
+#: String 62
+msgid "Type"
+msgstr "Typ"
+
+#: String 63
+msgid "Title"
+msgstr "Názov"
+
+#: String 64
+msgid "SEO title"
+msgstr "SEO názov"
+
+#: String 65
+msgid "Description"
+msgstr "Popis"
+
+#: String 66
+msgid "Address"
+msgstr "Adresa"
+
+#: String 67
+msgid "Price"
+msgstr "Cena"
+
+#: String 68
+msgid "Phone"
+msgstr "Telefón"
+
+#: String 69
+msgid "Ip address"
+msgstr "IP adresa"
+
+#: String 70
+msgid "Created"
+msgstr "Vytvorené"
+
+#: String 71
+msgid "Published"
+msgstr "Vydané"
+
+#: String 72
+msgid "Status"
+msgstr "Stav"
+
+#: String 73
+msgid "Has images"
+msgstr "Má obrázkov"
+
+#: String 74
+msgid "Name"
+msgstr "Meno"
+
+#: String 75
+msgid "Email"
+msgstr "E-mail"
+
+#: String 76
+msgid "Password"
+msgstr "Heslo"
+
+#: String 77
+msgid "Role"
+msgstr "Rola"
+
+#: String 78
+msgid "Last modified"
+msgstr "Posledná úprava"
+
+#: String 79
+msgid "Last login"
+msgstr "Posledné prihlásenie"
+
+#: String 80
+msgid "Parent"
+msgstr "Nadradená"
+
+#: String 81
+msgid "Parent deep"
+msgstr "Nadradená hĺbka/úroveň"
+
+#: String 82
+msgid "Seoname"
+msgstr "Seo meno v url"
+
+#: String 83
+msgid "Id"
+msgstr "Id"
+
+#: String 84
+msgid "Order"
+msgstr "Objednávka"
+
+#: String 85
+msgid "Latest published"
+msgstr "Najnovšie"
+
+#: String 86
+msgid "all"
+msgstr "Všetky"
+
+#: String 87
+msgid "Page "
+msgstr "Strana"
+
+#: String 88
+msgid "Your advertisement is successfully activated! Thank you!"
+msgstr "Váš inzerát bol úspěšne aktivovaný! Ďakujeme!"
+
+#: String 89
+msgid "Advertisement is received, but first administrator needs to validate. Thank you for being patient!"
+msgstr "Inzerát bol odoslaný, ale musí ho ešte schváliť administrátor. Ďakujeme za trpezlivosť!"
+
+#: String 90
+msgid "Advanced Search"
+msgstr "Rozšírené hľadanie"
+
+#: String 91
+msgid "We did not find any advertisements for your search."
+msgstr "Pre Vaše hľadanie sme nenašli žiadný inzerát."
+
+#: String 92
+msgid "User Profile"
+msgstr "Profil užívateľa"
+
+#: String 93
+msgid "Contact Us"
+msgstr "Napíšte nám"
+
+#: String 94
+msgid "Your message has been sent"
+msgstr "Vaša správa bola odoslaná."
+
+#: String 95
+msgid "Message not sent"
+msgstr "Správa nebola odoslaná."
+
+#: String 96
+msgid "Check the form for errors"
+msgstr "Skontrolujte formulár, či neobsahuje chyby"
+
+#: String 97
+msgid "You made some mistake"
+msgstr "Urobili ste nejakú chybu"
+
+#: String 98
+msgid "Advertisement to top"
+msgstr "Inzerát na topovanie"
+
+#: String 99
+msgid "Advertisement to featured"
+msgstr "Inzerát na zvýhodnenie"
+
+#: String 100
+msgid " category"
+msgstr "kategória"
+
+#: String 101
+msgid "Order could not be loaded"
+msgstr "Obednávka sa nedá načítať"
+
+#: String 102
+msgid "Widgets"
+msgstr "Widgety"
+
+#: String 103
+msgid "Widget parameter missing"
+msgstr "Chýba parameter widgetu"
+
+#: String 104
+msgid "Saved"
+msgstr "Uložené"
+
+#: String 105
+msgid "Settings"
+msgstr "Nastavenia"
+
+#: String 106
+msgid "Advertisement"
+msgstr "Inzerát"
+
+#: String 107
+msgid "Email Configuration updated"
+msgstr "Nastavenie Emailu aktualizované"
+
+#: String 108
+msgid "General"
+msgstr "Všeobecné"
+
+#: String 109
+msgid "General Configuration updated"
+msgstr "Všeobecné nastavenie aktualizované"
+
+#: String 110
+msgid "Payments"
+msgstr "Platby"
+
+#: String 111
+msgid "Updates"
+msgstr "Aktualizácie"
+
+#: String 112
+msgid "You are not using latest version of OC, please update."
+msgstr "Nepoužívate poslednú verziu OC, prosím aktualizujte vašu inštaláciu."
+
+#: String 113
+msgid "Updated"
+msgstr "Aktualizované"
+
+#: String 114
+msgid "Nothing to Update"
+msgstr "Nie je čo aktualizovať"
+
+#: String 115
+msgid "Wrong email or password"
+msgstr "Chybný email, alebo heslo"
+
+#: String 116
+msgid "Login"
+msgstr "Prihlásiť sa"
+
+#: String 117
+msgid "Remember password"
+msgstr "Zapamätať heslo"
+
+#: String 118
+msgid "Email to recover password sent"
+msgstr "Email na obnovenie hesla bol odeslaný"
+
+#: String 119
+msgid "User not in database"
+msgstr "Užívateľ nie je v databáze"
+
+#: String 120
+msgid "Email required"
+msgstr "Email je povinný"
+
+#: String 121
+msgid "User already exists"
+msgstr "Užívateľ už existuje"
+
+#: String 122
+msgid "Welcome!"
+msgstr "Vitajte!"
+
+#: String 123
+msgid "Passwords do not match"
+msgstr "Heslá sa nezhodujú"
+
+#: String 124
+msgid "Register new user"
+msgstr "Registrovať nového užívateľa"
+
+#: String 125
+msgid "Welcome"
+msgstr "Vitajte"
+
+#: String 126
+msgid "Advertisements"
+msgstr "Inzeráty"
+
+#: String 127
+msgid "Moderation"
+msgstr "Moderovanie"
+
+#: String 128
+msgid "You do not have any advertisements waiting to be published"
+msgstr "Nemáte žiadne inzeráty čakajúce na publikovanie"
+
+#: String 129
+msgid "Warning, something went wrong while deleting"
+msgstr "Upozornenie. Pri mazaní sa objavila chyba"
+
+#: String 130
+msgid "Advertisement is deleted"
+msgstr "Inzerát je vymazaný"
+
+#: String 131
+msgid "You dont have permission to access this link"
+msgstr "Nemáte oprávnenie k prístupu na tento link"
+
+#: String 132
+msgid "Warning, Advertisement is already marked as spam"
+msgstr "Upozornenie. Inzerát je už označený ako spam"
+
+#: String 133
+msgid "Advertisement is marked as spam"
+msgstr "Inzerát je označený ako spam"
+
+#: String 134
+msgid "Advertisement is deactivated"
+msgstr "Inzerát je deaktivovaný"
+
+#: String 135
+msgid "Advertisement is active and published"
+msgstr "Inzerát je aktívny a zobrazuje sa"
+
+#: String 136
+msgid "Advertisement is featured"
+msgstr "Inzerát je zvýhodnený"
+
+#: String 137
+msgid "Themes"
+msgstr "Šablóny"
+
+#: String 138
+msgid "Theme Options"
+msgstr "Nastavenie šablóny"
+
+#: String 139
+msgid "Theme configuration updated"
+msgstr "Nastavenie šablóny je aktualizované"
+
+#: String 140
+msgid "Appearance configuration updated"
+msgstr "Nastavenie vzhľadu je aktualizované"
+
+#: String 141
+msgid "Mobile Theme updated"
+msgstr "Mobilná šablóna je aktualizovaná"
+
+#: String 142
+msgid "Change password"
+msgstr "Zmeniť heslo"
+
+#: String 143
+msgid "Password is changed"
+msgstr "Heslo je zmenené"
+
+#: String 144
+msgid "Nothing is provided"
+msgstr "Nič nie je v ponuke"
+
+#: String 145
+msgid "Edit profile"
+msgstr "Upraviť profil"
+
+#: String 146
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "Nové heslo je nesprávne alebo sa heslá nezhodujú. Prosím skúste znova."
+
+#: String 147
+msgid "You have successfuly changed your data"
+msgstr "Úspešne ste zmenili svoje údaje."
+
+#: String 148
+msgid "My Advertisement page "
+msgstr "Moje inzeráty"
+
+#: String 149
+msgid "This is not your advertisement."
+msgstr "Toto nie je Váš inzerát."
+
+#: String 150
+msgid "Edit advertisement"
+msgstr "Upraviť inzerát"
+
+#: String 151
+msgid "Advertisement is updated!"
+msgstr "Inzerát je aktualizovaný !"
+
+#: String 152
+msgid "Advertisement is updated"
+msgstr "Inzerát je aktualizovaný"
+
+#: String 153
+msgid "Newsletter"
+msgstr "Novinky"
+
+#: String 154
+msgid "Error on mail delivery, not sent"
+msgstr "Chyba odosielania mailu, neodoslaný"
+
+#: String 155
+msgid "Email sent to all the users"
+msgstr "Email bol odolaný všetkým užívateľom"
+
+#: String 156
+msgid "Mail not sent"
+msgstr "Email nebol odoslaný"
+
+#: String 157
+msgid "Market"
+msgstr "Market"
+
+#: String 158
+msgid "Tools"
+msgstr "Nástroje"
+
+#: String 159
+msgid "Optimize DB"
+msgstr "Optimalizovať DB"
+
+#: String 160
+msgid "Database Optimized"
+msgstr "Databáza optimalizovaná"
+
+#: String 161
+msgid "Cache"
+msgstr "Vyrovnávacia pamäť"
+
+#: String 162
+msgid "All cache deleted"
+msgstr "Celá vyrovnávacia pamäť vymazaná"
+
+#: String 163
+msgid "Deleted expired cache"
+msgstr "Vyrovnávacia pamäť vymazaná"
+
+#: String 164
+msgid "PHP Info"
+msgstr "PHP info"
+
+#: String 165
+msgid "System logs"
+msgstr "Systémové záznamy (logy)"
+
+#: String 166
+msgid "Sitemap"
+msgstr "Mapa stránok"
+
+#: String 167
+msgid "Sitemap Configuration updated"
+msgstr "Mapa stránok aktualizovaná"
+
+#: String 168
+msgid "Open Classifieds migration"
+msgstr "Open Classifieds migrácia"
+
+#: String 169
+msgid "Migration"
+msgstr "Migrácia"
+
+#: String 170
+msgid "Database cleaned"
+msgstr "Databáza vyčistená"
+
+#: String 171
+msgid "Review database connection parameters"
+msgstr "Prezrieť parametre pripojenia databázy"
+
+#: String 172
+msgid "seconds"
+msgstr "sekundy"
+
+#: String 173
+msgid "Translations"
+msgstr "Preklady"
+
+#: String 174
+msgid "List"
+msgstr "Zoznam"
+
+#: String 175
+msgid "Edit Translation"
+msgstr "Upraviť preklad"
+
+#: String 176
+msgid "Language saved"
+msgstr "Jazyk uložený"
+
+#: String 177
+msgid "Error"
+msgstr "Chyba"
+
+#: String 178
+msgid "Location deleted"
+msgstr "Miesto vymazané"
+
+#: String 179
+msgid "Location not deleted"
+msgstr "Miesto nebolo vymazané"
+
+#: String 180
+msgid "Category deleted"
+msgstr "Kategória vymazaná"
+
+#: String 181
+msgid "Category not deleted"
+msgstr "Kategória vymazaná"
+
+#: String 182
+msgid "Publish new advertisement"
+msgstr "Zverejniť nový inzerát"
+
+#: String 183
+msgid "New profile has been created. Welcome "
+msgstr "Bol vytvorený nový profil. Vitajte "
+
+#: String 184
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "Niečo sa pokazilo pri posielaní obrázkov, prosím skontrolujte formát"
+
+#: String 185
+msgid "Something went wrong with uploading pictures"
+msgstr "Niečo sa pokazilo pri posielaní obrázkov"
+
+#: String 186
+msgid "Advertisement is published. Congratulations!"
+msgstr "Inzerát bol zverejnený. Gratulujeme!"
+
+#: String 187
+msgid "Advertisement is created but needs to be validated first before it is published."
+msgstr "Inzerát bol vytvorený, ale pred zverejnením musí byť schválený."
+
+#: String 188
+msgid "Advertisement is posted but first you need to activate. Please check your email!"
+msgstr "Inzerát bol odoslaný, ale najprv ho musíte aktivovať. prosím skontrolujte svoj email !"
+
+#: String 189
+msgid "Advertisement is posted. Congratulations!"
+msgstr "Inzerát bol odoslaný. Gratulujeme !"
+
+#: String 190
+msgid "Captcha is not correct"
+msgstr "Kontrola "Captcha" nie je vporiadku."
+
+#: String 191
+msgid "Some errors in the form"
+msgstr "Formulár obsahuje chyby"
+
+#: String 192
+msgid "New"
+msgstr "Nový"
+
+#: String 193
+msgid "Item created"
+msgstr "Položka vytvorená"
+
+#: String 194
+msgid "Check form for errors"
+msgstr "Skontrolujte formulár, či neobsahuje chyby"
+
+#: String 195
+msgid "Update"
+msgstr "Aktualizácia"
+
+#: String 196
+msgid "Item updated"
+msgstr "Položka aktualizovaná"
+
+#: String 197
+msgid "Access not allowed"
+msgstr "Prístup nie je povolený"
+
+#: String 198
+msgid "Panel"
+msgstr "Panel"
+
+#: String 199
+msgid "Info"
+msgstr "Informácie"
+
+#: String 200
+msgid "Warning"
+msgstr "Upozornenie"
+
+#: String 201
+msgid "Success"
+msgstr "Úspech"
+
+#: String 202
+msgid "Hello, world"
+msgstr "Ahoj, svet"
+
+#: String 203
+msgid "publish new"
+msgstr "zverejniť nové"
+
+#: String 204
+msgid "search"
+msgstr "hľadať"
+
+#: String 205
+msgid "contact"
+msgstr "kontaktovať"
+
+#: String 206
+msgid "map"
+msgstr "mapa"
+
+#: String 207
+msgid "maintenance"
+msgstr "údržba"
+
+#: String 208
+msgid "Cannot connect to server"
+msgstr "Nedá sa pripojiť na server"
+
+#: String 209
+msgid "Database name"
+msgstr "Názov databázy"
+
+#: String 210
+msgid "No database name was given"
+msgstr "Nebolo zadaný názov databázy"
+
+#: String 211
+msgid "Available databases"
+msgstr "Dostupné databázy"
+
+#: String 212
+msgid "Invalid query"
+msgstr "Neplatný dotaz"
+
+#: String 213
+msgid "Installation"
+msgstr "Inštalácia"
+
+#: String 214
+msgid "Requirements"
+msgstr "Požiadavky"
+
+#: String 215
+msgid "Congratulations"
+msgstr "Gratulujeme"
+
+#: String 216
+msgid "Installation done"
+msgstr "Inštalácia vykonaná"
+
+#: String 217
+msgid "Please now erase the folder"
+msgstr "Prosím teraz vymazať priečinok"
+
+#: String 218
+msgid "Go to Your Website"
+msgstr "Prejsť na Váš web"
+
+#: String 219
+msgid "Make a donation"
+msgstr "Prispejte"
+
+#: String 220
+msgid "We really appreciate it"
+msgstr "Naozaj si to vážime"
+
+#: String 221
+msgid "Welcome to"
+msgstr "Vitajte"
+
+#: String 222
+msgid "installation"
+msgstr "inštalácia"
+
+#: String 223
+msgid "Welcome to the super easy and fast installation"
+msgstr "Vitajte v super ľahkej a rýchlej inštalácii"
+
+#: String 224
+msgid "If you need any help please check our professional services"
+msgstr "Ak potrebujete pomoc, prosím pozrite sa na naše profesionálne služby"
+
+#: String 225
+msgid "Site Configuration"
+msgstr "Konfiguráia web-sídla"
+
+#: String 226
+msgid "Site Language"
+msgstr "Jayzk stránok"
+
+#: String 227
+msgid "Site URL"
+msgstr "URL stránok"
+
+#: String 228
+msgid "Site Name"
+msgstr "Meno stránok"
+
+#: String 229
+msgid "Time Zone"
+msgstr "Časová zóna"
+
+#: String 230
+msgid "New Install"
+msgstr "Nová inštalácia"
+
+#: String 231
+msgid "Upgrade System"
+msgstr "Upgrade/aktualizácia systému"
+
+#: String 232
+msgid "Administrator email"
+msgstr "Email administrátora"
+
+#: String 233
+msgid "Admin Password"
+msgstr "Heslo administrátora"
+
+#: String 234
+msgid "Sample data"
+msgstr "Vzorové údaje"
+
+#: String 235
+msgid "Creates few sample categories to start with"
+msgstr "Vytvorí niekoľko vzorových kategórií na začiatok"
+
+#: String 236
+msgid "Hash Key"
+msgstr "Hash Key"
+
+#: String 237
+msgid "You need the Hash Key to re-install. You can find this value if you lost it at"
+msgstr "Potrebujete "Hash Key" na  re-inštalovanie. Ak ste túto hodnotu stratili, nájdete ju na "
+
+#: String 238
+msgid "Database Configuration"
+msgstr "Konfigurácia databázy"
+
+#: String 239
+msgid "Host name"
+msgstr "Host name"
+
+#: String 240
+msgid "User name"
+msgstr "Meno užívateľa"
+
+#: String 241
+msgid "Database charset"
+msgstr "Kódová stránka datatbázy"
+
+#: String 242
+msgid "Table prefix"
+msgstr "Prefix tabuliek"
+
+#: String 243
+msgid "Allows multiple installations in one database if you give each one a unique prefix"
+msgstr "Umožňuje viac inštalácií v jednej databáze, ak dáte každej z nich jedinečný prefix"
+
+#: String 244
+msgid "Only numbers, letters, and underscores"
+msgstr "Iba čísla, písmená a podčiarkovník"
+
+#: String 245
+msgid "Install"
+msgstr "Inštalácia"
+
+#: String 246
+msgid "Ocacu classifieds community registration"
+msgstr "Ocacu classifieds registrácia komunity"
+
+#: String 247
+msgid "Terms"
+msgstr "Podmienky"
+
+#: String 248
+msgid "Listing"
+msgstr "Všetky inzeráty"
+
+#: String 249
+msgid "Search"
+msgstr "Hľadanie"
+
+#: String 250
+msgid "Publish new "
+msgstr "Pridať nový inzerát"
+
+#: String 251
+msgid "Forgot password"
+msgstr "Zabudnuté heslo"
+
+#: String 252
+msgid "Register"
+msgstr "Registrovať"
+
+#: String 253
+msgid "My Advertisements"
+msgstr "Moje inzeráty"
+
+#: String 254
+msgid "Public profile"
+msgstr "Verejný profil"
+
+#: String 255
+msgid "Logout"
+msgstr "Odhlásiť"
+
+#: String 256
+msgid "Visit Site"
+msgstr "Navštívte stránky"
+
+#: String 257
+msgid "Mobile Version"
+msgstr "Mobilná verzia"
+
+#: String 258
+msgid "Actions"
+msgstr "Akcie"
+
+#: String 259
+msgid "Edit"
+msgstr "Upraviť"
+
+#: String 260
+msgid "Are you sure you want to delete?"
+msgstr "Ste si istí, že chcete zmazať ?"
+
+#: String 261
+msgid "Delete"
+msgstr "Zmazať"
+
+#: String 262
+msgid "Page"
+msgstr "Strana"
+
+#: String 263
+msgid "Publish new"
+msgstr "Zverejniť nové"
+
+#: String 264
+msgid "Thanks for using our website."
+msgstr "Ďakujeme za používanie našich webových stránok."
+
+#: String 265
+msgid "Thanks for using Open Classifieds."
+msgstr "Ďakujeme za používanie Open Classifieds."
+
+#: String 266
+msgid "Your installation version is"
+msgstr "Vaša verzia inštalácie je"
+
+#: String 267
+msgid "Check for updates"
+msgstr "Skontrolovať aktualizácie"
+
+#: String 268
+msgid "Latest News"
+msgstr "Novinky"
+
+#: String 269
+msgid "Orders"
+msgstr "Objednávky"
+
+#: String 270
+msgid "Content"
+msgstr "Obsah"
+
+#: String 271
+msgid "Newsletters"
+msgstr "Spravodajstvo"
+
+#: String 272
+msgid "Payment"
+msgstr "Platba"
+
+#: String 273
+msgid "Users"
+msgstr "Užívatelia"
+
+#: String 274
+msgid "User Roles"
+msgstr "Užívateľské roly"
+
+#: String 275
+msgid "Roles access"
+msgstr "Prístup pre užívateľské roly"
+
+#: String 276
+msgid "Optimize"
+msgstr "Optimalizovať"
+
+#: String 277
+msgid "Logs"
+msgstr "Záznamy"
+
+#: String 278
+msgid "Profile"
+msgstr "Profil"
+
+#: String 279
+msgid "Contact"
+msgstr "Kontakt"
+
+#: String 280
+msgid "Edit Advertisement"
+msgstr "Upraviť inzerát"
+
+#: String 281
+msgid "Your Advertisement can go on top again! For only "
+msgstr "Váš inzerát môže ísť znova na hor ! Len za"
+
+#: String 282
+msgid "Go Top!"
+msgstr "Dať hore !"
+
+#: String 283
+msgid "Your Advertisement can go to featured! For only "
+msgstr "Váš inzerát môže byť označený ! Len za "
+
+#: String 284
+msgid "Go Featured!"
+msgstr "Označiť !"
+
+#: String 285
+msgid "Id_User"
+msgstr "Id_User"
+
+#: String 286
+msgid "Delete?"
+msgstr "Zmazať ?"
+
+#: String 287
+msgid "Delete image"
+msgstr "Zmazať obrázok"
+
+#: String 288
+msgid "Images"
+msgstr "Obrázky"
+
+#: String 289
+msgid "Website"
+msgstr "Webstránky"
+
+#: String 290
+msgid "Incorect price, not more than 3 decimals"
+msgstr "Nesprávna cena, nesmie byť viac ako 3-ciferná"
+
+#: String 291
+msgid "Edit Profile"
+msgstr "Upraviť profil"
+
+#: String 292
+msgid "Send"
+msgstr "Poslať"
+
+#: String 293
+msgid "New password"
+msgstr "Nové heslo"
+
+#: String 294
+msgid "Repeat password"
+msgstr "Zopakujte heslo"
+
+#: String 295
+msgid "Type your password twice to change"
+msgstr "Pre zmenu zadajte heslo dvakrát"
+
+#: String 296
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: String 297
+msgid "New Advertisement"
+msgstr "Nový inzerát"
+
+#: String 298
+msgid " New"
+msgstr "Nový"
+
+#: String 299
+msgid "Date"
+msgstr "Dátum"
+
+#: String 300
+msgid "Not published"
+msgstr "Nezverejnený"
+
+#: String 301
+msgid "Spam"
+msgstr "Spam"
+
+#: String 302
+msgid "Unavailable"
+msgstr "Nedostupné"
+
+#: String 303
+msgid "Unconfirmed"
+msgstr "Nepotvrdené"
+
+#: String 304
+msgid "Activate?"
+msgstr "Aktivovať ?"
+
+#: String 305
+msgid "Activate"
+msgstr "Aktivovať"
+
+#: String 306
+msgid "Deactivate?"
+msgstr "Deaktivovavť ?"
+
+#: String 307
+msgid "Deactivate"
+msgstr "Deaktivovavť"
+
+#: String 308
+msgid "Refresh listing, go to top?"
+msgstr "Obnoviť zoznam, prejsť hore ?"
+
+#: String 309
+msgid "Go to top"
+msgstr "Ísť hore"
+
+#: String 310
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Ste si istí, že chcete obnoviť zoznam a ísť hore ?"
+
+#: String 311
+msgid "Make featured?"
+msgstr "Nastaviť označenie ?"
+
+#: String 312
+msgid "Featured"
+msgstr "Označený"
+
+#: String 313
+msgid "Are you sure you want to make it featured?"
+msgstr "Ste si istí, že chcete nastaviť označenie ?"
+
+#: String 314
+msgid "Deactivate featured?"
+msgstr "Zrušiť označenie ?"
+
+#: String 315
+msgid "Deactivate featured"
+msgstr "Zrušiť označenie"
+
+#: String 316
+msgid "Are you sure you want to deactivate featured advertisement?"
+msgstr "Ste si istí, že chcete zrušiť označený inzerát ?"
+
+#: String 317
+msgid "Statistics"
+msgstr "Štatistiky"
+
+#: String 318
+msgid "Today"
+msgstr "Dnes"
+
+#: String 319
+msgid "Yesterday"
+msgstr "Včera"
+
+#: String 320
+msgid "Last 30 days"
+msgstr "Posledných 30 dní"
+
+#: String 321
+msgid "Total"
+msgstr "Spolu"
+
+#: String 322
+msgid "Contacts"
+msgstr "Kontakty"
+
+#: String 323
+msgid "Visits"
+msgstr "Návštevy"
+
+#: String 324
+msgid "Charts"
+msgstr "Grafy"
+
+#: String 325
+msgid "From"
+msgstr "Od"
+
+#: String 326
+msgid "To"
+msgstr "Do"
+
+#: String 327
+msgid "Filter"
+msgstr "Filter"
+
+#: String 328
+msgid "Views and Contacts statistic"
+msgstr "Štatistiky kontaktov a návštev"
+
+#: String 329
+msgid "Your PHP time limit is"
+msgstr "Váš PHP časový limit je"
+
+#: String 330
+msgid "Migrate"
+msgstr "Migrovať"
+
+#: String 331
+msgid "Last time generated"
+msgstr "Posledný krát generované"
+
+#: String 332
+msgid "Generate"
+msgstr "Generovať"
+
+#: String 333
+msgid "Expire time"
+msgstr "Čas platnosti"
+
+#: String 334
+msgid "Update on publish"
+msgstr "Aktualiyovať zverejnenie"
+
+#: String 335
+msgid "Save"
+msgstr "Uložiť"
+
+#: String 336
+msgid "Optimize Database"
+msgstr "Optimalizovať databázu"
+
+#: String 337
+msgid "Database space"
+msgstr "Databázový priestor"
+
+#: String 338
+msgid "Space to optimize"
+msgstr "Miesto na optimalizáciu"
+
+#: String 339
+msgid "Table"
+msgstr "Tabuľka"
+
+#: String 340
+msgid "Rows"
+msgstr "Riadky"
+
+#: String 341
+msgid "Size"
+msgstr "Veľkosť"
+
+#: String 342
+msgid "Save size"
+msgstr "Uložiť veľkosť"
+
+#: String 343
+msgid "System Logs"
+msgstr "Systémové záznamy"
+
+#: String 344
+msgid "Reading log file"
+msgstr "Čítať súbor záznamov"
+
+#: String 345
+msgid "Log"
+msgstr "Záznam"
+
+#: String 346
+msgid "Cache configuration information"
+msgstr "Informácie o konfigurácii vyrovnávacej pamäte"
+
+#: String 347
+msgid "Delete all"
+msgstr "Zmazať všetko"
+
+#: String 348
+msgid "Delete expired"
+msgstr "Zmazať expirované"
+
+#: String 349
+msgid "Config file"
+msgstr "Konfiguračný súbor"
+
+#: String 350
+msgid "Versions"
+msgstr "Verzie"
+
+#: String 351
+msgid "Open Classifieds release history information."
+msgstr "Informácie o histórii Open Classifieds "
+
+#: String 352
+msgid "Your Hash Key for this installation is"
+msgstr "Váš "Hash Key" pre túto inštaláciu je"
+
+#: String 353
+msgid "Version"
+msgstr "Verzia"
+
+#: String 354
+msgid "Information"
+msgstr "Informácia"
+
+#: String 355
+msgid "Latest"
+msgstr "Posledné"
+
+#: String 356
+msgid "Current"
+msgstr "Momentálne"
+
+#: String 357
+msgid "Hits"
+msgstr "Zásahy "
+
+#: String 358
+msgid "Spam?"
+msgstr "Spam ?"
+
+#: String 359
+msgid "Spam Sort"
+msgstr "Zoradenie spamu"
+
+#: String 360
+msgid "Unavailable Sort"
+msgstr "Nedostupné zoradenie"
+
+#: String 361
+msgid " Unavailable"
+msgstr "Nedostupné"
+
+#: String 362
+msgid "Unconfirmed Sort"
+msgstr "Nepotvrdené zoradenie"
+
+#: String 363
+msgid " Unconfirmed"
+msgstr "Nepotvrdené"
+
+#: String 364
+msgid "Deactivate Featured"
+msgstr "Deaktivavané označenie"
+
+#: String 365
+msgid "More info"
+msgstr "Viac informácií"
+
+#: String 366
+msgid "Limited Offer!"
+msgstr "Limitovaná ponuka !"
+
+#: String 367
+msgid "Valid Until"
+msgstr "Platnosť do "
+
+#: String 368
+msgid "Buy Now"
+msgstr "Kúpte teraz"
+
+#: String 369
+msgid "Preview"
+msgstr "Náhľad"
+
+#: String 370
+msgid "Selection of nice extras for your installation."
+msgstr "Výber pekných doplnkov pre vašu inštaláciu."
+
+#: String 371
+msgid "Site Usage Statistics"
+msgstr "Štatistiky používania stránok"
+
+#: String 372
+msgid "Sales"
+msgstr "Predaj"
+
+#: String 373
+msgid "Views and Ads statistics"
+msgstr "Štatistiky inzerátov a prehľadov"
+
+#: String 374
+msgid "Sales statistics"
+msgstr "Štatistiky predaja"
+
+#: String 375
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Zmeňte poradie kategórií. Majte na pamäti, že viac ako dve úrovne vnorenia pravdepodobne nebudú zobrazené v téme (neodporúča sa)."
+
+#: String 376
+msgid "New category"
+msgstr "Nová kategória"
+
+#: String 377
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Ste si istí, že chcete zmazať ? Kategórie a inzeráty sa presunú do nadradenej kategórie."
+
+#: String 378
+msgid "Email Settings"
+msgstr "Nastavenia emailu"
+
+#: String 379
+msgid "You can send a mass email to all active users."
+msgstr "Môžete poslať hromadný email všetkým aktívnym užívateľom."
+
+#: String 380
+msgid "From Email"
+msgstr "Email odosielateľa"
+
+#: String 381
+msgid "Subject"
+msgstr "Predmet"
+
+#: String 382
+msgid "Message"
+msgstr "Správa"
+
+#: String 383
+msgid "Here you can modify any text you find in your web."
+msgstr "Tu si môžete upraviť akýkoľvek text, ktorý nájdite na Vašom webe."
+
+#: String 384
+msgid "Original Translation"
+msgstr "Pôvodný preklad"
+
+#: String 385
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Kopírovať všetko ? Uvedomte si, že to nahradí všetky Vaše texty."
+
+#: String 386
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Preložiť všetko ? Uvedomte si, že to nahradí všetky Vaše texty."
+
+#: String 387
+msgid "Translation"
+msgstr "Preklad"
+
+#: String 388
+msgid "Translations files available in the system."
+msgstr "Súbory prekladov k dispozícii v systéme."
+
+#: String 389
+msgid "Scan"
+msgstr "Skenovať"
+
+#: String 390
+msgid "New translation"
+msgstr "Nový preklad"
+
+#: String 391
+msgid "Language"
+msgstr "Jazyk"
+
+#: String 392
+msgid "Active"
+msgstr "Aktívny"
+
+#: String 393
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Tu sú uvedené špecifické hodnoty konfigurácie témy. Zmeňte vstupné polia na nové požadované hodnoty pre tému."
+
+#: String 394
+msgid "Using mobile theme"
+msgstr "Použitie mobilnej témy"
+
+#: String 395
+msgid "Disable"
+msgstr "Zablokovať"
+
+#: String 396
+msgid "Options"
+msgstr "Možnosti"
+
+#: String 397
+msgid "You can change the look and feel of your website here."
+msgstr "Tu môžete zmeniť vzhľad Vašej webovej stránky."
+
+#: String 398
+msgid "Current Theme"
+msgstr "Aktuálna téma"
+
+#: String 399
+msgid "Available Themes"
+msgstr "Dostupné témy"
+
+#: String 400
+msgid "Available Mobile Themes"
+msgstr "Dostupné mobilné témy"
+
+#: String 401
+msgid "Themes Market"
+msgstr "Ponuka tém"
+
+#: String 402
+msgid "Here you can find a selection of our premium themes."
+msgstr "Tu nájdete výber našich prémiových tém."
+
+#: String 403
+msgid "All themes include support, updates and 1 site license."
+msgstr "Všetky témy zahŕňajú podporu, aktualizácie a 1 licenciu,."
+
+#: String 404
+msgid "General Configuration"
+msgstr "Všeobecná konfigurácia"
+
+#: String 405
+msgid "General site settings."
+msgstr "Všeobecné nastavenia stránky"
+
+#: String 406
+msgid "All configurations"
+msgstr "Všetky konfigurácie"
+
+#: String 407
+msgid "Maintenance Mode"
+msgstr "Režim údržby"
+
+#: String 408
+msgid "Enables the site to maintenance"
+msgstr "Umožiť údržbu stránok"
+
+#: String 409
+msgid "Site name"
+msgstr "Názov stránok"
+
+#: String 410
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "Tu si môžete deklarovať svoje zobrazované meno. Je to viditeľné pre každého !"
+
+#: String 411
+msgid "Site description"
+msgstr "Popis stránok"
+
+#: String 412
+msgid "Base URL"
+msgstr "Základná URL"
+
+#: String 413
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "Je základná cesta vášho webu (napr. http://open-classifieds.com/). Všetko ostatné je postavené na tomto poli."
+
+#: String 414
+msgid "Base URL path"
+msgstr "Základná URL cesta"
+
+#: String 415
+msgid "Moderation controls"
+msgstr "Moderovanie kontroluje"
+
+#: String 416
+msgid "Global currency"
+msgstr "Globálna mena"
+
+#: String 417
+msgid "Global currency is country specific. There are no restrictions, this is only to declare currency for advertisements. Note: This is different from payment currencies. "
+msgstr "Globálna mena je špecifická pre danú krajinu. Neexistujú žiadne obmedzenia, je to len na deklarovanie menz pre inzeráty. Poznámka: Toto je odlišné od platobných mien."
+
+#: String 418
+msgid "Country specific currency"
+msgstr "Špecifická mena krajiny"
+
+#: String 419
+msgid "Advertisements per page"
+msgstr "Inzeráty na strane"
+
+#: String 420
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Toto kontroluje, koľko inzerátov sa zobrazuje na stránke. Vložte celočíselnú hodnotu, ako limitné číslo."
+
+#: String 421
+msgid "Number of ads per page"
+msgstr "Počet inzerátov na strane"
+
+#: String 422
+msgid "Advertisements in RSS"
+msgstr "Inzeráty v RSS"
+
+#: String 423
+msgid "Number of Ads"
+msgstr "Počet inzerátov"
+
+#: String 424
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Koľko inzerátov sa bude zobrazovať v RSS Vášho webu."
+
+#: String 425
+msgid "Advertisements in Map"
+msgstr "Inzeráty v mape"
+
+#: String 426
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Koľko inzerátov sa bude zobrazovať na mape vášho webu."
+
+#: String 427
+msgid "Number format"
+msgstr "Formát čísla"
+
+#: String 428
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Formát čísla predstavuje spôsob, ako chcete zobrazovať čísla týkajúce sa inzerátov. Konkrétnejšie cena inzerátu. Každá krajina má špecifický spôsob pracovania s desatinnými číslicami."
+
+#: String 429
+msgid "Decimal representation"
+msgstr "Reperezentácia desatinných čísel"
+
+#: String 430
+msgid "Date format"
+msgstr "Formát dátumu"
+
+#: String 431
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Každý inzerát má dátum publikovania. Výberom formátu, môžete zmeniť ako to bude zobrazené na Vašich webových stránkach."
+
+#: String 432
+msgid "Analytics"
+msgstr "Analýzy"
+
+#: String 433
+msgid "Allowed image formats"
+msgstr "Dostupné grafické formáty "
+
+#: String 434
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Toto nastavenie vymedzuje obrazové formáty, ktoré sú odoslielané na server."
+
+#: String 435
+msgid "Max image size"
+msgstr "Max veľkosť obrázka"
+
+#: String 436
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Určuje veľkosť nahrávaných obrázkov. Zadajte celočíselnú hodnotu pre nastavenie maximálnej veľkosti obrazu v mega bitoch (Mb)."
+
+#: String 437
+msgid "Image size in mega bites(Mb)"
+msgstr "Veľkosť obrázka v mega bitoch (Mb)"
+
+#: String 438
+msgid "Image height"
+msgstr "Výška obrázka"
+
+#: String 439
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Každý obrázok po nahraní zmení veľkosť. Toto je výška veľkého obrazu. Poznámka: Toto pole môžete nechať prázdne pre nastavenie výšky AUTO."
+
+#: String 440
+msgid "Image height in pixels(px)"
+msgstr "Výška obrázka v pixeloch (px)"
+
+#: String 441
+msgid "Image width"
+msgstr "Šírka obrázka"
+
+#: String 442
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Každý obrázok po nahraní zmení veľkosť. Toto je šírka veľkého obrazu"
+
+#: String 443
+msgid "Image width in pixels(px)"
+msgstr "Šírka obrázka v pixeloch (px)"
+
+#: String 444
+msgid "Thumb height"
+msgstr "Výška náhľadu"
+
+#: String 445
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "Náhľad je malý obrázok prispôsobený veľkosťou ostatným prvkom. Toto je výška toho obrázka."
+
+#: String 446
+msgid "Thumb height in pixels(px)"
+msgstr "Výška náhľadu v pixeloch (px) "
+
+#: String 447
+msgid "Thumb width"
+msgstr "Šírka náhľadu"
+
+#: String 448
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Náhľad je malý obrázok prispôsobený veľkosťou ostatným prvkom. Toto je šírka toho obrázka."
+
+#: String 449
+msgid "Thumb width in pixels(px)"
+msgstr "Šírka náhľadu v pixeloch (px) "
+
+#: String 450
+msgid "Image quality"
+msgstr "Kvalita obrázka"
+
+#: String 451
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Zvoľte kvalitu obrázka, ktorý bude uložený (1-100% originálu)"
+
+#: String 452
+msgid "Image Quality"
+msgstr "Kvalita obrázka"
+
+#: String 453
+msgid "Watermark"
+msgstr "Vodoznak"
+
+#: String 454
+msgid "Appends watermark to images"
+msgstr "Pridá vodoznak do obrázkov"
+
+#: String 455
+msgid "Watermark path"
+msgstr "Cesta k vodoznaku"
+
+#: String 456
+msgid "Watermark position"
+msgstr "Umiestnenie vodoznaku"
+
+#: String 457
+msgid "Watermark possition"
+msgstr "Umiestnenie vodoznaku"
+
+#: String 458
+msgid "Email Configuration"
+msgstr "Konfigurácia emailu"
+
+#: String 459
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Zoznam všeobecných hodnôt konfigurácie. Zmeňte vstupné polia na požadovanú hodnotu."
+
+#: String 460
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Ak potrebujete poslať veľa e-mailov s vysokou intenzitou doručovania"
+
+#: String 461
+msgid "Notify email"
+msgstr "Notifikačný email"
+
+#: String 462
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "E-mail odkiaľ zašleme e-maily, používa sa aj pre komunikáciu softvéru."
+
+#: String 463
+msgid "Email From"
+msgstr "Email Od"
+
+#: String 464
+msgid "Smtp active"
+msgstr "Smtp aktívny"
+
+#: String 465
+msgid "Smtp ssl"
+msgstr "Smtp SSL"
+
+#: String 466
+msgid "Smtp host"
+msgstr "Smtp host"
+
+#: String 467
+msgid "Smtp port"
+msgstr "Smtp port"
+
+#: String 468
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 469
+msgid "Smtp user"
+msgstr "Smtp user"
+
+#: String 470
+msgid "Smtp password"
+msgstr "Smtp password"
+
+#: String 471
+msgid "Advertisement Configuration"
+msgstr "Inzeráty - Konfigurácia"
+
+#: String 472
+msgid "Number of images"
+msgstr "Počet obrázkov"
+
+#: String 473
+msgid "Number of images displayed"
+msgstr "Počet zobrazených obrázkov"
+
+#: String 474
+msgid "Ad expiration date"
+msgstr "Pridať dátum platnosti"
+
+#: String 475
+msgid "Expire days"
+msgstr "Expire days"
+
+#: String 476
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Po koľkých dňoch vyprší platnosť inzerátu. 0 pre nikdy"
+
+#: String 477
+msgid "Days"
+msgstr "Dni"
+
+#: String 478
+msgid "Advertisements in home"
+msgstr "Inzeráty doma"
+
+#: String 479
+msgid "You can choose what ads you want to display in home."
+msgstr "Môžete si vybrať, aké inzeráty chcete zobraziť doma ."
+
+#: String 480
+msgid "Address field"
+msgstr "Adresa"
+
+#: String 481
+msgid "Displays the field Address in the Ad form."
+msgstr "Zobraziť pole Adresa vo formulári Inzerát"
+
+#: String 482
+msgid "Google Maps in Ad"
+msgstr "Google maps v inzerátoch"
+
+#: String 483
+msgid "Displays the google maps in the Ad."
+msgstr "Zobraziť Google maps v inzerátoch"
+
+#: String 484
+msgid "Phone field"
+msgstr "Telefón"
+
+#: String 485
+msgid "Displays the field Phone in the Ad form."
+msgstr "Zovbraziť pole telefón vo formulári Inzerát"
+
+#: String 486
+msgid "Website field"
+msgstr "Web stránky"
+
+#: String 487
+msgid "Displays the field Website in the Ad form."
+msgstr "Zobraziť pole Web stránky vo formulári Inzerát"
+
+#: String 488
+msgid "Displays location select"
+msgstr "Zobraziť výber miesta"
+
+#: String 489
+msgid "Displays the Select Location in the Ad form."
+msgstr "Zobraziť výber miesta vo formulári Inzerát"
+
+#: String 490
+msgid "Price field"
+msgstr "Cena"
+
+#: String 491
+msgid "Displays the field Price in the Ad form."
+msgstr "Zobraziť pole cena vo formulári Inzerát"
+
+#: String 492
+msgid "Upload file"
+msgstr "Nahrať súbor"
+
+#: String 493
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 494
+msgid "Enables Captcha"
+msgstr "Zapnúť Captcha"
+
+#: String 495
+msgid "Captcha appears in the form."
+msgstr "Zobraziť Captcha vo formulári."
+
+#: String 496
+msgid "Contact form"
+msgstr "Kontaktný formulár"
+
+#: String 497
+msgid "Enables Contact Form"
+msgstr "Zapnúť Kontaktný formulár"
+
+#: String 498
+msgid "Contact form appears int he ad."
+msgstr "Ukázať Kontaktný formulár v inzerátoch"
+
+#: String 499
+msgid "Deactivated"
+msgstr "Deaktivovaný"
+
+#: String 500
+msgid "Terms of Service"
+msgstr "Podmienky služby"
+
+#: String 501
+msgid "Disqus Comments"
+msgstr "Komentáre"
+
+#: String 502
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Musíte napísať Disqus ID pre povolenie služby."
+
+#: String 503
+msgid "Payments Configuration"
+msgstr "Konfigurácia platby."
+
+#: String 504
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Zoznam konfiguračných hodnôt platieb. Zmeňte vstupné pole na nové požadované hodnoty."
+
+#: String 505
+msgid "Paypal account"
+msgstr "Paypal účet"
+
+#: String 506
+msgid "Paypal mail address"
+msgstr "Paypal emailová adresa"
+
+#: String 507
+msgid "The paypal email address where the payments will be sent"
+msgstr "Paypal emailová adresa, kde budú zasielané platby"
+
+#: String 508
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 509
+msgid "Paypal currency"
+msgstr "Paypal mena"
+
+#: String 510
+msgid "Currency"
+msgstr "Mena"
+
+#: String 511
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Prosím, uistite sa, že používate menu, ktorú podporuje paypal."
+
+#: String 512
+msgid "Featured ads"
+msgstr "Označené inzeráty"
+
+#: String 513
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Označené inzeráty budú zvýraznené na definovaný počet dní."
+
+#: String 514
+msgid "Price for featuring the Ad"
+msgstr "Cena za označenie inzerátu"
+
+#: String 515
+msgid "Pricing"
+msgstr "Ceny"
+
+#: String 516
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "Koľko musí užívateľ zaplatiť za označenie inzerátu"
+
+#: String 517
+msgid "Days Featured"
+msgstr "Dni označenia"
+
+#: String 518
+msgid "Featured length"
+msgstr "Dĺžka označenia"
+
+#: String 519
+msgid "How many days an ad will be featured after paying."
+msgstr "Koľko dní bude inzerát označený po zaplatení."
+
+#: String 520
+msgid "Bring to top Ad"
+msgstr "Preniesť hore"
+
+#: String 521
+msgid "Brings your Ad to the top of the listing."
+msgstr "Preniesť Váš inzerát na vrchol zoznamu."
+
+#: String 522
+msgid "To top price"
+msgstr "Cena za topovanie"
+
+#: String 523
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "Koľko musí užívateľ zaplatiť za topovanie inzerátu"
+
+#: String 524
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Zmena poradia miest. Majte na pamäti, že viac ako dve úrovne vnorenia pravdepodobne nebudú zobrazené v téme (neodporúča sa)."
+
+#: String 525
+msgid "New location"
+msgstr "Nové miesto"
+
+#: String 526
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Ste si istí, že chcete zmazať ? Mestá a inzeráty sa presunú do nadradenej kategórie."
+
+#: String 527
+msgid "Create"
+msgstr "Vytvoriť"
+
+#: String 528
+msgid "Where do you want the widget displayed?"
+msgstr "Kde chcete zobraziť widget ?"
+
+#: String 529
+msgid "Close"
+msgstr "Zatvoriť"
+
+#: String 530
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Ste si istí, že chcete odstrániť widget ? Môžete ho presunúť do neaktívneho pristoru."
+
+#: String 531
+msgid "Save changes"
+msgstr "Uložiť zmeny"
+
+#: String 532
+msgid "Available widgets"
+msgstr "Dostupné widgety"
+
+#: String 533
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Počkajte prosím, kým Vás presmerujeme na Paypal"
+
+#: String 534
+msgid "Click here if you are not redirected"
+msgstr "Kliknite tu ak ste neboli presmerovaný"
+
+#: String 535
+msgid "Publish Date"
+msgstr "Dátum zverejnenia"
+
+#: String 536
+msgid "Read more"
+msgstr "Čítať viac"
+
+#: String 537
+msgid "We do not have any advertisements in this category"
+msgstr "Nemáme žiadne inzeráty v tejto kategórii"
+
+#: String 538
+msgid "Advertisement Title"
+msgstr "Názov inzerátu"
+
+#: String 539
+msgid "Send Message"
+msgstr "Poslať správu"
+
+#: String 540
+msgid "File"
+msgstr "Súbor"
+
+#: String 541
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 542
+msgid "Download"
+msgstr "Download"
+
+#: String 543
+msgid "Terms of service"
+msgstr "Podmienky služby"
+
+#: String 544
+msgid "User account will be created"
+msgstr "Užívateľský účet bude vytvorený"
+
+#: String 545
+msgid "Last Login"
+msgstr "Posledné prihlásenie"
+
+#: String 546
+msgid " advertisements"
+msgstr " inzeráty"
+
+#: String 547
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Pracujeme na našich stránkach, navštívte nás prosím neskôr. Vďaka"
+
+#: String 548
+msgid "Type your password twice"
+msgstr "Zadajte Vaše heslo dvakrát"
+
+#: String 549
+msgid "Forgot password?"
+msgstr "Zabudli ste heslo ?"
+
+#: String 550
+msgid "Remember me"
+msgstr "Pamätať si ma"
+

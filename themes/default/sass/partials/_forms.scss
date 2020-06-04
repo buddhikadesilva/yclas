@@ -1,0 +1,377 @@
+table {
+	tbody {
+		tr {
+			th, td {
+				.checkbox, .btn {
+					margin:0;
+				}
+
+				vertical-align:top !important;
+			}
+		}
+	}
+}
+
+.select2-container--default {
+    .select2-selection--single {
+        height: 34px;
+    }
+    .select2-selection--single, .select2-selection--multiple {
+        border-radius: 0;
+        border-color: rgba(0, 0, 0, 0.07);
+        .select2-selection__rendered {
+            color: #555555;
+            line-height: 34px;
+        }
+        .select2-selection__arrow {
+            height: 34px;
+        }
+    }
+}
+
+#filter_buttons .form-group, #filter_buttons select {
+	margin:5px 5px 5px 0;
+	display:inline-block;
+}
+
+.form-horizontal {
+	.control-label {
+		display:block;
+		text-align:left;
+	}
+	input[type=text] {
+		box-shadow:none;
+		padding:0 5px;
+	}
+}
+
+.sceditor-container {
+	max-width:100%;
+	iframe {
+		max-width:96%;
+	}
+}
+
+.drag-item {
+	.checkbox {
+		margin:0;
+	}
+}
+
+#map-settings {
+	overflow:visible;
+}
+
+.bootstrap-tagsinput {
+	margin:0;
+}
+
+/* Tables */
+#add-table-simple {
+	td {
+		padding-right:5px;
+	}
+	.btn-primary-outline {
+	    border-color: $brand-primary;
+	    color: $brand-primary;
+	    background: 0 0;
+	    &:hover, &:focus, &.active {
+	        border-color: $brand-primary;
+	        color: $white;
+	        background-color: $brand-primary;
+	    }
+	}
+}
+
+table.dataTable thead .sorting,
+table.dataTable thead .sorting_asc,
+table.dataTable thead .sorting_desc,
+table.dataTable thead .sorting_asc_disabled,
+table.dataTable thead .sorting_desc_disabled {
+    background: 0 0;
+}
+
+table.dataTable thead .sorting_asc:after {
+    content: "\f0de";
+    float: right;
+    font-family: 'Font Awesome 5 Free';
+}
+
+table.dataTable thead .sorting_desc:after {
+    content: "\f0dd";
+    float: right;
+    font-family: 'Font Awesome 5 Free';
+}
+
+table.dataTable thead .sorting:after {
+    content: "\f0dc";
+    float: right;
+    font-family: 'Font Awesome 5 Free';
+    color: rgba(50,50,50,.5);
+}
+
+.table-responsive {
+	width:100%;
+	font-size:$font-size-base;
+}
+
+label {
+  font-size: 13px;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+
+.form-control {
+  @include box-shadow(none);
+}
+
+// Help text
+//
+// Apply to any element you wish to create light text for placement immediately
+// below a form control. Use for general help, formatting, or instructional text.
+
+.help-block {
+	font-size: 13px;
+	color: mix($text-color, #fff, 70%);
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    margin-top: 1px 0 0;
+    line-height: normal;
+    cursor: pointer;
+    @include box-sizing(border-box);
+}
+
+input[type="radio"]:focus,
+input[type="checkbox"]:focus {
+    outline: none;
+    @include box-shadow(none);
+}
+
+/* Checkboxes and Radio buttons
+--------------------------------------------------
+*/
+
+.radio,
+.checkbox {
+    margin-bottom: 8px;
+    margin-top: 8px;
+    padding-left: 0px;
+    label{
+        display: inline-block;
+        cursor: pointer;
+        position: relative;
+        padding-left: 25px !important;
+        margin-right: 15px;
+        font-size: $font-size-base;
+        text-transform: none;
+        line-height: 20px;
+        &:before{
+            content:"";
+            display: inline-block;
+            width: 17px;
+            height: 17px;
+            margin-right: 10px;
+            position: absolute;
+            left: 0px;
+            background-color: $color-white;
+            border: 1px solid mix($text-color, #fff, 30%);
+        }
+    }
+}
+
+.radio {
+    label {
+        &:before {
+            bottom: 2.5px;
+            border-radius: 99px;
+            @include transition(border .3s 0s cubic-bezier(0.455, 0.030, 0.215, 1.330));
+        }
+    }
+    input[type=radio]:checked {
+        & + label {
+            &:before {
+                border-width: 5px;
+            }
+        }
+    }
+    input[type="radio"]:focus{
+        & + label{
+            color: mix($text-color, #000, 45%);
+            &:before{
+                background-color: mix($text-color, #fff, 16%);
+            }
+        }
+    }
+    input[type=radio] {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+    input[type=radio][disabled] {
+        & + label {
+            opacity: 0.65;
+        }
+    }
+
+}
+input[type=radio]:checked + label:before{
+    .radio.radio-success &{
+        border-color: $brand-success;
+    }
+    .radio.radio-primary &{
+        border-color: $brand-primary;
+    }
+    .radio.radio-info &{
+        border-color: $brand-info;
+    }
+    .radio.radio-warning &{
+        border-color: $brand-warning;
+    }
+    .radio.radio-danger &{
+        border-color: $brand-danger;
+    }
+}
+
+.checkbox {
+    input[type=radio][disabled] {
+        & + label {
+            &:after {
+                background-color: mix($text-color, #fff, 16%);
+            }
+        }
+    }
+    label {
+        transition: border 0.2s linear 0s, color 0.2s linear 0s;
+        white-space: nowrap;
+        &:before {
+            top: 1.4px;
+            border-radius: 3px;
+            transition: border 0.2s linear 0s, color 0.2s linear 0s;
+        }
+        &::after {
+            display: inline-block;
+            width: 16px;
+            height: 16px;
+            position: absolute;
+            left: 3.2px;
+            top: 0px;
+            font-size: 11px;
+            transition: border 0.2s linear 0s, color 0.2s linear 0s;
+        }
+        &:after {
+            border-radius: 3px;
+        }
+    }
+    input[type=checkbox] {
+        opacity: 0;
+        width: 0;
+        height: 0;
+    }
+    &.checkbox-circle {
+        label {
+            &:after {
+                border-radius: 99px;
+            }
+            &:before {
+                border-radius: 99px;
+            }
+        }
+    }
+    input[type=checkbox]:checked {
+        & + label {
+            //color: #4d5056;
+            &:before {
+                border-width: 8.5px;
+            }
+            &::after {
+                font-family: 'Font Awesome 5 Free';
+                content:"\F00C";
+                color: #fff;
+                font-weight: 800;
+            }
+        }
+    }
+    input[type="checkbox"]:focus{
+        & + label{
+            color: mix($text-color, #000, 45%);
+            &:before{
+                background-color: mix($text-color, #fff, 16%);
+            }
+        }
+    }
+    input[type=checkbox][disabled] {
+        & + label {
+            opacity: 0.65;
+            &:before {
+                background-color: #eceff3;
+            }
+        }
+    }
+    &.right {
+        label {
+            margin-right: 35px;
+            padding-left:0 !important;
+            &:before {
+                right:-35px;
+                left:auto;
+
+            }
+        }
+        input[type=checkbox]:checked {
+            & + label {
+                position: relative;
+                // margin-right: 0;
+                &::after {
+                    font-family: 'Font Awesome 5 Free';
+                    content:"\F00C";
+                    position: absolute;
+                    right: -27px;
+                    left: auto;
+                }
+            }
+        }
+    }
+}
+
+input[type=checkbox]:checked + label{
+    .checkbox.check-success &:before{
+        border-color: $brand-success;
+    }
+    .checkbox.check-primary &:before{
+        border-color: $brand-primary;
+    }
+    .checkbox.check-warning &:before{
+        border-color: $brand-warning;
+    }
+    .checkbox.check-danger &:before{
+        border-color: $brand-danger;
+    }
+    .checkbox.check-info &:before{
+        border-color: $brand-info;
+    }
+
+    .checkbox.check-success &::after,
+    .checkbox.check-primary &::after,
+    .checkbox.check-warning &::after,
+    .checkbox.check-danger &::after,
+    .checkbox.check-info &::after {
+        color: $color-white;
+    }
+}
+
+//
+.note-editor {
+    .checkbox {
+        input[type=checkbox] {
+            opacity: 1;
+            width: auto;
+            height: auto;
+        }
+        label:before {
+            border-width: 0;
+            top: 0;
+        }
+    }
+}

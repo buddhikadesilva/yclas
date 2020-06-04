@@ -1,0 +1,397 @@
+/**
+ * Custom theme styles that overwrites theme 
+ */
+
+body {
+	color: #585858;
+    background: #EAEAEA;
+}
+a {
+    color: #6A6A6A;
+}
+ 
+/** Header **/
+.site_header {
+    background-color: #483D4E;
+    border-color: #483D4E;
+}
+.navbar-inverse {
+    background-color: #483D4E;
+}
+
+.navbar-inverse .navbar-brand h1 {
+	color: #FFFFFF;
+}
+.navbar-inverse .navbar-brand:focus h1, .navbar-inverse .navbar-brand:hover h1 {
+    color: #E2E2E2;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #FFFFFF;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #E2E2E2;
+    border-bottom: 1px solid #E2E2E2;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+    color: #FFFFFF;
+    background-color: #413746;
+    border-bottom: 1px solid #413746;
+}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+background-color: #413746;
+}
+.dropdown-menu>li>a {
+    color: #707070;
+}
+
+
+
+@media (max-width: 767px) {
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {
+	border-bottom: 0px solid #4AC391;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    border-bottom: 0px solid #4AC391;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a {
+    color: #FFF;
+}
+.navbar-inverse .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-inverse .navbar-nav .open .dropdown-menu>li>a:hover {
+    color: #AAAAAA;
+}
+
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #E3E3E3;
+}
+.navbar-inverse .navbar-toggle {
+    border: 2px solid #FFF;
+}
+.navbar-inverse .navbar-toggle .icon-bar {
+    background-color: #FFF;
+}
+
+ 
+.head_tool_bar {
+background: #92BB62;
+}
+.tool_bar_search {
+    background: #E4E4E4;
+}
+.badge-success {
+    background-color: #92BB62;
+}
+
+/** Index **/
+.color-section {
+	background-color: #483D4E;
+}
+.home_grid ul.ad_squares li.c_ad_block a span.ad_price {
+    background: #92BB62;
+    color: #FFFFFF;
+}
+.panel-home-categories {
+	border: 0px;
+}
+.panel-home-categories > .panel-heading {
+    border-bottom: 1px solid #483D4E;
+    background: #483D4E;
+	padding: 10px;
+}
+.panel-home-categories > .panel-heading a {
+	color: #FFFFFF;
+}
+
+.page-header {
+    border-bottom: 2px solid #7D7D7D;
+}
+.page-header h3 {
+    font-weight: 300;
+    font-size: 26px;
+    color: #7D7D7D;
+}
+
+
+
+/** Listings **/
+.cat_loc_desc {
+    background: #F8F8F8;
+    border-left: 2px solid #7D7D7D;
+}
+
+.listing_filter {
+    border-bottom: 2px solid #7D7D7D;
+}
+
+.ad_listings ul.ad_list.list li.ad_listitem.featured_ad span.feat_marker {
+    color: #FAD154;
+}
+.ad_listings ul.ad_list.list li.ad_listitem.featured_ad .ad_inner {
+    border: 2px solid #FAD154;
+	background: #FFF;
+}
+.ad_listings ul.ad_list.list li.ad_listitem .ad_inner{
+	background: #FFF;
+}
+.ad_listings ul.ad_list.list li .ad_price a {
+    border: 2px solid #92BB62;
+}
+.ad_listings ul.ad_list.list li .ad_price a:hover {
+    background: #92BB62;
+}
+
+.ad_listings ul.ad_list.gallery li.ad_listitem span.ad_gprice {
+    background: #92BB62;
+}
+.ad_listings ul.ad_list.gallery li.ad_listitem.featured_ad .ad_inner .ad_photo a .fm {
+	color: #FAD154;
+}
+.ad_listings ul.ad_list.gallery li.ad_listitem.featured_ad .ad_inner .ad_photo img {
+    border: 2px solid #FAD154;
+}
+.ad_listings ul.ad_list.gallery li.ad_listitem.featured_ad span.ad_gprice {
+    background: #FAD154;
+}
+
+/** Sidebar **/
+.panel-sidebar > .panel-heading {
+    background: #483D4E;
+    color: #FFFFFF;
+}
+.panel-sidebar > .panel-heading h3 {
+    border-bottom: 0px solid #7D7D7D;
+    padding: 10px;
+    font-weight: normal;
+}
+
+
+/** Search **/
+a.collapse_searchform_expand {
+       background: #92BB62;
+    color: #FFF;
+}
+a.collapse_searchform_expand:hover, a.collapse_searchform_expand:focus, a.collapse_searchform_expand:active {
+        background: #92BB62;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#collapsAdvSearchForm {
+    border-bottom: 2px solid #483D4E;
+}
+
+.form-control:focus {
+    border-color: #D2D2D2;
+}
+
+/** Footer **/
+footer {
+    background: #483D4E;
+}
+.main-footer-content {
+    border-top: 1px solid #3F3544;
+}
+
+footer a{
+    color: #92BB62;	
+}
+
+
+/* Custom button - btn-base-dark */
+.btn-base-dark {
+	background: #483D4E;
+    color: #92BB62;
+    border-color: #483D4E;
+}
+.btn-base-dark:hover {
+	background: #39303E;
+    color: #92BB62;
+    border-color: #39303E;
+}
+.btn-base-dark:focus, .btn-base-dark.focus {
+	background: #39303E;
+    color: #92BB62;
+    border-color: #39303E;
+}
+.btn-base-dark:active,
+.btn-base-dark.active,
+.open > .dropdown-toggle.btn-base-dark {
+	background-image: none;
+}
+.btn-base-dark:active,
+.btn-base-dark.active,
+.open > .dropdown-toggle.btn-base-dark {
+    color: #483D4E;
+    background-color: #92BB62;
+    border-color: #92BB62;
+}
+
+.btn-base-dark:active:hover, .btn-base-dark.active:hover, .open > .dropdown-toggle.btn-base-dark:hover, .btn-base-dark:active:focus, .btn-base-dark.active:focus, .open > .dropdown-toggle.btn-base-dark:focus, .btn-base-dark:active.focus, .btn-base-dark.active.focus, .open > .dropdown-toggle.btn-base-dark.focus {
+    color: #483D4E;
+    background-color: #92BB62;
+    border-color: #92BB62;
+}
+
+.btn-base-dark .badge {
+	color: #474747;
+	background-color: #FFFFFF;
+}
+
+/** Custom Light Button **/
+
+.btn-base-light:hover {
+    color: #6C6C6C;
+}
+.btn-base-light:active, .btn-base-light.active, .open > .dropdown-toggle.btn-base-light {
+    color: #6C6C6C;
+    background-color: #F6F6F6;
+}
+.btn-base-light:active:hover, .btn-base-light.active:hover, .open > .dropdown-toggle.btn-base-light:hover, .btn-base-light:active:focus, .btn-base-light.active:focus, .open > .dropdown-toggle.btn-base-light:focus, .btn-base-light:active.focus, .btn-base-light.active.focus, .open > .dropdown-toggle.btn-base-light.focus {
+color: #6C6C6C;
+}
+.btn-base-light:focus, .btn-base-light.focus {
+	color: #6C6C6C;
+}
+
+
+/** Button **/
+.btn-success {
+    color: #fff;
+    background-color: #5cb85c;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #d9534f;
+    border-color: #d43f3a;
+}
+
+
+/** Modal **/
+.modal-header {
+    background: #483D4E;
+    border-bottom: 1px solid #483D4E;
+    color: #FFF;
+}
+.modal-foot-controls {
+    border-top: 1px solid #DFDFDF;
+}
+
+/** Ad **/
+.seller_box {
+    border: 0px;
+    background: #FFF;
+}
+
+.seller_f_block .sf_btn {
+    background: #6F5F77;
+    color: #FFF;
+}
+.seller_f_block .sf_btn:hover, .seller_f_block .sf_btn:focus, .seller_f_block .sf_btn:active {
+   background: #483D4E;
+}
+.seller_f_block .sf_btn.i_price {
+        background: #92BB62;
+}
+.seller_f_block .sf_btn.i_price:hover, .seller_f_block .sf_btn.i_price:focus, .seller_f_block .sf_btn.i_price:active {
+        background: #779A4E;
+}
+.tab-content>.tab-pane {
+    background: #FFF;
+}
+
+
+/** Featured Widget **/
+
+.featured-sidebar-box span.ad_price {
+background: #92BB62;
+    color: #FFFFFF;
+}
+
+/** User Search **/
+#users .user-block .thumb-img p.u-name {
+background: #92BB62;
+    color: #fff;
+}
+
+.slider-handle{
+    background-color: #92bb62;
+    background-image: linear-gradient(to bottom, #92bb62, #9cc171);
+}
+
+.badge {
+	font-weight: normal;
+}
+
+/** Pager **/
+
+.pagination>li>a, .pagination>li>span {
+    position: relative;
+    float: left;
+    padding: 6px 12px;
+    margin-left: -1px;
+    line-height: 1.42857143;
+    color: #E0E0E0;
+    text-decoration: none;
+    background-color: #483D4E;
+    border: 1px solid #483D4E;
+}
+
+.pagination>.disabled>a, .pagination>.disabled>a:focus, .pagination>.disabled>a:hover, .pagination>.disabled>span, .pagination>.disabled>span:focus, .pagination>.disabled>span:hover {
+color: #505050;
+    cursor: not-allowed;
+    background-color: #483D4E;
+    border-color: #483D4E;
+}
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+    z-index: 3;
+    color: #FFFFFF;
+    cursor: default;
+    background-color: #92BB62;
+    border-color: #92BB62;
+}
+.pagination>li>a:focus, .pagination>li>a:hover, .pagination>li>span:focus, .pagination>li>span:hover {
+    z-index: 2;
+color: #483D4E;
+    background-color: #92BB62;
+    border-color: #92BB62;
+    outline: none;
+}
+
+/** My Ads **/
+.my_ad_listitem {
+    border-bottom: 0px solid #BFBFBF;
+    background: #FFF;
+}
+
+hr {
+    border-top: 1px solid #BFBFBF;
+}
+
+/** Checkout **/
+.checkout_bill {
+    background: #FFF;
+}
+
+.form-captcha {
+    border: 1px solid #D2D2D2;
+    background: #D2D2D2;
+}
+
+/** FOrum **/
+.topic-row {
+    background: #FFF;
+}
+.forum-comment {
+    border-bottom: 1px dashed #909090;
+}

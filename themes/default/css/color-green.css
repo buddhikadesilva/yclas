@@ -1,0 +1,76 @@
+/**
+ * Custom theme styles that overwrites theme 
+ */
+
+a {color: #727F27;}
+a:hover {color: #535F12;}
+
+.category_box_title {background-color: #AFBD5E;}
+
+.navbar-inverse {background-color: #AFBD5E; border-color: #909F3B;}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus{background-color: #AFBD5E;}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus {color: #fff; background-color: #909F3B;}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {color: #fff;background-color: #909F3B;}
+
+.badge-success{background-color: #AFBD5E;}
+
+.featured{background: #BCCDC7;}
+
+.btn-info, .label-info {
+    background-color: #bfca7e;
+    border-color: #AFBD5E;
+}
+.btn-info:hover, .btn-info:active, .btn-info:focus {
+    background-color: #AFBD5E!important;
+    border-color: #909F3B!important;
+}
+.btn-info.active, .btn-info:active, .open > .dropdown-toggle.btn-info {
+    color: #fff;
+    background-color: #909F3B;
+    border-color: #9daa54;
+}
+
+.btn-success,
+.btn-primary{background-color: #909F3B; border-color: #717F1F;}
+.btn-success:hover,
+.btn-success:focus,
+.btn-success:active,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open > dropdown-toggle.btn-primary {background-color: #717F1F!important; border-color: #535F0C!important;}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    background-color: #909F3B;
+    border-color: #909F3B;
+}
+.pagination > li > a, .pagination > li > span {
+	color: #909F3B;
+}
+.pagination > li > a:focus, .pagination > li > a:hover, .pagination > li > span:focus, .pagination > li > span:hover {
+	color: #535F12;
+}
+
+.panel-home-categories > .panel-heading {
+    background-color: #AFBD5E;
+}
+.panel-sidebar > .panel-heading {
+    border-top: 8px #AFBD5E solid;
+}
+
+.slider-handle{
+	background-color: #AFBD5E;
+	background-image: linear-gradient(to bottom, #AFBD5E, #909F3B);
+}
+
+.text-info{color:#565f23;}
+
+/* Forums */
+.table > tbody > tr.success > td{
+    background-color: #f8f9f2;
+}
+.table > tbody > tr.success:hover > td {
+    background-color: #f2f4e5;
+}

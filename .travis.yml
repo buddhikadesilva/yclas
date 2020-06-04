@@ -1,0 +1,88 @@
+sudo: required
+dist: trusty
+language: php
+
+# list any PHP version you want to test against
+php:
+  # aliased to a recent 5.6.x version
+  - 5.6
+  # aliased to a recent 7.0 version
+  - 7.0
+  # aliased to a recent 7.1 version
+  - 7.1
+
+addons:
+  hosts:
+    - reoc.lo
+
+env:
+  - DB=mysql
+
+git:
+  submodules: false
+
+before_install:
+  - mysql -e 'CREATE DATABASE IF NOT EXISTS openclassifieds;'
+  - phpenv config-rm xdebug.ini
+
+install:
+  - git clone https://github.com/yclas/build-travis-ci build   # get required files
+
+before_script:
+  - if [ "$TRAVIS_PHP_VERSION" == "5.6" ]; then sh $TRAVIS_BUILD_DIR/build/php5-6.sh; fi
+  - if [ "$TRAVIS_PHP_VERSION" == "7.0" ]; then sh $TRAVIS_BUILD_DIR/build/php7.sh; fi
+  - if [ "$TRAVIS_PHP_VERSION" == "7.1" ]; then sh $TRAVIS_BUILD_DIR/build/php7-1.sh; fi
+
+  # configure apache virtual host
+  # $TRAVIS_BUILD_DIR contains the path of the cloned repo (username/repo)
+  - sudo cp -f $TRAVIS_BUILD_DIR/build/travis-ci-apache /etc/apache2/sites-available/reoc.lo.conf 
+  - sudo a2ensite reoc.lo.conf 
+  - sudo sed -i 's/localhost/reoc.lo/g' /etc/hosts
+  - sudo cp -r $TRAVIS_BUILD_DIR /var/www
+
+  # Enable mod_rewrite
+  - sudo a2enmod rewrite
+  - sudo service apache2 reload
+
+  # permissions
+  - sudo chown -R root:root /var/www
+  - sudo chown -R www-data:www-data /var/www/*
+  - sudo chmod -R 755 /var/www/*
+
+  - sudo chmod -R 777 /var/www/yclas/oc/tests # permissions for codeception output, it doesnt work without this.
+
+  # install
+  - sh /var/www/yclas/build/install/install-yclas.sh
+
+  # Install postfix
+  - sudo debconf-set-selections <<< "postfix postfix/mailname string reoc.lo"
+  - sudo debconf-set-selections <<< "postfix postfix/main_mailer_type string 'Internet Site'"
+  - sudo apt-get install postfix -y
+  - sudo service postfix reload
+
+  # Install codecept
+  - cd /var/www/yclas/oc
+  - if [ "$TRAVIS_PHP_VERSION" == "5.6" ]; then sudo wget https://codeception.com/php5/codecept.phar; fi
+  - if [ "$TRAVIS_PHP_VERSION" == "7.0" ]; then sudo wget https://codeception.com/codecept.phar; fi
+  - if [ "$TRAVIS_PHP_VERSION" == "7.1" ]; then sudo wget https://codeception.com/codecept.phar; fi
+  - sudo chmod -R 755 codecept.phar
+
+script: 
+  # - set -e # don't stop on failure
+  - php /var/www/yclas/oc/codecept.phar run acceptance tests/acceptance/SetUsersPasswordsCept.php
+  - sudo chmod 777 /var/www/yclas/oc/config/database.php
+  - php /var/www/yclas/oc/codecept.phar run acceptance tests/acceptance/UpdateDBCept.php
+  - sudo chmod 755 /var/www/yclas/oc/config/database.php
+  - php /var/www/yclas/oc/codecept.phar run acceptance tests/acceptance/default
+
+after_failure:
+  # - cat /var/www/yclas/oc/tests/_output/{test-filename}.fail.html
+
+  # configure notifications (email, IRC, campfire etc)
+notifications:
+  email:
+    recipients:
+      - constantinos@open-classifieds.com
+    on_success: never # default: change
+    on_failure: always # default: always
+

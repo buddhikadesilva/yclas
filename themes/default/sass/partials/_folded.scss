@@ -1,0 +1,55 @@
+.folded {
+	aside {
+	    width:75px; 
+	}
+	aside li {
+		a {
+			padding:24px 15px 24px 15px;
+		}
+		.hidden-xs, .fa, .icon {
+			display:none;
+		}
+	}
+	.sidebar-search {
+		height:65px;
+		input {
+			display:none;
+		}
+	}
+	.nav-second-level {
+		position:absolute;
+		left:76px;
+		top:0;
+		z-index:2;
+		li {
+			a {
+				padding:16px 15px;
+				width:180px;
+			}
+		}
+		li:first-child {
+			a {
+				padding-top: 15px;
+			}
+		}
+		li:last-child {
+			a {
+				padding-bottom: 15px;
+			}
+		}
+	}
+	#collapse-menu {
+		i {
+			@include transform(rotate(#{180}deg));
+			display:block;
+			margin:0 15px 0 24px;
+		}
+		span {
+			display:none;
+		}
+	} 
+	#page-wrapper {
+		margin:0 0 0 75px;
+		@include transition(all .2s ease);
+	}
+}

@@ -1,0 +1,5 @@
+user_name,user_email,title,description,date,category,location,price,address,phone,website,image_1,image_2,image_3,image_4
+admin,admin@gmail.com,some nice title here,description allows bbcode,2009-06-18 22:04:03,Jobs,Madrid,0,optional address,949494949,http://open-classifieds.com,,,,
+Jermaine Doe,user@gmail.com,another great title,description allows bbcode,2009-06-29 12:55:03,House,London,5,,419949494,,,,,
+Gary Doe,gazzasdasd@gmail.com,just random title here,description allows bbcode,2009-07-07 07:58:40,Part Time,Barcelona,300,street number,8848585,,,,,
+John Smith,john@gmail.com,title for the ad,description allows bbcode,2009-08-06 06:25:36,Jobs,Paris,2500,street number,908848585,,,,,

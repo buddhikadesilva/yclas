@@ -1,0 +1,136 @@
+header {
+	background:$sidebar-bg;
+	a {
+		color:$white-darker;
+		&:hover, &:focus {
+			color:$brand-primary;
+		}
+		padding:30px 15px;
+		display:inline-block;
+	}
+	.navbar {
+		margin:0;
+		padding:0;
+		height:50px;
+		position:relative;
+		z-index:2;	
+		background:$sidebar-bg;
+		border:0;
+		box-shadow:none;
+	}
+	.navbar-left {
+		margin-left:-15px;
+		float:left;
+	}
+	.navbar-right {
+		margin-right:-15px;
+		float:right;
+	}
+	.nav {
+		> li {
+			float:left;
+			&:last-of-type {
+				margin-right:20px;
+				.linecon, .fa {
+					margin:0 !important;
+				}
+			}
+			> a {
+				padding:15px 7px;
+				display:inline-block;
+				.linecon, .fa {
+					margin-right: 15px;
+					font-size: 18px;
+                    vertical-align: middle;
+                    line-height: 18px;
+                    height: 17px;
+                    display: inline-block;
+                    margin-top: -2px;
+				}
+                .fa {
+                }
+				.fa-angle-down {
+					margin-left:15px;
+				}
+			}
+			> a:hover, > a:focus {
+				background: transparent;
+			}
+			> a.bigger {
+				padding:15px;
+			}
+			> .profile-dropdown {
+				.profile-img {
+					margin:-7px 0 -8px 10px;
+				}
+			}
+			> .dropdown-toggle {
+				.fa {
+					margin-right:0;
+				}
+			}
+			.dropdown-profile {
+				top:57px;
+				right:2px;
+			}
+		}
+		.open {
+			.dropdown-toggle {
+				background:transparent;
+				color:$brand-primary;
+			}
+		}
+	}
+	.navbar-brand {
+		font-size:24px;
+		font-weight:700;
+		padding:0;
+		height:auto;
+		cursor:pointer;
+		color: $white-darker;
+	}
+	.help-link {
+		background:$text-color-lighter;
+		border:1px solid #eee;
+		position:absolute;
+		right:15px;
+		bottom:-30px;
+		padding:5px 15px;
+		font-weight:300;
+		z-index:1;
+		border-radius:3px;
+		&:hover, &:focus {
+			color:$brand-primary;
+			text-decoration:none;
+		}
+	}
+
+
+
+    .dropdown > .dropdown-menu {
+        margin-top: -7px;
+        @include box-shadow(0 0px 5px rgba(98,98,98,0.2));
+        border: none;
+    }
+
+    .dropdown > .dropdown-menu:before {
+        content: "";
+        border-bottom: 5px solid #fff;
+        border-right: 5px solid transparent;
+        border-left: 5px solid transparent;
+        position: absolute;
+        top: -5px;
+        right: 16px;
+        z-index: 10;
+    }
+    .dropdown > .dropdown-menu:after {
+        content: "";
+        border-bottom: 6px solid #eee;
+        border-right: 6px solid transparent;
+        border-left: 6px solid transparent;
+        position: absolute;
+        top: -6px;
+        right: 15px;
+        z-index: 9;
+    }
+}

@@ -1,0 +1,1888 @@
+#: String 1
+msgid "Base URL"
+msgstr "Ang base URL"
+
+#: String 2
+msgid "Is a base path of your site (e.g. http://open-classifieds.com/). Everything else is built based on this field."
+msgstr "basehan landas ng iyong site (e.g. http://open-classifieds.com/). Lahat ng iba pa ay binuo batay sa patlang na ito."
+
+#: String 3
+msgid "Base URL path"
+msgstr "Landas base URL"
+
+#: String 4
+msgid "Site Name"
+msgstr "Pangalan ng Site"
+
+#: String 5
+msgid "Here you can declare your display name. This is seen by everyone!"
+msgstr "sa dito, maaari mong magpahayag ng iyong display name. Ito ay nakikita ng lahat ng tao!"
+
+#: String 6
+msgid "Enables the site to maintenance"
+msgstr "Pinapagana ang site sa pagpapanatili"
+
+#: String 7
+msgid "Landing page"
+msgstr "Landing page"
+
+#: String 8
+msgid "It changes landing page of website"
+msgstr "ito ang mga pagbabago sa landing page ng website"
+
+#: String 9
+msgid "Site name"
+msgstr "pangalan ng site"
+
+#: String 10
+msgid "Moderation col-sm-4"
+msgstr "Moderation col-sm-4"
+
+#: String 11
+msgid "Advertisements per page"
+msgstr "Advertisement sa bawat pahina"
+
+#: String 12
+msgid "Advertisements in Map"
+msgstr "Advertisement sa mapa"
+
+#: String 13
+msgid "How many ads are going to appear in the map of your site."
+msgstr "Gaano karaming mga advertisement ay pagpunta sa lumitaw sa mapa ng iyong site?"
+
+#: String 14
+msgid "Money format"
+msgstr "pera format"
+
+#: String 15
+msgid "Number format is how you want to display numbers related to advertisements. More specific advertisement price. Every country have a specific way of dealing with decimal digits."
+msgstr "Ang format ng numero ay kung paano mo gustong ipakita ang mga numero na may kaugnayan sa mga advertisement. Higit pang mga tiyak na presyo advertisement. Ang bawat bansa ay may isang tiyak na paraan ng pagharap sa mga decimal digit."
+
+#: String 16
+msgid "How many ads are going to appear in the RSS of your site."
+msgstr "Gaano karaming mga advertisement ay pagpunta sa lumitaw sa RSS ng iyong site?"
+
+#: String 17
+msgid "Number of Ads"
+msgstr "bilang ng mga advertisement"
+
+#: String 18
+msgid "This is to control how many advertisements are being displayed per page. Insert an integer value, as a number limit."
+msgstr "Ito ay upang kontrolin kung gaano karaming mga advertisement ay ipinapakita sa bawat pahina. Magpasok ng isang halaga ng integer, bilang isang limitasyon sa bilang."
+
+#: String 19
+msgid "Number of ads per page"
+msgstr "bilang ng mga advertisement sa bawat pahina"
+
+#: String 20
+msgid "Advertisements in RSS"
+msgstr "Ang mga advertisement sa RSS"
+
+#: String 21
+msgid "Maintenance Mode"
+msgstr "Maintenance Mode"
+
+#: String 22
+msgid "All configurations"
+msgstr "Ang lahat ng mga configuration"
+
+#: String 23
+msgid "Scan"
+msgstr "Scan"
+
+#: String 24
+msgid "New translation"
+msgstr "bagong pagsasalin"
+
+#: String 25
+msgid "Language"
+msgstr "idyoma"
+
+#: String 26
+msgid "Active"
+msgstr "aktibo"
+
+#: String 27
+msgid "Translations files available in the system."
+msgstr "Pagsasalin sa mga file na magagamit sa sistema."
+
+#: String 28
+msgid "Translation"
+msgstr "pagsasalin"
+
+#: String 29
+msgid "Here you can modify any text you find in your web."
+msgstr "Dito maaari mong baguhin ang anumang teksto na mahanap ka sa iyong mga web."
+
+#: String 30
+msgid "Original Translation"
+msgstr "orihinal Translation"
+
+#: String 31
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Kopyahin lahat?, Magkaroon ng kamalayan na ito ay papalitan ang lahat ng iyong mga teksto."
+
+#: String 32
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Isalin lahat?, Magkaroon ng kamalayan na ito ay papalitan ang lahat ng iyong mga teksto."
+
+#: String 33
+msgid "title"
+msgstr "pamagat"
+
+#: String 34
+msgid "Locale"
+msgstr "Locale"
+
+#: String 35
+msgid "seotitle"
+msgstr "seotitle"
+
+#: String 36
+msgid "status"
+msgstr "status"
+
+#: String 37
+msgid "General Configuration"
+msgstr "Pangkalahatang Configuration"
+
+#: String 38
+msgid "General site settings."
+msgstr "Mga pangkalahatang setting ng site"
+
+#: String 44
+msgid "Decimal representation"
+msgstr "decimal pagkatawan"
+
+#: String 45
+msgid "Date format"
+msgstr "format ng petsa"
+
+#: String 47
+msgid "Deactivated"
+msgstr "Deactivated"
+
+#: String 63
+msgid "You need to write your disqus ID to enable the service."
+msgstr "Kailangan mong isulat ang iyong disqus ID upang paganahin ang serbisyo."
+
+#: String 67
+msgid "Image Quality"
+msgstr "Kalidad ng Imahe"
+
+#: String 68
+msgid "Choose the quality of the stored images (1-100% of the original)."
+msgstr "Piliin ang kalidad ng mga naka-imbak na mga imahe (1-100% ng orihinal)."
+
+#: String 69
+msgid "Control the size of images being uploaded. Enter an integer value to set maximum image size in mega bites(Mb)."
+msgstr "Kontrolin ang laki ng mga larawan ina-upload. Magpasok ng isang halaga ng integer upang itakda ang maximum na laki ng imahe sa Mega kagat (Mb)."
+
+#: String 70
+msgid "Image size in mega bites(Mb)"
+msgstr "Ang sukat ng imahe sa megabytes (Mb)"
+
+#: String 71
+msgid "Image height"
+msgstr "taas ng Imahe"
+
+#: String 72
+msgid "Each image is resized when uploaded. This is the height of big image. Note: you can leave this field blank to set AUTO height resize."
+msgstr "Ang bawat larawan ay ang sukat kapag na-upload. Ito ang taas ng malaking imahe. Tandaan: Maaari mong iwang blangko ang field na ito upang i-set Baguhin ang laki ng taas AUTO."
+
+#: String 73
+msgid "Max image size"
+msgstr "Ang pinakamataas na sukat ng imahe"
+
+#: String 74
+msgid "Set this up to restrict image formats that are being uploaded to your server."
+msgstr "Itakda ito up upang paghigpitan ang mga format ng imahe na ay ina-upload sa iyong server."
+
+#: String 75
+msgid "Each advertisement have a publish date. By selecting format, you can change how it is shown on your website."
+msgstr "Ang bawat advertisement na isang petsa publish. Sa pamamagitan ng pagpili format, maaari mong baguhin kung paano ito ipinapakita sa iyong website."
+
+#: String 78
+msgid "Allowed image formats"
+msgstr "Pinayagan mga format ng imahe"
+
+#: String 79
+msgid "Image height in pixels(px)"
+msgstr "Taas ng imahe sa pixels (px)"
+
+#: String 80
+msgid "Image width"
+msgstr "lapad ng Imahe"
+
+#: String 81
+msgid "Thumb width"
+msgstr "Thumb width"
+
+#: String 82
+msgid "Thumb is a small image resized to fit certain elements. This is width of this image."
+msgstr "Thumb is a small image resized to fit certain elements. This is width of this image."
+
+#: String 83
+msgid "Thumb width in pixels(px)"
+msgstr "Thumb width in pixels(px)"
+
+#: String 84
+msgid "Image quality"
+msgstr "kalidad ng Imahe"
+
+#: String 85
+msgid "Thumb height in pixels(px)"
+msgstr "Thumb height in pixels(px)"
+
+#: String 86
+msgid "Thumb is a small image resized to fit certain elements. This is height of this image."
+msgstr "Thumb is a small image resized to fit certain elements. This is height of this image."
+
+#: String 87
+msgid "Each image is resized when uploaded. This is the width of big image."
+msgstr "Ang bawat larawan ay ang sukat kapag na-upload. Ito ang lapad ng malaking imahe."
+
+#: String 88
+msgid "Image width in pixels(px)"
+msgstr "Lapad ng imahe sa pixels (px)"
+
+#: String 89
+msgid "Thumb height"
+msgstr "Thumb height"
+
+#: String 90
+msgid "Save size"
+msgstr "iligtas laki"
+
+#: String 91
+msgid "Size"
+msgstr "Laki"
+
+#: String 92
+msgid "Unavailable"
+msgstr "Hindi Magagamit"
+
+#: String 94
+msgid "Spam Sort"
+msgstr "spam-uri-uriin"
+
+#: String 95
+msgid "Unavailable Sort"
+msgstr "Hindi Magagamit ang uri-uriin ang"
+
+#: String 96
+msgid "Not published"
+msgstr "hindi na-publish"
+
+#: String 97
+msgid "Are you sure you want to delete?"
+msgstr "Sigurado ka bang gusto mong tanggalin ang?"
+
+#: String 98
+msgid "Valid Until"
+msgstr "Wastong Hanggang sa"
+
+#: String 99
+msgid "Preview"
+msgstr "prebista"
+
+#: String 100
+msgid "Activate?"
+msgstr "aktibahin?"
+
+#: String 101
+msgid "Activate"
+msgstr "aktibahin"
+
+#: String 102
+msgid " Unavailable"
+msgstr " Unavailable"
+
+#: String 103
+msgid "Unconfirmed Sort"
+msgstr "walang kabuluhan"
+
+#: String 104
+msgid "Delete All Spam?"
+msgstr "tanggalin ang lahat ng spam?"
+
+#: String 105
+msgid "Delete All Spam"
+msgstr "tanggalin ang lahat ng spam"
+
+#: String 106
+msgid "Are you sure you want to make it featured?"
+msgstr "Sigurado ka bang gusto mong gumawa ng itinatampok na ito?"
+
+#: String 113
+msgid "Limited Offer!"
+msgstr "Limited Offer!"
+
+#: String 114
+msgid "Selection of nice extras for your installation."
+msgstr "Pagpili ng magandang extras para sa iyong pag-install."
+
+#: String 115
+msgid "Captcha appears in the form."
+msgstr "Lumilitaw ang Captcha sa form."
+
+#: String 116
+msgid "Address field"
+msgstr "patlang address"
+
+#: String 117
+msgid "Displays the field Address in the Ad form."
+msgstr "Ipinapakita ang patlang Address sa anyo ng Ad."
+
+#: String 118
+msgid "New Custom Field"
+msgstr "bagong pasadyang patlang"
+
+#: String 119
+msgid "Enables Captcha"
+msgstr "Pinapagana ang Captcha"
+
+#: String 120
+msgid "Upload file"
+msgstr "Mag-upload ng file"
+
+#: String 121
+msgid "Displays location select"
+msgstr "Ipinapakita ang mga lokasyon na inyong pinili"
+
+#: String 122
+msgid "Displays the Select Location in the Ad form."
+msgstr "Ipinapakita ang Pumili ng Lokasyon sa anyo ng Ad."
+
+#: String 123
+msgid "Price field"
+msgstr "patlang presyo"
+
+#: String 124
+msgid "Displays the field Price in the Ad form."
+msgstr "Ipinapakita ang Presyo ng field sa form ng Ad."
+
+#: String 128
+msgid "Change the order of your locations. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Baguhin ang pagkakasunud-sunod ng iyong mga lokasyon. Isaisip na higit sa 2 mga antas ng nested marahil ay hindi ipapakita sa tema (hindi inirerekomenda)."
+
+#: String 129
+msgid "New location"
+msgstr "bagong lokasyon"
+
+#: String 130
+msgid "Are you sure you want to delete? We will move the siblings locations and ads to the parent of this location."
+msgstr "Sigurado ka bang gusto mong tanggalin ang? Susubukan naming ilipat ang mga kapatid ng mga lokasyon at mga ad sa magulang ng lokasyon na ito."
+
+#: String 135
+msgid "Date"
+msgstr "petsa"
+
+#: String 138
+msgid "Information"
+msgstr "impormasyon"
+
+#: String 139
+msgid "Latest"
+msgstr "pinakahuli"
+
+#: String 140
+msgid "Current"
+msgstr "kasalukuyan"
+
+#: String 141
+msgid "Last time generated"
+msgstr "Huling oras na nabuo"
+
+#: String 142
+msgid "Version"
+msgstr "salin"
+
+#: String 143
+msgid "Check for updates"
+msgstr "Suriin para sa mga update"
+
+#: String 144
+msgid "Versions"
+msgstr "Mga Bersyon ng"
+
+#: String 145
+msgid "Open Classifieds release history information."
+msgstr "Open Classifieds ilabas impormasyon ng kasaysayan."
+
+#: String 146
+msgid "Your installation version is"
+msgstr "Ang bersyon ng iyong pag-install ay"
+
+#: String 147
+msgid "Your Hash Key for this installation is"
+msgstr "Ang iyong Hash Key para sa pag-install na ito ay"
+
+#: String 149
+msgid "Generate"
+msgstr "lumikha"
+
+#: String 150
+msgid "Database space"
+msgstr "database espasyo"
+
+#: String 151
+msgid "Space to optimize"
+msgstr "Space upang i-optimize"
+
+#: String 152
+msgid "Table"
+msgstr "hanay"
+
+#: String 153
+msgid "Rows"
+msgstr "hilera"
+
+#: String 154
+msgid "Optimize"
+msgstr "umasa sa mabuti"
+
+#: String 155
+msgid "Optimize Database"
+msgstr "I-optimize ang Database"
+
+#: String 156
+msgid "Expire time"
+msgstr "pag-expire ng panahon"
+
+#: String 157
+msgid "Update on publish"
+msgstr "I-update sa mag-publish"
+
+#: String 158
+msgid "Save"
+msgstr "Save"
+
+#: String 159
+msgid "Migrate"
+msgstr "lumipat"
+
+#: String 160
+msgid "Table prefix"
+msgstr "unlapi Table"
+
+#: String 161
+msgid "Go to top"
+msgstr "Pumunta sa tuktok"
+
+#: String 162
+msgid "Are you sure you want to refresh listing and go to top?"
+msgstr "Sigurado ka bang gusto mong i-refresh ang listahan at pumunta sa tuktok?"
+
+#: String 163
+msgid "Actions"
+msgstr "aksyon"
+
+#: String 164
+msgid "Cache configuration information"
+msgstr "Impormasyon ng configuration Cache"
+
+#: String 165
+msgid "Refresh listing, go to top?"
+msgstr "I-refresh ang listahan, pumunta sa tuktok?"
+
+#: String 167
+msgid "Make featured?"
+msgstr "gawin featured?"
+
+#: String 168
+msgid "Deactivate featured?"
+msgstr "magbuwag featured?"
+
+#: String 169
+msgid "Deactivate Featured"
+msgstr "magbuwag Featured"
+
+#: String 170
+msgid "Delete all"
+msgstr "Tanggalin ang lahat ng"
+
+#: String 171
+msgid "Delete expired"
+msgstr "Tanggalin ang mga nag-expire"
+
+#: String 172
+msgid "Host name"
+msgstr "Ang host na pangalan"
+
+#: String 173
+msgid "User name"
+msgstr "User name"
+
+#: String 174
+msgid "Database name"
+msgstr "pangalan ng database"
+
+#: String 175
+msgid "Database charset"
+msgstr "Database charset"
+
+#: String 176
+msgid "Your PHP time limit is"
+msgstr "Ang iyong limitasyon sa oras na PHP ay"
+
+#: String 177
+msgid "Log"
+msgstr "Log"
+
+#: String 178
+msgid "Config file"
+msgstr "Config file"
+
+#: String 179
+msgid "System Logs"
+msgstr "System Logs"
+
+#: String 180
+msgid "Reading log file"
+msgstr "Reading log file"
+
+#: String 183
+msgid "To"
+msgstr "To"
+
+#: String 184
+msgid "Filter"
+msgstr "salain"
+
+#: String 185
+msgid "Views and Ads statistics"
+msgstr "Views and Advertising statistics"
+
+#: String 186
+msgid "Sales statistics"
+msgstr "istatistika ng Sales"
+
+#: String 187
+msgid "Charts"
+msgstr "talangguhit"
+
+#: String 188
+msgid "Sales"
+msgstr "pagbebenta"
+
+#: String 189
+msgid "Yesterday"
+msgstr "kahapon"
+
+#: String 190
+msgid "Last 30 days"
+msgstr "Huling 30 araw"
+
+#: String 191
+msgid "Total"
+msgstr "kabuuan"
+
+#: String 192
+msgid "Visits"
+msgstr "pagbisita"
+
+#: String 195
+msgid "Statistics"
+msgstr "istatistika"
+
+#: String 196
+msgid "Contacts"
+msgstr "koneksyon"
+
+#: String 197
+msgid "Views and Contacts statistic"
+msgstr "Views at Mga Contact sa istatistikang"
+
+#: String 200
+msgid "Type your password twice to change"
+msgstr "I-type ang iyong password nang dalawang beses sa pagbabago"
+
+#: String 201
+msgid "Thanks for using Open Classifieds."
+msgstr "Salamat para sa paggamit Open Classifieds."
+
+#: String 202
+msgid "Latest News"
+msgstr "pinakabagong Balita"
+
+#: String 203
+msgid "Edit Profile"
+msgstr "I-edit ang Profile"
+
+#: String 204
+msgid "Today"
+msgstr "ngayon"
+
+#: String 205
+msgid "Site Usage Statistics"
+msgstr "Istatistika ng Paggamit ng Site"
+
+#: String 206
+msgid "Close"
+msgstr "isara"
+
+#: String 207
+msgid "Sure you want to delete the widget? You can move it to the inactive placeholder"
+msgstr "Bang gusto mong tanggalin ang widget? Maaari mong ilipat ito sa hindi aktibo placeholder"
+
+#: String 208
+msgid "Save changes"
+msgstr "I-save ang mga pagbabago"
+
+#: String 209
+msgid "Available widgets"
+msgstr "Magagamit na mga widget"
+
+#: String 210
+msgid "Where do you want the widget displayed?"
+msgstr "Saan mo gustong maipakita ang widget?"
+
+#: String 211
+msgid "From Email"
+msgstr "mula sa Email"
+
+#: String 212
+msgid "Here are listed specific theme configuration values. Replace input fields with new desired values for the theme."
+msgstr "Dito ay nakalista tiyak na halaga ng configuration ng tema. Palitan ang input ng mga patlang ng mga bagong ninanais na halaga para sa tema."
+
+#: String 213
+msgid "Email Settings"
+msgstr "Mga Setting ng Email"
+
+#: String 214
+msgid "You can send a mass email to all active users."
+msgstr "Maaari kang magpadala ng masa e-mail sa lahat ng mga aktibong gumagamit."
+
+#: String 215
+msgid "From"
+msgstr "From"
+
+#: String 229
+msgid "Change the admin color theme"
+msgstr "Baguhin ang tema ng kulay ng admin"
+
+#: String 230
+msgid "Header tool bar gets fixed in the top"
+msgstr "Tool ng Header ng bar ay makakakuha ng naayos sa tuktok"
+
+#: String 231
+msgid "Yes"
+msgstr "oo"
+
+#: String 232
+msgid "Display breadcrumb"
+msgstr "Ipakita ang breadcrumb"
+
+#: String 233
+msgid "Change the color scheme and style of the theme"
+msgstr "Baguhin ang scheme ng kulay at istilo ng mga tema"
+
+#: String 235
+msgid "Roles access"
+msgstr "Roles access"
+
+#: String 236
+msgid "Logs"
+msgstr "Logs"
+
+#: String 239
+msgid "URL to your Logo. Recommended size 250px x 40px. Leave blank for none."
+msgstr "URL sa iyong logo. Inirerekumenda laki 250px x 40px. Iwanang blangko para sa wala."
+
+#: String 240
+msgid "Short description that appears after the site name."
+msgstr "Maikling paglalarawan na lumilitaw pagkatapos ng pangalan ng site."
+
+#: String 246
+msgid "Left side"
+msgstr "Kaliwa gilid"
+
+#: String 248
+msgid "Where you want the sidebar to appear"
+msgstr "Saan gusto mo sa sidebar upang lumitaw"
+
+#: String 249
+msgid "Right side"
+msgstr "Kanang gilid"
+
+#: String 250
+msgid "User Roles"
+msgstr "User Roles"
+
+#: String 251
+msgid "Users"
+msgstr "Ang mga gumagamit"
+
+#: String 252
+msgid "Id_User"
+msgstr "Id_gumagamit"
+
+#: String 253
+msgid "Profile"
+msgstr "Profile"
+
+#: String 254
+msgid "Delete image"
+msgstr "Tanggalin ang imahe"
+
+#: String 257
+msgid "Deactivate featured"
+msgstr "magbuwag featured"
+
+#: String 261
+msgid " New"
+msgstr " bago"
+
+#: String 264
+msgid "Visit Site"
+msgstr "pagbisita Site"
+
+#: String 265
+msgid "Orders"
+msgstr "Orders"
+
+#: String 266
+msgid "Newsletters"
+msgstr "Newsletters"
+
+#: String 267
+msgid "Payment"
+msgstr "pagbabayad"
+
+#: String 268
+msgid "Logout"
+msgstr "Logout"
+
+#: String 269
+msgid "Public profile"
+msgstr "Public profile"
+
+#: String 272
+msgid "Thanks for using our website."
+msgstr "Salamat sa paggamit ng aming website."
+
+#: String 275
+msgid "Featured length"
+msgstr "Featured length"
+
+#: String 276
+msgid "How many days an ad will be featured after paying."
+msgstr "kung gaano karaming mga araw isang advertisement ay tumatakbo pagkatapos ng pagbabayad?"
+
+#: String 277
+msgid "Days"
+msgstr "araw"
+
+#: String 278
+msgid "Bring to top Ad"
+msgstr "Bring to top Ad"
+
+#: String 279
+msgid "Days Featured"
+msgstr "Days Featured"
+
+#: String 280
+msgid "How much the user needs to pay to feature an Ad"
+msgstr "gaano karami magkano nangangailangan ng user na magbayad upang itampok ang isang Ad"
+
+#: String 281
+msgid "Featured ads"
+msgstr "Featured ads"
+
+#: String 282
+msgid "Featured ads will be highlighted for a defined number of days."
+msgstr "Itinatampok na mga ad ay naka-highlight para sa isang tinukoy na bilang ng mga araw."
+
+#: String 283
+msgid "Price for featuring the Ad"
+msgstr "Presyo para sa nagtatampok ng Ad"
+
+#: String 284
+msgid "Pricing"
+msgstr "Pagpepresyo"
+
+#: String 285
+msgid "Brings your Ad to the top of the listing."
+msgstr "Dinadala ang iyong Ad sa tuktok ng listahan."
+
+#: String 286
+msgid "To top price"
+msgstr "Upang tuktok presyo"
+
+#: String 290
+msgid "Ad expiration date"
+msgstr "Expiration date ng Ad"
+
+#: String 291
+msgid "Number of images displayed"
+msgstr "Number of images displayed"
+
+#: String 292
+msgid "Number of images"
+msgstr "Number of images"
+
+#: String 293
+msgid "How much the user needs to pay to top up an Ad"
+msgstr "gaano karami magkano nangangailangan ng user na magbayad upang itampok itaas ang isang Ad"
+
+#: String 295
+msgid "Advertisement Configuration"
+msgstr "Advertisement Configuration"
+
+#: String 296
+msgid "Please be sure you are using a currency that paypal supports."
+msgstr "Mangyaring maging sigurado na ikaw ay gumagamit ng isang pera na sumusuporta sa PayPal."
+
+#: String 297
+msgid "Currency"
+msgstr "pera"
+
+#: String 298
+msgid "Smtp active"
+msgstr "Smtp active"
+
+#: String 299
+msgid "Smtp ssl"
+msgstr "Smtp ssl"
+
+#: String 300
+msgid "Smtp host"
+msgstr "Smtp host"
+
+#: String 301
+msgid "Smtp port"
+msgstr "Smtp port"
+
+#: String 302
+msgid "Email From"
+msgstr "Email From"
+
+#: String 303
+msgid "Email from where we send the emails, also used for software communications."
+msgstr "Email from where we send the emails, also used for software communications."
+
+#: String 304
+msgid "Email Configuration"
+msgstr "Configuration ng Email"
+
+#: String 305
+msgid "List of general configuration values. Replace input fields with new desired values"
+msgstr "Listahan ng mga pangkalahatang mga halaga ng configuration. Palitan ang input ng mga patlang ng mga bagong ninanais na mga halaga"
+
+#: String 306
+msgid "If you need to send many emails with a high delivery rate check"
+msgstr "Kung kailangan mo upang magpadala ng maraming mga email gamit ang isang tseke mataas na rate ng paghahatid"
+
+#: String 307
+msgid "Notify email"
+msgstr "Notify email"
+
+#: String 308
+msgid "Smtp auth"
+msgstr "Smtp auth"
+
+#: String 309
+msgid "Smtp user"
+msgstr "Smtp user"
+
+#: String 310
+msgid "Paypal mail address"
+msgstr "Paypal mail address"
+
+#: String 311
+msgid "The paypal email address where the payments will be sent"
+msgstr "Ang PayPal email address kung saan ipapadala ang mga pagbabayad"
+
+#: String 312
+msgid "Sandbox"
+msgstr "Sandbox"
+
+#: String 313
+msgid "Paypal currency"
+msgstr "Paypal pera"
+
+#: String 314
+msgid "Paypal account"
+msgstr "Paypal account"
+
+#: String 315
+msgid "List of payment configuration values. Replace input fields with new desired values."
+msgstr "Listahan ng mga halaga ng configuration ng pagbabayad. Palitan ang input ng mga patlang ng mga bagong ninanais na mga halaga."
+
+#: String 316
+msgid "Smtp password"
+msgstr "Smtp password"
+
+#: String 318
+msgid "Payments Configuration"
+msgstr "Configuration ng Mga Pagbabayad"
+
+#: String 319
+msgid "Expire days"
+msgstr "Expire days"
+
+#: String 320
+msgid "After how many days an Ad will expire. 0 for never"
+msgstr "Pagkatapos kung gaano karaming mga araw sa isang Ad ay mawawalan ng bisa. 0 para sa kailanman"
+
+#: String 322
+msgid "You can change the look and feel of your website here."
+msgstr "Maaari mong baguhin ang hitsura at pakiramdam ng iyong website dito."
+
+#: String 323
+msgid "Current Theme"
+msgstr "Kasalukuyang Tema"
+
+#: String 324
+msgid "Using mobile theme"
+msgstr "Paggamit ng tema ng mobile"
+
+#: String 331
+msgid "Disable"
+msgstr "lumpuhin"
+
+#: String 332
+msgid "Options"
+msgstr "Options"
+
+#: String 333
+msgid "Here you can find a selection of our premium themes."
+msgstr "Here you can find a selection of our premium themes."
+
+#: String 334
+msgid "All themes include support, updates and 1 site license."
+msgstr "Ang lahat ng mga tema isama ang suporta, mga update at 1 lisensya site."
+
+#: String 337
+msgid "Themes Market"
+msgstr "Mga Tema ng Market"
+
+#: String 338
+msgid "Available Mobile Themes"
+msgstr "Magagamit na Mga Tema sa Mobile"
+
+#: String 339
+msgid "Install theme"
+msgstr "Install theme"
+
+#: String 341
+msgid "Available Themes"
+msgstr "Magagamit na Mga Tema"
+
+#: String 348
+msgid "Displays the google maps in the Ad."
+msgstr "Ipinapakita ang mga mapa ng google sa Ad."
+
+#: String 349
+msgid "Google Maps in Ad"
+msgstr "Google Maps sa Ad"
+
+#: String 355
+msgid "Terms of Service"
+msgstr "Mga Tuntunin ng Serbisyo"
+
+#: String 356
+msgid "Disqus Comments"
+msgstr "Disqus Komento"
+
+#: String 364
+msgid "Displays the field Website in the Ad form."
+msgstr "Ipinapakita ang patlang Website sa anyo ng Ad."
+
+#: String 365
+msgid "Website field"
+msgstr "patlang ng Website"
+
+#: String 367
+msgid "Page "
+msgstr "Page "
+
+#: String 371
+msgid "Latest published"
+msgstr "pinakabagong publish"
+
+#: String 372
+msgid "New profile has been created. Welcome "
+msgstr "Bagong profile ay nalikha na. maligayang pagdating"
+
+#: String 374
+msgid "Invalid Email"
+msgstr "Di-wastong Email"
+
+#: String 376
+msgid "Contact Us"
+msgstr "Makipag-ugnay sa Amin"
+
+#: String 377
+msgid "Your message has been sent"
+msgstr "Ang iyong mensahe ay naipadala na"
+
+#: String 378
+msgid "User Profile"
+msgstr "Profile ng User"
+
+#: String 381
+msgid " category"
+msgstr " kategorya"
+
+#: String 383
+msgid "You made some mistake"
+msgstr "Nagsagawa ka ng ilang mga pagkakamali"
+
+#: String 384
+msgid "Message not sent"
+msgstr "Hindi naipadala ang mensahe"
+
+#: String 386
+msgid "Check the form for errors"
+msgstr "Lagyan ng check ang form para sa mga error"
+
+#: String 387
+msgid "Some errors in the form"
+msgstr "Ang ilang mga error sa form"
+
+#: String 388
+msgid "Success"
+msgstr "tagumpay"
+
+#: String 391
+msgid "Text"
+msgstr "teksto"
+
+#: String 392
+msgid "HTML textarea"
+msgstr "HTML textarea"
+
+#: String 399
+msgid "Text title displayed"
+msgstr "Pamagat Tekstong ipinapakita"
+
+#: String 400
+msgid "HTML/text content here"
+msgstr "HTML/teksto ng nilalaman dito"
+
+#: String 401
+msgid "Hello, world"
+msgstr "Kumusta, mundo"
+
+#: String 402
+msgid "Info"
+msgstr "Info"
+
+#: String 403
+msgid "Warning"
+msgstr "babala"
+
+#: String 404
+msgid "Error"
+msgstr "pagkakamali"
+
+#: String 405
+msgid "# items to display"
+msgstr "# mga item na ipapakita"
+
+#: String 407
+msgid "Contact"
+msgstr "pagdiit"
+
+#: String 410
+msgid "Order could not be loaded"
+msgstr "Order could not be loaded"
+
+#: String 412
+msgid "You are not using latest version of OC, please update."
+msgstr "Hindi ka gumagamit ng pinakabagong bersyon ng OC, paki-update."
+
+#: String 413
+msgid "Update"
+msgstr "I-update ang"
+
+#: String 416
+msgid "Updates"
+msgstr "Updates"
+
+#: String 417
+msgid "Market"
+msgstr "merkado"
+
+#: String 422
+msgid "Themes"
+msgstr "Themes"
+
+#: String 423
+msgid "Theme Options"
+msgstr "Theme Mga Pagpipilian"
+
+#: String 427
+msgid "Widgets"
+msgstr "Widgets"
+
+#: String 430
+msgid "Theme configuration updated"
+msgstr "Na-update sa configuration ng Tema"
+
+#: String 431
+msgid "Mobile Theme updated"
+msgstr "Na-update sa Mobile Tema"
+
+#: String 432
+msgid "Appearance configuration updated"
+msgstr "Na-update sa configuration ng hitsura"
+
+#: String 435
+msgid "Wrong email or password"
+msgstr "Maling email o password"
+
+#: String 436
+msgid "Login"
+msgstr "Login"
+
+#: String 437
+msgid "Remember password"
+msgstr "tandaan ang password"
+
+#: String 438
+msgid "Email to recover password sent"
+msgstr "Email upang mabawi ang nagpadala ng password"
+
+#: String 439
+msgid "Language saved"
+msgstr "naka-save sa Wika"
+
+#: String 440
+msgid "Edit Translation"
+msgstr "I-edit ang Translation"
+
+#: String 443
+msgid "Translations"
+msgstr "pagsasalin"
+
+#: String 444
+msgid "List"
+msgstr "List"
+
+#: String 445
+msgid "User not in database"
+msgstr "User not in database"
+
+#: String 446
+msgid "User already exists"
+msgstr "User already exists"
+
+#: String 448
+msgid "Warning, something went wrong while deleting"
+msgstr "Warning, may nangyaring mali habang tinatanggal"
+
+#: String 450
+msgid "You dont have permission to access this link"
+msgstr "Hindi mo kang pahintulot upang ma-access ang link na ito"
+
+#: String 451
+msgid "Moderation"
+msgstr "Moderation"
+
+#: String 452
+msgid "Advertisements"
+msgstr "paanunsiyo"
+
+#: String 453
+msgid "Welcome!"
+msgstr "Maligayang pagdating!"
+
+#: String 454
+msgid "Passwords do not match"
+msgstr "Ang mga password ay hindi tumutugma"
+
+#: String 455
+msgid "Register new user"
+msgstr "Magparehistro bagong user"
+
+#: String 461
+msgid "Search"
+msgstr "Search"
+
+#: String 462
+msgid "Price"
+msgstr "presyo"
+
+#: String 463
+msgid "Location"
+msgstr "kinalalagyan"
+
+#: String 465
+msgid "Captcha"
+msgstr "Captcha"
+
+#: String 466
+msgid "Send Message"
+msgstr "magpadala ng Mensahe"
+
+#: String 467
+msgid "Categories"
+msgstr "Mga Kategorya"
+
+#: String 468
+msgid "Locations"
+msgstr "kinalalagyan"
+
+#: String 470
+msgid "Map height in pixels"
+msgstr "Map height in pixels"
+
+#: String 472
+msgid "Display categories"
+msgstr "mga kategorya ng Display"
+
+#: String 473
+msgid "Categories title displayed"
+msgstr "Mga Kategorya pamagat ipinapakita"
+
+#: String 474
+msgid "Map title displayed"
+msgstr "Pamagat Map ipinapakita"
+
+#: String 475
+msgid "Google Maps with ads"
+msgstr "Google Maps na may mga ad"
+
+#: String 478
+msgid "Map"
+msgstr "mapa"
+
+#: String 479
+msgid "Message"
+msgstr "mensahe"
+
+#: String 480
+msgid "Subject"
+msgstr "paksa"
+
+#: String 481
+msgid "contact"
+msgstr "contact"
+
+#: String 482
+msgid "map"
+msgstr "mapa"
+
+#: String 483
+msgid "maintenance"
+msgstr "pagpapanatili"
+
+#: String 484
+msgid "First"
+msgstr "muna"
+
+#: String 485
+msgid "search"
+msgstr "search"
+
+#: String 486
+msgid "publish new"
+msgstr "publish ng mga bagong"
+
+#: String 487
+msgid "Application Execution"
+msgstr "Application Execution"
+
+#: String 488
+msgid "Environment"
+msgstr "kapaligiran"
+
+#: String 489
+msgid "Included files"
+msgstr "Included files"
+
+#: String 490
+msgid "Loaded extensions"
+msgstr "Na-load na extension"
+
+#: String 491
+msgid "Previous"
+msgstr "dati"
+
+#: String 492
+msgid "Next"
+msgstr "susunod"
+
+#: String 494
+msgid "Home"
+msgstr "Home"
+
+#: String 495
+msgid "Name"
+msgstr "pangalan"
+
+#: String 496
+msgid "Email"
+msgstr "Email"
+
+#: String 499
+msgid "Last"
+msgstr "katapusan"
+
+#: String 500
+msgid "Submit"
+msgstr "sumailalim"
+
+#: String 501
+msgid "Other"
+msgstr "iba"
+
+#: String 502
+msgid "Display Locations"
+msgstr "Mga Lokasyon ng Display"
+
+#: String 503
+msgid "Locations title displayed"
+msgstr "Mga Lokasyon pamagat ipinapakita"
+
+#: String 504
+msgid "RSS title displayed"
+msgstr "Pamagat RSS ipinapakita"
+
+#: String 505
+msgid "Ads"
+msgstr "Ads"
+
+#: String 506
+msgid "Ads reader"
+msgstr "Ads reader"
+
+#: String 507
+msgid "Type ads to display"
+msgstr "Type ads to display"
+
+#: String 508
+msgid "RSS url address"
+msgstr "RSS url address"
+
+#: String 509
+msgid "How often we refresh the RSS, in seconds"
+msgstr "Gaano kadalas namin i-refresh ang RSS, sa mga segundo"
+
+#: String 511
+msgid "RSS"
+msgstr "RSS"
+
+#: String 512
+msgid "RSS reader with cache"
+msgstr "RSS reader sa cache"
+
+#: String 513
+msgid "Number items to display"
+msgstr "Bilang ng mga item na ipapakita"
+
+#: String 514
+msgid "Latest Ads"
+msgstr "pinakabagong Ads"
+
+#: String 515
+msgid "Popular Ads last month"
+msgstr "Mga Sikat na Ads nakaraang buwan"
+
+#: String 516
+msgid "Featured"
+msgstr "itinatampok"
+
+#: String 522
+msgid "Featured Ads"
+msgstr "Itinatampok na Mga Ad"
+
+#: String 523
+msgid "Number of ads to display"
+msgstr "Bilang ng mga ad upang ipakita"
+
+#: String 524
+msgid "Ads title displayed"
+msgstr "Pamagat Ads ipinapakita"
+
+#: String 529
+msgid "Advanced Search"
+msgstr "Advanced na Paghahanap"
+
+#: String 530
+msgid "Title displayed"
+msgstr "pamagat ipinapakita"
+
+#: String 538
+msgid "Number of comments to display"
+msgstr "Bilang ng mga komento upang ipakita ang"
+
+#: String 539
+msgid "Pages"
+msgstr "Pages"
+
+#: String 540
+msgid "Display CMS pages"
+msgstr "Ipakita ang mga pahina ng CMS"
+
+#: String 541
+msgid "Page title displayed"
+msgstr "Pamagat ng pahina na ipinapakita"
+
+#: String 542
+msgid "Comments"
+msgstr "mga komento"
+
+#: String 543
+msgid "Add latest comments"
+msgstr "Magdagdag ng pinakabagong mga komento"
+
+#: String 544
+msgid "Stats"
+msgstr "Stats"
+
+#: String 547
+msgid "Widget parameter missing"
+msgstr "Nawawala ang parameter ng ​​Widget"
+
+#: String 548
+msgid "Saved"
+msgstr "Nai-save na"
+
+#: String 550
+msgid "Hits"
+msgstr "Hits"
+
+#: String 551
+msgid "Buy Now"
+msgstr "bumili na Ngayon"
+
+#: String 555
+msgid "Delete?"
+msgstr "alisin?"
+
+#: String 556
+msgid "Delete"
+msgstr "alisin"
+
+#: String 557
+msgid "We are working on our site, please visit later. Thanks"
+msgstr "Nagsusumikap kami sa aming site, mangyaring bisitahin mamaya. salamat"
+
+#: String 559
+msgid "Slideshow"
+msgstr "Slideshow"
+
+#: String 560
+msgid "Download"
+msgstr "I-download ang"
+
+#: String 561
+msgid "Images"
+msgstr "Mga Larawan"
+
+#: String 562
+msgid "Website"
+msgstr "Website"
+
+#: String 563
+msgid "Terms of service"
+msgstr "Mga tuntunin ng serbisyo"
+
+#: String 564
+msgid "Publish new"
+msgstr "I-publish ang bagong"
+
+#: String 568
+msgid "Read more"
+msgstr "Magbasa nang higit pa"
+
+#: String 570
+msgid "Spam"
+msgstr "Spam"
+
+#: String 571
+msgid "Spam?"
+msgstr "Spam?"
+
+#: String 572
+msgid "Password"
+msgstr "Password"
+
+#: String 573
+msgid "Role"
+msgstr "Role"
+
+#: String 574
+msgid "Last modified"
+msgstr "Huling binago"
+
+#: String 575
+msgid "Last login"
+msgstr "Huling pag-login"
+
+#: String 576
+msgid "Something went wrong with uploading pictures, please check format"
+msgstr "May nangyaring mali sa pag-upload ng mga larawan, mangyaring suriin ang format"
+
+#: String 577
+msgid "Has images"
+msgstr "May mga imahe"
+
+#: String 578
+msgid "Ip address"
+msgstr "Ip address"
+
+#: String 579
+msgid "Created"
+msgstr "Created"
+
+#: String 580
+msgid "Published"
+msgstr "Published"
+
+#: String 581
+msgid "Status"
+msgstr "Status"
+
+#: String 582
+msgid "Id"
+msgstr "Id"
+
+#: String 583
+msgid "Order"
+msgstr "Order"
+
+#: String 585
+msgid "Publish Date"
+msgstr "Petsa-publish"
+
+#: String 586
+msgid "Deactivate?"
+msgstr "magbuwag?"
+
+#: String 587
+msgid "Deactivate"
+msgstr "magbuwag"
+
+#: String 588
+msgid "Last Login"
+msgstr "Huling Pag-login"
+
+#: String 590
+msgid "Parent"
+msgstr "magulang"
+
+#: String 591
+msgid "Parent deep"
+msgstr "Parent deep"
+
+#: String 592
+msgid "Seoname"
+msgstr "Seoname"
+
+#: String 593
+msgid "User account will be created"
+msgstr "Ang account ng gumagamit ay lilikhain"
+
+#: String 596
+msgid "Cancel"
+msgstr "kumaltas"
+
+#: String 609
+msgid "Phone field"
+msgstr "patlang ng Telepono"
+
+#: String 610
+msgid "Displays the field Phone in the Ad form."
+msgstr "Ipinapakita ang patlang Telepono sa anyo ng Ad."
+
+#: String 616
+msgid "Are you sure you want to delete? We will move the siblings categories and ads to the parent of this category."
+msgstr "Sigurado ka bang gusto mong tanggalin ang? Susubukan naming ilipat ang mga kategorya ng kapatid at mga ad sa magulang ng kategoryang ito."
+
+#: String 617
+msgid "New category"
+msgstr "bagong kategorya"
+
+#: String 618
+msgid "Register"
+msgstr "magparehistro"
+
+#: String 619
+msgid "Send"
+msgstr "magpadala"
+
+#: String 620
+msgid "Forgot password?"
+msgstr "Nakalimutan ang password?"
+
+#: String 621
+msgid "Remember me"
+msgstr "Tandaan ako"
+
+#: String 622
+msgid "Type your password twice"
+msgstr "I-type ang iyong password nang dalawang beses"
+
+#: String 623
+msgid "Repeat password"
+msgstr "Repeat password"
+
+#: String 626
+msgid "New password"
+msgstr "bagong password"
+
+#: String 628
+msgid "Please wait while we transfer you to Paypal"
+msgstr "Mangyaring maghintay habang ilipat kami sa iyo upang Paypal"
+
+#: String 630
+msgid "Mobile Version"
+msgstr "Bersyon ng Mobile"
+
+#: String 632
+msgid "Change the order of your categories. Keep in mind that more than 2 levels nested probably won´t be displayed in the theme (it is not recommended)."
+msgstr "Baguhin ang pagkakasunud-sunod ng iyong mga kategorya. Isaisip na higit sa 2 mga antas ng nested marahil ay hindi ipapakita sa tema (hindi inirerekomenda)."
+
+#: String 633
+msgid "No"
+msgstr "No"
+
+#: String 634
+msgid "Forgot password"
+msgstr "Nakalimutan ang password"
+
+#: String 635
+msgid "Click here if you are not redirected"
+msgstr "Mag-click dito kung hindi ka-redirect"
+
+#: String 636
+msgid "Listing"
+msgstr "Listahan"
+
+#: String 637
+msgid "Publish new "
+msgstr "I-publish ang bagong"
+
+#: String 638
+msgid "Phone"
+msgstr "telepono"
+
+#: String 639
+msgid "Address"
+msgstr "tirahan"
+
+#: String 640
+msgid "General"
+msgstr "pangkalahatan"
+
+#: String 641
+msgid "General Configuration updated"
+msgstr "Pangkalahatang Configuration updated"
+
+#: String 642
+msgid "Payments"
+msgstr "pagbabayad"
+
+#: String 643
+msgid "Tools"
+msgstr "Tools"
+
+#: String 644
+msgid "Email Configuration updated"
+msgstr "Configuration ng Email na-update"
+
+#: String 649
+msgid "Settings"
+msgstr "Settings"
+
+#: String 650
+msgid "Optimize DB"
+msgstr "Optimize DB"
+
+#: String 651
+msgid "Database Optimized"
+msgstr "Database Optimized"
+
+#: String 652
+msgid "Sitemap"
+msgstr "Sitemap"
+
+#: String 653
+msgid "Sitemap Configuration updated"
+msgstr "Sitemap Configuration updated"
+
+#: String 654
+msgid "Open Classifieds migration"
+msgstr "Open Classifieds pandarayuhan"
+
+#: String 655
+msgid "Migration"
+msgstr "pandarayuhan"
+
+#: String 656
+msgid "System logs"
+msgstr "mga log ng system"
+
+#: String 657
+msgid "PHP Info"
+msgstr "PHP Impormasyon"
+
+#: String 658
+msgid "Cache"
+msgstr "Cache"
+
+#: String 659
+msgid "All cache deleted"
+msgstr "Lahat ng cache tinanggal"
+
+#: String 660
+msgid "Deleted expired cache"
+msgstr "Tinanggal na nag-expire na ang cache"
+
+#: String 661
+msgid "Menu"
+msgstr "Menu"
+
+#: String 667
+msgid "Edit"
+msgstr "I-edit"
+
+#: String 669
+msgid "Page"
+msgstr "Page"
+
+#: String 672
+msgid "Create"
+msgstr "lumikha"
+
+#: String 673
+msgid "Welcome"
+msgstr "maligayang pagdating"
+
+#: String 674
+msgid "Category deleted"
+msgstr "tinanggal ang kategorya"
+
+#: String 677
+msgid "New"
+msgstr "Bago"
+
+#: String 679
+msgid "Mail not sent"
+msgstr "Hindi naipadala mail"
+
+#: String 680
+msgid "Email sent to all the users"
+msgstr "Ipinadala ang e-mail sa lahat ng mga gumagamit"
+
+#: String 681
+msgid "Category not deleted"
+msgstr "Category not deleted"
+
+#: String 682
+msgid "Newsletter"
+msgstr "pahayagang palihan"
+
+#: String 683
+msgid "Error on mail delivery, not sent"
+msgstr "Error sa paghahatid ng mail, hindi nagpadala ng"
+
+#: String 684
+msgid "Database cleaned"
+msgstr "nalinis database"
+
+#: String 685
+msgid "Review database connection parameters"
+msgstr "Suriin ang database ng mga parameter ng koneksyon"
+
+#: String 686
+msgid "You are in maintenance mode, only you can see the website"
+msgstr "Ikaw ay nasa mode na pagpapanatili, ikaw lang ang makakakita sa website"
+
+#: String 687
+msgid "No sitemap generated"
+msgstr "Walang binuo sitemap"
+
+#: String 688
+msgid "Panel"
+msgstr "Panel"
+
+#: String 689
+msgid "Item created"
+msgstr "item nilikha"
+
+#: String 695
+msgid "Captcha is not correct"
+msgstr "Captcha ay hindi tama"
+
+#: String 698
+msgid "Type"
+msgstr "uri"
+
+#: String 699
+msgid "Title"
+msgstr "pamagat"
+
+#: String 700
+msgid "SEO title"
+msgstr "SEO pamagat"
+
+#: String 701
+msgid "Description"
+msgstr "paglalarawan"
+
+#: String 702
+msgid "Category"
+msgstr "kategorya"
+
+#: String 703
+msgid "User"
+msgstr "User"
+
+#: String 704
+msgid "Check form for errors"
+msgstr "Suriin ang form na ito para sa mga error"
+
+#: String 705
+msgid "Item updated"
+msgstr "Item updated"
+
+#: String 706
+msgid "Access not allowed"
+msgstr "Hindi pinapayagan ang Access"
+
+#: String 709
+msgid "Nothing is provided"
+msgstr "Walang bagay ay ibinigay"
+
+#: String 712
+msgid "Edit profile"
+msgstr "I-edit ang profile"
+
+#: String 713
+msgid "Password is changed"
+msgstr "Password ay nagbago"
+
+#: String 714
+msgid "Change password"
+msgstr "baguhin ang password"
+
+#: String 715
+msgid "seconds"
+msgstr "seconds"
+
+#: String 718
+msgid "New password is invalid, or they do not match! Please try again."
+msgstr "Bagong password ay hindi wasto, o hindi sila tumutugma! Mangyaring subukan muli."
+
+#: String 719
+msgid "You have successfuly changed your data"
+msgstr "Matagumpay Binago mo ang iyong data"
+
+#: String 721
+msgid "Location deleted"
+msgstr "tinanggal lokasyon"
+
+#: String 722
+msgid "Location not deleted"
+msgstr "Hindi tinanggal ng Lokasyon"
+
+#: String 729
+msgid "Benchmark"
+msgstr "Benchmark"
+

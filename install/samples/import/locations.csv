@@ -1,0 +1,3 @@
+name,location_parent,latitude,longitude,order
+Location 1,,,,1
+Location 2,Location 1,,,2

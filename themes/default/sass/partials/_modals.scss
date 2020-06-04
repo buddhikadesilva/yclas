@@ -1,0 +1,11 @@
+//
+// Modals
+// --------------------------------------------------
+
+// Scale up the modal
+@media (min-width: $screen-sm-min) {
+  // Automatically set modal's width for larger viewports
+  .modal-dialog {
+    margin: 100px auto;
+  }
+}

@@ -1,0 +1,9 @@
+files:
+  - source: '/languages/messages.po'
+    translation: '/languages/%locale_with_underscore%/LC_MESSAGES/%original_file_name%'
+    languages_mapping:
+      locale_with_underscore:
+        # crowdin_language_code: local_name
+        ar: ar
+        tr: tr
+        uk: uk_AU
